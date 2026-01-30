@@ -1,10 +1,10 @@
-import { extendDeploymentConfig, loadEncryptedConfig } from "scripts";
+import { generateDeploymentConfig,loadEncryptedConfig } from "scripts";
 
-const config = extendDeploymentConfig({ name: "plh_kids_teens_my", parent: "plh_kids" });
+const config = generateDeploymentConfig("plh_kids_teens_my");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.0.3",
+  content_tag_latest: "1.0.4",
 };
 
 config.google_drive.sheets_folders = [
@@ -47,6 +47,7 @@ config.auth = {
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
 
+config.web.favicon_asset = "images/logos/favicon.png";
 
 config.api.db_name = "plh_kids_teens_my";
 config.app_data.output_path = "./app_data";
