@@ -1,0 +1,92 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "ipv_sharing_articles",
+  "data_list_name": "ipv_sharing_articles",
+  "status": "released",
+  "flow_subtype": "modules_ipv_sharing",
+  "module": "ipv_sharing",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Let’s learn about sharing family responsibilities between you and your spouse today. 👋",
+      "text_2::eng": "Sharing family responsibilities can help make life less stressful and improve your relationship! 💚"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Taking care of the home is important, and sharing family responsibilities is too. Let’s consider a question on this.",
+      "quiz_1_question::eng": "True or False: Sharing family responsibilities is not important as long as the housework gets done.",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "❌ Incorrect. \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "🎉 You are right! \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
+      "quiz_2_option_1_text::eng": "True",
+      "quiz_2_option_2_text::eng": "False"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "In this comic, @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name are setting a great example for their granddaughter by sharing a task:",
+      "image_asset": "images/yc_modules/ipv_sharing_1.svg",
+      "character_1_id": "f2_daughter_8",
+      "character_1_text::eng": "Paati, your curry is so tasty today!",
+      "character_2_id": "f2_grandmother",
+      "character_2_text::eng": "Thank you, my love. I’m glad you liked it. "
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/ipv_sharing_2.svg",
+      "character_1_id": "f2_grandfather",
+      "character_1_text::eng": "Yes, @data.characters.f2_daughter_8.name. Paati’s curry is so yummy today.",
+      "character_2_id": "f2_grandmother",
+      "character_2_text::eng": "Thank you. It’s actually quite tiring to cook and clean everyday, so it’s nice to hear that my effort is worth it!"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/ipv_sharing_3.svg",
+      "character_1_id": "f2_grandfather",
+      "character_1_text::eng": "I understand. Can I help in cleaning after every meal?",
+      "character_2_id": "f2_grandmother",
+      "character_2_text::eng": "That would be very helpful. Thank you, @data.characters.f2_grandfather.name. It feels less stressful when we share the workload.",
+      "character_3_id": "f2_daughter_8",
+      "character_3_text::eng": "Let me help with the cleaning too!"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "CREATE A ROUTINE",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "⏰ It can be easy to forget or feel overwhelmed by caregiving or housework tasks. Establishing a routine around these can help!\n😃 It also gives you a chance to talk to your spouse about how to share the workload.",
+      "section_2_title::eng": " TALK ABOUT THE WORKLOAD WITH YOUR SPOUSE",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "😃 Having conversations about how you can share family responsibilities helps both you and your spouse understand each other better. \n💛It also shows that you care!",
+      "section_3_title::eng": "ASK FOR HELP",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "😒 It can be hard to remember to ask for help. \n🌷 Be kind to yourself if you forget! You can try again another time. \n⭐ Asking for help and sharing responsibilities creates a more supportive home for everyone!"
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "That’s great! Sharing the workload benefits the whole family and creates a supportive home for everyone! 🎉",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "That’s okay. Trying something new can be hard! 💚 \n\nYou can start by discussing something small - like who helps your child with homework, or who does the dishes after dinner. Soon you’ll feel more confident doing it on your own! ⭐"
+    }
+  ]
+}

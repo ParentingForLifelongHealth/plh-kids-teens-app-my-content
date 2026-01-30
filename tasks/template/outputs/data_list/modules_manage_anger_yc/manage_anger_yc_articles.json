@@ -1,0 +1,202 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "manage_anger_yc_articles",
+  "data_list_name": "manage_anger_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_manage_anger_yc",
+  "module": "manage_anger_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s skill is about how you can keep control and manage your anger when dealing with stressful moments. 💚",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today’s skill is about how you can keep control and manage your anger when dealing with stressful moments. 💚"
+        },
+        "text_2": {
+          "eng": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe."
+        }
+      },
+      "text_2": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe."
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Here’s a question to help you think about managing these feelings with your child.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here’s a question to help you think about managing these feelings with your child."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: When I am angry at my child, I should show that I am angry so that they stop misbehaving."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n💛 Misbehaviour can be difficult, but try to manage your own stress and control your own anger before doing anything. \n\n🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.\n\n➡️ You can also redirect or ignore negative behaviour without ignoring your child when they are making you angry."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 That’s correct! \n\n💛 Misbehaviour can be difficult, but try to manage your own stress and control your own anger before doing anything. \n\n🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.\n\n➡️ You can also redirect or ignore negative behaviour without ignoring your child when they are making you angry."
+        }
+      },
+      "quiz_1_question": "True or False: When I am angry at my child, I should show that I am angry so that they stop misbehaving.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💛 Misbehaviour can be difficult, but try to manage your own stress and control your own anger before doing anything. \n\n🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.\n\n➡️ You can also redirect or ignore negative behaviour without ignoring your child when they are making you angry.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉 That’s correct! \n\n💛 Misbehaviour can be difficult, but try to manage your own stress and control your own anger before doing anything. \n\n🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.\n\n➡️ You can also redirect or ignore negative behaviour without ignoring your child when they are making you angry."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/managing_anger_yc_1.svg",
+      "character_1_id": "f1_son_5",
+      "character_2_id": "f1_daughter_6",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f1_mother.name has her hands full and having two of her children fighting over a phone isn’t helping. Let’s see how she’s managing her anger:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f1_mother.name has her hands full and having two of her children fighting over a phone isn’t helping. Let’s see how she’s managing her anger:"
+        },
+        "character_1_text": {
+          "eng": "Give it to me!"
+        },
+        "character_2_text": {
+          "eng": "I had it first!"
+        }
+      },
+      "character_1_text": "Give it to me!",
+      "character_2_text": "I had it first!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/managing_anger_yc_2.svg",
+      "character_1_id": "f1_mother",
+      "nested": false,
+      "character_1_text": "(Thinking): Take a deep breath…",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "(Thinking): Take a deep breath…"
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/managing_anger_yc_3.svg",
+      "character_1_id": "f1_mother",
+      "nested": false,
+      "character_1_text": "@data.characters.f1_son_5.name and @data.characters.f1_daughter_6.name, come and help me prepare dinner. We are making your favourite dish!",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f1_son_5.name and @data.characters.f1_daughter_6.name, come and help me prepare dinner. We are making your favourite dish!"
+        }
+      }
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/managing_anger_yc_4.svg",
+      "character_1_id": "f1_mother",
+      "nested": false,
+      "character_1_text": "Thank you for helping me get these veggies clean for our dinner tonight!",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you for helping me get these veggies clean for our dinner tonight!"
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way."
+        }
+      }
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "nested": false,
+      "section_1_title": "TAKE A PAUSE",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "TAKE A PAUSE"
+        },
+        "section_1_text": {
+          "eng": "🌷 Breathe in and out slowly 5 times before speaking or acting. \n☀️ Step away for 10 minutes to regain control of your emotions. A safe outdoor space is a good option!"
+        },
+        "section_2_title": {
+          "eng": "ADDRESS THE SOURCE"
+        },
+        "section_2_text": {
+          "eng": "🧸 Sometimes anger might come from something else - like being tired, hungry or stressed. \n🌿 Make sure you get enough rest, eat when you are hungry, and find ways to manage stress before it builds up.\n💚 Ask someone for support when you are feeling alone."
+        },
+        "section_3_title": {
+          "eng": "LOOK AFTER YOURSELF"
+        },
+        "section_3_text": {
+          "eng": "☕ Stay connected - talk to friends, family, or other support networks everyday. 💙\n❗ Lock away or remove anything dangerous that can be used to hurt others from your home.\n🚗 It’s OK to have your children stay somewhere safe while you recover."
+        }
+      },
+      "section_1_text": "🌷 Breathe in and out slowly 5 times before speaking or acting. \n☀️ Step away for 10 minutes to regain control of your emotions. A safe outdoor space is a good option!",
+      "section_2_title": "ADDRESS THE SOURCE",
+      "section_2_text": "🧸 Sometimes anger might come from something else - like being tired, hungry or stressed. \n🌿 Make sure you get enough rest, eat when you are hungry, and find ways to manage stress before it builds up.\n💚 Ask someone for support when you are feeling alone.",
+      "section_3_title": "LOOK AFTER YOURSELF",
+      "section_3_text": "☕ Stay connected - talk to friends, family, or other support networks everyday. 💙\n❗ Lock away or remove anything dangerous that can be used to hurt others from your home.\n🚗 It’s OK to have your children stay somewhere safe while you recover."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "Here’s a home activity! ⭐ If you start feeling angry today, breathe in and out slowly 5 times before you do anything and notice how you feel. Can you do this today? ⏰",
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Here’s a home activity! ⭐ If you start feeling angry today, breathe in and out slowly 5 times before you do anything and notice how you feel. Can you do this today? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! 💙 Be proud of yourself when you manage to control your anger!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! If you don't have time today, practise controlling any anger you feel tomorrow. You can practise this skill any time you start feeling angry. You are a super parent! 😃"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! 💙 Be proud of yourself when you manage to control your anger!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! If you don't have time today, practise controlling any anger you feel tomorrow. You can practise this skill any time you start feeling angry. You are a super parent! 😃"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

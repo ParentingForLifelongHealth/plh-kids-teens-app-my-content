@@ -1,0 +1,31 @@
+{
+  "flow_type": "generator",
+  "flow_name": "ignore_demand_yc_article_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "ignore_demand_yc_articles",
+    "output_flow_name": "article_ignore_demand_yc_@gen.id",
+    "output_flow_type": "template"
+  },
+  "module_id": "ignore_demand_yc",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "article",
+      "value": "article",
+      "action_list": "completed | emit: completed; uncompleted | emit: uncompleted"
+    },
+    {
+      "name": "article_id",
+      "value": "@gen.id"
+    },
+    {
+      "name": "module_id",
+      "value": "ignore_demand_yc",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "talk_feelings_yc_articles",
+  "data_list_name": "talk_feelings_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_talk_feelings_yc",
+  "module": "talk_feelings_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "😃😣😔This skill is about talking with your child about their feelings.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "😃😣😔This skill is about talking with your child about their feelings."
+        },
+        "text_2": {
+          "eng": "How does this help your child grow?\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌They will learn that all feelings are okay - even the negative ones.\n \nDo you wonder how we can do so?\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too."
+        }
+      },
+      "text_2": "How does this help your child grow?\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌They will learn that all feelings are okay - even the negative ones.\n \nDo you wonder how we can do so?\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too."
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "It is normal to experience a lot of different feelings.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It is normal to experience a lot of different feelings."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Talking about positive feelings is not as important as sharing negative feelings."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them."
+        },
+        "quiz_2_question": {
+          "eng": "Here’s another one: Boys should not share when they are feeling sad or afraid."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "❌ Incorrect.\n\n⭐ It is important that both boys and girls learn how to share their feelings. \n\n💙 Boys and girls will learn that it is okay to ask for help when they need it."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎁 You are right! \n\n⭐ It is important that both boys and girls learn how to share their feelings. \n\n💙 Boys and girls will learn that it is okay to ask for help when they need it."
+        },
+        "quiz_3_question": {
+          "eng": "Last one: As parents, we can also share our feelings with our children."
+        },
+        "quiz_3_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "🎈 Correct! \n\n🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "❌ Incorrect. \n\n🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves."
+        }
+      },
+      "quiz_1_question": "True or False: Talking about positive feelings is not as important as sharing negative feelings.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
+      "quiz_2_question": "Here’s another one: Boys should not share when they are feeling sad or afraid.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "❌ Incorrect.\n\n⭐ It is important that both boys and girls learn how to share their feelings. \n\n💙 Boys and girls will learn that it is okay to ask for help when they need it.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "🎁 You are right! \n\n⭐ It is important that both boys and girls learn how to share their feelings. \n\n💙 Boys and girls will learn that it is okay to ask for help when they need it.",
+      "quiz_3_question": "Last one: As parents, we can also share our feelings with our children.",
+      "quiz_3_option_1_text": "True",
+      "quiz_3_feedback_1": "🎈 Correct! \n\n🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves.",
+      "quiz_3_option_2_text": "False",
+      "quiz_3_feedback_2": "❌ Incorrect. \n\n🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/talk_feelings_yc_1.svg",
+      "character_1_id": "f2_daughter_8",
+      "nested": false,
+      "text_1_facilitator": "Let’s see how @data.characters.f2_grandfather.name handles his granddaughter, @data.characters.f2_daughter_8.name, when she feels jealous.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s see how @data.characters.f2_grandfather.name handles his granddaughter, @data.characters.f2_daughter_8.name, when she feels jealous."
+        },
+        "character_1_text": {
+          "eng": "Thaatha, why don’t we have a huge screen TV like my friend, Peggie?"
+        }
+      },
+      "character_1_text": "Thaatha, why don’t we have a huge screen TV like my friend, Peggie?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/talk_feelings_yc_2.svg",
+      "character_1_id": "f2_grandfather",
+      "nested": false,
+      "character_1_text": "I see that you are upset, @data.characters.f2_daughter_8.name. It is hard when your friends have things that we can’t have.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I see that you are upset, @data.characters.f2_daughter_8.name. It is hard when your friends have things that we can’t have."
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/talk_feelings_yc_3.svg",
+      "character_1_id": "f2_daughter_8",
+      "character_2_id": "f2_grandfather",
+      "nested": false,
+      "character_1_text": "What do you mean, Thaatha? I really want a huge TV.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "What do you mean, Thaatha? I really want a huge TV."
+        },
+        "character_2_text": {
+          "eng": "I understand, @data.characters.f2_daughter_8.name. We work hard, but TVs are expensive. We can still have fun and play as a family."
+        }
+      },
+      "character_2_text": "I understand, @data.characters.f2_daughter_8.name. We work hard, but TVs are expensive. We can still have fun and play as a family."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/talk_feelings_yc_4.svg",
+      "character_1_id": "f2_daughter_8",
+      "nested": false,
+      "character_1_text": "Okay, Thaatha…",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Okay, Thaatha…"
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE."
+        }
+      }
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_5_icon_asset": "images/icons/diamond_blue.png",
+      "nested": false,
+      "section_1_title": "LEARN",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {},
+        "section_5_title": {},
+        "section_5_text": {}
+      },
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "LEARN"
+        },
+        "section_1_text": {
+          "eng": "💡 Learn about different emotions. \n😃 The 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid.\n👀 You can use facial expressions and physical movements to help your child learn different emotions. Make it a game!\n🎨 As children grow, they learn to identify more emotions, like excitement, frustration, pride, loneliness, calm, guilt and confusion."
+        },
+        "section_2_title": {
+          "eng": "NOTICE"
+        },
+        "section_2_text": {
+          "eng": "👀 Notice all emotions in your child. \n😃 You can also share positive emotions such as a sense of peace, happiness, or calmness.\n💙 This allows them to appreciate the beautiful moments!"
+        },
+        "section_3_title": {
+          "eng": "OPEN"
+        },
+        "section_3_text": {
+          "eng": "Notice 👀 and listen 👂 to your child when they share how they are feeling. \n💛 Accept how they feel.\n🧸 Give them comfort."
+        },
+        "section_4_title": {
+          "eng": "TALK"
+        },
+        "section_4_text": {
+          "eng": "😒 It is normal to have difficulty talking about and expressing emotions and feelings. \n👋 Remember, it is also normal to experience feelings in different ways.\n💡 Learn to identify your own emotions, to experience them in our body, and to communicate about them"
+        },
+        "section_5_title": {
+          "eng": "CARE"
+        },
+        "section_5_text": {
+          "eng": "🌷 Use your actions or words to support your child and make them feel accepted and loved. You can hug or praise them!\n💚 Remind your child that you are there for them and that they can always talk to you."
+        }
+      },
+      "section_1_text": "💡 Learn about different emotions. \n😃 The 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid.\n👀 You can use facial expressions and physical movements to help your child learn different emotions. Make it a game!\n🎨 As children grow, they learn to identify more emotions, like excitement, frustration, pride, loneliness, calm, guilt and confusion.",
+      "section_2_title": "NOTICE",
+      "section_2_text": "👀 Notice all emotions in your child. \n😃 You can also share positive emotions such as a sense of peace, happiness, or calmness.\n💙 This allows them to appreciate the beautiful moments!",
+      "section_3_title": "OPEN",
+      "section_3_text": "Notice 👀 and listen 👂 to your child when they share how they are feeling. \n💛 Accept how they feel.\n🧸 Give them comfort.",
+      "section_4_title": "TALK",
+      "section_4_text": "😒 It is normal to have difficulty talking about and expressing emotions and feelings. \n👋 Remember, it is also normal to experience feelings in different ways.\n💡 Learn to identify your own emotions, to experience them in our body, and to communicate about them",
+      "section_5_title": "CARE",
+      "section_5_text": "🌷 Use your actions or words to support your child and make them feel accepted and loved. You can hug or praise them!\n💚 Remind your child that you are there for them and that they can always talk to you."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "This will make such a big difference. Great job! ⭐"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay. Try to make time this week."
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "This will make such a big difference. Great job! ⭐",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s okay. Try to make time this week."
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

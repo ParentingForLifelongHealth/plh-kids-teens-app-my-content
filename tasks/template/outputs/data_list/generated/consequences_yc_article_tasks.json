@@ -1,0 +1,220 @@
+{
+  "flow_name": "consequences_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today, you will learn what you can do when your child refuses to follow instructions, forgets a family rule, or behaves in an aggressive or unsafe way… 😔",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today, you will learn what you can do when your child refuses to follow instructions, forgets a family rule, or behaves in an aggressive or unsafe way… 😔"
+        },
+        "text_2": {
+          "eng": "As children grow, they learn about which actions are appropriate in different situations and which aren’t. 👀\n\nConsequences teach our children that their actions affect themselves and others.❗\n\nIt is important for our children to learn this as they grow. 🌱 \n\nTeaching with calm and clear consequences helps children learn responsibility for their actions better than hitting or shouting. 💙"
+        }
+      },
+      "text_2": "As children grow, they learn about which actions are appropriate in different situations and which aren’t. 👀\n\nConsequences teach our children that their actions affect themselves and others.❗\n\nIt is important for our children to learn this as they grow. 🌱 \n\nTeaching with calm and clear consequences helps children learn responsibility for their actions better than hitting or shouting. 💙",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "But how do you know which consequences will work? Let’s find out.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "But how do you know which consequences will work? Let’s find out."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: I can choose any consequence to give my child."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n💡 It is easier for your child to follow the rule if the consequence is connected to the rule. \n\n📺 For example, if your child doesn’t want to stop watching T.V., your child won’t get to watch T.V. tomorrow."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⭐ That’s correct!\n\n💡 It is easier for your child to follow the rule if the consequence is connected to the rule. \n\n📺 For example, if your child doesn’t want to stop watching T.V., your child won’t get to watch T.V. tomorrow."
+        }
+      },
+      "quiz_1_question": "True or False: I can choose any consequence to give my child.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💡 It is easier for your child to follow the rule if the consequence is connected to the rule. \n\n📺 For example, if your child doesn’t want to stop watching T.V., your child won’t get to watch T.V. tomorrow.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "⭐ That’s correct!\n\n💡 It is easier for your child to follow the rule if the consequence is connected to the rule. \n\n📺 For example, if your child doesn’t want to stop watching T.V., your child won’t get to watch T.V. tomorrow.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "It’s time to clean up from dinner and @data.characters.f1_daughter_2.name would rather play. Watch how her Ayah, @data.characters.f1_father.name, responds:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It’s time to clean up from dinner and @data.characters.f1_daughter_2.name would rather play. Watch how her Ayah, @data.characters.f1_father.name, responds:"
+        },
+        "character_1_text": {
+          "eng": "You are playing so nice and quiet, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to clean up your toys."
+        }
+      },
+      "image_asset": "images/yc_modules/teach_consequences_yc_1.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "You are playing so nice and quiet, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to clean up your toys.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "It’s time to put away your toys."
+        },
+        "character_2_text": {
+          "eng": "No."
+        }
+      },
+      "image_asset": "images/yc_modules/teach_consequences_yc_2.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "It’s time to put away your toys.",
+      "character_2_id": "f1_daughter_2",
+      "character_2_text": "No.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Either you put away the toys now, or you won’t be able to play with your toys after dinner."
+        },
+        "character_2_text": {
+          "eng": "No Ayah, I don’t want to!"
+        }
+      },
+      "image_asset": "images/yc_modules/teach_consequences_yc_3.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "Either you put away the toys now, or you won’t be able to play with your toys after dinner.",
+      "character_2_id": "f1_daughter_2",
+      "character_2_text": "No Ayah, I don’t want to!",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Because you did not listen, @data.characters.f1_daughter_2.name, you cannot play with your toys after dinner. Now come wash hands."
+        }
+      },
+      "image_asset": "images/yc_modules/teach_consequences_yc_4.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "Because you did not listen, @data.characters.f1_daughter_2.name, you cannot play with your toys after dinner. Now come wash hands.",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "BE CALM"
+        },
+        "section_1_text": {
+          "eng": "❗ Shouting at our children only makes things worse. It also teaches them that it is okay to treat others like this when they are upset.\n🌷 Take some deep breaths or walk away if you need to.\n💚 Then, respond in a calm, clear way."
+        },
+        "section_2_title": {
+          "eng": "BE FAIR"
+        },
+        "section_2_text": {
+          "eng": "💡 Before giving a consequence, give your child the chance to behave and time to do as you asked.\n🔄 Give a consequence connected to the behaviour. For example, if they do not clean up their toys, they cannot play with them the next day.\n🔑 Make sure you can follow through with the consequence. For example, tell them they can’t play with their toys **today**, rather than for the whole week.\n👀 Notice if your child is experiencing a natural consequence for their action already. If so, you might not need to give them one."
+        },
+        "section_3_title": {
+          "eng": "BE CONSISTENT"
+        },
+        "section_3_text": {
+          "eng": "➡️ Always follow through with consequences for the rules you set.\n⭐ This helps your child to know what to expect, and makes it more likely that they will follow the rule.\n🎈 Discuss consequences when setting household rules so that your child knows them and stick to them."
+        },
+        "section_4_title": {
+          "eng": "BE POSITIVE"
+        },
+        "section_4_text": {
+          "eng": "🏆 Praise your child every time they do actions you want to see more of. This makes them more likely to repeat this behaviour!\n🎉 Using consequences can be hard at first, but will get easier with practice!\n✨ Consequences help our children learn that their actions affect others - and to think before they act."
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "BE CALM",
+      "section_1_text": "❗ Shouting at our children only makes things worse. It also teaches them that it is okay to treat others like this when they are upset.\n🌷 Take some deep breaths or walk away if you need to.\n💚 Then, respond in a calm, clear way.",
+      "section_2_title": "BE FAIR",
+      "section_2_text": "💡 Before giving a consequence, give your child the chance to behave and time to do as you asked.\n🔄 Give a consequence connected to the behaviour. For example, if they do not clean up their toys, they cannot play with them the next day.\n🔑 Make sure you can follow through with the consequence. For example, tell them they can’t play with their toys **today**, rather than for the whole week.\n👀 Notice if your child is experiencing a natural consequence for their action already. If so, you might not need to give them one.",
+      "section_3_title": "BE CONSISTENT",
+      "section_3_text": "➡️ Always follow through with consequences for the rules you set.\n⭐ This helps your child to know what to expect, and makes it more likely that they will follow the rule.\n🎈 Discuss consequences when setting household rules so that your child knows them and stick to them.",
+      "section_4_title": "BE POSITIVE",
+      "section_4_text": "🏆 Praise your child every time they do actions you want to see more of. This makes them more likely to repeat this behaviour!\n🎉 Using consequences can be hard at first, but will get easier with practice!\n✨ Consequences help our children learn that their actions affect others - and to think before they act.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Your home activity today is to praise your child for one thing you’d like them to keep doing - and, if they refuse to follow instructions, use a fair consequence. Remember to give your child a choice to follow the instruction before giving the consequence and respond in a calm way.\n\nCan you praise your child for their positive behaviour today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃\n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. ⭐"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Managing your child’s behaviour is hard! 😣 \n\nNext time your child behaves well, praise them for it, even if it’s something small! This way, you are less likely to need to give them consequences in the first place. \n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐\n\nUsing praise and consequences not only helps you to manage your children's behaviour, but it builds a stronger and positive relationship with them at the same time."
+        }
+      },
+      "quiz_1_question": "Your home activity today is to praise your child for one thing you’d like them to keep doing - and, if they refuse to follow instructions, use a fair consequence. Remember to give your child a choice to follow the instruction before giving the consequence and respond in a calm way.\n\nCan you praise your child for their positive behaviour today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃\n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. ⭐",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "Managing your child’s behaviour is hard! 😣 \n\nNext time your child behaves well, praise them for it, even if it’s something small! This way, you are less likely to need to give them consequences in the first place. \n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐\n\nUsing praise and consequences not only helps you to manage your children's behaviour, but it builds a stronger and positive relationship with them at the same time.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

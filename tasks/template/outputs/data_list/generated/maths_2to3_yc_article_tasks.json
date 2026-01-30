@@ -1,0 +1,165 @@
+{
+  "flow_name": "maths_2to3_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "This skill is about introducing your child to numbers and maths. 1️⃣2️⃣3️⃣",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "This skill is about introducing your child to numbers and maths. 1️⃣2️⃣3️⃣"
+        },
+        "text_2": {
+          "eng": "⭐ Learning about numbers, shapes, and groups will help your child understand basic maths. \n\n🎓 This will give them a great head start for school!"
+        }
+      },
+      "text_2": "⭐ Learning about numbers, shapes, and groups will help your child understand basic maths. \n\n🎓 This will give them a great head start for school!",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Here’s a fun question for you - what do you think?",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here’s a fun question for you - what do you think?"
+        },
+        "quiz_1_question": {
+          "eng": "Where do children learn maths?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "In school"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "From their friends"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "At home"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!"
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Watching educational TV shows"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!"
+        },
+        "quiz_1_option_5_text": {
+          "eng": "All of the above"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "⭐ That’s right! \n\n🌷 Children learn maths nearly everywhere - and you can help!"
+        }
+      },
+      "quiz_1_question": "Where do children learn maths?",
+      "quiz_1_option_1_text": "In school",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
+      "quiz_1_option_2_text": "From their friends",
+      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
+      "quiz_1_option_3_text": "At home",
+      "quiz_1_feedback_3": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
+      "quiz_1_option_4_text": "Watching educational TV shows",
+      "quiz_1_feedback_4": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
+      "quiz_1_option_5_text": "All of the above",
+      "quiz_1_feedback_5": "⭐ That’s right! \n\n🌷 Children learn maths nearly everywhere - and you can help!",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "COUNT"
+        },
+        "section_1_text": {
+          "eng": "🔴 Counting is a skill your child can start to learn early. 1️⃣2️⃣3️⃣\n🚗 Ask your child to count things around you: cars, people, houses, how many steps between one place and another, and their fingers and toes! 👋\n🍅 Ask your child to count things in daily activities: like potatoes while cooking, or socks while sorting out clothes.\n🎵 Sing songs that include numbers with your child.\n🎨 Encourage your child to draw things, or ask them how many things there are in the pictures."
+        },
+        "section_2_title": {
+          "eng": "LOOK FOR NUMBERS"
+        },
+        "section_2_text": {
+          "eng": "📱Numbers are all around us if you look for them. They’re on food packaging, and even on the TV remote.\n👀 Wherever you see a number, ask your child what it is. \n😃 Help them if they don’t know!"
+        },
+        "section_3_title": {
+          "eng": "LEARN WITH SHAPES"
+        },
+        "section_3_text": {
+          "eng": "🔷 your child can also learn through shapes! Shapes are everywhere, too, so find them and talk about them. 👀\n🔴 Help your child draw different shapes. \n🔵 If you can, cut them out and help your child sort them into groups (by colour, shape, size, or however else your child wants!) Ask them why they are sorting in that way.\n🔶 Talk about the shapes with your child, and have fun with them! 😃"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "COUNT",
+      "section_1_text": "🔴 Counting is a skill your child can start to learn early. 1️⃣2️⃣3️⃣\n🚗 Ask your child to count things around you: cars, people, houses, how many steps between one place and another, and their fingers and toes! 👋\n🍅 Ask your child to count things in daily activities: like potatoes while cooking, or socks while sorting out clothes.\n🎵 Sing songs that include numbers with your child.\n🎨 Encourage your child to draw things, or ask them how many things there are in the pictures.",
+      "section_2_title": "LOOK FOR NUMBERS",
+      "section_2_text": "📱Numbers are all around us if you look for them. They’re on food packaging, and even on the TV remote.\n👀 Wherever you see a number, ask your child what it is. \n😃 Help them if they don’t know!",
+      "section_3_title": "LEARN WITH SHAPES",
+      "section_3_text": "🔷 your child can also learn through shapes! Shapes are everywhere, too, so find them and talk about them. 👀\n🔴 Help your child draw different shapes. \n🔵 If you can, cut them out and help your child sort them into groups (by colour, shape, size, or however else your child wants!) Ask them why they are sorting in that way.\n🔶 Talk about the shapes with your child, and have fun with them! 😃",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "For today’s home activity ⭐, can you do some counting with your child today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! 💙 Counting with your child will introduce them to numbers!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
+        }
+      },
+      "quiz_1_question": "For today’s home activity ⭐, can you do some counting with your child today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! 💙 Counting with your child will introduce them to numbers!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

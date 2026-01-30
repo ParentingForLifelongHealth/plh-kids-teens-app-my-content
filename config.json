@@ -1,0 +1,169 @@
+{
+  "_content_version": "",
+  "_app_builder_version": "",
+  "name": "plh_kids_teens_my",
+  "api": {
+    "enabled": true,
+    "db_name": "plh_kids_teens_my",
+    "endpoint": "https://apps-server.idems.international/api",
+    "sync_frequency": 300000
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "matomo",
+    "siteId": 1,
+    "endpoint": "https://apps-server.idems.international/analytics"
+  },
+  "app_config": {
+    "APP_HEADER_DEFAULTS": {
+      "title": "MalaysiaApp",
+      "collapse": true,
+      "variant": "compact",
+      "colour": "none",
+      "hidden": true
+    },
+    "APP_LANGUAGES": {
+      "default": "gb_en"
+    },
+    "APP_SIDEMENU_DEFAULTS": {
+      "title": "MalaysiaApp"
+    },
+    "APP_FOOTER_DEFAULTS": {
+      "templateName": "footer",
+      "template": "footer",
+      "background": "none"
+    },
+    "APP_THEMES": {
+      "available": [
+        "plh_kids_teens_za"
+      ],
+      "defaultThemeName": "plh_kids_teens_za"
+    },
+    "APP_UPDATES": {
+      "enabled": true,
+      "completeUpdateTemplate": "app_update_complete"
+    },
+    "NOTIFICATION_DEFAULTS": {
+      "title": "New message from MalaysiaApp",
+      "text": "You have a new message from MalaysiaApp"
+    }
+  },
+  "auth": {
+    "provider": "firebase"
+  },
+  "campaigns": {
+    "enabled": true
+  },
+  "shared_data": {
+    "provider": "firebase"
+  },
+  "supabase": {
+    "enabled": false
+  },
+  "web": {
+    "favicon_asset": "images/logos/favicon.png"
+  },
+  "google_drive": {
+    "assets_folder_id": "",
+    "sheets_folder_id": "",
+    "auth_token_path": "C:\\Source\\CM82\\parenting-app-ui\\packages\\scripts\\config\\token.json",
+    "sheets_filter_function": "(gdriveEntry)=>true",
+    "assets_filter_function": "(gdriveEntry)=>true",
+    "sheets_folder_ids": [
+      "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+      "1Bzlnwts9mkoLRhDy-SN5O1A3bUlBOynI"
+    ],
+    "assets_folder_ids": [
+      "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9",
+      "1d7Xf_k-kCiQsTGlpSAJnVLTTX5zTVvnp"
+    ],
+    "sheets_folders": [
+      {
+        "id": "19wSspWYMbRc75een-kS0q0aq24--75u8",
+        "name": "library_app_menu"
+      },
+      {
+        "id": "1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo",
+        "name": "library_field_values"
+      },
+      {
+        "id": "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU",
+        "name": "kids_global"
+      },
+      {
+        "id": "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9",
+        "name": "kids_teens_global"
+      },
+      {
+        "id": "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR",
+        "name": "library PLH onboarding"
+      },
+      {
+        "id": "1jQxwGLF84UCVhyicpNI0111JY7a3nOkT",
+        "name": "kids_teens_my"
+      }
+    ],
+    "assets_folders": [
+      {
+        "id": "1N2GdS5Thka5sJMbC32zyAFKNy61-yn6-",
+        "name": "kids_teens_my"
+      }
+    ]
+  },
+  "android": {
+    "app_id": "international.idems.plh_kids_teens_my",
+    "app_name": "Malaysia",
+    "splash_asset_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\app_data\\assets\\android\\splash.png",
+    "icon_asset_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\app_data\\assets\\android\\icon.png",
+    "icon_asset_foreground_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\app_data\\assets\\android\\icon-foreground.png",
+    "icon_asset_background_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\app_data\\assets\\android\\icon-background.png",
+    "zoom_enabled": true
+  },
+  "local_drive": {
+    "assets_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\assets",
+    "sheets_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\sheets"
+  },
+  "app_data": {
+    "output_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\app_data",
+    "sheets_filter_function": "(flow)=>true",
+    "assets_filter_function": "(fileEntry)=>true"
+  },
+  "ios": {
+    "app_id": "international.idems.plh_kids_teens_my",
+    "app_name": "Malaysia",
+    "zoom_enabled": true
+  },
+  "optimisation": {},
+  "translations": {
+    "filter_language_codes": null,
+    "source_strings_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\app_data\\translations_source\\source_strings",
+    "translated_strings_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\app_data\\translations_source\\translated_strings"
+  },
+  "workflows": {
+    "custom_ts_files": [],
+    "task_cache_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids\\tasks"
+  },
+  "_validated": true,
+  "_parent_config": {
+    "name": "plh_kids",
+    "_workspace_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids",
+    "git": {
+      "content_repo": "https://github.com/IDEMSInternational/plh-kids-app-content.git",
+      "content_tag_latest": "1.1.23"
+    }
+  },
+  "_version": 1,
+  "_workspace_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my",
+  "_config_ts_path": "C:\\Source\\CM82\\parenting-app-ui\\.idems_app\\deployments\\plh_kids_teens_my\\config.ts",
+  "_config_version": 20250407.1,
+  "git": {
+    "content_repo": "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
+    "content_tag_latest": "1.0.1"
+  },
+  "firebase": {
+    "config": null
+  },
+  "error_logging": {
+    "dsn": "https://644cb52e67f24a09b3fda5d50233e6e9@app.glitchtip.com/19943"
+  }
+}

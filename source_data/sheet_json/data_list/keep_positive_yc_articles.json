@@ -1,0 +1,97 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "keep_positive_yc_articles",
+  "data_list_name": "keep_positive_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_keep_positive_yc",
+  "module": "keep_positive_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Today’s skill is all about how to help your child follow instructions. 😃",
+      "text_2::eng": "Even the best behaved children only follow instructions about 50% of the time. ⏰\n\nBeing more effective about how you give instructions can make things more peaceful and calm at home. 🌱"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "What do you think about this?",
+      "quiz_1_question::eng": "True or false: It does not matter whether you give an instruction in a positive or negative way.",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "❌ That’s incorrect. \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "⭐ That’s correct! \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "@data.characters.f3_daughter_4.name is playing with the handphone on the floor.",
+      "image_asset": "images/yc_modules/keeping_it_positive_yc_1.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "@data.characters.f3_mother.name: It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me.",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "Okay…"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/keeping_it_positive_yc_2.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "[after 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone.",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "No!! I’m not done!! "
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/keeping_it_positive_yc_3.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "I know it’s hard to stop when you’re having fun. But we agreed on 3 minutes. Come @data.characters.f3_daughter_4.name, let’s go read a bit.  ",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "Okay…"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/keeping_it_positive_yc_4.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text::eng": "Thank you for handing the handphone back to me, @data.characters.f3_daughter_4.name. Did you like the story we read?",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "Yes, mummy. "
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "3️⃣ Here are three tips on how to help your child follow instructions more often:",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "BE SPECIFIC",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",
+      "section_2_title::eng": "BE REALISTIC",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "⭐Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
+      "section_3_title::eng": "BE POSITIVE",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "⭐Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷And remember—this takes practice. Be kind to yourself as you learn too. 💙"
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "Your home activity for today is to try to give specific, realistic, and positive instructions with your child. Do you have time to do this today? ⏰⭐",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
+    }
+  ]
+}

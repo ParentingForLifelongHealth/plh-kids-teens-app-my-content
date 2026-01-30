@@ -1,0 +1,215 @@
+{
+  "flow_name": "solve_problem_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!"
+        },
+        "text_2": {
+          "eng": "❗ Learning how to solve problems with your child can help you avoid having to use consequences. \n\n🌱 As children get older, they will be able to work through their problems by themselves more often. \n\n💡 This builds important skills that will benefit them for life! 😃"
+        }
+      },
+      "text_2": "❗ Learning how to solve problems with your child can help you avoid having to use consequences. \n\n🌱 As children get older, they will be able to work through their problems by themselves more often. \n\n💡 This builds important skills that will benefit them for life! 😃",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f3_son_7.name’s mother, @data.characters.f3_mother.name is concerned that @data.characters.f3_son_7.name is sleeping late everyday because of unfinished homework. Let’s see how they try to solve the problem together:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_son_7.name’s mother, @data.characters.f3_mother.name is concerned that @data.characters.f3_son_7.name is sleeping late everyday because of unfinished homework. Let’s see how they try to solve the problem together:"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f3_mother.name: Come on, @data.characters.f3_son_7.name, it's time to get ready for bed."
+        },
+        "character_2_text": {
+          "eng": "But I still have so much homework to do!"
+        },
+        "character_3_text": {
+          "eng": "Hm, this is the third night in a row that you haven't got to bed on time because of homework."
+        }
+      },
+      "image_asset": "images/yc_modules/solve_problems_yc_1.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_son_7",
+      "character_3_id": "f3_mother",
+      "character_1_text": "@data.characters.f3_mother.name: Come on, @data.characters.f3_son_7.name, it's time to get ready for bed.",
+      "character_2_text": "But I still have so much homework to do!",
+      "character_3_text": "Hm, this is the third night in a row that you haven't got to bed on time because of homework.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "How can we make sure you get all your work done and still get to bed on time?"
+        },
+        "character_2_text": {
+          "eng": "Maybe I can start earlier?"
+        },
+        "character_3_text": {
+          "eng": "How about we make a rule that you start your homework half an hour after you get home from school. That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit."
+        },
+        "character_4_text": {
+          "eng": "Okay, mummy."
+        }
+      },
+      "image_asset": "images/yc_modules/solve_problems_yc_2.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_son_7",
+      "character_3_id": "f3_mother",
+      "character_1_text": "How can we make sure you get all your work done and still get to bed on time?",
+      "character_2_text": "Maybe I can start earlier?",
+      "character_3_text": "How about we make a rule that you start your homework half an hour after you get home from school. That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.",
+      "character_4_id": "f3_son_7",
+      "character_4_text": "Okay, mummy.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f3_son_7.name, have you started your homework yet?"
+        },
+        "character_2_text": {
+          "eng": "I'll start now, Mummy! Can I talk to you about this question?"
+        },
+        "character_3_text": {
+          "eng": "Of course, boy."
+        }
+      },
+      "image_asset": "images/yc_modules/solve_problems_yc_3.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_son_7",
+      "character_3_id": "f3_mother",
+      "character_1_text": "@data.characters.f3_son_7.name, have you started your homework yet?",
+      "character_2_text": "I'll start now, Mummy! Can I talk to you about this question?",
+      "character_3_text": "Of course, boy.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Look, Mummy, I'm ready for bed so early tonight!"
+        }
+      },
+      "image_asset": "images/yc_modules/solve_problems_yc_4.svg",
+      "character_1_id": "f3_son_7",
+      "character_2_id": "f3_mother",
+      "character_3_id": "Well done, @data.characters.f3_son_7.name. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!",
+      "character_1_text": "Look, Mummy, I'm ready for bed so early tonight!",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "KNOW IT"
+        },
+        "section_1_text": {
+          "eng": "💡 Put the problem into words.\n👂 Talk to your child about what the problem is."
+        },
+        "section_2_title": {
+          "eng": "SOLVE IT"
+        },
+        "section_2_text": {
+          "eng": "📝 Together, think of possible solutions to this problem.\n✨ What could you or your child do differently in this situation in the future?"
+        },
+        "section_3_title": {
+          "eng": "TRY IT"
+        },
+        "section_3_text": {
+          "eng": "⭐ Choose one solution together.\n🔑 Try it next time you are in a similar situation."
+        },
+        "section_4_title": {
+          "eng": "TEST IT"
+        },
+        "section_4_text": {
+          "eng": "✅ Ask yourself, “Did it work?” \n😃 If yes, great!\n😔 If not, talk to your child about trying another solution next time."
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "KNOW IT",
+      "section_1_text": "💡 Put the problem into words.\n👂 Talk to your child about what the problem is.",
+      "section_2_title": "SOLVE IT",
+      "section_2_text": "📝 Together, think of possible solutions to this problem.\n✨ What could you or your child do differently in this situation in the future?",
+      "section_3_title": "TRY IT",
+      "section_3_text": "⭐ Choose one solution together.\n🔑 Try it next time you are in a similar situation.",
+      "section_4_title": "TEST IT",
+      "section_4_text": "✅ Ask yourself, “Did it work?” \n😃 If yes, great!\n😔 If not, talk to your child about trying another solution next time.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay. Try to review these steps together sometime this week."
+        }
+      },
+      "quiz_1_question": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s okay. Try to review these steps together sometime this week.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

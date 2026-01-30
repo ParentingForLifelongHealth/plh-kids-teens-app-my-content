@@ -1,0 +1,2051 @@
+{
+  "android/icon-background.png": {
+    "md5Checksum": "8711f369969c25216e0013c4010e0907",
+    "size_kb": 21.4
+  },
+  "android/icon-foreground.png": {
+    "md5Checksum": "8fa0416dee7554964c6c543c87c800c3",
+    "size_kb": 58.3
+  },
+  "android/icon.png": {
+    "md5Checksum": "b43a9fbad47678f0da72a710e3cebbde",
+    "size_kb": 70.3
+  },
+  "android/splash.png": {
+    "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
+    "size_kb": 239
+  },
+  "audio/care_audio_1.mp3": {
+    "md5Checksum": "88e6da9cff143cb7f1a2238b9756c62c",
+    "size_kb": 527.5
+  },
+  "audio/care_audio_2.mp3": {
+    "md5Checksum": "629bd89e0c85b0273249cc37c83b93cb",
+    "size_kb": 1166.3
+  },
+  "audio/celebrate_audio_1.mp3": {
+    "md5Checksum": "e117f1c42e911d67103d348f1da6c733",
+    "size_kb": 497.1
+  },
+  "audio/connect_audio_1.mp3": {
+    "md5Checksum": "914a60c81eff3b75236f87d3cc50aa0c",
+    "size_kb": 891.7
+  },
+  "audio/connect_audio_2.mp3": {
+    "md5Checksum": "42d0e8fa299f5557fb311d5722c9bbe1",
+    "size_kb": 981.4
+  },
+  "audio/consequences_audio_1.mp3": {
+    "md5Checksum": "da966e25d73ece64a0185bbabea4ff55",
+    "size_kb": 800.2
+  },
+  "audio/consequences_audio_2.mp3": {
+    "md5Checksum": "2eee64893d5391060a899f3b8b1cba9c",
+    "size_kb": 1206.6
+  },
+  "audio/feelings_audio_1.mp3": {
+    "md5Checksum": "d84e95e3a4fc7d31a06679b66ddc83e2",
+    "size_kb": 336
+  },
+  "audio/feelings_audio_2.mp3": {
+    "md5Checksum": "dedc55e55a8afbae4868fed76695133a",
+    "size_kb": 635.8
+  },
+  "audio/instructions_audio_1.mp3": {
+    "md5Checksum": "5a5683d533ea002a759babce524c68b5",
+    "size_kb": 613.7
+  },
+  "audio/instructions_audio_2.mp3": {
+    "md5Checksum": "b26e8d93b7f12a64b5ef57a710075b9e",
+    "size_kb": 784.2
+  },
+  "audio/learn_audio_1.mp3": {
+    "md5Checksum": "6b4099d05a18ee52d87c5807f4ac8e2f",
+    "size_kb": 563.1
+  },
+  "audio/learn_audio_2.mp3": {
+    "md5Checksum": "2b55c16546f204769edd6e55b48bf033",
+    "size_kb": 254.5
+  },
+  "audio/praise_audio_1.mp3": {
+    "md5Checksum": "1538cf77eb8892d25c4a13638b554f6c",
+    "size_kb": 344
+  },
+  "audio/praise_audio_2.mp3": {
+    "md5Checksum": "daa1a94f320a65f047e646b825e77899",
+    "size_kb": 1042.6
+  },
+  "audio/relax/relax_1.mp3": {
+    "md5Checksum": "0f92ea6022f35eec1d3f6c891ffdadb1",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_1.mp3",
+          "md5Checksum": "dcd2704d0fb1fad2494472d07e4c0831",
+          "size_kb": 148.8
+        }
+      }
+    },
+    "size_kb": 265.1
+  },
+  "audio/relax/relax_10.mp3": {
+    "md5Checksum": "319a38f2ebc35e66c91740166f35b9ec",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_10.mp3",
+          "md5Checksum": "180aeacd59808e4260627b9615c6113f",
+          "size_kb": 267.2
+        }
+      }
+    },
+    "size_kb": 404.9
+  },
+  "audio/relax/relax_12.mp3": {
+    "md5Checksum": "1d249c101d65ca13d0968cda45cc5a30",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_12.mp3",
+          "md5Checksum": "c8c2f43def7030471b3b42e4d8bc0872",
+          "size_kb": 321.3
+        }
+      }
+    },
+    "size_kb": 539.7
+  },
+  "audio/relax/relax_13.mp3": {
+    "md5Checksum": "269b08c84425b17108787ab494d318a5",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_13.mp3",
+          "md5Checksum": "362daa172e6cb8a7400c3b9b3ea47f27",
+          "size_kb": 235.6
+        }
+      }
+    },
+    "size_kb": 398.4
+  },
+  "audio/relax/relax_14.mp3": {
+    "md5Checksum": "932f53982455f20f3fb4ac67e81a8289",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_14.mp3",
+          "md5Checksum": "adffd6eed1cb101e0dab8d81b6ede1b8",
+          "size_kb": 155
+        }
+      }
+    },
+    "size_kb": 256.9
+  },
+  "audio/relax/relax_15.mp3": {
+    "md5Checksum": "be8ee25971c485d750022bde185fdbee",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_15.mp3",
+          "md5Checksum": "730b5e621a6aed742686b81d532d8342",
+          "size_kb": 209.5
+        }
+      }
+    },
+    "size_kb": 125
+  },
+  "audio/relax/relax_16.mp3": {
+    "md5Checksum": "7cef09c03cf46a7fe8e180e740e07c2b",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_16.mp3",
+          "md5Checksum": "e8e5f09c0a2a648b3910ca2c28910f5f",
+          "size_kb": 279.1
+        }
+      }
+    },
+    "size_kb": 150.9
+  },
+  "audio/relax/relax_19.mp3": {
+    "md5Checksum": "62b30c4937b2c13ded2dd1bf42dd8862",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_19.mp3",
+          "md5Checksum": "1cfb94d048a32c30b0bb7a73d2e9a1b1",
+          "size_kb": 714.9
+        }
+      }
+    },
+    "size_kb": 454
+  },
+  "audio/relax/relax_2.mp3": {
+    "md5Checksum": "bfd8f584111063f1409cae955a2b5f66",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_2.mp3",
+          "md5Checksum": "4282137b37f7e4c1bb1bbd65fae78124",
+          "size_kb": 254.1
+        }
+      }
+    },
+    "size_kb": 404.4
+  },
+  "audio/relax/relax_20.mp3": {
+    "md5Checksum": "53ac5c65ef225a90aef03a8bcaf49936",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_20.mp3",
+          "md5Checksum": "6a0c2812ecaa6a2138831ae3ba35a163",
+          "size_kb": 751.4
+        }
+      }
+    },
+    "size_kb": 539.8
+  },
+  "audio/relax/relax_3.mp3": {
+    "md5Checksum": "3a2cbae5e698d0f2849ac760a9e68254",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_3.mp3",
+          "md5Checksum": "d923e1dee2fa638f931365b8415717a7",
+          "size_kb": 136.6
+        }
+      }
+    },
+    "size_kb": 235.1
+  },
+  "audio/relax/relax_4.mp3": {
+    "md5Checksum": "49d51e187a3a1cc5122e26f561c365b6",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_4.mp3",
+          "md5Checksum": "17b1df7339b003fb88b9c893ef20f0f6",
+          "size_kb": 375.8
+        }
+      }
+    },
+    "size_kb": 514.5
+  },
+  "audio/relax/relax_5.mp3": {
+    "md5Checksum": "9dd1b264fe33cda345c179d93e33eb37",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_5.mp3",
+          "md5Checksum": "80dee5337ee7906e7a66443b5799ec75",
+          "size_kb": 119.8
+        }
+      }
+    },
+    "size_kb": 195.7
+  },
+  "audio/relax/relax_7.mp3": {
+    "md5Checksum": "c4e97034da9bcb7b9685ad89ef7a88ff",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_7.mp3",
+          "md5Checksum": "f6583c3caad341493ce7757284646b38",
+          "size_kb": 161.8
+        }
+      }
+    },
+    "size_kb": 285.3
+  },
+  "audio/relax/relax_8.mp3": {
+    "md5Checksum": "1daf656594520b674aabf5f8685dec1e",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_8.mp3",
+          "md5Checksum": "80c0ff008cdb728b505f8eae268d3f28",
+          "size_kb": 218.6
+        }
+      }
+    },
+    "size_kb": 302
+  },
+  "audio/relax/relax_9.mp3": {
+    "md5Checksum": "9ac4f035b9aced33f8fe8e117029d787",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/relax_9.mp3",
+          "md5Checksum": "bd9f331ffe6ca7e5042ac56764eefb5c",
+          "size_kb": 397.3
+        }
+      }
+    },
+    "size_kb": 576.6
+  },
+  "audio/relax/uncompressed/relax_1.mp3": {
+    "md5Checksum": "0d23366a438bc1a5faf3d445e389a39a",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_1.mp3",
+          "md5Checksum": "1aaabe0f0338f79cbc0c55e55f567e07",
+          "size_kb": 436.1
+        }
+      }
+    },
+    "size_kb": 492.2
+  },
+  "audio/relax/uncompressed/relax_10.mp3": {
+    "md5Checksum": "f763a01ba394cb5b8d7ecc03e421d8e0",
+    "size_kb": 749
+  },
+  "audio/relax/uncompressed/relax_11.mp3": {
+    "md5Checksum": "b68baf7ff115191d18e42c0c6ad575b2",
+    "size_kb": 806.5
+  },
+  "audio/relax/uncompressed/relax_12.mp3": {
+    "md5Checksum": "c752bb8fb7caeb3b13ed009c11e043c1",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_12.mp3",
+          "md5Checksum": "9d4c904f4f87087081ea2b8ccf74ff09",
+          "size_kb": 929.6
+        }
+      }
+    },
+    "size_kb": 999.6
+  },
+  "audio/relax/uncompressed/relax_13.mp3": {
+    "md5Checksum": "93a3a74b2251968d06888ddab297e6ac",
+    "size_kb": 721.6
+  },
+  "audio/relax/uncompressed/relax_14.mp3": {
+    "md5Checksum": "317c1409d3fd711862f044fde774fab4",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_14.mp3",
+          "md5Checksum": "b1254b9fe9370eef27cad09d70c92e06",
+          "size_kb": 439
+        }
+      }
+    },
+    "size_kb": 493.1
+  },
+  "audio/relax/uncompressed/relax_15.mp3": {
+    "md5Checksum": "a954491b926d1690d8975207f27b5b3a",
+    "size_kb": 516.7
+  },
+  "audio/relax/uncompressed/relax_16.mp3": {
+    "md5Checksum": "e05b7c0dec49d45225cf5311bd931233",
+    "size_kb": 564.5
+  },
+  "audio/relax/uncompressed/relax_17.mp3": {
+    "md5Checksum": "7fa394d9131dd7a36ab842223644f82e",
+    "size_kb": 544.1
+  },
+  "audio/relax/uncompressed/relax_18.mp3": {
+    "md5Checksum": "f1ced15e623ce6d21ea250317e602360",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_18.mp3",
+          "md5Checksum": "57e1194741b39af9f51cfebc7f7cf04f",
+          "size_kb": 1232
+        }
+      }
+    },
+    "size_kb": 1228.6
+  },
+  "audio/relax/uncompressed/relax_19.mp3": {
+    "md5Checksum": "91b71aa328f31c46b56bf7949448ae55",
+    "size_kb": 1746.5
+  },
+  "audio/relax/uncompressed/relax_2.mp3": {
+    "md5Checksum": "b3b6bf1fdc26305e89da438bb1a3657c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_2.mp3",
+          "md5Checksum": "21aa8413cc2983764abc87e6d9544838",
+          "size_kb": 759.4
+        }
+      }
+    },
+    "size_kb": 712.7
+  },
+  "audio/relax/uncompressed/relax_20.mp3": {
+    "md5Checksum": "9131a3fecff580470e11d6735593260e",
+    "size_kb": 1901.6
+  },
+  "audio/relax/uncompressed/relax_21.mp3": {
+    "md5Checksum": "9c12b2510304df021b5194d2b02a9899",
+    "size_kb": 759.6
+  },
+  "audio/relax/uncompressed/relax_22.mp3": {
+    "md5Checksum": "aa62a24a6c519beb75c88e613acd2c71",
+    "size_kb": 429.8
+  },
+  "audio/relax/uncompressed/relax_23.mp3": {
+    "md5Checksum": "9550d5bac87fd1a97544dd886660d25e",
+    "size_kb": 500.4
+  },
+  "audio/relax/uncompressed/relax_24.mp3": {
+    "md5Checksum": "c3db4db42e097fcc942e15f6f067737a",
+    "size_kb": 453.9
+  },
+  "audio/relax/uncompressed/relax_3.mp3": {
+    "md5Checksum": "54a8f411e01f5ef440d4275e3c111c3c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_3.mp3",
+          "md5Checksum": "2b76b2d3ca8d3712bc3337c418a867aa",
+          "size_kb": 400.6
+        }
+      }
+    },
+    "size_kb": 453.9
+  },
+  "audio/relax/uncompressed/relax_4.mp3": {
+    "md5Checksum": "f14b76a30bb3267a07968e7945bea98c",
+    "size_kb": 998
+  },
+  "audio/relax/uncompressed/relax_5.mp3": {
+    "md5Checksum": "5cc39211a871f85a80d2d914ce2f9008",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_5.mp3",
+          "md5Checksum": "a1f84641c1e8f505a4b09e9f96d49023",
+          "size_kb": 344.3
+        }
+      }
+    },
+    "size_kb": 359.2
+  },
+  "audio/relax/uncompressed/relax_6.mp3": {
+    "md5Checksum": "cda7524dc0cf04d7567d8aba5cecb1ed",
+    "size_kb": 526.5
+  },
+  "audio/relax/uncompressed/relax_7.mp3": {
+    "md5Checksum": "51ad97b7ea1e2344074ef130c4362682",
+    "size_kb": 504.9
+  },
+  "audio/relax/uncompressed/relax_8.mp3": {
+    "md5Checksum": "43e967ed477d23a2ac60b2786997e752",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_8.mp3",
+          "md5Checksum": "e5f80fa21f41afc208b143e66005eaba",
+          "size_kb": 585.5
+        }
+      }
+    },
+    "size_kb": 549
+  },
+  "audio/relax/uncompressed/relax_9.mp3": {
+    "md5Checksum": "4c28141c3416cf2df70d2a5464c3d34a",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/relax/za_xh/uncompressed/relax_9.mp3",
+          "md5Checksum": "f5bfd2b13c16fb98b5fc81a9e631c0b4",
+          "size_kb": 1123.1
+        }
+      }
+    },
+    "size_kb": 1057.1
+  },
+  "audio/rules_audio_1.mp3": {
+    "md5Checksum": "fc3fdfff3c54fbff8e54da7c7bb86b9a",
+    "size_kb": 427.6
+  },
+  "audio/rules_audio_2.mp3": {
+    "md5Checksum": "50855b061c28a61a2f790cf129fbb041",
+    "size_kb": 742.7
+  },
+  "audio/solve_audio_1.mp3": {
+    "md5Checksum": "3d28559d507a379e203b63b7dcbef436",
+    "size_kb": 609
+  },
+  "audio/solve_audio_2.mp3": {
+    "md5Checksum": "308831f3c5dff8b0f334d2385e2444cb",
+    "size_kb": 468.1
+  },
+  "audio/yc/1on1_audio_1.mp3": {
+    "md5Checksum": "c44c5ab18153cf39a8b4f4a5faa003ed",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/1on1_audio_1.mp3",
+          "md5Checksum": "947a82bf28fe4b13f2dcb1bea79b96d4",
+          "size_kb": 185.4
+        }
+      }
+    },
+    "size_kb": 267.1
+  },
+  "audio/yc/1on1_audio_2.mp3": {
+    "md5Checksum": "e8ca2e70cb50e8948f3e58821581c067",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/1on1_audio_2.mp3",
+          "md5Checksum": "daee4afddbca2befac95cea2578365e1",
+          "size_kb": 500.5
+        }
+      }
+    },
+    "size_kb": 401.8
+  },
+  "audio/yc/care_audio_1.mp3": {
+    "md5Checksum": "91d61d16d1b8ccdbd5214e6ce73844de",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/care_audio_1.mp3",
+          "md5Checksum": "11285af1f57f61a4e0bb1e834df5af03",
+          "size_kb": 168.3
+        }
+      }
+    },
+    "size_kb": 267.3
+  },
+  "audio/yc/care_audio_2.mp3": {
+    "md5Checksum": "da26bfedf639c54b9fc9a854589c1a01",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/care_audio_2.mp3",
+          "md5Checksum": "b3e77f05d6e1c2019e1d6e394e37b4e6",
+          "size_kb": 172
+        }
+      }
+    },
+    "size_kb": 130.8
+  },
+  "audio/yc/consequences_audio_1.mp3": {
+    "md5Checksum": "dd572ceca20e7194cad4c1e453745828",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/consequences_audio_1.mp3",
+          "md5Checksum": "302eb5ef2f4b5f33b53cb6a7d0c41b1f",
+          "size_kb": 148.5
+        }
+      }
+    },
+    "size_kb": 245
+  },
+  "audio/yc/consequences_audio_2.mp3": {
+    "md5Checksum": "b968270cdea83ad3c5bc373cacfa0307",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/consequences_audio_2.mp3",
+          "md5Checksum": "f71c5bc3f189387dbf6cb46f3bee6366",
+          "size_kb": 263.1
+        }
+      }
+    },
+    "size_kb": 369.1
+  },
+  "audio/yc/feelings_audio_1.mp3": {
+    "md5Checksum": "c9f6541b3e90250513bab92b32007a72",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/feelings_audio_1.mp3",
+          "md5Checksum": "816bc7db0aa684ce0b00bc71a6d317e7",
+          "size_kb": 152.7
+        }
+      }
+    },
+    "size_kb": 106.7
+  },
+  "audio/yc/feelings_audio_2.mp3": {
+    "md5Checksum": "026dee92519da5ee6cd411e98905b32d",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/feelings_audio_2.mp3",
+          "md5Checksum": "184a6edd0b33b8c51839453b8db88d41",
+          "size_kb": 464.8
+        }
+      }
+    },
+    "size_kb": 132.4
+  },
+  "audio/yc/instructions_audio_1.mp3": {
+    "md5Checksum": "467e96dc9cd1d1209e1a68d3699b3615",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/instructions_audio_1.mp3",
+          "md5Checksum": "fcea885273637889884200a37b9bbba8",
+          "size_kb": 166.7
+        }
+      }
+    },
+    "size_kb": 309.2
+  },
+  "audio/yc/instructions_audio_2.mp3": {
+    "md5Checksum": "3a33b2d7768f58e6f9b81097b3a335f6",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/instructions_audio_2.mp3",
+          "md5Checksum": "042f94de1471dddd8a5775f9f9cc9247",
+          "size_kb": 362.4
+        }
+      }
+    },
+    "size_kb": 226.8
+  },
+  "audio/yc/learn_audio_1.mp3": {
+    "md5Checksum": "8f2655a7df692ca45fc403562ca69240",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/learn_audio_1.mp3",
+          "md5Checksum": "dd44049df8dc423e7b26b6e02ad18dd9",
+          "size_kb": 184.9
+        }
+      }
+    },
+    "size_kb": 110.2
+  },
+  "audio/yc/learn_audio_2.mp3": {
+    "md5Checksum": "5f6c756cdf8fe953cda8670afadf9e3b",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/learn_audio_2.mp3",
+          "md5Checksum": "dec4378337ed12fc45df02157c32b2ac",
+          "size_kb": 173.7
+        }
+      }
+    },
+    "size_kb": 131.7
+  },
+  "audio/yc/praise_audio_1.mp3": {
+    "md5Checksum": "57866cabc1f5796bbc84d16b6c78b427",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/praise_audio_1.mp3",
+          "md5Checksum": "bbab85c25e1462aed1488d53c65816f8",
+          "size_kb": 142.2
+        }
+      }
+    },
+    "size_kb": 93.9
+  },
+  "audio/yc/praise_audio_2.mp3": {
+    "md5Checksum": "621b7defd365f1a93f795a3f9de5d5dd",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/praise_audio_2.mp3",
+          "md5Checksum": "439fa0d4e03643d6e1aed377a73004d1",
+          "size_kb": 352.9
+        }
+      }
+    },
+    "size_kb": 515.4
+  },
+  "audio/yc/rules_audio_1.mp3": {
+    "md5Checksum": "5ca459db3ac604297b3061b02791cfaf",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/rules_audio_1.mp3",
+          "md5Checksum": "60e235ddab7053d0914a87e88580481c",
+          "size_kb": 141.4
+        }
+      }
+    },
+    "size_kb": 83.9
+  },
+  "audio/yc/rules_audio_2.mp3": {
+    "md5Checksum": "efb6223ce15e689fd12cc77644a10f54",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/rules_audio_2.mp3",
+          "md5Checksum": "9b56f46345180af847ae638316576e16",
+          "size_kb": 544.3
+        }
+      }
+    },
+    "size_kb": 237.1
+  },
+  "audio/yc/solve_audio_1.mp3": {
+    "md5Checksum": "6068243c33abc53a0de050ee1b75e6f7",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/solve_audio_1.mp3",
+          "md5Checksum": "065a28dc5ddbc8f7e8323cccf0c61a2a",
+          "size_kb": 446
+        }
+      }
+    },
+    "size_kb": 161.6
+  },
+  "audio/yc/solve_audio_2.mp3": {
+    "md5Checksum": "f1c49ab4d84c1a7c7893ae823be6441c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/solve_audio_2.mp3",
+          "md5Checksum": "f86ddfaa1ba7fe5175fd7e5bedd890d5",
+          "size_kb": 490.9
+        }
+      }
+    },
+    "size_kb": 187.6
+  },
+  "audio/yc/uncompressed/1on1_audio_1.mp3": {
+    "md5Checksum": "914a60c81eff3b75236f87d3cc50aa0c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/1on1_audio_1.mp3",
+          "md5Checksum": "be695f4724e80820574cc014b774997b",
+          "size_kb": 311.6
+        }
+      }
+    },
+    "size_kb": 891.7
+  },
+  "audio/yc/uncompressed/1on1_audio_2 2.mp3": {
+    "md5Checksum": "404d9f956c13530e0f5f12b42ed0a18f",
+    "size_kb": 619.1
+  },
+  "audio/yc/uncompressed/care_audio_1.mp3": {
+    "md5Checksum": "88e6da9cff143cb7f1a2238b9756c62c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/care_audio_1.mp3",
+          "md5Checksum": "4a3ff309bdbe28a69f9a1d6fac7f2f76",
+          "size_kb": 237.4
+        }
+      }
+    },
+    "size_kb": 527.5
+  },
+  "audio/yc/uncompressed/care_audio_2 2.mp3": {
+    "md5Checksum": "629bd89e0c85b0273249cc37c83b93cb",
+    "size_kb": 1166.3
+  },
+  "audio/yc/uncompressed/consequences_audio_1.mp3": {
+    "md5Checksum": "da966e25d73ece64a0185bbabea4ff55",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/consequences_audio_1.mp3",
+          "md5Checksum": "37c18f7d155cd9ad1196030cc387ed2c",
+          "size_kb": 211.6
+        }
+      }
+    },
+    "size_kb": 800.2
+  },
+  "audio/yc/uncompressed/consequences_audio_2 2.mp3": {
+    "md5Checksum": "2eee64893d5391060a899f3b8b1cba9c",
+    "size_kb": 1206.6
+  },
+  "audio/yc/uncompressed/feelings_audio_1.mp3": {
+    "md5Checksum": "d84e95e3a4fc7d31a06679b66ddc83e2",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/feelings_audio_1.mp3",
+          "md5Checksum": "b3f1161d6e78935560a636e7031bd3b1",
+          "size_kb": 968.5
+        }
+      }
+    },
+    "size_kb": 336
+  },
+  "audio/yc/uncompressed/feelings_audio_2.mp3": {
+    "md5Checksum": "dedc55e55a8afbae4868fed76695133a",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/feelings_audio_2.mp3",
+          "md5Checksum": "ac6327ad8c859dcf0f5984494b6d54aa",
+          "size_kb": 731.2
+        }
+      }
+    },
+    "size_kb": 635.8
+  },
+  "audio/yc/uncompressed/instructions_audio_1.mp3": {
+    "md5Checksum": "5a5683d533ea002a759babce524c68b5",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/instructions_audio_1.mp3",
+          "md5Checksum": "5783596d6c4f7da3d0eb4628fc4ae621",
+          "size_kb": 993.2
+        }
+      }
+    },
+    "size_kb": 613.7
+  },
+  "audio/yc/uncompressed/instructions_audio_2.mp3": {
+    "md5Checksum": "b26e8d93b7f12a64b5ef57a710075b9e",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/instructions_audio_2.mp3",
+          "md5Checksum": "ee65892b482a35f941f23281f250ea0e",
+          "size_kb": 2288.9
+        }
+      }
+    },
+    "size_kb": 784.2
+  },
+  "audio/yc/uncompressed/learn_audio_1.mp3": {
+    "md5Checksum": "6b4099d05a18ee52d87c5807f4ac8e2f",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/learn_audio_1.mp3",
+          "md5Checksum": "24a9d4128ffc014090fd73dd4bb011e2",
+          "size_kb": 266.7
+        }
+      }
+    },
+    "size_kb": 563.1
+  },
+  "audio/yc/uncompressed/learn_audio_2 2.mp3": {
+    "md5Checksum": "2b55c16546f204769edd6e55b48bf033",
+    "size_kb": 254.5
+  },
+  "audio/yc/uncompressed/praise_audio_1.mp3": {
+    "md5Checksum": "1538cf77eb8892d25c4a13638b554f6c",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/praise_audio_1.mp3",
+          "md5Checksum": "fc5ebf9ed1b528e20db5f31b2e9f6b8f",
+          "size_kb": 882.4
+        }
+      }
+    },
+    "size_kb": 344
+  },
+  "audio/yc/uncompressed/praise_audio_2.mp3": {
+    "md5Checksum": "daa1a94f320a65f047e646b825e77899",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/praise_audio_2.mp3",
+          "md5Checksum": "049bc1f163c6b0538412f9e5d7b0ffd6",
+          "size_kb": 562.9
+        }
+      }
+    },
+    "size_kb": 1042.6
+  },
+  "audio/yc/uncompressed/rules_audio_1.mp3": {
+    "md5Checksum": "fc3fdfff3c54fbff8e54da7c7bb86b9a",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/rules_audio_1.mp3",
+          "md5Checksum": "c6e769754a2e932ed7422a71e0fe8390",
+          "size_kb": 250.3
+        }
+      }
+    },
+    "size_kb": 427.6
+  },
+  "audio/yc/uncompressed/rules_audio_2.mp3": {
+    "md5Checksum": "50855b061c28a61a2f790cf129fbb041",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/rules_audio_2.mp3",
+          "md5Checksum": "2399c40c5fbaeb6f20f781e1b1e81037",
+          "size_kb": 832.9
+        }
+      }
+    },
+    "size_kb": 742.7
+  },
+  "audio/yc/uncompressed/solve_audio_1.mp3": {
+    "md5Checksum": "a559e78cb51fbf843a71b6478cb8de88",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/solve_audio_1.mp3",
+          "md5Checksum": "f7d96282299eb43aa6f96aaa05faeb08",
+          "size_kb": 732
+        }
+      }
+    },
+    "size_kb": 983.4
+  },
+  "audio/yc/uncompressed/solve_audio_2.mp3": {
+    "md5Checksum": "308831f3c5dff8b0f334d2385e2444cb",
+    "overrides": {
+      "theme_default": {
+        "za_xh": {
+          "filePath": "audio/yc/za_xh/uncompressed/solve_audio_2.mp3",
+          "md5Checksum": "678c7fe85061e425acc2a549a3c6108c",
+          "size_kb": 731.6
+        }
+      }
+    },
+    "size_kb": 468.1
+  },
+  "contents.json": {
+    "md5Checksum": "70534ea19421d0dd943cddb77e971bcc",
+    "size_kb": 16.8
+  },
+  "images/activities/a_friendly_chat.svg": {
+    "md5Checksum": "39582558ea6fcc3607a18ca56b8c2b3d",
+    "size_kb": 1350.7
+  },
+  "images/activities/active_counting.svg": {
+    "md5Checksum": "0a79a689353f98c7200b89de20336dac",
+    "size_kb": 1457
+  },
+  "images/activities/active_songs.svg": {
+    "md5Checksum": "0b310eca8990b2f949a2b98fdf96b2ff",
+    "size_kb": 1271
+  },
+  "images/activities/animals.svg": {
+    "md5Checksum": "41ebc37502af8bbb8a02e9a255552eac",
+    "size_kb": 1322.5
+  },
+  "images/activities/be_an_artist.svg": {
+    "md5Checksum": "b91ee874e1975321afe388bc5171bb8f",
+    "size_kb": 1224.3
+  },
+  "images/activities/be_the_narrator.svg": {
+    "md5Checksum": "51019e8764c621997c980d3ecf3e4661",
+    "size_kb": 1599.2
+  },
+  "images/activities/categorise_organise.svg": {
+    "md5Checksum": "f50d4ba028d9579f10a56a03afdf72a4",
+    "size_kb": 1362.2
+  },
+  "images/activities/cooking_with_maths.svg": {
+    "md5Checksum": "f60ed678b82b461359c2e884a0f3bcf8",
+    "size_kb": 1477.2
+  },
+  "images/activities/follow_instructions.svg": {
+    "md5Checksum": "91962f2cad4868197e25155b653a2605",
+    "size_kb": 1866.2
+  },
+  "images/activities/follow_the_leader.svg": {
+    "md5Checksum": "7c694ba305fa8cdeb656fb3d1f0f4357",
+    "size_kb": 1403.1
+  },
+  "images/activities/games_with_pictures.svg": {
+    "md5Checksum": "d4e819845b1f646da9af2f36df175415",
+    "size_kb": 1661.9
+  },
+  "images/activities/get_active_child.svg": {
+    "md5Checksum": "a348c08848c6eb516018e1c82a6023dd",
+    "size_kb": 1677.2
+  },
+  "images/activities/i_spy.svg": {
+    "md5Checksum": "53c8a52bfa08ba9f71f34deef163286e",
+    "size_kb": 1465.6
+  },
+  "images/activities/im_a_writer.svg": {
+    "md5Checksum": "27d6c4487dbadb0b307eb78883553b18",
+    "size_kb": 1208.4
+  },
+  "images/activities/make_story_child.svg": {
+    "md5Checksum": "6313b14cdb8323cb4fa3d44337f69c6a",
+    "size_kb": 1659.1
+  },
+  "images/activities/one_on_one_time.svg": {
+    "md5Checksum": "867458ac743fc75389f334194bc8c7ae",
+    "size_kb": 1575
+  },
+  "images/activities/pass_ball_child.svg": {
+    "md5Checksum": "480a1be7c29b10991847f164996a3f5f",
+    "size_kb": 1709.2
+  },
+  "images/activities/play_books_2to3.svg": {
+    "md5Checksum": "1e4bbef54e1703b09b53058fd94521fd",
+    "size_kb": 1857.7
+  },
+  "images/activities/play_books_4to6.svg": {
+    "md5Checksum": "39220a32b9ba69b825e46722c7a0183f",
+    "size_kb": 1661.9
+  },
+  "images/activities/play_with_clothes.svg": {
+    "md5Checksum": "c0b1714845fe671e033f4f94873bed6c",
+    "size_kb": 1418.5
+  },
+  "images/activities/play_with_veggies.svg": {
+    "md5Checksum": "d298668c866b59ca0cf710e2a4524ba1",
+    "size_kb": 1289.5
+  },
+  "images/activities/riddles.svg": {
+    "md5Checksum": "c58a212f49535b08d73794b54ec0043e",
+    "size_kb": 1403.2
+  },
+  "images/activities/shapes_everywhere.svg": {
+    "md5Checksum": "5c35e85305aa34c363d144cfb251d834",
+    "size_kb": 1368.2
+  },
+  "images/activities/story_telling.svg": {
+    "md5Checksum": "691117371cc7580ab383c327a7268a12",
+    "size_kb": 1337.2
+  },
+  "images/activities/thinking_games.svg": {
+    "md5Checksum": "0a154d844a7facf5019ab72628e4c0f8",
+    "size_kb": 1052.6
+  },
+  "images/activities/what_letter_is_this.svg": {
+    "md5Checksum": "1d83deb22a274b6cf178dcf46697bd22",
+    "size_kb": 1302.7
+  },
+  "images/activities/whats_new_child.svg": {
+    "md5Checksum": "a11bab42e030e6004ff1dd06dcd1380a",
+    "size_kb": 1180.3
+  },
+  "images/backgrounds/bottom_banner.svg": {
+    "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
+    "size_kb": 23.2
+  },
+  "images/backgrounds/homescreen_pattern.svg": {
+    "md5Checksum": "5f3af7752ddded1343f7818e6ed7a868",
+    "size_kb": 156.3
+  },
+  "images/backgrounds/kites.svg": {
+    "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
+    "size_kb": 37.3
+  },
+  "images/backgrounds/library_top_right.png": {
+    "md5Checksum": "c84db4d3364362bea0912febbcd51ca1",
+    "size_kb": 1358.6
+  },
+  "images/backgrounds/mountains_trees.svg": {
+    "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
+    "size_kb": 23.2
+  },
+  "images/backgrounds/progress_arc.png": {
+    "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",
+    "size_kb": 255.4
+  },
+  "images/character_icons/f1_daughter_2.svg": {
+    "md5Checksum": "92f205f7554ed96512921397758afe8a",
+    "size_kb": 1815.2
+  },
+  "images/character_icons/f1_daughter_6.svg": {
+    "md5Checksum": "428d4bc632aaf79546dee246c04a278d",
+    "size_kb": 1429.9
+  },
+  "images/character_icons/f1_father.svg": {
+    "md5Checksum": "211d0d4ab3b272f863205518e179fad3",
+    "size_kb": 1678.4
+  },
+  "images/character_icons/f1_mother.svg": {
+    "md5Checksum": "e337c0dd428c561a25ed27fe64db90b4",
+    "size_kb": 1461.5
+  },
+  "images/character_icons/f1_son_5.svg": {
+    "md5Checksum": "ea34bbe9203cba06f79b12c568ae1cad",
+    "size_kb": 1359.5
+  },
+  "images/character_icons/f2_daughter_8.svg": {
+    "md5Checksum": "06406a5fb7379a7d2db57cc73ca45407",
+    "size_kb": 2347.5
+  },
+  "images/character_icons/f2_grandfather.svg": {
+    "md5Checksum": "33ef208fbc0b81eef8b57b43abe66040",
+    "size_kb": 2334.9
+  },
+  "images/character_icons/f2_grandmother.svg": {
+    "md5Checksum": "cea4db5e889c9bb61ecf53c1e81c04ad",
+    "size_kb": 2334.9
+  },
+  "images/character_icons/f2_son_3.svg": {
+    "md5Checksum": "29a6a978ee74984fe0e7faab01f35f29",
+    "size_kb": 2148.1
+  },
+  "images/character_icons/f3_daughter_4.svg": {
+    "md5Checksum": "b9d3dab2b4d2d9e92a174f2017fd44b1",
+    "size_kb": 1335.6
+  },
+  "images/character_icons/f3_mother.svg": {
+    "md5Checksum": "70c3ef377fa0e2887d3b3ab5388e226e",
+    "size_kb": 1465.5
+  },
+  "images/character_icons/f3_son_7.svg": {
+    "md5Checksum": "bec6e55d6005d06b9a24c89a9cacd07f",
+    "size_kb": 1426.5
+  },
+  "images/character_icons/f3_uncle.svg": {
+    "md5Checksum": "272ae6437199ce4ca13e39fef0d3868a",
+    "size_kb": 1094.4
+  },
+  "images/character_icons/facilitator_female.svg": {
+    "md5Checksum": "fda6a8a6cbe692d4572de78aa0d8a490",
+    "size_kb": 636.4
+  },
+  "images/character_icons/facilitator_male.svg": {
+    "md5Checksum": "5d004658549efdbb74b50a15447cebea",
+    "size_kb": 459.5
+  },
+  "images/character_icons/man_in_car.svg": {
+    "md5Checksum": "830aeaa449c45a1657a220b61ef1601d",
+    "size_kb": 1241.8
+  },
+  "images/childdevelopment.svg": {
+    "md5Checksum": "977ba51e3fe8221361b16e98d3c2f03f",
+    "size_kb": 20.3
+  },
+  "images/comics/child_development_yc_1.svg": {
+    "md5Checksum": "2c5c6f3fd73b8522c714c043daae33d8",
+    "size_kb": 124.5
+  },
+  "images/comics/child_development_yc_2.svg": {
+    "md5Checksum": "ce4ff14179e1efa12f631287b8b2d617",
+    "size_kb": 123.7
+  },
+  "images/comics/child_development_yc_3.svg": {
+    "md5Checksum": "62475bb6dc9fb630eed697670522bb9e",
+    "size_kb": 128.1
+  },
+  "images/comics/child_development_yc_4.svg": {
+    "md5Checksum": "850564ca917a4d2c6c94cf8ea331dd2e",
+    "size_kb": 123
+  },
+  "images/comics/consequences_yc_1.svg": {
+    "md5Checksum": "32006854e9132beb2b8927b6defddbf8",
+    "size_kb": 117.6
+  },
+  "images/comics/consequences_yc_2.svg": {
+    "md5Checksum": "c9ae4ba984e54b6ac60287201d7e25f3",
+    "size_kb": 150.5
+  },
+  "images/comics/consequences_yc_3.svg": {
+    "md5Checksum": "d7bceb54965a3020e076c9cad389b9fd",
+    "size_kb": 156.7
+  },
+  "images/comics/consequences_yc_4.svg": {
+    "md5Checksum": "692fdb7b572de6f270db848b90c0d9a8",
+    "size_kb": 146.5
+  },
+  "images/comics/consequences_yc_5.svg": {
+    "md5Checksum": "5e075b0a2bbbe50dddbe6e2b5fd0c797",
+    "size_kb": 64.7
+  },
+  "images/comics/feelings_yc_1.svg": {
+    "md5Checksum": "b4fd681c5331eebd088c0a61f310a642",
+    "size_kb": 106.8
+  },
+  "images/comics/feelings_yc_2.svg": {
+    "md5Checksum": "d24b9ce5cf242d5f7f9b9d8591cba40d",
+    "size_kb": 175.7
+  },
+  "images/comics/feelings_yc_3.svg": {
+    "md5Checksum": "91199264946968590a6dfae4a99bdd27",
+    "size_kb": 183.1
+  },
+  "images/comics/feelings_yc_4.svg": {
+    "md5Checksum": "ab9541f488a59680fd51a31c22d91b1b",
+    "size_kb": 159
+  },
+  "images/comics/instructions_yc_1.svg": {
+    "md5Checksum": "691de2c8692e384a564eb4d822de9191",
+    "size_kb": 146.4
+  },
+  "images/comics/instructions_yc_2.svg": {
+    "md5Checksum": "efc2c71e629ba2bdda60bf45e383843c",
+    "size_kb": 154.5
+  },
+  "images/comics/instructions_yc_3.svg": {
+    "md5Checksum": "3be4fbb58b46553603b98e3f8e7e83fd",
+    "size_kb": 155.2
+  },
+  "images/comics/instructions_yc_4.svg": {
+    "md5Checksum": "92bff60b011f16cff9ea36887c9fbc3c",
+    "size_kb": 60.3
+  },
+  "images/comics/instructions_yc_5.svg": {
+    "md5Checksum": "4ab2493315f54696d7d8f12899810c1d",
+    "size_kb": 124.9
+  },
+  "images/comics/instructions_yc_6.svg": {
+    "md5Checksum": "1d05af3f0f3d8116cdf8e602e70e5fc3",
+    "size_kb": 122.1
+  },
+  "images/comics/instructions_yc_7.svg": {
+    "md5Checksum": "738adff2c224c04e5137f5f0fb53aad3",
+    "size_kb": 125.9
+  },
+  "images/comics/learn_experience_yc_1.svg": {
+    "md5Checksum": "51d95faf07fa2e5af14928e330fa9299",
+    "size_kb": 77.7
+  },
+  "images/comics/learn_experience_yc_2.svg": {
+    "md5Checksum": "ee37e6b2da1501e47c9760347a9e5bf2",
+    "size_kb": 82.7
+  },
+  "images/comics/learn_experience_yc_3.svg": {
+    "md5Checksum": "5a1e5fe468fba777aedcb9e7070feefb",
+    "size_kb": 81.8
+  },
+  "images/comics/learn_experience_yc_4.svg": {
+    "md5Checksum": "78d25da86910596d8c615472d67cb759",
+    "size_kb": 82.5
+  },
+  "images/comics/learn_experience_yc_5.svg": {
+    "md5Checksum": "abe3469c072c141f2b273ba9bb8b0aca",
+    "size_kb": 71.1
+  },
+  "images/comics/one_on_one_yc_1.svg": {
+    "md5Checksum": "3cf6f9e17aa13ee78ae3277e24c5c63c",
+    "size_kb": 61
+  },
+  "images/comics/one_on_one_yc_2.svg": {
+    "md5Checksum": "fc93d2bb3dcf1c2638da8244bbfd5b90",
+    "size_kb": 65.5
+  },
+  "images/comics/one_on_one_yc_3.svg": {
+    "md5Checksum": "916471cbcf3063d0d89201c2c41c071c",
+    "size_kb": 65.5
+  },
+  "images/comics/one_on_one_yc_4.svg": {
+    "md5Checksum": "f74b87457cf453930b2088ffafdc5f29",
+    "size_kb": 67
+  },
+  "images/comics/play_yc_1.svg": {
+    "md5Checksum": "fc8a5ec771296f6def962f12e0e5dff6",
+    "size_kb": 286.4
+  },
+  "images/comics/play_yc_2.svg": {
+    "md5Checksum": "a387647c356cab1e1bf8d7dde587e51b",
+    "size_kb": 283.3
+  },
+  "images/comics/play_yc_3.svg": {
+    "md5Checksum": "5c9ec940e4c05364bb6a63c6875f0d2e",
+    "size_kb": 80.8
+  },
+  "images/comics/play_yc_4.svg": {
+    "md5Checksum": "50d61cd16992e0a769da403ba6dd7523",
+    "size_kb": 98.5
+  },
+  "images/comics/praise_yc_1.svg": {
+    "md5Checksum": "e8d7d0a8e4e19afe4ec353c67fb9bdc6",
+    "size_kb": 98.7
+  },
+  "images/comics/praise_yc_2.svg": {
+    "md5Checksum": "3e587f456fd6b823fc1c81156bf792b7",
+    "size_kb": 100.5
+  },
+  "images/comics/praise_yc_3.svg": {
+    "md5Checksum": "8a540513f787736f0f580efd0f81d4de",
+    "size_kb": 96.5
+  },
+  "images/comics/praise_yc_4.svg": {
+    "md5Checksum": "532c8c95e297bda3511bf3e1df4c004e",
+    "size_kb": 105
+  },
+  "images/comics/problem_solving_yc_1.svg": {
+    "md5Checksum": "d380b7f9bcb7acf9a0dfb1dc02c8039c",
+    "size_kb": 42.1
+  },
+  "images/comics/problem_solving_yc_2.svg": {
+    "md5Checksum": "d0d73db58e19c8c554940636ae0fd195",
+    "size_kb": 48.3
+  },
+  "images/comics/problem_solving_yc_3.svg": {
+    "md5Checksum": "6b71e0364182270c63cfe72c4f5339c9",
+    "size_kb": 47
+  },
+  "images/comics/problem_solving_yc_4.svg": {
+    "md5Checksum": "9ddaef550ad04f186dfca2313d8abd81",
+    "size_kb": 42.1
+  },
+  "images/comics/routines_yc_1.svg": {
+    "md5Checksum": "7603762c4d535c6c8a0fd33285b5b447",
+    "size_kb": 55.9
+  },
+  "images/comics/routines_yc_10.svg": {
+    "md5Checksum": "fdbee7a3ea0503611ae38338af6e65b8",
+    "size_kb": 111.8
+  },
+  "images/comics/routines_yc_2.svg": {
+    "md5Checksum": "9fba72fed0592c5bbb289f2d993c492f",
+    "size_kb": 62.4
+  },
+  "images/comics/routines_yc_3.svg": {
+    "md5Checksum": "2c21bf865feed4a1a2940fbc97fd726a",
+    "size_kb": 60.7
+  },
+  "images/comics/routines_yc_4.svg": {
+    "md5Checksum": "d894409ae5cc6d0bdfe6840b9c90564d",
+    "size_kb": 74.3
+  },
+  "images/comics/routines_yc_5.svg": {
+    "md5Checksum": "38ab0b695bc55b11766b1ee30d8a2a98",
+    "size_kb": 49.9
+  },
+  "images/comics/routines_yc_6.svg": {
+    "md5Checksum": "d350bb3340abc437580e59c98825828d",
+    "size_kb": 47.2
+  },
+  "images/comics/routines_yc_7.svg": {
+    "md5Checksum": "7ec8004a9b318f61aafcaf3556e88a86",
+    "size_kb": 140.7
+  },
+  "images/comics/routines_yc_8.svg": {
+    "md5Checksum": "68fea3f1e095b46c99f1699e0688e01c",
+    "size_kb": 96.8
+  },
+  "images/comics/routines_yc_9.svg": {
+    "md5Checksum": "2a8a7ae21d07e8fbcf93104423ae5b2b",
+    "size_kb": 116.9
+  },
+  "images/comics/self_care_yc_1.svg": {
+    "md5Checksum": "4f187f906396df26f3e2e7196d8641aa",
+    "size_kb": 100.6
+  },
+  "images/comics/self_care_yc_2.svg": {
+    "md5Checksum": "3fa2ea10adb40b203b68783bf02ae905",
+    "size_kb": 65.9
+  },
+  "images/comics/self_care_yc_3.svg": {
+    "md5Checksum": "457dca6d7d55470ab5a8312bad208662",
+    "size_kb": 145.9
+  },
+  "images/comics/self_care_yc_4.svg": {
+    "md5Checksum": "a3eb8623544ee5d0cab19761e9d6daa4",
+    "size_kb": 61.5
+  },
+  "images/comics/teach_consequences_yc_3.jpg": {
+    "md5Checksum": "a049febe5380a8e52a0763725a0084bb",
+    "size_kb": 3174
+  },
+  "images/consequences.jpg": {
+    "md5Checksum": "b6f9a9bd8d55ff28a2171bb4f29058d0",
+    "size_kb": 115.1
+  },
+  "images/facilitators_face.svg": {
+    "md5Checksum": "a1d15018aa8bf2d97cf1714fdeb948d2",
+    "size_kb": 39.3
+  },
+  "images/flags/gb.svg": {
+    "md5Checksum": "d3ddd6025a06a78535b0d432d14905bf",
+    "size_kb": 0.5
+  },
+  "images/flags/kw.svg": {
+    "md5Checksum": "2e0484c010807a0dca638bca095f76f5",
+    "size_kb": 0.5
+  },
+  "images/flags/tz.svg": {
+    "md5Checksum": "4cba6f3545595d585cf1c89394955c71",
+    "size_kb": 0.5
+  },
+  "images/homescreen/celebrate_t.svg": {
+    "md5Checksum": "5095934242893e19bd69475afab44613",
+    "size_kb": 36.3
+  },
+  "images/homescreen/check_in/traditional_rondavel_closed.svg": {
+    "md5Checksum": "7f3b4f9ea35b08cc8d07a7a29e73ed78",
+    "size_kb": 23.9
+  },
+  "images/homescreen/check_in/traditional_rondavel_open.svg": {
+    "md5Checksum": "aa3e4dcd9c6c7857af8ced034c0331f6",
+    "size_kb": 28.8
+  },
+  "images/homescreen/consequence_t.svg": {
+    "md5Checksum": "7072b7093355c758b1ec36a6ea9551d2",
+    "size_kb": 23
+  },
+  "images/homescreen/consequences.svg": {
+    "md5Checksum": "ae8e9a49723149960ea3bd25b800c802",
+    "size_kb": 40.6
+  },
+  "images/homescreen/crisis_t.svg": {
+    "md5Checksum": "78730d6d0fb85e5ecaa7a9893c9a72c6",
+    "size_kb": 46.1
+  },
+  "images/homescreen/developmentplay.svg": {
+    "md5Checksum": "f80a66edb5fdc7e90d940c66fe5dcea6",
+    "size_kb": 75.2
+  },
+  "images/homescreen/feelings.svg": {
+    "md5Checksum": "c5e6987d9cb405694e65695203b7e634",
+    "size_kb": 75.4
+  },
+  "images/homescreen/grief_t.svg": {
+    "md5Checksum": "5b9a0a0f73273e884fbeb52c2d4fdf2b",
+    "size_kb": 30.8
+  },
+  "images/homescreen/instruct_t.svg": {
+    "md5Checksum": "a456c4da674e5c68217a0a1d0233f94f",
+    "size_kb": 40.6
+  },
+  "images/homescreen/instructions.svg": {
+    "md5Checksum": "0b9b36baaaabad6668e6a31a4b08b711",
+    "size_kb": 40.6
+  },
+  "images/homescreen/learn_t.svg": {
+    "md5Checksum": "334733ee0621dfe54ce1b15691e99ffe",
+    "size_kb": 28.4
+  },
+  "images/homescreen/listview/celebrate_t.svg": {
+    "md5Checksum": "e08db752ca368aa1a37f6e56359fecbd",
+    "size_kb": 31.1
+  },
+  "images/homescreen/listview/consequence_t.svg": {
+    "md5Checksum": "4d4381ad7f6a139471034e057b645ae2",
+    "size_kb": 29.3
+  },
+  "images/homescreen/listview/consequences.svg": {
+    "md5Checksum": "8a2aef42d62f1cb56dcbbb85b464a0e7",
+    "size_kb": 37.5
+  },
+  "images/homescreen/listview/crisis_t.svg": {
+    "md5Checksum": "2c3484f2f36eeef33a1a6b7d36b873cc",
+    "size_kb": 44
+  },
+  "images/homescreen/listview/developmentplay.svg": {
+    "md5Checksum": "f9db0b6c869bee2ed59a5a97d322f6cd",
+    "size_kb": 65.4
+  },
+  "images/homescreen/listview/feelings.svg": {
+    "md5Checksum": "ef974da455590808e245a0466d8fd3ca",
+    "size_kb": 53.4
+  },
+  "images/homescreen/listview/grief_t.svg": {
+    "md5Checksum": "a7261f746f2b3b2d354bb975a5330b46",
+    "size_kb": 26.8
+  },
+  "images/homescreen/listview/instruct_t.svg": {
+    "md5Checksum": "0a902288c7e67af5e5c3b2bc1f0791cc",
+    "size_kb": 37.9
+  },
+  "images/homescreen/listview/instructions.svg": {
+    "md5Checksum": "70f91d90f3343d52df93c664722c8703",
+    "size_kb": 31.7
+  },
+  "images/homescreen/listview/learn_t.svg": {
+    "md5Checksum": "dbf744350abca4374655aeffade70447",
+    "size_kb": 25.4
+  },
+  "images/homescreen/listview/money_t.svg": {
+    "md5Checksum": "abc120c3e5b8f7fe6c02bee25df3fd44",
+    "size_kb": 31.7
+  },
+  "images/homescreen/listview/one_on_one_t.svg": {
+    "md5Checksum": "bdd71a28f56c84fe06c72e82fd1427fb",
+    "size_kb": 39.8
+  },
+  "images/homescreen/listview/one_on_one_time.svg": {
+    "md5Checksum": "75d02f36439f374eddbb4f67e50b6318",
+    "size_kb": 43.7
+  },
+  "images/homescreen/listview/onlinesafety_t.svg": {
+    "md5Checksum": "6fab5d3d606f5abc7bb1ca56cfbc933f",
+    "size_kb": 30.6
+  },
+  "images/homescreen/listview/praise.svg": {
+    "md5Checksum": "cac046893370bd011e1e00398280a1bc",
+    "size_kb": 72.2
+  },
+  "images/homescreen/listview/praise_t.svg": {
+    "md5Checksum": "06843b7cdd38c5c9a3bfb0d46d307343",
+    "size_kb": 33.7
+  },
+  "images/homescreen/listview/problemsolving.svg": {
+    "md5Checksum": "1af8feba9f94ab87fd496e3291abf479",
+    "size_kb": 28.6
+  },
+  "images/homescreen/listview/rules_t.svg": {
+    "md5Checksum": "1f39e201c6e35f9164f06a1e6cfe2c6b",
+    "size_kb": 35.8
+  },
+  "images/homescreen/listview/rulesroutines.svg": {
+    "md5Checksum": "0ca1b6150f63934177f69edb852158f2",
+    "size_kb": 51.8
+  },
+  "images/homescreen/listview/safe_t.svg": {
+    "md5Checksum": "bac78ccb42febd750147a86209db4e5f",
+    "size_kb": 20.6
+  },
+  "images/homescreen/listview/self_care.svg": {
+    "md5Checksum": "5482e404d01f321a93eabf0faba6fb9c",
+    "size_kb": 52.6
+  },
+  "images/homescreen/listview/solve_t.svg": {
+    "md5Checksum": "e5c35df4540927ab73cd8ad891757aa5",
+    "size_kb": 33.5
+  },
+  "images/homescreen/listview/srh_t.svg": {
+    "md5Checksum": "b04fa3f7e0889eb4f19919cb94355154",
+    "size_kb": 40.9
+  },
+  "images/homescreen/listview/stress_t.svg": {
+    "md5Checksum": "078a72047bbd1eb5218f1d2ffb77f599",
+    "size_kb": 15.5
+  },
+  "images/homescreen/listview/svp_t.svg": {
+    "md5Checksum": "34879ccdefa994212540be87b3fc4e63",
+    "size_kb": 20.3
+  },
+  "images/homescreen/money_t.svg": {
+    "md5Checksum": "1fc6446cce7065598e92074fab410a4c",
+    "size_kb": 37.1
+  },
+  "images/homescreen/one_on_one_t.svg": {
+    "md5Checksum": "3e99466641a7d4ac69a7d998e1318372",
+    "size_kb": 48.5
+  },
+  "images/homescreen/one_on_one_time.svg": {
+    "md5Checksum": "51fff2b54daf27828548396f7fcce5a7",
+    "size_kb": 47.4
+  },
+  "images/homescreen/onlinesafety_t.svg": {
+    "md5Checksum": "17e54f5f07645da6cf03db4c478c52c3",
+    "size_kb": 30.8
+  },
+  "images/homescreen/praise.svg": {
+    "md5Checksum": "e648e7c95046583901e8d592ce6832c2",
+    "size_kb": 99.9
+  },
+  "images/homescreen/praise_t.svg": {
+    "md5Checksum": "9000f96cc356ef96f2189a7a9dd03ffb",
+    "size_kb": 32.2
+  },
+  "images/homescreen/problemsolving.svg": {
+    "md5Checksum": "bab21bfdf568f3b03d1798447731ba39",
+    "size_kb": 39.4
+  },
+  "images/homescreen/rules_t.svg": {
+    "md5Checksum": "21c049c0a029ef10d68667c06979c977",
+    "size_kb": 41.2
+  },
+  "images/homescreen/rulesroutines.svg": {
+    "md5Checksum": "e14d9d3014c450c0c2c147b9448f4644",
+    "size_kb": 58.8
+  },
+  "images/homescreen/safe_t.svg": {
+    "md5Checksum": "28959f692703e53e99c1c57487ad1e45",
+    "size_kb": 23.9
+  },
+  "images/homescreen/self_care.svg": {
+    "md5Checksum": "20584645e577eae3d8da9fb52caa5527",
+    "size_kb": 59.9
+  },
+  "images/homescreen/solve_t.svg": {
+    "md5Checksum": "1e5cb2e3048cea776976e1181e63dcb7",
+    "size_kb": 53.7
+  },
+  "images/homescreen/srh_t.svg": {
+    "md5Checksum": "85b771adb0f98c721b37a3ce6312f24f",
+    "size_kb": 46.2
+  },
+  "images/homescreen/stress_t.svg": {
+    "md5Checksum": "31fa7d295703b97885392888bf8bafa7",
+    "size_kb": 16.9
+  },
+  "images/homescreen/svp_t.svg": {
+    "md5Checksum": "67a36d22ec7ac03ff60c1af08227e4df",
+    "size_kb": 25.4
+  },
+  "images/icons/balance_blue.png": {
+    "md5Checksum": "1c98d6a4ecc168045d7e1571953593b2",
+    "size_kb": 4.7
+  },
+  "images/icons/book_outline_blue.svg": {
+    "md5Checksum": "1b287c85e36a3375196a2a6ee7a0bca3",
+    "size_kb": 0.7
+  },
+  "images/icons/book_outline_white.svg": {
+    "md5Checksum": "12c477faa57812b7a16bc6a0d0424c06",
+    "size_kb": 0.7
+  },
+  "images/icons/brain_blue.png": {
+    "md5Checksum": "efeb76494b51228450e4d123d0e7c1af",
+    "size_kb": 5.2
+  },
+  "images/icons/clock_blue.png": {
+    "md5Checksum": "5b02b07f32d48f1bddd4b2387a0fd861",
+    "size_kb": 4.5
+  },
+  "images/icons/diamond.png": {
+    "md5Checksum": "976348fa8d22b37d279bb485b94c542d",
+    "size_kb": 1.8
+  },
+  "images/icons/diamond_active.png": {
+    "md5Checksum": "0e53c1cb5fd3059f4ef244017d1cc961",
+    "size_kb": 1.7
+  },
+  "images/icons/diamond_blue.png": {
+    "md5Checksum": "81cc20f73cdce633bf0427bf88b50827",
+    "size_kb": 4.7
+  },
+  "images/icons/document.svg": {
+    "md5Checksum": "da7bbdc1985249219cfb178f5d1ea514",
+    "size_kb": 7.3
+  },
+  "images/icons/expand_circle_right.png": {
+    "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
+    "size_kb": 0.9
+  },
+  "images/icons/expand_circle_right.svg": {
+    "md5Checksum": "a72d1868e1782c052aa829835234ac0d",
+    "size_kb": 0.5
+  },
+  "images/icons/expand_circle_right_blue.svg": {
+    "md5Checksum": "f32d18c3819524f1e5c2d65d2b35721c",
+    "size_kb": 2.1
+  },
+  "images/icons/eye_blue.png": {
+    "md5Checksum": "266c565a207e1ebe67ac421cac3a0922",
+    "size_kb": 4.2
+  },
+  "images/icons/faces/angry.svg": {
+    "md5Checksum": "fbed8e862bed4c3a20cc76fddaa29f6f",
+    "size_kb": 1.1
+  },
+  "images/icons/faces/confused.svg": {
+    "md5Checksum": "1b6c3e959c1a2fb7b60a0204f3f51252",
+    "size_kb": 1.8
+  },
+  "images/icons/faces/happier.svg": {
+    "md5Checksum": "0950af49455cc3a0f45fdb58a7729f69",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/happiest.svg": {
+    "md5Checksum": "daca7cda1c325c104815722f2cfc47e6",
+    "size_kb": 1.3
+  },
+  "images/icons/faces/happy.svg": {
+    "md5Checksum": "286df85cf5a71405938907c42a200e67",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/happy_face_new.svg": {
+    "md5Checksum": "f9e913914cb1f406f1aab3665240f0a8",
+    "size_kb": 1.4
+  },
+  "images/icons/faces/neutral.svg": {
+    "md5Checksum": "8f4bc93561fb7114ea8802a04a220fb8",
+    "size_kb": 0.5
+  },
+  "images/icons/faces/ok_face_new.svg": {
+    "md5Checksum": "007a3aaa58f1c01005e9535ebf8d60dc",
+    "size_kb": 0.5
+  },
+  "images/icons/faces/sad.svg": {
+    "md5Checksum": "1020fc8785a8f8aeeadfa74de88c73d3",
+    "size_kb": 0.6
+  },
+  "images/icons/faces/sad_face_new.svg": {
+    "md5Checksum": "c5647f9bebf9c8bfc4080b1eb458a2be",
+    "size_kb": 1.5
+  },
+  "images/icons/faces/sadder.svg": {
+    "md5Checksum": "44f0f4aee98a30f31d445b169922f940",
+    "size_kb": 1.1
+  },
+  "images/icons/faces/saddest.svg": {
+    "md5Checksum": "e83831930f99740e1b6556c4aab41a1b",
+    "size_kb": 2
+  },
+  "images/icons/faces/scared.svg": {
+    "md5Checksum": "0d9e5d9d570750a6e0e5afff188ccf3a",
+    "size_kb": 2.1
+  },
+  "images/icons/faces/tired.svg": {
+    "md5Checksum": "978273858b64560b36bcd41d09ca3fb5",
+    "size_kb": 2.4
+  },
+  "images/icons/feather.svg": {
+    "md5Checksum": "cf69cc2e8ba1f0aa7d15366c4d8df711",
+    "size_kb": 3.5
+  },
+  "images/icons/fire.png": {
+    "md5Checksum": "bdbc8d7aacaf1c7c12ac84d3983a868d",
+    "size_kb": 0.9
+  },
+  "images/icons/football_blue.png": {
+    "md5Checksum": "54b732c820a451491d4f721907654849",
+    "size_kb": 5.1
+  },
+  "images/icons/heart.png": {
+    "md5Checksum": "1b13b88d9ec15adcdcc3c9ddd328e7c7",
+    "size_kb": 1.3
+  },
+  "images/icons/heart.svg": {
+    "md5Checksum": "3837dbad3c5c5b8158a5370064283c20",
+    "size_kb": 0.6
+  },
+  "images/icons/heart_filled.png": {
+    "md5Checksum": "40fe3a7a5cb53d31fbcb7ecd35a48f91",
+    "size_kb": 1.4
+  },
+  "images/icons/heart_filled.svg": {
+    "md5Checksum": "2af24785374bb7a74ab38d4e572722d0",
+    "size_kb": 1.4
+  },
+  "images/icons/heart_filled_active.png": {
+    "md5Checksum": "c094b3b3466523507d24588cf85de936",
+    "size_kb": 1.5
+  },
+  "images/icons/heart_filled_blue.png": {
+    "md5Checksum": "18866326a48c59aacb21fe785b55f2ae",
+    "size_kb": 4.9
+  },
+  "images/icons/heart_filled_red.png": {
+    "md5Checksum": "17607eb5fd42929420bcff99c3e7e3ff",
+    "size_kb": 1.4
+  },
+  "images/icons/home.svg": {
+    "md5Checksum": "9c992c891ce900160c3738088c497f8b",
+    "size_kb": 0.4
+  },
+  "images/icons/home_active.svg": {
+    "md5Checksum": "8704993d38482b0eb3ab261e9f18f8cf",
+    "size_kb": 0.4
+  },
+  "images/icons/hourglass_blue.png": {
+    "md5Checksum": "212669f3df366855820535a79ea8b8c5",
+    "size_kb": 4.3
+  },
+  "images/icons/in_progress.svg": {
+    "md5Checksum": "6105962bc0edd981675d874dc8a51035",
+    "size_kb": 1.1
+  },
+  "images/icons/in_progress_white.svg": {
+    "md5Checksum": "f7bdd991a067c30d0cb140d5b77745bb",
+    "size_kb": 1.1
+  },
+  "images/icons/key.svg": {
+    "md5Checksum": "8027fa87b3cb79a6e9e524f13c9e5b26",
+    "size_kb": 5.5
+  },
+  "images/icons/lightbulb_blue.png": {
+    "md5Checksum": "6e7ca1898d5485db490b4023e13339a3",
+    "size_kb": 3.6
+  },
+  "images/icons/local_library.svg": {
+    "md5Checksum": "47c32e1a451ce2e6d55661977724cb1d",
+    "size_kb": 1.6
+  },
+  "images/icons/local_library_active.svg": {
+    "md5Checksum": "32cacaa501602e12c42cbf6f9a908efd",
+    "size_kb": 1.6
+  },
+  "images/icons/lock.svg": {
+    "md5Checksum": "0626195897db0154bcbd0f9942868f60",
+    "size_kb": 0.5
+  },
+  "images/icons/locked.png": {
+    "md5Checksum": "bd17d7cf65bc1102601156d378fe867c",
+    "size_kb": 0.7
+  },
+  "images/icons/magnify_glass.svg": {
+    "md5Checksum": "632b4994884de81721e0ec7d8de41fa4",
+    "size_kb": 1.9
+  },
+  "images/icons/magnifying_glass.svg": {
+    "md5Checksum": "4aa37ded543f172aa02486aaf484c4f9",
+    "size_kb": 0.9
+  },
+  "images/icons/notification_bell.png": {
+    "md5Checksum": "fbf9c1facc6a1a99fe5140433b163903",
+    "size_kb": 0.9
+  },
+  "images/icons/parent_child.svg": {
+    "md5Checksum": "99747503b2023a185d20be8e5c7d8076",
+    "size_kb": 2
+  },
+  "images/icons/parent_child_heart.svg": {
+    "md5Checksum": "2e43755d56b1a5b1a50234cf331d5760",
+    "size_kb": 3
+  },
+  "images/icons/pause.svg": {
+    "md5Checksum": "b9a01b9c0b6ed86d47ff094f22d23c73",
+    "size_kb": 0.7
+  },
+  "images/icons/pause_white.svg": {
+    "md5Checksum": "f6989826fb94a865281b035fa155689d",
+    "size_kb": 0.7
+  },
+  "images/icons/pencil.svg": {
+    "md5Checksum": "60929813ea7aa88fc13c23abef2063a4",
+    "size_kb": 1.1
+  },
+  "images/icons/picture_book.svg": {
+    "md5Checksum": "398b07248ce7b5b59ef471466d089af4",
+    "size_kb": 1.8
+  },
+  "images/icons/play.svg": {
+    "md5Checksum": "5393d2113acd3a4b7d5f03795067a678",
+    "size_kb": 0.5
+  },
+  "images/icons/play_white.svg": {
+    "md5Checksum": "6508bf39f8cb3c3ab0f30b96994a6cbc",
+    "size_kb": 0.5
+  },
+  "images/icons/profile_card.svg": {
+    "md5Checksum": "1ebe1597828d18a8a3a331a050d1bfd6",
+    "size_kb": 7.4
+  },
+  "images/icons/question_blue.png": {
+    "md5Checksum": "58ea5fdf1296861df3b86e9e69ca80ac",
+    "size_kb": 3.4
+  },
+  "images/icons/question_mark_blue.svg": {
+    "md5Checksum": "49e1d1e478068a24949d87d09c9ba07b",
+    "size_kb": 0.8
+  },
+  "images/icons/repeat_blue.png": {
+    "md5Checksum": "b08c9ad4f2028d14df204aeec9984b22",
+    "size_kb": 5.4
+  },
+  "images/icons/settings.svg": {
+    "md5Checksum": "e4c57dd6bcaab75533160616f4ca1d39",
+    "size_kb": 2.4
+  },
+  "images/icons/settings_active.svg": {
+    "md5Checksum": "bf8d2472083667e3d651224f283da233",
+    "size_kb": 2.4
+  },
+  "images/icons/single_speech_blue.png": {
+    "md5Checksum": "87f2ce452f41009826491a6d8f430d3c",
+    "size_kb": 3.3
+  },
+  "images/icons/smile_eyes_down.svg": {
+    "md5Checksum": "3e00c1fa0db9fabcfe65d6846e833c6e",
+    "size_kb": 0.9
+  },
+  "images/icons/smile_eyes_up.svg": {
+    "md5Checksum": "0fc25de0fd953eb65f9cb4a519aee45f",
+    "size_kb": 1
+  },
+  "images/icons/spark.png": {
+    "md5Checksum": "617d164a93f957d1ca7de0871eadbe1e",
+    "size_kb": 1.6
+  },
+  "images/icons/speech_bubble_blue.png": {
+    "md5Checksum": "5f74986da01d53a810b5022e43eb2e94",
+    "size_kb": 4.2
+  },
+  "images/icons/star_filled_blue.png": {
+    "md5Checksum": "9215aa8f24e37f7fe87beebe41015f26",
+    "size_kb": 5.1
+  },
+  "images/icons/star_outline_blue.svg": {
+    "md5Checksum": "db0b8e4ba99b48681840fc6ec93144c1",
+    "size_kb": 1
+  },
+  "images/icons/star_outline_white.svg": {
+    "md5Checksum": "0f9f695561b9bd2c21944bb6dd47d704",
+    "size_kb": 1
+  },
+  "images/icons/tablet_blue.png": {
+    "md5Checksum": "6f051cbc90e44a11530648b0b57593a9",
+    "size_kb": 2.8
+  },
+  "images/icons/thought_bubble.svg": {
+    "md5Checksum": "3eeffff41e1fe5f0dc3608deee6818c0",
+    "size_kb": 2.1
+  },
+  "images/icons/tick.svg": {
+    "md5Checksum": "b4e6f1e9ba6e5bcdd2e404bc432ba745",
+    "size_kb": 0.3
+  },
+  "images/icons/tick_white.svg": {
+    "md5Checksum": "81136e04436759812dc3f6e90c61de11",
+    "size_kb": 0.3
+  },
+  "images/icons/trophy.png": {
+    "md5Checksum": "d26a0b95afa1f5a653d7656d5ebb85bd",
+    "size_kb": 1.6
+  },
+  "images/icons/trophy_active.png": {
+    "md5Checksum": "ac1ed3d8771b45eb4cad2708280f5b18",
+    "size_kb": 1.7
+  },
+  "images/icons/trophy_blue.png": {
+    "md5Checksum": "4e4dd7a753e51cba837ba2775554e9d5",
+    "size_kb": 5.1
+  },
+  "images/icons/trophy_footer.svg": {
+    "md5Checksum": "44e3f4b92df2f1ba89681adffda313dd",
+    "size_kb": 3.9
+  },
+  "images/icons/trophy_footer_active.svg": {
+    "md5Checksum": "17cbaea000b1c5078ab2513d432bb84f",
+    "size_kb": 3.9
+  },
+  "images/icons/verified.svg": {
+    "md5Checksum": "41f21e68727d9367ab32bd05f3aa30e3",
+    "size_kb": 0.5
+  },
+  "images/icons/world.svg": {
+    "md5Checksum": "8063b977998a73ce347c65c8a5ae2ded",
+    "size_kb": 6.2
+  },
+  "images/instructions.svg": {
+    "md5Checksum": "5f01ae5906b1999f33246d3c81321f5c",
+    "size_kb": 23.2
+  },
+  "images/kw_facilitator_rd.jpg": {
+    "md5Checksum": "67d9921fc5ddf4d8adc5f33cca7e38ee",
+    "size_kb": 35.2
+  },
+  "images/kw_facilitator_rd.png": {
+    "md5Checksum": "4494e2e1cb5bcd48a07b1fed2eae07b8",
+    "size_kb": 87.3
+  },
+  "images/kw_facilitator_sq.jpg": {
+    "md5Checksum": "7a7d5f375de90332fc7fc8db1b81d611",
+    "size_kb": 30
+  },
+  "images/logos/IDEMS.png": {
+    "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
+    "size_kb": 84.6
+  },
+  "images/logos/PLH.png": {
+    "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
+    "size_kb": 26.6
+  },
+  "images/logos/favicon.png": {
+    "md5Checksum": "2265c040569691441d445a1696bd5035",
+    "size_kb": 6.3
+  },
+  "images/logos/favicon.svg": {
+    "md5Checksum": "520de9c81776b48ab36d6a73f80018a9",
+    "size_kb": 8.8
+  },
+  "images/logos/kuwait.png": {
+    "md5Checksum": "b1dcf13898cef04ccbc62ef4b73a9710",
+    "size_kb": 248
+  },
+  "images/logos/plh.jpeg": {
+    "md5Checksum": "b3a2f016979cf079bd53d7e4a83c194a",
+    "size_kb": 9.4
+  },
+  "images/logos/plh_white.png": {
+    "md5Checksum": "e73f142f2fd4c4d5d66cc438699a032c",
+    "size_kb": 12.8
+  },
+  "images/onboarding/facilitator_female_onboarding_icon.svg": {
+    "md5Checksum": "fda6a8a6cbe692d4572de78aa0d8a490",
+    "size_kb": 636.4
+  },
+  "images/onboarding/facilitator_male_onboarding_icon.svg": {
+    "md5Checksum": "5d004658549efdbb74b50a15447cebea",
+    "size_kb": 459.5
+  },
+  "images/onboarding/frustrated.svg": {
+    "md5Checksum": "080dd4da64d2839e5521886d37d781fd",
+    "size_kb": 27.3
+  },
+  "images/onboarding/join_parents.svg": {
+    "md5Checksum": "f1a215d3c076e6525a5b263737f0d91e",
+    "size_kb": 116
+  },
+  "images/onboarding/loving_parent.svg": {
+    "md5Checksum": "449b9913565d147f8b3bd65746c481fa",
+    "size_kb": 46.9
+  },
+  "images/one_on_one_challenges.svg": {
+    "md5Checksum": "ee0f30adf77121b1b9f320888a0c3ad5",
+    "size_kb": 13.1
+  },
+  "images/praise.svg": {
+    "md5Checksum": "7cec0bce2a62fb6665cdcda4589ef0af",
+    "size_kb": 11.3
+  },
+  "images/problemsolving.svg": {
+    "md5Checksum": "9ec84d3021b439dfaf15ed3bfbc459c4",
+    "size_kb": 19.6
+  },
+  "images/rulesroutines.jpg": {
+    "md5Checksum": "25bb72aed0a93d7f07be680e843f3dd2",
+    "size_kb": 102.2
+  },
+  "images/selfcare.jpg": {
+    "md5Checksum": "c0cbc7d305625bc7baec4d642392e24c",
+    "size_kb": 96.6
+  },
+  "images/talk_feelings_challenges.svg": {
+    "md5Checksum": "694bc272bb2cc36de45efd3e3b259918",
+    "size_kb": 19.3
+  },
+  "lottie/bulging_circles.json": {
+    "md5Checksum": "e4a21bd55b999a816ee59d5b244c145b",
+    "size_kb": 11.8
+  },
+  "lottie/bulging_circles.txt": {
+    "md5Checksum": "3f9872e93f54ea15816c877db86a76ff",
+    "size_kb": 0.2
+  },
+  "lottie/cascading_stars.json": {
+    "md5Checksum": "131145b165cd19613a9e277a514eec2f",
+    "size_kb": 140.5
+  },
+  "lottie/checkmark.json": {
+    "md5Checksum": "2790a4c02434de5484cc904ae8ff3080",
+    "size_kb": 23.6
+  },
+  "lottie/gift_box.json": {
+    "md5Checksum": "fb4a512a2fa9005f43066ae23d73f41a",
+    "size_kb": 674.5
+  },
+  "lottie/relax/blue_dots.json": {
+    "md5Checksum": "b3786e45c415c9f00e47bccf824f90bc",
+    "size_kb": 14.7
+  },
+  "lottie/relax/heart.json": {
+    "md5Checksum": "28aa0b5c65bf540fe91c2f7da7863955",
+    "size_kb": 46.7
+  },
+  "lottie/relax/looping_rings.json": {
+    "md5Checksum": "82ec657f79d258e9301bf17a9a575043",
+    "size_kb": 10.4
+  },
+  "lottie/relax/soothing_waves.json": {
+    "md5Checksum": "18ba038728f17dcde1b7d5a0cb2c4f93",
+    "size_kb": 7.6
+  },
+  "lottie/relax/square_flow.json": {
+    "md5Checksum": "99af0f0b04114998ba20a2c2c7b7e7d6",
+    "size_kb": 5.9
+  },
+  "video/modules/connect/join_child.mp4": {
+    "md5Checksum": "9c53e2a61bb80acda41b3734f8246df8",
+    "size_kb": 10726.2
+  },
+  "video/modules/connect/shared_reading.mp4": {
+    "md5Checksum": "238541c3566e61ebf6f88079f9beb4d5",
+    "size_kb": 36376.3
+  },
+  "videos/pause/body_scan.mp4": {
+    "md5Checksum": "1984a742ab98962da9608a291254f99d",
+    "size_kb": 10418.6
+  },
+  "videos/pause/breath_body_awareness.mp4": {
+    "md5Checksum": "852fcd6b35f85c2211a0512fdbba2f67",
+    "size_kb": 27250
+  },
+  "videos/pause/loving_kindness_meditation.mp4": {
+    "md5Checksum": "bd969b0d7fe138cbeee2d8d1d7b03f23",
+    "size_kb": 16605.2
+  }
+}

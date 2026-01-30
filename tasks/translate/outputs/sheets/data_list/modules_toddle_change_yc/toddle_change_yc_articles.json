@@ -1,0 +1,283 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "toddle_change_yc_articles",
+  "data_list_name": "toddle_change_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_toddle_change_yc",
+  "module": "toddle_change_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "This skill is about helping you support your child’s healthy development as they grow and change. ✨",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "This skill is about helping you support your child’s healthy development as they grow and change. ✨"
+        },
+        "text_2": {
+          "eng": "Children have different abilities at different stages of their development. 🌱\n\nIt is important to know what your child can do at their current stage. ⚽\n\nThis way, you can plan activities that match their abilities and helps you have realistic goals for them. ✨"
+        }
+      },
+      "text_2": "Children have different abilities at different stages of their development. 🌱\n\nIt is important to know what your child can do at their current stage. ⚽\n\nThis way, you can plan activities that match their abilities and helps you have realistic goals for them. ✨"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let's do a quick quiz!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's do a quick quiz!"
+        },
+        "quiz_1_question": {
+          "eng": "True or False: All children develop at the same speed as each other."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
+        },
+        "quiz_2_question": {
+          "eng": "Let’s now think about how children learn by doing. What do you think - True or False: It is OK to let your child continue trying to do something a few times even if they are not doing it correctly."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "✨ That’s correct! \n\n🚲 Your child wants to learn and we should support them to continue trying, even if they get it wrong.\n\n⭐ Praise them for persisting! your child will feel supported. Effort is more important than being good at something."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "❌ That’s incorrect. \n\n🚲 Your child wants to learn and we should support them to continue trying, even if they get it wrong.\n\n⭐ Praise them for wanting to try! your child will feel supported. Effort is more important than being good at something."
+        }
+      },
+      "quiz_1_question": "True or False: All children develop at the same speed as each other.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
+      "quiz_2_question": "Let’s now think about how children learn by doing. What do you think - True or False: It is OK to let your child continue trying to do something a few times even if they are not doing it correctly.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "✨ That’s correct! \n\n🚲 Your child wants to learn and we should support them to continue trying, even if they get it wrong.\n\n⭐ Praise them for persisting! your child will feel supported. Effort is more important than being good at something.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "❌ That’s incorrect. \n\n🚲 Your child wants to learn and we should support them to continue trying, even if they get it wrong.\n\n⭐ Praise them for wanting to try! your child will feel supported. Effort is more important than being good at something."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/toddler_change_yc_1.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_2",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f1_daughter_2.name and her father, @data.characters.f1_father.name are spending time together. Let’s see how @data.characters.f1_father.name encourages his daughter to keep on trying:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f1_daughter_2.name and her father, @data.characters.f1_father.name are spending time together. Let’s see how @data.characters.f1_father.name encourages his daughter to keep on trying:"
+        },
+        "character_1_text": {
+          "eng": "@data.characters.f1_daughter_2.name, I have 5 minutes to spend some time with you. What would you like to do?"
+        },
+        "character_2_text": {
+          "eng": "Let’s play with the ball outside, Ayah!"
+        }
+      },
+      "character_1_text": "@data.characters.f1_daughter_2.name, I have 5 minutes to spend some time with you. What would you like to do?",
+      "character_2_text": "Let’s play with the ball outside, Ayah!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/toddler_change_yc_2.svg",
+      "character_1_id": "f1_daughter_2",
+      "character_2_id": "f1_father",
+      "nested": false,
+      "character_1_text": "I’m not good at this…",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I’m not good at this…"
+        },
+        "character_2_text": {
+          "eng": "I can see that you are upset, @data.characters.f1_daughter_2.name. It’s not easy but let’s practise a little bit more. I know you can do it! Come, let’s try again."
+        }
+      },
+      "character_2_text": "I can see that you are upset, @data.characters.f1_daughter_2.name. It’s not easy but let’s practise a little bit more. I know you can do it! Come, let’s try again."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/toddler_change_yc_3.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_2",
+      "nested": false,
+      "character_1_text": "Five catches in a row! You seem really proud to have made it to five, @data.characters.f1_daughter_2.name!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Five catches in a row! You seem really proud to have made it to five, @data.characters.f1_daughter_2.name!"
+        },
+        "character_2_text": {
+          "eng": "I did it! Let’s try 10!"
+        }
+      },
+      "character_2_text": "I did it! Let’s try 10!"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/toddler_change_yc_4.svg",
+      "character_1_id": "f1_father",
+      "nested": false,
+      "character_1_text": "You did so well, @data.characters.f1_daughter_2.name! I am very happy to spend this special time with you.",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "You did so well, @data.characters.f1_daughter_2.name! I am very happy to spend this special time with you."
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:"
+        }
+      }
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "nested": false,
+      "section_1_title": "BE PATIENT",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "BE PATIENT"
+        },
+        "section_1_text": {
+          "eng": "⏰ Learning new things takes time. your child may struggle at first - and that’s OK! With time and practise, they will succeed. \n⭐ You can also help by breaking large tasks into smaller ones, and with words of encouragement.\n🌷 your child may have big emotions. This is OK! In time, your child will learn to manage their emotions."
+        },
+        "section_2_title": {
+          "eng": "EXPLORE SAFELY"
+        },
+        "section_2_text": {
+          "eng": "🚲 As your child grows, they will become more curious. Let them explore while you keep an eye on their safety! 🌱 If your child wants to do tasks on their own, such as tying their own shoelaces or combing their own hair, you can teach them and help them do it safely."
+        },
+        "section_3_title": {
+          "eng": "ENCOURAGE SHARING"
+        },
+        "section_3_text": {
+          "eng": "🧸 your child may not like to lose or take turns, but sharing can be taught, especially through play!\n🏆 Praise your child when they share their things with others."
+        }
+      },
+      "section_1_text": "⏰ Learning new things takes time. your child may struggle at first - and that’s OK! With time and practise, they will succeed. \n⭐ You can also help by breaking large tasks into smaller ones, and with words of encouragement.\n🌷 your child may have big emotions. This is OK! In time, your child will learn to manage their emotions.",
+      "section_2_title": "EXPLORE SAFELY",
+      "section_2_text": "🚲 As your child grows, they will become more curious. Let them explore while you keep an eye on their safety! 🌱 If your child wants to do tasks on their own, such as tying their own shoelaces or combing their own hair, you can teach them and help them do it safely.",
+      "section_3_title": "ENCOURAGE SHARING",
+      "section_3_text": "🧸 your child may not like to lose or take turns, but sharing can be taught, especially through play!\n🏆 Praise your child when they share their things with others."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

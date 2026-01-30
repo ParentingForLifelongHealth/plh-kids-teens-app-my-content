@@ -1,0 +1,225 @@
+{
+  "flow_name": "ipv_equals_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Welcome back! Today’s skill is about how you and your spouse can set an example for your children by creating respect at home. 💙 \n\nFamily and friends might have their own ideas about how you should act as a spouse or a parent.❗\n\nBut what matters most is how both husband and wife choose to talk to and support each other, and make decisions together and respectfully. 🔄",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Welcome back! Today’s skill is about how you and your spouse can set an example for your children by creating respect at home. 💙 \n\nFamily and friends might have their own ideas about how you should act as a spouse or a parent.❗\n\nBut what matters most is how both husband and wife choose to talk to and support each other, and make decisions together and respectfully. 🔄"
+        },
+        "text_2": {
+          "eng": "Treating each other with respect and making decisions together can have a big impact on how you feel and can help keep your child feel safe. 💚😃"
+        }
+      },
+      "text_2": "Treating each other with respect and making decisions together can have a big impact on how you feel and can help keep your child feel safe. 💚😃",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Think about working as a team! Try this.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Think about working as a team! Try this."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Important decisions that impact the whole family or the relationship should only be made by one spouse."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ Incorrect. \n\n🔑 When making big decisions that impact the whole family or relationship, it is important for spouses to practise making decisions together."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 You are right! \n\n🔑 Communicating and making big decisions together with our spouse is an important part of having a respectful relationship."
+        }
+      },
+      "quiz_1_question": "True or False: Important decisions that impact the whole family or the relationship should only be made by one spouse.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ Incorrect. \n\n🔑 When making big decisions that impact the whole family or relationship, it is important for spouses to practise making decisions together.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉 You are right! \n\n🔑 Communicating and making big decisions together with our spouse is an important part of having a respectful relationship.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s observe how couples can value each other’s opinions and make decisions together:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s observe how couples can value each other’s opinions and make decisions together:"
+        },
+        "character_1_text": {
+          "eng": "My dear, you look worried. What’s wrong?"
+        }
+      },
+      "image_asset": "images/yc_modules/ipv_equals_1.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "My dear, you look worried. What’s wrong?",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "The stove has not been working very well recently. I think the stove might be broken."
+        },
+        "character_2_text": {
+          "eng": "I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?"
+        }
+      },
+      "image_asset": "images/yc_modules/ipv_equals_2.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text": "The stove has not been working very well recently. I think the stove might be broken.",
+      "character_2_id": "f1_father",
+      "character_2_text": "I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?"
+        },
+        "character_2_text": {
+          "eng": "That sounds great. Thank you for cooking dinner, my dear!"
+        }
+      },
+      "image_asset": "images/yc_modules/ipv_equals_3.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text": "Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?",
+      "character_2_id": "f1_father",
+      "character_2_text": "That sounds great. Thank you for cooking dinner, my dear!",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first."
+        },
+        "character_2_text": {
+          "eng": "Me too. I feel a lot better now that we have talked about it together."
+        }
+      },
+      "image_asset": "images/yc_modules/ipv_equals_4.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first.",
+      "character_2_id": "f1_mother",
+      "character_2_text": "Me too. I feel a lot better now that we have talked about it together.",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "SHARE DECISION MAKING"
+        },
+        "section_1_text": {
+          "eng": "💡 Involve your spouse in decision making processes.\n💙 Try this the next time you are making a decision."
+        },
+        "section_2_title": {
+          "eng": "ASK THEM WHAT THEY THINK"
+        },
+        "section_2_text": {
+          "eng": "😃 It can be hard to know how to involve your spouse when making a decision. \n✨ You can try by asking them what they think. \n💚 This shows them you care and want them to be involved."
+        },
+        "section_3_title": {
+          "eng": "TIMING MAKES A DIFFERENCE"
+        },
+        "section_3_text": {
+          "eng": "⏰ Choose a time when you and your spouse are not too busy to discuss decisions, such as early in the morning or later in the evening."
+        },
+        "section_4_title": {
+          "eng": "PRACTICE MAKES PERFECT"
+        },
+        "section_4_text": {
+          "eng": "⏰ It can take time to get used to making decisions together. \n🔄 Give yourself time and keep trying! \n😃 By communicating with your spouse, you’ll both feel more comfortable talking and sharing decisions over time."
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "SHARE DECISION MAKING",
+      "section_1_text": "💡 Involve your spouse in decision making processes.\n💙 Try this the next time you are making a decision.",
+      "section_2_title": "ASK THEM WHAT THEY THINK",
+      "section_2_text": "😃 It can be hard to know how to involve your spouse when making a decision. \n✨ You can try by asking them what they think. \n💚 This shows them you care and want them to be involved.",
+      "section_3_title": "TIMING MAKES A DIFFERENCE",
+      "section_3_text": "⏰ Choose a time when you and your spouse are not too busy to discuss decisions, such as early in the morning or later in the evening.",
+      "section_4_title": "PRACTICE MAKES PERFECT",
+      "section_4_text": "⏰ It can take time to get used to making decisions together. \n🔄 Give yourself time and keep trying! \n😃 By communicating with your spouse, you’ll both feel more comfortable talking and sharing decisions over time.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Your home activity for today is to involve your spouse in a decision you are making today. Can you do it? ⏰⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done! Communicating and working together with your spouse makes a difference! 🎉"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "It can take time to get used to making decisions together. Give yourself time to adjust. ⏰\n\nRemember that by communicating with your spouse and involving them in decision-making, they will start to feel more comfortable doing so too. ⭐"
+        }
+      },
+      "quiz_1_question": "Your home activity for today is to involve your spouse in a decision you are making today. Can you do it? ⏰⭐",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Well done! Communicating and working together with your spouse makes a difference! 🎉",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "It can take time to get used to making decisions together. Give yourself time to adjust. ⏰\n\nRemember that by communicating with your spouse and involving them in decision-making, they will start to feel more comfortable doing so too. ⭐",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

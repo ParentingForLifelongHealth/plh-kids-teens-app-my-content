@@ -1,0 +1,31 @@
+{
+  "flow_type": "generator",
+  "flow_name": "ipv_sharing_article_gen",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "ipv_sharing_articles",
+    "output_flow_name": "article_ipv_sharing_@gen.id",
+    "output_flow_type": "template"
+  },
+  "module_id": "ipv_sharing",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "article",
+      "value": "article",
+      "action_list": "completed | emit: completed; uncompleted | emit: uncompleted"
+    },
+    {
+      "name": "article_id",
+      "value": "@gen.id"
+    },
+    {
+      "name": "module_id",
+      "value": "ipv_sharing",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template"
+    }
+  ]
+}

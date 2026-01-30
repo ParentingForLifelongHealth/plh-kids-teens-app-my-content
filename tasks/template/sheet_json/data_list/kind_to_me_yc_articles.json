@@ -1,0 +1,86 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "kind_to_me_yc_articles",
+  "data_list_name": "kind_to_me_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_kind_to_me_yc",
+  "module": "kind_to_me_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how self-kindness can help improve your relationship with your child. ☀️ \n\nImagine your friend is feeling bad about making a big mistake. 😣 How would you talk to them?",
+      "text_2::eng": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others It also help us deal with hard things. "
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Sometimes we experience a lot of emotions and feelings, especially when caring for others. How should we manage them? ",
+      "quiz_1_question::eng": "True or False: It is okay to ignore my negative emotions because my feelings don’t really matter if whatever I am doing is for the good of the family.",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "❌ That’s incorrect. Your feelings do matter. \n\n💙 It is important to notice and accept your negative emotions. Then, you will be able to tell yourself it’s OK and be kind to yourself. \n\n🌷 When you are kind to yourself, you will be kind to others, including your family.",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "🎁 That’s correct! Your feelings do matter! \n\n💙 It is important to notice and accept your negative emotions. Then, you will be able to tell yourself it’s OK and be kind to yourself. \n\n🌷 When you are kind to yourself, you will be kind to others, including your family."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "@data.characters.f3_mother.name is a single mother of young children. She often feels that between work, parenting, and managing the home, she does not have enough time for her children. She wants to spend more time with @data.characters.f3_son_7.name, her middle child.",
+      "image_asset": "images/yc_modules/kind_to_myself_yc_1.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "What is it, @data.characters.f3_son_7.name? Are you okay?",
+      "character_2_id": "f3_son_7",
+      "character_2_text::eng": "All my friends in class had a parent attend our school performance today and you were not there! I hate that you have to work all the time. It is not fair!\""
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/kind_to_myself_yc_2.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "(Thinking...)\n\n- I’m trying my best.\n- Trying to make ends meet and raise three children alone is very difficult.\n- Other parents find this hard too. I’m not alone.\n- This is not the last school performance. There will be other opportunities to show up for @data.characters.f3_son_7.name.\n- Things have been very difficult lately, and I need to take some time out to look after myself."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/kind_to_myself_yc_3.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "My @data.characters.f3_son_7.name, you practised so hard for this performance. I am sorry I could not get out of work. Can you give me my own performance after dinner? I want to see how brilliant you are!",
+      "character_2_id": "f3_son_7",
+      "character_2_text::eng": "I will try, Mama, but I still wish you were there."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "3️⃣ Here are three steps to help you be kind to yourself: NOTICE, SAY IT’S OKAY, BE KIND.",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "NOTICE",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "😣 Sometimes, it seems easier to ignore negative feelings.\n❗But ignoring them only means they will come up later or get worse!\n🚩 When you feel any negative emotion, notice what you are feeling. \n⭐ It can be helpful to name this feeling for yourself.",
+      "section_2_title::eng": "SAY IT'S OK",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "🛑 Take a pause or a few deep breaths.\n💛 Say to yourself, “It’s OK,” because it is OK to have negative feelings. Everyone does sometimes!\n😔 These feelings come up for a good reason and can tell us something. It really is OK!",
+      "section_3_title::eng": "BE KIND",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "💚 When you notice these feelings, it’s important to be kind and patient with yourself.\n🎁 Think about what kind of advice your friend or family member might give you now."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "⏰ Take a moment to practise taking a pause today. \n🏅 The more you practise, the easier it will become. \nCan you do it today?",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "That’s great! It’s important to practise self care so we are able to deal with hard things that happen.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "That’s OK, it can be hard to set aside time. 😣"
+    }
+  ]
+}

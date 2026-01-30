@@ -1,0 +1,304 @@
+{
+  "flow_name": "family_rules_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s skill is about creating family rules and guidelines with your child.⏰⭐",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today’s skill is about creating family rules and guidelines with your child.⏰⭐"
+        },
+        "text_2": {
+          "eng": "Having rules in the family can help our children stay safe from danger, both at home and in the community.🌷\n\nInvolving your child in making these rules will make it more likely for them to follow. ⭐"
+        }
+      },
+      "text_2": "Having rules in the family can help our children stay safe from danger, both at home and in the community.🌷\n\nInvolving your child in making these rules will make it more likely for them to follow. ⭐",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Here’s a quick question for you:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here’s a quick question for you:"
+        },
+        "quiz_1_question": {
+          "eng": "True or false: Family rules should be set by the parents because our children are too young to decide for themselves."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⭐ That’s correct! \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule."
+        },
+        "quiz_2_question": {
+          "eng": "Setting limits is also important for children. What do you think about this one?\nSetting limits through household rules, daily routines, and healthy living is bad for your child because you are not allowing them to think on their own."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "❌ Incorrect. \n\n💚 When you set reasonable limits with your child, you are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely.\n\n🧸 Setting reasonable limits with your child is a good form of positive discipline."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "⭐ You are right! \n\n💚 Setting reasonable limits with your child is a good form of positive discipline. \n\n🧸 You are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely."
+        }
+      },
+      "quiz_1_question": "True or false: Family rules should be set by the parents because our children are too young to decide for themselves.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule.",
+      "quiz_2_question": "Setting limits is also important for children. What do you think about this one?\nSetting limits through household rules, daily routines, and healthy living is bad for your child because you are not allowing them to think on their own.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "❌ Incorrect. \n\n💚 When you set reasonable limits with your child, you are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely.\n\n🧸 Setting reasonable limits with your child is a good form of positive discipline.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "⭐ You are right! \n\n💚 Setting reasonable limits with your child is a good form of positive discipline. \n\n🧸 You are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f1_son_5.name is spending too much time watching TV before his homework is finished. Let’s see how his mother, @data.characters.f1_mother.name, helps him create a family rule about this:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f1_son_5.name is spending too much time watching TV before his homework is finished. Let’s see how his mother, @data.characters.f1_mother.name, helps him create a family rule about this:"
+        },
+        "character_1_text": {
+          "eng": "It is important to finish your homework so you can do well in school. Let’s make a rule about watching TV."
+        },
+        "character_2_text": {
+          "eng": "Do I have to? I want to watch TV now."
+        }
+      },
+      "image_asset": "images/yc_modules/create_family_rules_yc_1.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_son_5",
+      "character_1_text": "It is important to finish your homework so you can do well in school. Let’s make a rule about watching TV.",
+      "character_2_text": "Do I have to? I want to watch TV now.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I know it’s hard, but what do you think would be a fair rule?"
+        },
+        "character_2_text": {
+          "eng": "Ummm… maybe I can watch TV as much as I want, but only after I do my homework."
+        }
+      },
+      "image_asset": "images/yc_modules/create_family_rules_yc_2.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_son_5",
+      "character_1_text": "I know it’s hard, but what do you think would be a fair rule?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Ummm… maybe I can watch TV as much as I want, but only after I do my homework.",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I like that idea, but let’s limit it to 1 hour per day. How does that sound?"
+        },
+        "character_2_text": {
+          "eng": "Only one hour? That’s not much. Fine…"
+        }
+      },
+      "image_asset": "images/yc_modules/create_family_rules_yc_3.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_son_5",
+      "character_1_text": "I like that idea, but let’s limit it to 1 hour per day. How does that sound?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Only one hour? That’s not much. Fine…",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you for doing your homework before watching TV, @data.characters.f1_son_5.name. Your marks have improved, too! I am proud of you! We can increase your time to an hour and a half each day… as long as you still do your homework first!"
+        },
+        "character_2_text": {
+          "eng": "Really?? Thank you, Ibu!!"
+        }
+      },
+      "image_asset": "images/yc_modules/create_family_rules_yc_4.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_son_5",
+      "character_1_text": "Thank you for doing your homework before watching TV, @data.characters.f1_son_5.name. Your marks have improved, too! I am proud of you! We can increase your time to an hour and a half each day… as long as you still do your homework first!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Really?? Thank you, Ibu!!",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four easy tips to help you make family rules with your child:",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four easy tips to help you make family rules with your child:"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "BE A TEAM"
+        },
+        "section_1_text": {
+          "eng": "📝 Create rules with your child. You can write these down or use pictures when needed to help your Child understand.\n⏸ Make one rule at a time.\n🔑 Talk about why the rule is important.\n👂 Listen to what your child thinks too."
+        },
+        "section_2_title": {
+          "eng": "KEEP IT REAL"
+        },
+        "section_2_text": {
+          "eng": "⭐ Be realistic: make rules that your child can actually do.\n📖 Be clear and specific about what you want.\n✅ Make sure the rule is fair and explain why it is needed."
+        },
+        "section_3_title": {
+          "eng": "BE CONSISTENT"
+        },
+        "section_3_text": {
+          "eng": "🔄 Stick to the rule once it has been set. \n⬆️ your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too."
+        },
+        "section_4_title": {
+          "eng": "PRAISE, PRAISE, PRAISE"
+        },
+        "section_4_text": {
+          "eng": "⭐ Praise your child for helping make the rule. \n😃 Praise your child when they follow the rule, just like you do when they behave well!"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "BE A TEAM",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_text": "📝 Create rules with your child. You can write these down or use pictures when needed to help your Child understand.\n⏸ Make one rule at a time.\n🔑 Talk about why the rule is important.\n👂 Listen to what your child thinks too.",
+      "section_2_title": "KEEP IT REAL",
+      "section_2_text": "⭐ Be realistic: make rules that your child can actually do.\n📖 Be clear and specific about what you want.\n✅ Make sure the rule is fair and explain why it is needed.",
+      "section_3_title": "BE CONSISTENT",
+      "section_3_text": "🔄 Stick to the rule once it has been set. \n⬆️ your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too.",
+      "section_4_title": "PRAISE, PRAISE, PRAISE",
+      "section_4_text": "⭐ Praise your child for helping make the rule. \n😃 Praise your child when they follow the rule, just like you do when they behave well!",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "For today’s home activity, can you create at least one family rule with your child? 📝"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂"
+        }
+      },
+      "quiz_1_question": "For today’s home activity, can you create at least one family rule with your child? 📝",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

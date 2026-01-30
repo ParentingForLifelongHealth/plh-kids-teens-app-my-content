@@ -1,0 +1,233 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "safe_6to9_yc_articles",
+  "data_list_name": "safe_6to9_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_safe_6to9_yc",
+  "module": "safe_6to9_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s skill is about teaching your child about ✅ safe and ❌ unsafe touch.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today’s skill is about teaching your child about ✅ safe and ❌ unsafe touch."
+        },
+        "text_2": {
+          "eng": "😔 It is normal to feel uncomfortable about talking to children about abuse. \n\n💡 But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. \n\n🔑 It lets them know that they are in control of who can touch their body and in what way. \n\n🌷 This prepares them to keep themselves safe throughout their lives!"
+        }
+      },
+      "text_2": "😔 It is normal to feel uncomfortable about talking to children about abuse. \n\n💡 But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. \n\n🔑 It lets them know that they are in control of who can touch their body and in what way. \n\n🌷 This prepares them to keep themselves safe throughout their lives!"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "It is important to learn how to respond in these conversations.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It is important to learn how to respond in these conversations."
+        },
+        "quiz_1_question": {
+          "eng": "If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Say they shouldn’t talk about those body parts"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Appreciate them for being brave to share with you and report the person if necessary"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⭐ That’s right. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Tell them not to lie about things like this | Go and shout at the person who did it"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
+        }
+      },
+      "quiz_1_question": "If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:",
+      "quiz_1_option_1_text": "Say they shouldn’t talk about those body parts",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
+      "quiz_1_option_2_text": "Appreciate them for being brave to share with you and report the person if necessary",
+      "quiz_1_feedback_2": "⭐ That’s right. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
+      "quiz_1_option_3_text": "Tell them not to lie about things like this | Go and shout at the person who did it",
+      "quiz_1_feedback_3": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/safe_touch_6to9_yc_1.svg",
+      "nested": false,
+      "text_1_facilitator": "Here’s a story about a time @data.characters.f2_daughter_8.name felt unsafe about someone touching her.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here’s a story about a time @data.characters.f2_daughter_8.name felt unsafe about someone touching her."
+        }
+      }
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/safe_touch_6to9_yc_2.svg",
+      "character_1_id": "f2_daughter_8",
+      "character_2_id": "f2_grandmother",
+      "nested": false,
+      "character_1_text": "@data.characters.f2_daughter_8.name: (Tearing up) Paati, Uncle gives very long hugs! I don’t like them.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f2_daughter_8.name: (Tearing up) Paati, Uncle gives very long hugs! I don’t like them."
+        },
+        "character_2_text": {
+          "eng": "Oh dear, @data.characters.f2_daughter_8.name, that is not OK. Thank you for telling me about it, that is not okay."
+        }
+      },
+      "character_2_text": "Oh dear, @data.characters.f2_daughter_8.name, that is not OK. Thank you for telling me about it, that is not okay."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/safe_touch_6to9_yc_3.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_daughter_8",
+      "nested": false,
+      "character_1_text": "If he ever tries to give you a hug again, you can tell him, “No, let’s rather shake hands,” and tell me straight away. Shall we practise?",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "If he ever tries to give you a hug again, you can tell him, “No, let’s rather shake hands,” and tell me straight away. Shall we practise?"
+        },
+        "character_2_text": {
+          "eng": "(Practising) No, let’s rather shake hands, please."
+        }
+      },
+      "character_2_text": "(Practising) No, let’s rather shake hands, please."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/safe_touch_6to9_yc_4.svg",
+      "character_1_id": "f2_grandmother",
+      "character_2_id": "f2_daughter_8",
+      "nested": false,
+      "character_1_text": "Well done, @data.characters.f2_daughter_8.name. I love you very much and I’m so glad you spoke to me about it. If Uncle makes you feel uncomfortable again, you must tell me immediately. You should always feel safe and comfortable with the people around you.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Well done, @data.characters.f2_daughter_8.name. I love you very much and I’m so glad you spoke to me about it. If Uncle makes you feel uncomfortable again, you must tell me immediately. You should always feel safe and comfortable with the people around you."
+        },
+        "character_2_text": {
+          "eng": "Thank you, Paati. I’m glad I can tell you about these things."
+        }
+      },
+      "character_2_text": "Thank you, Paati. I’m glad I can tell you about these things."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛"
+        }
+      }
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_5_icon_asset": "images/icons/diamond_blue.png",
+      "nested": false,
+      "section_1_title": "BE HONEST",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "BE HONEST"
+        },
+        "section_1_text": {
+          "eng": "✅ If your child knows how their body works and where people should and should not touch them, they can make safer choices throughout their lives.\n🔑 Answer any questions your child has honestly. These could be about any part of their own body or that of the other sex - even private parts!\n💚 This teaches them it is safe to ask about the body, which means they will learn more and stay safer.\n👀 Teaching your child about their whole body, even when young, means they will know how to talk about it if anything happens that they feel is unsafe."
+        },
+        "section_2_title": {
+          "eng": "“NO” IS OK!"
+        },
+        "section_2_text": {
+          "eng": "❌ Tell your child that they are always allowed to say no to someone touching them. This is true even for things like hugs!\n👑 This teaches your child that they are always in control of who they allow to touch them so they can make safe choices throughout their lives, in any situation.\n🚩 Practise saying “No, please don’t do that” and “No! Stop!” with your child, so they know how to do it if they need to."
+        },
+        "section_3_title": {
+          "eng": "GET AWAY"
+        },
+        "section_3_text": {
+          "eng": "🚲 Always teach your child how to get away from any situation where they feel uncomfortable. \n🚩 In most of the cases, offenders are rarely strangers to the child. They are usually known to the child and/or caregivers.\n❗ They frequently form a trusting relationship with a child and initially engage in physical activities like wrestling, touching or giving a massage. This is to get the child comfortable with touch.\n🌷 It will not be as easy for the child to get away from such situations, but teaching them how to leave when they feel uncomfortable will help."
+        },
+        "section_4_title": {
+          "eng": "TELL AN ADULT"
+        },
+        "section_4_text": {
+          "eng": "🔴 Tell your child that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust.\n👂 If your child tells you about something that has happened, listen openly and tell them they were right to tell you. Then, take steps to keep them safe."
+        },
+        "section_5_title": {
+          "eng": "GET HELP"
+        },
+        "section_5_text": {
+          "eng": "💛If you need help to be a better support for your child, you can refer to the library for more resources."
+        }
+      },
+      "section_1_text": "✅ If your child knows how their body works and where people should and should not touch them, they can make safer choices throughout their lives.\n🔑 Answer any questions your child has honestly. These could be about any part of their own body or that of the other sex - even private parts!\n💚 This teaches them it is safe to ask about the body, which means they will learn more and stay safer.\n👀 Teaching your child about their whole body, even when young, means they will know how to talk about it if anything happens that they feel is unsafe.",
+      "section_2_title": "“NO” IS OK!",
+      "section_2_text": "❌ Tell your child that they are always allowed to say no to someone touching them. This is true even for things like hugs!\n👑 This teaches your child that they are always in control of who they allow to touch them so they can make safe choices throughout their lives, in any situation.\n🚩 Practise saying “No, please don’t do that” and “No! Stop!” with your child, so they know how to do it if they need to.",
+      "section_3_title": "GET AWAY",
+      "section_3_text": "🚲 Always teach your child how to get away from any situation where they feel uncomfortable. \n🚩 In most of the cases, offenders are rarely strangers to the child. They are usually known to the child and/or caregivers.\n❗ They frequently form a trusting relationship with a child and initially engage in physical activities like wrestling, touching or giving a massage. This is to get the child comfortable with touch.\n🌷 It will not be as easy for the child to get away from such situations, but teaching them how to leave when they feel uncomfortable will help.",
+      "section_4_title": "TELL AN ADULT",
+      "section_4_text": "🔴 Tell your child that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust.\n👂 If your child tells you about something that has happened, listen openly and tell them they were right to tell you. Then, take steps to keep them safe.",
+      "section_5_title": "GET HELP",
+      "section_5_text": "💛If you need help to be a better support for your child, you can refer to the library for more resources."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "For today’s home activity, talk to your child about saying no to unwanted or unsafe touch. ❌ Help them practise saying, “No, don’t do that!” and remind them to tell an adult if it happens. \n\nCan you do this with your child today? ⏰",
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "For today’s home activity, talk to your child about saying no to unwanted or unsafe touch. ❌ Help them practise saying, “No, don’t do that!” and remind them to tell an adult if it happens. \n\nCan you do this with your child today? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

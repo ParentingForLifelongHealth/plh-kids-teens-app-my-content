@@ -1,0 +1,869 @@
+{
+  "flow_name": "activity_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "cooking_with_maths",
+      "image_asset": "images/activities/cooking_with_maths.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "attached_single_doc": "https://docs.google.com/document/d/1isz6yEtKBdV4_ssx3kEOeL1VogPbrCvpGzEghPtpTuE",
+      "title": "Cooking with Maths",
+      "_translatedFields": {
+        "title": {
+          "eng": "Cooking with Maths"
+        },
+        "intro_text": {
+          "eng": "Cooking can help your child start learning maths!\n💚 Invite your child to help you cook for your family, or to choose something they would like to cook"
+        },
+        "steps_text": {
+          "eng": "🍅 Ask your child to count different ingredients. Help them if it’s difficult!\n\n🔟 Help your child to understand adding and subtracting quantities \n\n📝 Encourage your child to recognise numbers on packaging\n\n 👀 Ask your child about the different sizes of ingredients - e.g. which is bigger/biggest?"
+        },
+        "tips_text": {
+          "eng": "🔄 Think about when you will cook together again! You can also practise understanding numbers and quantities during other activities like shopping or building/making things"
+        }
+      },
+      "intro_text": "Cooking can help your child start learning maths!\n💚 Invite your child to help you cook for your family, or to choose something they would like to cook",
+      "steps_text": "🍅 Ask your child to count different ingredients. Help them if it’s difficult!\n\n🔟 Help your child to understand adding and subtracting quantities \n\n📝 Encourage your child to recognise numbers on packaging\n\n 👀 Ask your child about the different sizes of ingredients - e.g. which is bigger/biggest?",
+      "tips_text": "🔄 Think about when you will cook together again! You can also practise understanding numbers and quantities during other activities like shopping or building/making things",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "follow_instructions",
+      "image_asset": "images/activities/follow_instructions.svg",
+      "activity_group_list": [
+        "calm",
+        "quick",
+        "group"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "Following Instructions",
+      "_translatedFields": {
+        "title": {
+          "eng": "Following Instructions"
+        },
+        "intro_text": {
+          "eng": "👂 Play a game in which your child listens to and tries to remember strings of instructions.\nThis will be useful in school, at home, and later in life!"
+        },
+        "steps_text": {
+          "eng": "Start with just one instruction using an object in your home. For example “touch the red ball” 🔴\n\nSlowly add more instructions (e.g “then pick up the cup ☕), but tell your child that they can only start once you’ve finished giving the instructions.\nSee how many your child can follow without forgetting!\n\n🔄 Now swap roles! It’s your child’s turn to give you instructions! They can use the same objects if they want.\nYou can also try this game with a group of children! Make sure they take turns :)"
+        }
+      },
+      "intro_text": "👂 Play a game in which your child listens to and tries to remember strings of instructions.\nThis will be useful in school, at home, and later in life!",
+      "steps_text": "Start with just one instruction using an object in your home. For example “touch the red ball” 🔴\n\nSlowly add more instructions (e.g “then pick up the cup ☕), but tell your child that they can only start once you’ve finished giving the instructions.\nSee how many your child can follow without forgetting!\n\n🔄 Now swap roles! It’s your child’s turn to give you instructions! They can use the same objects if they want.\nYou can also try this game with a group of children! Make sure they take turns :)",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "one_on_one_time",
+      "image_asset": "images/activities/one_on_one_time.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "One-on-One Time",
+      "_translatedFields": {
+        "title": {
+          "eng": "One-on-One Time"
+        },
+        "intro_text": {
+          "eng": "💚 Spending time just with your child and taking an interest in them can improve your relationship"
+        },
+        "steps_text": {
+          "eng": "👀 When you child is playing alone or occupying themselves quietly, join them and show interest in what they are doing\n\n👂Ask questions about their activity, and listen to them\n\nLet your child lead the activity, follow them to build their confidence and autonomy 😃\n\n👀 Say what you see - describing everything and supporting your child’s actions"
+        },
+        "tips_text": {
+          "eng": "Be positive, praise your child, and enjoy spending this time with them 😃💚"
+        }
+      },
+      "intro_text": "💚 Spending time just with your child and taking an interest in them can improve your relationship",
+      "steps_text": "👀 When you child is playing alone or occupying themselves quietly, join them and show interest in what they are doing\n\n👂Ask questions about their activity, and listen to them\n\nLet your child lead the activity, follow them to build their confidence and autonomy 😃\n\n👀 Say what you see - describing everything and supporting your child’s actions",
+      "tips_text": "Be positive, praise your child, and enjoy spending this time with them 😃💚",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "play_books_4to6",
+      "image_asset": "images/activities/play_books_4to6.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "title": "Playtime with Books",
+      "_translatedFields": {
+        "title": {
+          "eng": "Playtime with Books"
+        },
+        "intro_text": {
+          "eng": "📖 Book sharing will help your child learn and is a fun, playful activity to spend quality time together"
+        },
+        "steps_text": {
+          "eng": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones\n\n📖 If your child wants to choose a book, that’s fine, otherwise choose for them\n\n💚 Sit close together and follow your child attention and lead \nPoint at things, name and repeat words. Help your child learn more about what interests them in the book 👀 \nIf there are words or numbers in the book, ask and help your child recognise letters numbers, and simple words 💡 \n\nLink things in the books to your child life, and use words about emotions and talk about them! 😃"
+        },
+        "tips_text": {
+          "eng": "🔄 If possible, start a regular routine to read together when your child isn’t too tired or hungry\nReading together is one of the best ways to help your child learn and prepare for success in school! 🎓"
+        }
+      },
+      "intro_text": "📖 Book sharing will help your child learn and is a fun, playful activity to spend quality time together",
+      "steps_text": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones\n\n📖 If your child wants to choose a book, that’s fine, otherwise choose for them\n\n💚 Sit close together and follow your child attention and lead \nPoint at things, name and repeat words. Help your child learn more about what interests them in the book 👀 \nIf there are words or numbers in the book, ask and help your child recognise letters numbers, and simple words 💡 \n\nLink things in the books to your child life, and use words about emotions and talk about them! 😃",
+      "tips_text": "🔄 If possible, start a regular routine to read together when your child isn’t too tired or hungry\nReading together is one of the best ways to help your child learn and prepare for success in school! 🎓",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "play_books_2to3",
+      "image_asset": "images/activities/play_books_2to3.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3"
+      ],
+      "title": "Playtime with Books",
+      "_translatedFields": {
+        "title": {
+          "eng": "Playtime with Books"
+        },
+        "intro_text": {
+          "eng": "📖 Book sharing will help your child learn and is a fun, playful activity to spend quality time together"
+        },
+        "steps_text": {
+          "eng": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones\n\n📖 If your child wants to choose a book, that’s fine, otherwise choose for them\n\n💚 Sit close together and follow your child attention and lead \nPoint at things, name and repeat words. Help your child learn more about what interests them in the book 👀 \n\nLink things in the books to your child's life, and use words about emotions and talk about them! 😃"
+        },
+        "tips_text": {
+          "eng": "🔄 If possible, start a regular routine to read together when your child isn’t too tired or hungry\nReading together is one of the best ways to help your child learn and prepare for success in school! 🎓"
+        }
+      },
+      "intro_text": "📖 Book sharing will help your child learn and is a fun, playful activity to spend quality time together",
+      "steps_text": "⏰ Choose a time when you won’t be disturbed, and try to stop any distractions - e.g. turn off the TV and put away phones\n\n📖 If your child wants to choose a book, that’s fine, otherwise choose for them\n\n💚 Sit close together and follow your child attention and lead \nPoint at things, name and repeat words. Help your child learn more about what interests them in the book 👀 \n\nLink things in the books to your child's life, and use words about emotions and talk about them! 😃",
+      "tips_text": "🔄 If possible, start a regular routine to read together when your child isn’t too tired or hungry\nReading together is one of the best ways to help your child learn and prepare for success in school! 🎓",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "i_spy",
+      "image_asset": "images/activities/i_spy.svg",
+      "activity_group_list": [
+        "calm",
+        "quick",
+        "group"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "I Spy!",
+      "_translatedFields": {
+        "title": {
+          "eng": "I Spy!"
+        },
+        "intro_text": {
+          "eng": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!"
+        },
+        "steps_text": {
+          "eng": "Choose an object or a thing around you, and don’t tell your child what it is. It should be something that your child knows the word for. For example “ball” ⚽\n\n👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”\n\nYour child should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅"
+        },
+        "tips_text": {
+          "eng": "Play this game with as many objects as possible and as many different letters! Help your child to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓"
+        }
+      },
+      "intro_text": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!",
+      "steps_text": "Choose an object or a thing around you, and don’t tell your child what it is. It should be something that your child knows the word for. For example “ball” ⚽\n\n👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”\n\nYour child should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅",
+      "tips_text": "Play this game with as many objects as possible and as many different letters! Help your child to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "categorise_organise",
+      "image_asset": "images/activities/categorise_organise.svg",
+      "activity_group_list": [
+        "quick",
+        "group"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "Categorising and Organising",
+      "_translatedFields": {
+        "title": {
+          "eng": "Categorising and Organising"
+        },
+        "intro_text": {
+          "eng": "Help your child to learn by sorting objects and things! 🔵🔷\n\nYour child will learn by understanding how things fit and group together (eg, bear = animal, mango = fruit, blue = colour) 🧸"
+        },
+        "steps_text": {
+          "eng": "Find a book with different pictures and help your child to find things in a particular category (e.g. “Find all of the animals”) 👀\n\nFind safe objects in the house, get your child to group them by colour, size, or types of object (cups, plates). Then make more complicated categories (e.g. small cups, big cups) ☕"
+        },
+        "tips_text": {
+          "eng": "🔄 You can play the categorising game anywhere! Just look around and ask your child to find things from the category you say!"
+        }
+      },
+      "intro_text": "Help your child to learn by sorting objects and things! 🔵🔷\n\nYour child will learn by understanding how things fit and group together (eg, bear = animal, mango = fruit, blue = colour) 🧸",
+      "steps_text": "Find a book with different pictures and help your child to find things in a particular category (e.g. “Find all of the animals”) 👀\n\nFind safe objects in the house, get your child to group them by colour, size, or types of object (cups, plates). Then make more complicated categories (e.g. small cups, big cups) ☕",
+      "tips_text": "🔄 You can play the categorising game anywhere! Just look around and ask your child to find things from the category you say!",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "what_letter_is_this",
+      "image_asset": "images/activities/what_letter_is_this.svg",
+      "activity_group_list": [
+        "quick",
+        "group"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "What Letter is This?",
+      "_translatedFields": {
+        "title": {
+          "eng": "What Letter is This?"
+        },
+        "intro_text": {
+          "eng": "Playing games with letters can help your child learn the alphabet and how letters are put together to make words."
+        },
+        "steps_text": {
+          "eng": "📝 Write a letter on a piece of card or paper (e.g. “p”)\n\n👂 Say the letter out loud and ask your child to say it too!\n\nAsk your child to say some words that begin with the letter “p”, give them clues like “What starts with “p”? Plant… what else? 🌱\n\n👀 Ask your child to look for objects in your house that begin with a letter (eg “p” for plate). Help them find things.\n\n🔄 Try a new letter every day!"
+        }
+      },
+      "intro_text": "Playing games with letters can help your child learn the alphabet and how letters are put together to make words.",
+      "steps_text": "📝 Write a letter on a piece of card or paper (e.g. “p”)\n\n👂 Say the letter out loud and ask your child to say it too!\n\nAsk your child to say some words that begin with the letter “p”, give them clues like “What starts with “p”? Plant… what else? 🌱\n\n👀 Ask your child to look for objects in your house that begin with a letter (eg “p” for plate). Help them find things.\n\n🔄 Try a new letter every day!",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "riddles",
+      "image_asset": "images/activities/riddles.svg",
+      "activity_group_list": [
+        "quick",
+        "group",
+        "calm"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "Riddles Help Children Learn",
+      "_translatedFields": {
+        "title": {
+          "eng": "Riddles Help Children Learn"
+        },
+        "intro_text": {
+          "eng": "Riddles and puzzles are a fun way to build thinking skills! 💡"
+        },
+        "steps_text": {
+          "eng": "Do you remember any riddles from your childhood? If you can’t then make one up, they can be very simple! 😃\nLike “What can you see at night but not in the day” Answer: “The moon” 🌙\n\nIf your child is finding them difficult, try an easy one like: “What is round, bouncy and can be thrown or kicked?” Answer: “A ball” ⚽\n\nYour child can also try making riddles! 💡\n\nYou can have fun with riddles anywhere at any time - like travelling on a bus or in a car 🚗"
+        }
+      },
+      "intro_text": "Riddles and puzzles are a fun way to build thinking skills! 💡",
+      "steps_text": "Do you remember any riddles from your childhood? If you can’t then make one up, they can be very simple! 😃\nLike “What can you see at night but not in the day” Answer: “The moon” 🌙\n\nIf your child is finding them difficult, try an easy one like: “What is round, bouncy and can be thrown or kicked?” Answer: “A ball” ⚽\n\nYour child can also try making riddles! 💡\n\nYou can have fun with riddles anywhere at any time - like travelling on a bus or in a car 🚗",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "whats_new_child",
+      "image_asset": "images/activities/whats_new_child.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "What's New?",
+      "_translatedFields": {
+        "title": {
+          "eng": "What's New?"
+        },
+        "intro_text": {
+          "eng": "Learning is fun! 🎓"
+        },
+        "steps_text": {
+          "eng": "❓ Ask your child to think of a new, fun skill you could learn together. \nFor example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the states in Malaysia. \n\n🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!\n\n😃 Once you have mastered the skill, choose another skill to learn together."
+        },
+        "tips_text": {
+          "eng": "💛 Approach learning the skill in a kind and fun way, and do not judge your child or yourself for your ability in the skill."
+        }
+      },
+      "intro_text": "Learning is fun! 🎓",
+      "steps_text": "❓ Ask your child to think of a new, fun skill you could learn together. \nFor example: keeping a ball in the air with your foot, juggling, making soup, moonwalking, whistling, saying the alphabet backwards, learning all the states in Malaysia. \n\n🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!\n\n😃 Once you have mastered the skill, choose another skill to learn together.",
+      "tips_text": "💛 Approach learning the skill in a kind and fun way, and do not judge your child or yourself for your ability in the skill.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "make_story_child",
+      "image_asset": "images/activities/make_story_child.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "Make up a Story",
+      "_translatedFields": {
+        "title": {
+          "eng": "Make up a Story"
+        },
+        "intro_text": {
+          "eng": "Creating stories together is a great way to have fun with imagination - and to build your child’s creativity! 📖"
+        },
+        "steps_text": {
+          "eng": "5️⃣ With your child, come up with 5 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, cooking, wedding. If you need to remember them, write them clearly on a paper with your child.\n\n🎂 Start your story with, “Once upon a time, there was a…” and use one of the words from the list in the first part. For example, “Once upon a time, there was a family who worked on a *banana* farm.”\n\n📝 Let your child make up the next part using another word from the list.\n\n🔄 Take turns until you have used all the words and created a story. \n\n🎁 Ask your child what their favourite part of the story was, and tell them yours!"
+        },
+        "tips_text": {
+          "eng": "🔔 Be creative and do not tell your child what to say. It does not need to be a real story to be fun!"
+        }
+      },
+      "intro_text": "Creating stories together is a great way to have fun with imagination - and to build your child’s creativity! 📖",
+      "steps_text": "5️⃣ With your child, come up with 5 words to use. They can be any words you want! For example: banana, spaceship, fish, water, painting, cooking, wedding. If you need to remember them, write them clearly on a paper with your child.\n\n🎂 Start your story with, “Once upon a time, there was a…” and use one of the words from the list in the first part. For example, “Once upon a time, there was a family who worked on a *banana* farm.”\n\n📝 Let your child make up the next part using another word from the list.\n\n🔄 Take turns until you have used all the words and created a story. \n\n🎁 Ask your child what their favourite part of the story was, and tell them yours!",
+      "tips_text": "🔔 Be creative and do not tell your child what to say. It does not need to be a real story to be fun!",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "play_with_clothes",
+      "image_asset": "images/activities/play_with_clothes.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "Playing with Clothes",
+      "_translatedFields": {
+        "title": {
+          "eng": "Playing with Clothes"
+        },
+        "steps_text": {
+          "eng": "💡Help your child use their fingers, talk about clothes, and organise them! \n\nHelp your child exercise their fingers by showing them how buttons and zips work on clothes, and letting them practise using them! 👋\n\n🔵 Talk about the colours of clothes! Ask your child to pick a colour and talk about all the things that are that colour: “What are all the things we can think of that are blue?”\n\n😃 Encourage your child to help you sort clothes into piles for each family member."
+        }
+      },
+      "steps_text": "💡Help your child use their fingers, talk about clothes, and organise them! \n\nHelp your child exercise their fingers by showing them how buttons and zips work on clothes, and letting them practise using them! 👋\n\n🔵 Talk about the colours of clothes! Ask your child to pick a colour and talk about all the things that are that colour: “What are all the things we can think of that are blue?”\n\n😃 Encourage your child to help you sort clothes into piles for each family member.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "play_with_veggies",
+      "image_asset": "images/activities/play_with_veggies.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "Playing with Vegetables",
+      "_translatedFields": {
+        "title": {
+          "eng": "Playing with Vegetables"
+        },
+        "intro_text": {
+          "eng": "🌱 Help your child learn by thinking and talking about vegetables!"
+        },
+        "steps_text": {
+          "eng": "🍅 Mix together 2-3 different ingredients of your choice (like onions, tomatoes and corn example). Say: “Help me sort these vegetables into piles?” Try sorting them by size.\n\n😃 Remind me!\nTalk about your child’s experiences. Ask questions and wait for answers. Follow your child’s interest. \n“Can you help me remember what is at the market?” “Do they sell carrots at the market?” “Do the sell anything yellow at the market?” “What else do they sell?” “Can you think of other things they sell?”\n\n💡Can you think of something similar?\nSay: We are going to think of some things that are similar or different from what I tell you. So listen carefully!”\nHere is a tomato. Can you think of something else that is red like a tomato? 🍅\nCan you think something else that is round like a tomato? ⚽"
+        }
+      },
+      "intro_text": "🌱 Help your child learn by thinking and talking about vegetables!",
+      "steps_text": "🍅 Mix together 2-3 different ingredients of your choice (like onions, tomatoes and corn example). Say: “Help me sort these vegetables into piles?” Try sorting them by size.\n\n😃 Remind me!\nTalk about your child’s experiences. Ask questions and wait for answers. Follow your child’s interest. \n“Can you help me remember what is at the market?” “Do they sell carrots at the market?” “Do the sell anything yellow at the market?” “What else do they sell?” “Can you think of other things they sell?”\n\n💡Can you think of something similar?\nSay: We are going to think of some things that are similar or different from what I tell you. So listen carefully!”\nHere is a tomato. Can you think of something else that is red like a tomato? 🍅\nCan you think something else that is round like a tomato? ⚽",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "animals",
+      "image_asset": "images/activities/animals.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "title": "Animals",
+      "_translatedFields": {
+        "title": {
+          "eng": "Animals"
+        },
+        "intro_text": {
+          "eng": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird\n\n💡All the animals we can think of - think about groups of animals!\nWhat are all the animals we can think of that have feathers?\nWhat are all the animals we can think of that eat plants? 🌱\nWhat are all the animals we can think of that lay eggs?\n\n😃 Counting rabbits\n🔟 Find 10 rocks and put them in a line, tell your child that they are rabbits!\nAsk your child to count the rabbits!\nPut the rabbits into 2 equal piles. Ask your child to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have”"
+        }
+      },
+      "intro_text": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird\n\n💡All the animals we can think of - think about groups of animals!\nWhat are all the animals we can think of that have feathers?\nWhat are all the animals we can think of that eat plants? 🌱\nWhat are all the animals we can think of that lay eggs?\n\n😃 Counting rabbits\n🔟 Find 10 rocks and put them in a line, tell your child that they are rabbits!\nAsk your child to count the rabbits!\nPut the rabbits into 2 equal piles. Ask your child to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have”",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "active_counting",
+      "image_asset": "images/activities/active_counting.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "title": "Active Counting",
+      "_translatedFields": {
+        "title": {
+          "eng": "Active Counting"
+        },
+        "intro_text": {
+          "eng": "👋 Clap, hop, jump: Play the following game with your child. Make it active!"
+        },
+        "steps_text": {
+          "eng": "1️⃣ Clap hands 1 time. 2️⃣ Clap hands 2 times.\n1️⃣ Jump 1 time. 2️⃣ Jump 2 times.\n1️⃣ Hop 1 time.\n3️⃣ Hop 3 times.\n💡Can you hop, then jump, then clap? \n🏆 Can you clap twice, jump once, and hop three times?"
+        },
+        "tips_text": {
+          "eng": "💡Remembering Instructions\nTake turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!\nFor example:\nHop twice, turn around.\nJump to the kitchen, pick up a spoon, then run back. ✅"
+        }
+      },
+      "intro_text": "👋 Clap, hop, jump: Play the following game with your child. Make it active!",
+      "steps_text": "1️⃣ Clap hands 1 time. 2️⃣ Clap hands 2 times.\n1️⃣ Jump 1 time. 2️⃣ Jump 2 times.\n1️⃣ Hop 1 time.\n3️⃣ Hop 3 times.\n💡Can you hop, then jump, then clap? \n🏆 Can you clap twice, jump once, and hop three times?",
+      "tips_text": "💡Remembering Instructions\nTake turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!\nFor example:\nHop twice, turn around.\nJump to the kitchen, pick up a spoon, then run back. ✅",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "thinking_games",
+      "image_asset": "images/activities/thinking_games.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "title": "Thinking Games",
+      "_translatedFields": {
+        "title": {
+          "eng": "Thinking Games"
+        },
+        "intro_text": {
+          "eng": "❗ Mama/Daddy says!"
+        },
+        "steps_text": {
+          "eng": "Play this game of giving instructions:\nMama/daddy says touch your head. Mama/daddy says open your mouth. Mama/daddy says turn around. Mama/daddy says touch your knees. Mama/daddy says jump twice. Mama/daddy says jump, then clap and sit.\n\n👂 Go and stop: Play the game with your child\nSay: When I say “stop”, we freeze. When I say “go”, we can walk again.\nOnce your child is familiar with the game, your child will lead.\n\n🔵 🔴Blue-Red - now play this game!\nIf I say touch something blue, you need to touch something red. If I say touch something red, you need to touch something blue."
+        }
+      },
+      "intro_text": "❗ Mama/Daddy says!",
+      "steps_text": "Play this game of giving instructions:\nMama/daddy says touch your head. Mama/daddy says open your mouth. Mama/daddy says turn around. Mama/daddy says touch your knees. Mama/daddy says jump twice. Mama/daddy says jump, then clap and sit.\n\n👂 Go and stop: Play the game with your child\nSay: When I say “stop”, we freeze. When I say “go”, we can walk again.\nOnce your child is familiar with the game, your child will lead.\n\n🔵 🔴Blue-Red - now play this game!\nIf I say touch something blue, you need to touch something red. If I say touch something red, you need to touch something blue.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "games_with_pictures",
+      "image_asset": "images/activities/games_with_pictures.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "title": "Games with Pictures!",
+      "_translatedFields": {
+        "title": {
+          "eng": "Games with Pictures!"
+        },
+        "steps_text": {
+          "eng": "👂 Making up a story from an image\nFor example, say: We are going to make up a story about this picture. I can start. This little girl is feeling very excited today. Why do you think she is feeling excited?\n😃 She is holding her bag and has a big smile. Where do you think she is going?\n\n👀 Can you point to it?\nUsing a book or a magazine, or anything with pictures, say:\nI am going to describe something on the page and you need to guess what it is and point to it. For example, “I see something that is [green and moves slowly].\nCan you guess what it is?” 💚"
+        }
+      },
+      "steps_text": "👂 Making up a story from an image\nFor example, say: We are going to make up a story about this picture. I can start. This little girl is feeling very excited today. Why do you think she is feeling excited?\n😃 She is holding her bag and has a big smile. Where do you think she is going?\n\n👀 Can you point to it?\nUsing a book or a magazine, or anything with pictures, say:\nI am going to describe something on the page and you need to guess what it is and point to it. For example, “I see something that is [green and moves slowly].\nCan you guess what it is?” 💚",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "shapes_everywhere",
+      "image_asset": "images/activities/shapes_everywhere.svg",
+      "activity_group_list": [
+        "active",
+        "quick"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "Shapes Everywhere!",
+      "_translatedFields": {
+        "title": {
+          "eng": "Shapes Everywhere!"
+        },
+        "intro_text": {
+          "eng": "📺 Squares, squares everywhere"
+        },
+        "steps_text": {
+          "eng": "👀 Draw squares in the sand or dirt. Make some bigger and some smaller.\nTell your child, “this is a square.” \nAsk your child to try to draw a square. Hold your child’s hand to help if this is hard. \nLook for things around the home or outdoors that are the same shape.\n\nNow do the same with circles! 🔴"
+        }
+      },
+      "intro_text": "📺 Squares, squares everywhere",
+      "steps_text": "👀 Draw squares in the sand or dirt. Make some bigger and some smaller.\nTell your child, “this is a square.” \nAsk your child to try to draw a square. Hold your child’s hand to help if this is hard. \nLook for things around the home or outdoors that are the same shape.\n\nNow do the same with circles! 🔴",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "story_telling",
+      "image_asset": "images/activities/story_telling.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5"
+      ],
+      "title": "Story Telling",
+      "_translatedFields": {
+        "title": {
+          "eng": "Story Telling"
+        },
+        "intro_text": {
+          "eng": "💡 Let’s make a story!"
+        },
+        "steps_text": {
+          "eng": "Say: We are going to make up a story. I will start then you will help me continue it. \n⏰ ”Once upon a time there was…”\n“What happened next?”\n“What happened after that?”\n\n👂 Tell me the story!\nSay to your child: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” \n👀 Show your child pictures in the book. Ask your child what is happening in the pictures and what happens next."
+        }
+      },
+      "intro_text": "💡 Let’s make a story!",
+      "steps_text": "Say: We are going to make up a story. I will start then you will help me continue it. \n⏰ ”Once upon a time there was…”\n“What happened next?”\n“What happened after that?”\n\n👂 Tell me the story!\nSay to your child: “I have a book here that we have read before. Can you remember the story and tell it to me just by looking at the pictures?” \n👀 Show your child pictures in the book. Ask your child what is happening in the pictures and what happens next.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "im_a_writer",
+      "image_asset": "images/activities/im_a_writer.svg",
+      "activity_group_list": [
+        "active",
+        "quick"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "title": "I'm a Writer!",
+      "_translatedFields": {
+        "title": {
+          "eng": "I'm a Writer!"
+        },
+        "intro_text": {
+          "eng": "📝 Have fun being creative with writing!"
+        },
+        "steps_text": {
+          "eng": "You and your child can have fun writing with a pencil and paper, or with a stick and the sand!\nIf your child doesn’t know how to write letters, encourage them to draw shapes, and try to copy the shapes of letters. 🔵▶️\n\nWhen they are more confident, encourage them to write letters and even words. 😃\n\nShow them the simple things that you write - like shopping lists! Show them the words and each of the letters. Let them try to copy the words! 📖"
+        }
+      },
+      "intro_text": "📝 Have fun being creative with writing!",
+      "steps_text": "You and your child can have fun writing with a pencil and paper, or with a stick and the sand!\nIf your child doesn’t know how to write letters, encourage them to draw shapes, and try to copy the shapes of letters. 🔵▶️\n\nWhen they are more confident, encourage them to write letters and even words. 😃\n\nShow them the simple things that you write - like shopping lists! Show them the words and each of the letters. Let them try to copy the words! 📖",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "a_friendly_chat",
+      "image_asset": "images/activities/a_friendly_chat.svg",
+      "activity_group_list": [
+        "quick",
+        "calm"
+      ],
+      "child_age_list": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "A Friendly Chat",
+      "_translatedFields": {
+        "title": {
+          "eng": "A Friendly Chat"
+        },
+        "intro_text": {
+          "eng": "Talk to your child about something that they are interested in! 😃\n\n💚 Spending quality time with your child and talking to them every day is a good way to develop a strong relationship."
+        },
+        "steps_text": {
+          "eng": "⚽ An easy way to start talking to your child is to ask them about something they are interested in, for example you could talk about topics such as: sports, books, movies, friends, music, celebrities, or school.\n\n👂 You may not find everything your child shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn."
+        }
+      },
+      "intro_text": "Talk to your child about something that they are interested in! 😃\n\n💚 Spending quality time with your child and talking to them every day is a good way to develop a strong relationship.",
+      "steps_text": "⚽ An easy way to start talking to your child is to ask them about something they are interested in, for example you could talk about topics such as: sports, books, movies, friends, music, celebrities, or school.\n\n👂 You may not find everything your child shares to be interesting, but it’s important to show enthusiasm and an eagerness to learn.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "get_active_child",
+      "image_asset": "images/activities/get_active_child.svg",
+      "activity_group_list": [
+        "active"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "Get Active",
+      "_translatedFields": {
+        "title": {
+          "eng": "Get Active"
+        },
+        "intro_text": {
+          "eng": "Exercise is a great way to spend time together and it is so good for your health. 🌱"
+        },
+        "steps_text": {
+          "eng": "Find a sport or exercise that both you and your child want to do and try it out together! \n\n⏰ Even walking for 10 minutes a day is good for you. \n\n⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport.\n\n🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?\n\n🌈 Exercise becomes easier and more enjoyable the more you do it. \n\n🔄 If you or your child do not like the first exercise you pick, try a new exercise."
+        }
+      },
+      "intro_text": "Exercise is a great way to spend time together and it is so good for your health. 🌱",
+      "steps_text": "Find a sport or exercise that both you and your child want to do and try it out together! \n\n⏰ Even walking for 10 minutes a day is good for you. \n\n⚽ Together you can walk, run, play soccer, swim, dance, or do any other sport.\n\n🏆 Together, think of ways to make it even more fun. Can you jog to a certain point? Take turns being the coach? Can there be a small, free reward, like getting to decide the next activity?\n\n🌈 Exercise becomes easier and more enjoyable the more you do it. \n\n🔄 If you or your child do not like the first exercise you pick, try a new exercise.",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "pass_ball_child",
+      "image_asset": "images/activities/pass_ball_child.svg",
+      "activity_group_list": [
+        "active",
+        "group"
+      ],
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "Pass the Ball",
+      "_translatedFields": {
+        "title": {
+          "eng": "Pass the Ball"
+        },
+        "intro_text": {
+          "eng": "Games are a great, fun way to spend time with your family! \n\n3️⃣ This game is best with at least 3 people."
+        },
+        "steps_text": {
+          "eng": "⚽ Find a ball to play. If you cannot find a ball, choose an item you can safely throw around. For example, a bottle cap or a plastic cup.\n\n➡️ Start in a circle and pass the ball around. \n\n👋 Start throwing the ball in new directions (up, down, straight, curved, rolling on the ground) and with different forces (hard, soft, medium). You can bounce the ball, throw it in the air, and catch it a few times before passing it. \n\n✨ When everyone gets good at catching the ball, you can start moving around the room, still passing the ball. \n\n⭐ Can you throw the ball under the leg? Behind the back? Over your head? Block a pass? Have fun with it!"
+        }
+      },
+      "intro_text": "Games are a great, fun way to spend time with your family! \n\n3️⃣ This game is best with at least 3 people.",
+      "steps_text": "⚽ Find a ball to play. If you cannot find a ball, choose an item you can safely throw around. For example, a bottle cap or a plastic cup.\n\n➡️ Start in a circle and pass the ball around. \n\n👋 Start throwing the ball in new directions (up, down, straight, curved, rolling on the ground) and with different forces (hard, soft, medium). You can bounce the ball, throw it in the air, and catch it a few times before passing it. \n\n✨ When everyone gets good at catching the ball, you can start moving around the room, still passing the ball. \n\n⭐ Can you throw the ball under the leg? Behind the back? Over your head? Block a pass? Have fun with it!",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "active_songs",
+      "image_asset": "images/activities/active_songs.svg",
+      "activity_group_list": [
+        "active",
+        "group"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3"
+      ],
+      "title": "Active Songs",
+      "_translatedFields": {
+        "title": {
+          "eng": "Active Songs"
+        },
+        "intro_text": {
+          "eng": "😃 Young children love physical games! But they need reminders about how to play 💡\n🎵 Songs with movements are fun and active and give instructions on how to move!"
+        },
+        "steps_text": {
+          "eng": "Sing songs to your child or a group of children in which they have to:\n✅ Start and stop ❌\n⬇️ Slow down and speed up ⬆️"
+        }
+      },
+      "intro_text": "😃 Young children love physical games! But they need reminders about how to play 💡\n🎵 Songs with movements are fun and active and give instructions on how to move!",
+      "steps_text": "Sing songs to your child or a group of children in which they have to:\n✅ Start and stop ❌\n⬇️ Slow down and speed up ⬆️",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "follow_the_leader",
+      "image_asset": "images/activities/follow_the_leader.svg",
+      "activity_group_list": [
+        "active",
+        "group"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3"
+      ],
+      "title": "Follow the Leader!",
+      "_translatedFields": {
+        "title": {
+          "eng": "Follow the Leader!"
+        },
+        "steps_text": {
+          "eng": "⭐ Choose someone to be the leader (tip: start with an adult like yourself)\n😃 Other players line up behind the leader. The leader moves around in any way they like!\n🏁 They can run, jump, crawl, walk on tip toes, and any other way they want!\n👀 The other players must copy what the leaders does, and the leader can change movements at any time.\n\n🔄 Players take turns being the leader!"
+        }
+      },
+      "steps_text": "⭐ Choose someone to be the leader (tip: start with an adult like yourself)\n😃 Other players line up behind the leader. The leader moves around in any way they like!\n🏁 They can run, jump, crawl, walk on tip toes, and any other way they want!\n👀 The other players must copy what the leaders does, and the leader can change movements at any time.\n\n🔄 Players take turns being the leader!",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "be_the_narrator",
+      "image_asset": "images/activities/be_the_narrator.svg",
+      "activity_group_list": [
+        "calm",
+        "quick"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3"
+      ],
+      "title": "Be the Narrator",
+      "_translatedFields": {
+        "title": {
+          "eng": "Be the Narrator"
+        },
+        "steps_text": {
+          "eng": "👀 Say what your child is doing while they are playing\n\n👂 This will help them learn the words to describe their actions.\n\n😃 You can do it in a simple way, or in a silly way like a sports commentator, a news presenter, or a game show host\n\n💡 Ask questions like “what will you do next?” or “I see you want to put the ball in the jar. Is there another way to do that?”"
+        }
+      },
+      "steps_text": "👀 Say what your child is doing while they are playing\n\n👂 This will help them learn the words to describe their actions.\n\n😃 You can do it in a simple way, or in a silly way like a sports commentator, a news presenter, or a game show host\n\n💡 Ask questions like “what will you do next?” or “I see you want to put the ball in the jar. Is there another way to do that?”",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    },
+    {
+      "id": "be_an_artist",
+      "image_asset": "images/activities/be_an_artist.svg",
+      "activity_group_list": [
+        "calm"
+      ],
+      "child_age_list": [
+        "1",
+        "2",
+        "3"
+      ],
+      "title": "Be an Artist!",
+      "_translatedFields": {
+        "title": {
+          "eng": "Be an Artist!"
+        },
+        "steps_text": {
+          "eng": "📝 Give your child some paper and a pen or pencil, or some different pens or pencils.\n😃 Let your child draw whatever they want to!\n👀 Ask questions about what they are drawing, the size of the thing they are drawing, and the colours they are using.\n\n🏆 If possible, put your child’s picture up on the wall when they are finished. Give praise to your child!"
+        }
+      },
+      "steps_text": "📝 Give your child some paper and a pen or pencil, or some different pens or pencils.\n😃 Let your child draw whatever they want to!\n👀 Ask questions about what they are drawing, the size of the thing they are drawing, and the colours they are using.\n\n🏆 If possible, put your child’s picture up on the wall when they are finished. Give praise to your child!",
+      "accessed": false,
+      "locked": true,
+      "favourite": false
+    }
+  ],
+  "_metadata": {
+    "accessed": {
+      "type": "boolean"
+    },
+    "locked": {
+      "type": "boolean"
+    },
+    "favourite": {
+      "type": "boolean"
+    }
+  }
+}

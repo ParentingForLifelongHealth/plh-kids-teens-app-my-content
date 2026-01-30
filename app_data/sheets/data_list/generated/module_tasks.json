@@ -1,0 +1,1367 @@
+{
+  "flow_name": "module_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "one_on_one_yc",
+      "tag_course": "relation",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 1,
+      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
+      "image_asset": "images/homescreen/self_care.svg",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_1",
+      "title": "One-on-One",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "One-on-One"
+        }
+      },
+      "completed": false,
+      "task_child": "one_on_one_yc_article_tasks"
+    },
+    {
+      "id": "kind_to_me_yc",
+      "tag_course": "relation",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 2,
+      "bottom_aligned_image_asset": "images/homescreen/listview/developmentplay.svg",
+      "image_asset": "images/homescreen/developmentplay.svg",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_2",
+      "title": "Kindness to Self",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Kindness to Self"
+        }
+      },
+      "completed": false,
+      "task_child": "kind_to_me_yc_article_tasks"
+    },
+    {
+      "id": "give_praise_yc",
+      "tag_course": "relation",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 3,
+      "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_time.svg",
+      "image_asset": "images/homescreen/one_on_one_time.svg",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_3",
+      "title": "Give Praise",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Give Praise"
+        }
+      },
+      "completed": false,
+      "task_child": "give_praise_yc_article_tasks"
+    },
+    {
+      "id": "talk_feelings_yc",
+      "tag_course": "relation",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 4,
+      "bottom_aligned_image_asset": "images/homescreen/listview/praise.svg",
+      "image_asset": "images/homescreen/praise.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_4",
+      "title": "Feelings",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feelings"
+        }
+      },
+      "completed": false,
+      "task_child": "talk_feelings_yc_article_tasks"
+    },
+    {
+      "id": "spirituality_yc",
+      "tag_course": "relation",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 5,
+      "bottom_aligned_image_asset": "images/homescreen/listview/feelings.svg",
+      "image_asset": "images/homescreen/feelings.svg",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_5",
+      "title": "Parenting Values",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Parenting Values"
+        }
+      },
+      "completed": false,
+      "task_child": "spirituality_yc_article_tasks"
+    },
+    {
+      "id": "language_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 6,
+      "bottom_aligned_image_asset": "images/homescreen/listview/instructions.svg",
+      "image_asset": "images/homescreen/instructions.svg",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_6",
+      "title": "Language Skills",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Language Skills"
+        }
+      },
+      "completed": false,
+      "task_child": "language_yc_article_tasks"
+    },
+    {
+      "id": "reading1_4to6_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "4 | 5 | 6 | 7"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 7,
+      "bottom_aligned_image_asset": "images/homescreen/listview/rulesroutines.svg",
+      "image_asset": "images/homescreen/rulesroutines.svg",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_7",
+      "title": "Reading, Part 1",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reading, Part 1"
+        }
+      },
+      "completed": false,
+      "task_child": "reading1_4to6_yc_article_tasks"
+    },
+    {
+      "id": "reading2_4to6_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "4 | 5 | 6 | 7"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 8,
+      "bottom_aligned_image_asset": "images/homescreen/listview/consequences.svg",
+      "image_asset": "images/homescreen/consequences.svg",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_8",
+      "title": "Reading, Part 2",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reading, Part 2"
+        }
+      },
+      "completed": false,
+      "task_child": "reading2_4to6_yc_article_tasks"
+    },
+    {
+      "id": "maths1_4to6_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "4 | 5 | 6 | 7"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 9,
+      "bottom_aligned_image_asset": "images/homescreen/listview/problemsolving.svg",
+      "image_asset": "images/homescreen/problemsolving.svg",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_9",
+      "title": "Maths, Part 1",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Maths, Part 1"
+        }
+      },
+      "completed": false,
+      "task_child": "maths1_4to6_yc_article_tasks"
+    },
+    {
+      "id": "maths2_4to6_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "4 | 5 | 6 | 7"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 10,
+      "title": "Maths, Part 2",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Maths, Part 2"
+        }
+      },
+      "completed": false,
+      "task_child": "maths2_4to6_yc_article_tasks"
+    },
+    {
+      "id": "reading_2to3_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "2 | 3"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 11,
+      "title": "Reading",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Reading"
+        }
+      },
+      "completed": false,
+      "task_child": "reading_2to3_yc_article_tasks"
+    },
+    {
+      "id": "maths_2to3_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "2 | 3"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 12,
+      "title": "Maths",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Maths"
+        }
+      },
+      "completed": false,
+      "task_child": "maths_2to3_yc_article_tasks"
+    },
+    {
+      "id": "school_3to6_yc",
+      "tag_course": "learning",
+      "age_list": [
+        "3 | 4 | 5 | 6 | 7"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 13,
+      "title": "Talk to Teachers",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talk to Teachers"
+        }
+      },
+      "completed": false,
+      "task_child": "school_3to6_yc_article_tasks"
+    },
+    {
+      "id": "toddle_change_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "2 | 3"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 16,
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
+        }
+      },
+      "completed": false,
+      "task_child": "toddle_change_yc_article_tasks"
+    },
+    {
+      "id": "young_change_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "4 | 5 | 6"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 17,
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
+        }
+      },
+      "completed": false,
+      "task_child": "young_change_yc_article_tasks"
+    },
+    {
+      "id": "child_change_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 18,
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
+        }
+      },
+      "completed": false,
+      "task_child": "child_change_yc_article_tasks"
+    },
+    {
+      "id": "play_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 14,
+      "title": "Play & Learn",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Play & Learn"
+        }
+      },
+      "completed": false,
+      "task_child": "play_yc_article_tasks"
+    },
+    {
+      "id": "learn_exp_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 15,
+      "title": "Life Lessons",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Life Lessons"
+        }
+      },
+      "completed": false,
+      "task_child": "learn_exp_yc_article_tasks"
+    },
+    {
+      "id": "manage_stress_yc",
+      "tag_course": "structure",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 19,
+      "title": "Manage Stress",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Manage Stress"
+        }
+      },
+      "completed": false,
+      "task_child": "manage_stress_yc_article_tasks"
+    },
+    {
+      "id": "keep_positive_yc",
+      "tag_course": "structure",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 20,
+      "title": "Keep it Positive",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Keep it Positive"
+        }
+      },
+      "completed": false,
+      "task_child": "keep_positive_yc_article_tasks"
+    },
+    {
+      "id": "routine_yc",
+      "tag_course": "structure",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 21,
+      "title": "Daily Routines",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Daily Routines"
+        }
+      },
+      "completed": false,
+      "task_child": "routine_yc_article_tasks"
+    },
+    {
+      "id": "family_rules_yc",
+      "tag_course": "structure",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 22,
+      "title": "Family Rules",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Family Rules"
+        }
+      },
+      "completed": false,
+      "task_child": "family_rules_yc_article_tasks"
+    },
+    {
+      "id": "know_role_yc",
+      "tag_course": "structure",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 23,
+      "title": "Roles at Home",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Roles at Home"
+        }
+      },
+      "completed": false,
+      "task_child": "know_role_yc_article_tasks"
+    },
+    {
+      "id": "manage_anger_yc",
+      "tag_course": "behave",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 26,
+      "title": "Manage Anger",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Manage Anger"
+        }
+      },
+      "completed": false,
+      "task_child": "manage_anger_yc_article_tasks"
+    },
+    {
+      "id": "redirect_yc",
+      "tag_course": "behave",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 24,
+      "title": "Misbehaviour",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Misbehaviour"
+        }
+      },
+      "completed": false,
+      "task_child": "redirect_yc_article_tasks"
+    },
+    {
+      "id": "ignore_demand_yc",
+      "tag_course": "behave",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 25,
+      "title": "Manage Demands",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Manage Demands"
+        }
+      },
+      "completed": false,
+      "task_child": "ignore_demand_yc_article_tasks"
+    },
+    {
+      "id": "consequences_yc",
+      "tag_course": "behave",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 27,
+      "title": "Consequences",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Consequences"
+        }
+      },
+      "completed": false,
+      "task_child": "consequences_yc_article_tasks"
+    },
+    {
+      "id": "solve_problem_yc",
+      "tag_course": "behave",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male, female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 28,
+      "title": "Problem Solving",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Problem Solving"
+        }
+      },
+      "completed": false,
+      "task_child": "solve_problem_yc_article_tasks"
+    },
+    {
+      "id": "safe_2to5_yc_m",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4 | 5"
+      ],
+      "child_gender_list": [
+        "male"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 29,
+      "title": "Safe Touch",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safe Touch"
+        }
+      },
+      "completed": false,
+      "task_child": "safe_2to5_yc_m_article_tasks"
+    },
+    {
+      "id": "safe_2to5_yc_f",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4 | 5"
+      ],
+      "child_gender_list": [
+        "female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 30,
+      "title": "Safe Touch",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safe Touch"
+        }
+      },
+      "completed": false,
+      "task_child": "safe_2to5_yc_f_article_tasks"
+    },
+    {
+      "id": "safe_6to9_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 31,
+      "title": "Safe Touch",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safe Touch"
+        }
+      },
+      "completed": false,
+      "task_child": "safe_6to9_yc_article_tasks"
+    },
+    {
+      "id": "com_safe_2to4_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 32,
+      "title": "Stay Safe",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Stay Safe"
+        }
+      },
+      "completed": false,
+      "task_child": "com_safe_2to4_yc_article_tasks"
+    },
+    {
+      "id": "com_safe_5to9_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 33,
+      "title": "Stay Safe",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Stay Safe"
+        }
+      },
+      "completed": false,
+      "task_child": "com_safe_5to9_yc_article_tasks"
+    },
+    {
+      "id": "crises_2to6_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 34,
+      "title": "Stay Safe",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Stay Safe"
+        }
+      },
+      "completed": false,
+      "task_child": "crises_2to6_yc_article_tasks"
+    },
+    {
+      "id": "crises_7to9_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 35,
+      "title": "Crises",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Crises"
+        }
+      },
+      "completed": false,
+      "task_child": "crises_7to9_yc_article_tasks"
+    },
+    {
+      "id": "online_safety_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 36,
+      "title": "Online Safety",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Online Safety"
+        }
+      },
+      "completed": false,
+      "task_child": "online_safety_yc_article_tasks"
+    },
+    {
+      "id": "trust_online_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 37,
+      "title": "Online Habits",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Online Habits"
+        }
+      },
+      "completed": false,
+      "task_child": "trust_online_yc_article_tasks"
+    },
+    {
+      "id": "nutrition_yc",
+      "tag_course": "safety",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 38,
+      "title": "Nutrition and Health",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Nutrition and Health"
+        }
+      },
+      "completed": false,
+      "task_child": "nutrition_yc_article_tasks"
+    },
+    {
+      "id": "ipv_equals",
+      "tag_course": "ipv",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 39,
+      "title": "Respect Each Other",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Respect Each Other"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_equals_article_tasks"
+    },
+    {
+      "id": "ipv_supportive",
+      "tag_course": "ipv",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 40,
+      "title": "Team Parenting",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Team Parenting"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_supportive_article_tasks"
+    },
+    {
+      "id": "ipv_sharing",
+      "tag_course": "ipv",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 41,
+      "title": "Teamwork",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Teamwork"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_sharing_article_tasks"
+    },
+    {
+      "id": "ipv_conflicts",
+      "tag_course": "ipv",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 42,
+      "title": "Resolve Conflicts",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Resolve Conflicts"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_conflicts_article_tasks"
+    },
+    {
+      "id": "ipv_listen",
+      "tag_course": "ipv",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 43,
+      "title": "Talk and Listen",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Talk and Listen"
+        }
+      },
+      "completed": false,
+      "task_child": "ipv_listen_article_tasks"
+    },
+    {
+      "id": "budget_needs_yc",
+      "tag_course": "budget",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 44,
+      "title": "Needs and Wants",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Needs and Wants"
+        }
+      },
+      "completed": false,
+      "task_child": "budget_needs_yc_article_tasks"
+    },
+    {
+      "id": "budget_exp_yc",
+      "tag_course": "budget",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 45,
+      "title": "Expenses",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Expenses"
+        }
+      },
+      "completed": false,
+      "task_child": "budget_exp_yc_article_tasks"
+    },
+    {
+      "id": "budget_month_yc",
+      "tag_course": "budget",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 46,
+      "title": "Budgeting",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Budgeting"
+        }
+      },
+      "completed": false,
+      "task_child": "budget_month_yc_article_tasks"
+    },
+    {
+      "id": "budget_save_yc",
+      "tag_course": "budget",
+      "age_list": [
+        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+      ],
+      "child_gender_list": [
+        "male | female"
+      ],
+      "caregiver_relationship_list": [
+        "yes | no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 47,
+      "title": "Savings",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Savings"
+        }
+      },
+      "completed": false,
+      "task_child": "budget_save_yc_article_tasks"
+    }
+  ],
+  "_metadata": {
+    "number": {
+      "type": "number"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

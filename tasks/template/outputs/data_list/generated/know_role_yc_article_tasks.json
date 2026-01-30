@@ -1,0 +1,150 @@
+{
+  "flow_name": "know_role_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Welcome back! Today is about learning how both caregivers and children all have a role to play at home. 📝 \n\nYour child’s role is to listen to and learn from their caregivers. They can also start doing chores appropriate for their age. ⭐\n\nAs a caregiver, your role is to care for your child, keep them safe, and teach them how to behave in the world. 🌱\n\nMost importantly, your role is to make sure that your child feels loved and supported, no matter what! 💙",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Welcome back! Today is about learning how both caregivers and children all have a role to play at home. 📝 \n\nYour child’s role is to listen to and learn from their caregivers. They can also start doing chores appropriate for their age. ⭐\n\nAs a caregiver, your role is to care for your child, keep them safe, and teach them how to behave in the world. 🌱\n\nMost importantly, your role is to make sure that your child feels loved and supported, no matter what! 💙"
+        },
+        "text_2": {
+          "eng": "When your child feels loved and supported at home, they are more likely to happily do chores and to grow into a healthy child and adult! 😃💚"
+        }
+      },
+      "text_2": "When your child feels loved and supported at home, they are more likely to happily do chores and to grow into a healthy child and adult! 😃💚",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let’s see how we can handle everyday situations.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s see how we can handle everyday situations."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: If I make a mistake or do something that upsets my child, I should pretend it didn’t happen, smile at them, and do a more positive activity with them."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s not right. \n\n💛 Admitting mistakes and apologising teaches them to respect others and that it is okay to get things wrong sometimes.\n\n❗ Ignoring a mistake when it affects your child teaches them that they do not need to take responsibility for their actions."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🏆 Correct! \n\n💛 Admitting mistakes and apologising teaches them to respect others and that it is okay to get things wrong sometimes.\n\n❗ Ignoring a mistake when it affects your child teaches them that they do not need to take responsibility for their actions."
+        }
+      },
+      "quiz_1_question": "True or False: If I make a mistake or do something that upsets my child, I should pretend it didn’t happen, smile at them, and do a more positive activity with them.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s not right. \n\n💛 Admitting mistakes and apologising teaches them to respect others and that it is okay to get things wrong sometimes.\n\n❗ Ignoring a mistake when it affects your child teaches them that they do not need to take responsibility for their actions.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🏆 Correct! \n\n💛 Admitting mistakes and apologising teaches them to respect others and that it is okay to get things wrong sometimes.\n\n❗ Ignoring a mistake when it affects your child teaches them that they do not need to take responsibility for their actions.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four tips to help you know what your role is as your child’s caregiver and to teach them their role, too.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four tips to help you know what your role is as your child’s caregiver and to teach them their role, too."
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "KNOW YOUR ROLE"
+        },
+        "section_1_text": {
+          "eng": "As a caregiver, your role is to make sure your child:\n🔷 has enough healthy food,\n🔷 has the clothes they need,\n🔷 stays safe from harm,\n🔷 contributes to family needs, like doing chores, \n🔷 learns the morals and values you wish them to, such as honesty,\n🔷 has opportunities to express themselves,\n🔷 has opportunities to play, and\n🔷 feels loved and supported, no matter what."
+        },
+        "section_2_title": {
+          "eng": "TEACH"
+        },
+        "section_2_text": {
+          "eng": "Help your child understand their role in the family. This can include:\n🔶 doing age-appropriate chores, like putting their toys away, making their beds, and sort laundry,\n🔶 listening when their caregivers ask something of them, and\n🔶 being respectful to others in the family."
+        },
+        "section_3_title": {
+          "eng": "DO AS I DO"
+        },
+        "section_3_text": {
+          "eng": "👀 Your child learns more from what you *do* than what you *say*. They notice more than you might think!\n🌷 Treat your child and others in the way you’d like your child to act: with respect, kindness, patience, and love.\n❌ Shouting at or hitting your child will only teach them to react the same way towards others when upset.\n💚 Instead, talk calmly and set a clear consequence. This teaches your child to manage emotions in a healthy way. You’ll learn more about consequences in the next course."
+        },
+        "section_4_title": {
+          "eng": "NOTICE"
+        },
+        "section_4_text": {
+          "eng": "🎨 Notice what your child enjoys doing, and support those interests. \n✨ When your child feels as if their needs and interests are respected, they are more likely to willingly help out at home!\n🎁 Praise them when they complete their responsibilities. This helps them learn what’s expected and makes it more likely for them to do it again."
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "KNOW YOUR ROLE",
+      "section_1_text": "As a caregiver, your role is to make sure your child:\n🔷 has enough healthy food,\n🔷 has the clothes they need,\n🔷 stays safe from harm,\n🔷 contributes to family needs, like doing chores, \n🔷 learns the morals and values you wish them to, such as honesty,\n🔷 has opportunities to express themselves,\n🔷 has opportunities to play, and\n🔷 feels loved and supported, no matter what.",
+      "section_2_title": "TEACH",
+      "section_2_text": "Help your child understand their role in the family. This can include:\n🔶 doing age-appropriate chores, like putting their toys away, making their beds, and sort laundry,\n🔶 listening when their caregivers ask something of them, and\n🔶 being respectful to others in the family.",
+      "section_3_title": "DO AS I DO",
+      "section_3_text": "👀 Your child learns more from what you *do* than what you *say*. They notice more than you might think!\n🌷 Treat your child and others in the way you’d like your child to act: with respect, kindness, patience, and love.\n❌ Shouting at or hitting your child will only teach them to react the same way towards others when upset.\n💚 Instead, talk calmly and set a clear consequence. This teaches your child to manage emotions in a healthy way. You’ll learn more about consequences in the next course.",
+      "section_4_title": "NOTICE",
+      "section_4_text": "🎨 Notice what your child enjoys doing, and support those interests. \n✨ When your child feels as if their needs and interests are respected, they are more likely to willingly help out at home!\n🎁 Praise them when they complete their responsibilities. This helps them learn what’s expected and makes it more likely for them to do it again.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Time for a home activity! ⭐ Talk to your child about one of their interests or something they love doing and show them you love and support them for their passion. This shows them they are a valued member of your home. 💛 Do you have time to do it today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! 💙 This will help your child feel loved and supported, which can lead to better behaviour."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about something they like helps them feel loved and supported, which can lead to better behaviour!"
+        }
+      },
+      "quiz_1_question": "Time for a home activity! ⭐ Talk to your child about one of their interests or something they love doing and show them you love and support them for their passion. This shows them they are a valued member of your home. 💛 Do you have time to do it today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! 💙 This will help your child feel loved and supported, which can lead to better behaviour.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about something they like helps them feel loved and supported, which can lead to better behaviour!",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

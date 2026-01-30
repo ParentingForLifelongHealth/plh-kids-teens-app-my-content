@@ -1,0 +1,109 @@
+{
+  "flow_name": "manage_stress_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Before you can care for your child, you must first care for yourself. 🌷\n\nToday’s skill is learning about why it is important to manage stress and how to do it. 💚",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Before you can care for your child, you must first care for yourself. 🌷\n\nToday’s skill is learning about why it is important to manage stress and how to do it. 💚"
+        },
+        "text_2": {
+          "eng": "Managing your stress is really important for your health and mental well-being. ⭐\n\nWhen you feel calmer, it is easier to connect with your child in a positive way. 🔑"
+        }
+      },
+      "text_2": "Managing your stress is really important for your health and mental well-being. ⭐\n\nWhen you feel calmer, it is easier to connect with your child in a positive way. 🔑",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "3️⃣ Here are three steps to help you manage your stress:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are three steps to help you manage your stress:"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "REFLECT"
+        },
+        "section_1_text": {
+          "eng": "📝 Grab a pen and piece of paper. \n⏸ Take a moment to check in with yourself - how stressed are you right now? \n⭐ Write a number from 0 to 100 on how stressed you are. \n❓ How does stress feel for you? Do you feel tense? Do you have low energy? Do you have trouble sleeping or focusing? Write these down. \n🌱 Understanding how stress shows up in your body can help you better manage it."
+        },
+        "section_2_title": {
+          "eng": "IDENTIFY"
+        },
+        "section_2_text": {
+          "eng": "🚩 What’s causing your stress? Write them down.\n💡 When you know what’s stressing you out, you can starting finding ways to address and manage it.\n🎨 Now think - what do you enjoy doing? \n💚 There are different ways to care for yourself, such as walking, praying, and reading. Activities that help you manage stress are called ‘self-care’."
+        },
+        "section_3_title": {
+          "eng": "ROUTINE"
+        },
+        "section_3_text": {
+          "eng": "✨ Reflect on your daily life - how can you reduce your stress?\n☕ Can you add more self-care into your routine - even something small?\n\n⏰ Try to do one self-care activity each day."
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "REFLECT",
+      "section_1_text": "📝 Grab a pen and piece of paper. \n⏸ Take a moment to check in with yourself - how stressed are you right now? \n⭐ Write a number from 0 to 100 on how stressed you are. \n❓ How does stress feel for you? Do you feel tense? Do you have low energy? Do you have trouble sleeping or focusing? Write these down. \n🌱 Understanding how stress shows up in your body can help you better manage it.",
+      "section_2_title": "IDENTIFY",
+      "section_2_text": "🚩 What’s causing your stress? Write them down.\n💡 When you know what’s stressing you out, you can starting finding ways to address and manage it.\n🎨 Now think - what do you enjoy doing? \n💚 There are different ways to care for yourself, such as walking, praying, and reading. Activities that help you manage stress are called ‘self-care’.",
+      "section_3_title": "ROUTINE",
+      "section_3_text": "✨ Reflect on your daily life - how can you reduce your stress?\n☕ Can you add more self-care into your routine - even something small?\n\n⏰ Try to do one self-care activity each day.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "For today’s home activity, write down a list of activities that you can do for yourself that bring you joy. They can be something simple like going for a walk or chatting with a friend. 💚 \n\nCan you do it today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! ⭐ The happier and better you feel, the better parent you will be."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙"
+        }
+      },
+      "quiz_1_question": "For today’s home activity, write down a list of activities that you can do for yourself that bring you joy. They can be something simple like going for a walk or chatting with a friend. 💚 \n\nCan you do it today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! ⭐ The happier and better you feel, the better parent you will be.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

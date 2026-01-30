@@ -1,0 +1,187 @@
+{
+  "flow_name": "budget_month_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "There are four steps to building a family budget. 💰You have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n\n3️⃣ Today, you will learn Step 3: making a monthly budget.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "There are four steps to building a family budget. 💰You have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n\n3️⃣ Today, you will learn Step 3: making a monthly budget."
+        },
+        "text_2": {
+          "eng": "Balancing the money you earn with the money you need to spend is an important step in making a monthly budget. 📝"
+        }
+      },
+      "text_2": "Balancing the money you earn with the money you need to spend is an important step in making a monthly budget. 📝",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Here is how you can build a monthly budget:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_option_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Here is how you can build a monthly budget:"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        }
+      },
+      "quiz_1_option_1_text": "True",
+      "quiz_1_option_2_text": "False",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_option_2_text": "False",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "🎨 Take the piece of paper from the monthly expenses activity that shows all the things you spend money on during a month.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "🎨 Take the piece of paper from the monthly expenses activity that shows all the things you spend money on during a month."
+        }
+      },
+      "image_asset": "talk_monthly_expenses_yc_3",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "💰 Add up all the money your family has available each month. This can be from a job, welfare grants, or even money sent to the family by other relatives.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "💰 Add up all the money your family has available each month. This can be from a job, welfare grants, or even money sent to the family by other relatives."
+        }
+      },
+      "image_asset": "make_a_monthly_budget_yc_1",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "📱🚲 Decide which of the expenses are things that you NEED and which are things that you WANT. 📺🍞🚗",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "📱🚲 Decide which of the expenses are things that you NEED and which are things that you WANT. 📺🍞🚗"
+        }
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "⭐ Draw a star next to everything that you NEED. Add up all the things that have a star next to it.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "⭐ Draw a star next to everything that you NEED. Add up all the things that have a star next to it."
+        }
+      },
+      "image_asset": "make_a_monthly_budget_yc_2",
+      "completed": false
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚"
+        }
+      },
+      "image_asset": "make_a_monthly_budget_yc_3",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "⭐ It’s time to get out your paper and build your monthly budget. Do you have time to do it today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! Consider involving your family: it’s a great skill for everyone to learn. 💚"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s OK. Try to do it this week. 💚"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "_translations": {
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_question": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_2_text": "No",
+      "quiz_1_question": "⭐ It’s time to get out your paper and build your monthly budget. Do you have time to do it today?",
+      "quiz_1_feedback_1": "That’s great! Consider involving your family: it’s a great skill for everyone to learn. 💚",
+      "quiz_1_feedback_2": "That’s OK. Try to do it this week. 💚",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

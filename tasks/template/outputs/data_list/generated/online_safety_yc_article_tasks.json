@@ -1,0 +1,247 @@
+{
+  "flow_name": "online_safety_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Children spend a lot of time online – for learning, playing, and staying connected. 🌍 Today’s skill is about how to keep your child safe online. 📱\n\nThere is so much to share. Online safety will be covered across two lessons. 2️⃣",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Children spend a lot of time online – for learning, playing, and staying connected. 🌍 Today’s skill is about how to keep your child safe online. 📱\n\nThere is so much to share. Online safety will be covered across two lessons. 2️⃣"
+        },
+        "text_2": {
+          "eng": "Being online and connected helps children stay positive and learn more! 🔑\n\nBut it also comes with some risks and dangers. 🚩"
+        }
+      },
+      "text_2": "Being online and connected helps children stay positive and learn more! 🔑\n\nBut it also comes with some risks and dangers. 🚩",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "How can you support your child online? Here’s a quick question to get you going!",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "How can you support your child online? Here’s a quick question to get you going!"
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Parents should set time limits on how long their child can use the internet each day."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "🎉 Correct! \n\n⏰ Setting time limits can help balance online activities with other important tasks, such as homework, chores, and physical activities.\n\n📝 You can create rules together with your child about when they can play with devices and how to keep them safe online."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "❌ Incorrect. \n\n⏰ Setting time limits can help balance online activities with other important tasks, such as homework, chores, and physical activities.\n\n📝 You can create rules together with your child about when they can play with devices and how to keep them safe online."
+        },
+        "quiz_2_question": {
+          "eng": "Here is another question to consider. True or false: If your child comes across something upsetting or uncomfortable online, they should keep it to themselves and not tell anyone."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "❌ Incorrect. \n\n💡 If your child encounters something distressing or inappropriate online, they should tell you immediately so you can address the issue and get support if needed."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "✨ Correct! \n\n💡 If your child encounters something distressing or inappropriate online, they should tell you immediately so you can address the issue and get support if needed."
+        },
+        "quiz_3_question": {
+          "eng": "Social media is everywhere - and children often want to be a part of it too. True or false: It is safe for young children to have their social media accounts without parental supervision."
+        },
+        "quiz_3_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "❌ Incorrect. \n\n🔑 Social media platforms have age restrictions for a reason. \n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "⭐ Correct! \n\n🔑 Social media platforms have age restrictions for a reason.\n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions."
+        }
+      },
+      "quiz_1_question": "True or False: Parents should set time limits on how long their child can use the internet each day.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "🎉 Correct! \n\n⏰ Setting time limits can help balance online activities with other important tasks, such as homework, chores, and physical activities.\n\n📝 You can create rules together with your child about when they can play with devices and how to keep them safe online.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "❌ Incorrect. \n\n⏰ Setting time limits can help balance online activities with other important tasks, such as homework, chores, and physical activities.\n\n📝 You can create rules together with your child about when they can play with devices and how to keep them safe online.",
+      "quiz_2_question": "Here is another question to consider. True or false: If your child comes across something upsetting or uncomfortable online, they should keep it to themselves and not tell anyone.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "❌ Incorrect. \n\n💡 If your child encounters something distressing or inappropriate online, they should tell you immediately so you can address the issue and get support if needed.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "✨ Correct! \n\n💡 If your child encounters something distressing or inappropriate online, they should tell you immediately so you can address the issue and get support if needed.",
+      "quiz_3_question": "Social media is everywhere - and children often want to be a part of it too. True or false: It is safe for young children to have their social media accounts without parental supervision.",
+      "quiz_3_option_1_text": "True",
+      "quiz_3_feedback_1": "❌ Incorrect. \n\n🔑 Social media platforms have age restrictions for a reason. \n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions.",
+      "quiz_3_option_2_text": "False",
+      "quiz_3_feedback_2": "⭐ Correct! \n\n🔑 Social media platforms have age restrictions for a reason.\n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f3_daughter_4.name wants to play games on the handphone. Her mother, @data.characters.f3_mother.name, uses this opportunity to teach @data.characters.f3_daughter_4.name about how to stay safe online:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_daughter_4.name wants to play games on the handphone. Her mother, @data.characters.f3_mother.name, uses this opportunity to teach @data.characters.f3_daughter_4.name about how to stay safe online:"
+        },
+        "character_1_text": {
+          "eng": "Mummy, my friend played games on her phone yesterday. Can I use the phone to play games too?"
+        },
+        "character_2_text": {
+          "eng": "Sure, @data.characters.f3_daughter_4.name! But let’s first learn how to be safe when using gadgets. First, the household rule is that you can only use gadgets for 30 minutes each day. I will set a timer that will go off when you have 5 minutes left."
+        }
+      },
+      "image_asset": "images/yc_modules/online_safety_yc_1.svg",
+      "character_1_id": "f3_daughter_4",
+      "character_2_id": "f3_mother",
+      "character_1_text": "Mummy, my friend played games on her phone yesterday. Can I use the phone to play games too?",
+      "character_2_text": "Sure, @data.characters.f3_daughter_4.name! But let’s first learn how to be safe when using gadgets. First, the household rule is that you can only use gadgets for 30 minutes each day. I will set a timer that will go off when you have 5 minutes left.",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Also, always ask Mummy for permission before using any device. You should also only play games or watch videos that we have approved, okay?"
+        }
+      },
+      "image_asset": "images/yc_modules/online_safety_yc_2.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text": "Also, always ask Mummy for permission before using any device. You should also only play games or watch videos that we have approved, okay?",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Can I create my own account for pictures and videos, Mummy? My friend has an account for herself."
+        },
+        "character_2_text": {
+          "eng": "Not just yet, @data.characters.f3_daughter_4.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want."
+        }
+      },
+      "image_asset": "images/yc_modules/online_safety_yc_3.svg",
+      "character_1_id": "f3_daughter_4",
+      "character_2_id": "f3_mother",
+      "character_1_text": "Can I create my own account for pictures and videos, Mummy? My friend has an account for herself.",
+      "character_2_text": "Not just yet, @data.characters.f3_daughter_4.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "And remember, never click on a pop-up or picture if it appears. Also, if anything ever upsets you, let us know right away. We're here to keep you safe!"
+        },
+        "character_2_text": {
+          "eng": "That’s a lot, Mummy!"
+        }
+      },
+      "image_asset": "images/yc_modules/online_safety_yc_4.svg",
+      "character_1_id": "f3_mother",
+      "character_2_id": "f3_daughter_4",
+      "character_1_text": "And remember, never click on a pop-up or picture if it appears. Also, if anything ever upsets you, let us know right away. We're here to keep you safe!",
+      "character_2_text": "That’s a lot, Mummy!",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST."
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "LEARN the dangers of being online"
+        },
+        "section_1_text": {
+          "eng": "🚩 CONTENT: Your child might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries.\n🚩 CONTACT: Adults might pretend to be children and ask for sexual pictures or to meet with your child through an online platform.\n🚩 CONDUCT: Sometimes, children or strangers can say or do hurtful things online."
+        },
+        "section_2_title": {
+          "eng": "PROTECT and keep your child safe online"
+        },
+        "section_2_text": {
+          "eng": "✅ Talk to your child about which apps and websites are safe and which are not. Discuss why!\n✅ Help your child learn how to make strong passwords to protect their devices. \n✅ Tell your child that they should keep personal information private, including photos or videos of themselves. What goes online, stays online!"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_1_title": "LEARN the dangers of being online",
+      "section_1_text": "🚩 CONTENT: Your child might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries.\n🚩 CONTACT: Adults might pretend to be children and ask for sexual pictures or to meet with your child through an online platform.\n🚩 CONDUCT: Sometimes, children or strangers can say or do hurtful things online.",
+      "section_2_title": "PROTECT and keep your child safe online",
+      "section_2_text": "✅ Talk to your child about which apps and websites are safe and which are not. Discuss why!\n✅ Help your child learn how to make strong passwords to protect their devices. \n✅ Tell your child that they should keep personal information private, including photos or videos of themselves. What goes online, stays online!",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Are you ready for today’s home activity? ⭐\n\nAsk your child what they do to stay safe online. 👂 You may find that they are already thinking about online safety. 💡\n\nPraise your child for any efforts they make. Can you talk with your child today? 🔔"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐"
+        }
+      },
+      "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nAsk your child what they do to stay safe online. 👂 You may find that they are already thinking about online safety. 💡\n\nPraise your child for any efforts they make. Can you talk with your child today? 🔔",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

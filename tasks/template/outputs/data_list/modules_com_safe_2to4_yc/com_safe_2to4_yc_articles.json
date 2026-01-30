@@ -1,0 +1,279 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "com_safe_2to4_yc_articles",
+  "data_list_name": "com_safe_2to4_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_com_safe_2to4_yc",
+  "module": "com_safe_2to4_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "It is important to know how to keep your children safe in your community. 🚩",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "It is important to know how to keep your children safe in your community. 🚩"
+        },
+        "text_2": {
+          "eng": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!"
+        }
+      },
+      "text_2": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let’s test your knowledge about children’s safety.",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s test your knowledge about children’s safety."
+        },
+        "quiz_1_question": {
+          "eng": "Which of these is NOT a place where children could experience harm?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Home"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "A friend’s house"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "School"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_4_text": {
+          "eng": "Religious Centre"
+        },
+        "quiz_1_feedback_4": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_5_text": {
+          "eng": "Clinic"
+        },
+        "quiz_1_feedback_5": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_6_text": {
+          "eng": "Park"
+        },
+        "quiz_1_feedback_6": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_7_text": {
+          "eng": "Car"
+        },
+        "quiz_1_feedback_7": {
+          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_1_option_8_text": {
+          "eng": "None of the Above"
+        },
+        "quiz_1_feedback_8": {
+          "eng": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+        },
+        "quiz_2_question": {
+          "eng": "How about this next True/False question: My child is always with me, so I don’t need to teach them about safety until they are older."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "❌ Incorrect. \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "⭐ You’re correct! \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere."
+        }
+      },
+      "quiz_1_question": "Which of these is NOT a place where children could experience harm?",
+      "quiz_1_option_1_text": "Home",
+      "quiz_1_feedback_1": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_2_text": "A friend’s house",
+      "quiz_1_feedback_2": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_3_text": "School",
+      "quiz_1_feedback_3": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_4_text": "Religious Centre",
+      "quiz_1_feedback_4": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_5_text": "Clinic",
+      "quiz_1_feedback_5": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_6_text": "Park",
+      "quiz_1_feedback_6": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_7_text": "Car",
+      "quiz_1_feedback_7": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_8_text": "None of the Above",
+      "quiz_1_feedback_8": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_2_question": "How about this next True/False question: My child is always with me, so I don’t need to teach them about safety until they are older.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "❌ Incorrect. \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "⭐ You’re correct! \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/com_safety_2to4_yc_1.svg",
+      "character_1_id": "f3_daughter_4",
+      "nested": false,
+      "text_1_facilitator": "Let’s check in on @data.characters.f3_daughter_4.name and her uncle, @data.characters.f3_uncle.name who are playing together outside:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s check in on @data.characters.f3_daughter_4.name and her uncle, @data.characters.f3_uncle.name who are playing together outside:"
+        },
+        "character_1_text": {
+          "eng": "Look Uncle, how far I can kick my ball!"
+        }
+      },
+      "character_1_text": "Look Uncle, how far I can kick my ball!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/com_safety_2to4_yc_2.svg",
+      "character_1_id": "f3_daughter_4",
+      "nested": false,
+      "character_1_text": "Oh no! My ball!",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Oh no! My ball!"
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/com_safety_2to4_yc_3.svg",
+      "character_1_id": "f3_uncle",
+      "character_2_id": "f3_daughter_4",
+      "nested": false,
+      "character_1_text": "Remember what we talked about, @data.characters.f3_daughter_4.name. What should we do if the ball goes on the street?",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Remember what we talked about, @data.characters.f3_daughter_4.name. What should we do if the ball goes on the street?"
+        },
+        "character_2_text": {
+          "eng": "We should stay where we are and ask an adult for help."
+        }
+      },
+      "character_2_text": "We should stay where we are and ask an adult for help."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/com_safety_2to4_yc_4.svg",
+      "character_1_id": "f3_uncle",
+      "nested": false,
+      "character_1_text": "That’s right! I am so proud of you for remembering. Roads are for cars and bikes, and it is safer for an adult to get your ball for you.",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That’s right! I am so proud of you for remembering. Roads are for cars and bikes, and it is safer for an adult to get your ball for you."
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:"
+        }
+      }
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "nested": false,
+      "section_1_title": "DRAW",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "DRAW"
+        },
+        "section_1_text": {
+          "eng": "📝 Draw a map of your community.\n🚩 Include the main places in your community: your house, streets in your neighbourhood, pre-school, daycare, and other places. \n👋Draw and identify pictures of trusted people who your child can go to when they feel unsafe. These can be you and your spouse, other family members, or teachers."
+        },
+        "section_2_title": {
+          "eng": "TALK"
+        },
+        "section_2_text": {
+          "eng": "🔑 Talk about the safe and unsafe places on your map. For example, let your child know that the street is not a safe place, even if their toy or ball goes there. \n🔵 CIRCLE the places that are safe for children.\n❌ CROSS OFF any places that are unsafe for your child. For example, areas under construction, parking areas, or unfamiliar buildings."
+        },
+        "section_3_title": {
+          "eng": "DISCUSS"
+        },
+        "section_3_text": {
+          "eng": "❗ Discuss with your child why it is important to ALWAYS have an adult with them when they go outside. \n🧸Make sure your child knows it’s okay to walk or run inside if a stranger tries to talk to them or asks them to go somewhere. \n👀 Discuss with your child safe places they can run if a stranger approaches them – such as your home, or a neighbour’s home. \n🚩 Mark these areas clearly on your map."
+        },
+        "section_4_title": {
+          "eng": "PRACTISE"
+        },
+        "section_4_text": {
+          "eng": "🔔Practise! Practise! Practise! \n👑 Using toys or puppets, role-play scenarios where a stranger approaches. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
+        }
+      },
+      "section_1_text": "📝 Draw a map of your community.\n🚩 Include the main places in your community: your house, streets in your neighbourhood, pre-school, daycare, and other places. \n👋Draw and identify pictures of trusted people who your child can go to when they feel unsafe. These can be you and your spouse, other family members, or teachers.",
+      "section_2_title": "TALK",
+      "section_2_text": "🔑 Talk about the safe and unsafe places on your map. For example, let your child know that the street is not a safe place, even if their toy or ball goes there. \n🔵 CIRCLE the places that are safe for children.\n❌ CROSS OFF any places that are unsafe for your child. For example, areas under construction, parking areas, or unfamiliar buildings.",
+      "section_3_title": "DISCUSS",
+      "section_3_text": "❗ Discuss with your child why it is important to ALWAYS have an adult with them when they go outside. \n🧸Make sure your child knows it’s okay to walk or run inside if a stranger tries to talk to them or asks them to go somewhere. \n👀 Discuss with your child safe places they can run if a stranger approaches them – such as your home, or a neighbour’s home. \n🚩 Mark these areas clearly on your map.",
+      "section_4_title": "PRACTISE",
+      "section_4_text": "🔔Practise! Practise! Practise! \n👑 Using toys or puppets, role-play scenarios where a stranger approaches. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\nDo you have time to do it today? ⏰",
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\nDo you have time to do it today? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! 💙 You are helping your child be aware of their surroundings to keep themselves safe."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! If you don't have time today, set some time aside tomorrow to talk to your child about safe and unsafe places. You can do this! 🌷"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! 💙 You are helping your child be aware of their surroundings to keep themselves safe.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow to talk to your child about safe and unsafe places. You can do this! 🌷"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

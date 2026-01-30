@@ -1,0 +1,316 @@
+{
+  "flow_name": "child_change_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "This skill is about helping you support your child’s healthy development as they grow and change. ✨",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "This skill is about helping you support your child’s healthy development as they grow and change. ✨"
+        },
+        "text_2": {
+          "eng": "🌱 Children have different abilities at different stages of their development. \n\n⚽ It is important to know what your child can do at their current stage. \n\n✨ This way, you can help plan activities that match their abilities and help you have realistic courses for them."
+        }
+      },
+      "text_2": "🌱 Children have different abilities at different stages of their development. \n\n⚽ It is important to know what your child can do at their current stage. \n\n✨ This way, you can help plan activities that match their abilities and help you have realistic courses for them.",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let's do a quick quiz!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_2_option_3_text": {},
+        "quiz_2_feedback_3": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's do a quick quiz!"
+        },
+        "quiz_1_question": {
+          "eng": "True or False: All children develop at the same speed as each other."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
+        },
+        "quiz_2_question": {
+          "eng": "As children grow up, they may want to try new styles. How can you respond if your child expresses interest to suddenly change their dressing or hairstyle?"
+        },
+        "quiz_2_option_1_text": {
+          "eng": "Reject all their requests and say it is not necessary."
+        },
+        "quiz_2_feedback_1": {
+          "eng": "❌ Incorrect. \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "Warmly ask more about what influenced their interest to change and why."
+        },
+        "quiz_2_feedback_2": {
+          "eng": "🎉 That’s right! \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home."
+        },
+        "quiz_2_option_3_text": {
+          "eng": "Give in to all of your child’s interests."
+        },
+        "quiz_2_feedback_3": {
+          "eng": "❌ Incorrect. \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home."
+        }
+      },
+      "quiz_1_question": "True or False: All children develop at the same speed as each other.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
+      "quiz_2_question": "As children grow up, they may want to try new styles. How can you respond if your child expresses interest to suddenly change their dressing or hairstyle?",
+      "quiz_2_option_1_text": "Reject all their requests and say it is not necessary.",
+      "quiz_2_feedback_1": "❌ Incorrect. \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home.",
+      "quiz_2_option_2_text": "Warmly ask more about what influenced their interest to change and why.",
+      "quiz_2_feedback_2": "🎉 That’s right! \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home.",
+      "quiz_2_option_3_text": "Give in to all of your child’s interests.",
+      "quiz_2_feedback_3": "❌ Incorrect. \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Gently kick the ball using the inside of your foot, like this."
+        },
+        "character_2_text": {
+          "eng": "I want to do it now!!"
+        },
+        "character_3_text": {
+          "eng": "No, I want to do it first!!"
+        }
+      },
+      "image_asset": "images/yc_modules/child_change_yc_1.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_5",
+      "character_3_id": "f1_daughter_6",
+      "character_1_text": "Gently kick the ball using the inside of your foot, like this.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "I want to do it now!!",
+      "character_3_text": "No, I want to do it first!!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f1_father.name: It can be hard to wait but we cannot all go first. @data.characters.f1_daughter_6.name, how about you suggest a way for us to take turns kicking the ball?"
+        },
+        "character_2_text": {
+          "eng": "Hmm… How about we make a circle, and I kick the ball to @data.characters.f1_son_5.name, then he kicks it to you Ayah, and you kick it back to me!"
+        },
+        "character_3_text": {
+          "eng": "But I want to go first, not second!"
+        }
+      },
+      "image_asset": "images/yc_modules/child_change_yc_2.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_6",
+      "character_3_id": "f1_son_5",
+      "character_1_text": "@data.characters.f1_father.name: It can be hard to wait but we cannot all go first. @data.characters.f1_daughter_6.name, how about you suggest a way for us to take turns kicking the ball?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Hmm… How about we make a circle, and I kick the ball to @data.characters.f1_son_5.name, then he kicks it to you Ayah, and you kick it back to me!",
+      "character_3_text": "But I want to go first, not second!",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "That’s a fair point, @data.characters.f1_son_5.name. What if we stick to the circle idea and wait for our turn? It’ll be fun and everyone gets a chance."
+        },
+        "character_2_text": {
+          "eng": "Okay… Let’s try."
+        }
+      },
+      "image_asset": "images/yc_modules/child_change_yc_3.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_son_5",
+      "character_1_text": "That’s a fair point, @data.characters.f1_son_5.name. What if we stick to the circle idea and wait for our turn? It’ll be fun and everyone gets a chance.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_text": "Okay… Let’s try.",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Good job, @data.characters.f1_daughter_6.name! You led the way, and we all had so much fun taking turns! @data.characters.f1_son_5.name, you were also great at patiently waiting for your turn."
+        },
+        "character_2_text": {
+          "eng": "Thanks Ayah!"
+        },
+        "character_3_text": {
+          "eng": "That was fun! Let’s do it again!"
+        }
+      },
+      "image_asset": "images/yc_modules/child_change_yc_4.svg",
+      "character_1_id": "f1_father",
+      "character_2_id": "f1_daughter_6",
+      "character_3_id": "f1_son_5",
+      "character_1_text": "Good job, @data.characters.f1_daughter_6.name! You led the way, and we all had so much fun taking turns! @data.characters.f1_son_5.name, you were also great at patiently waiting for your turn.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Thanks Ayah!",
+      "character_3_text": "That was fun! Let’s do it again!",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚"
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "FIND FRIENDS"
+        },
+        "section_1_text": {
+          "eng": "🎨 your child will want to spend time with other children. \n⚽ Support your child to make friends based on their interests - it’s great for them!\n💚 Help your child learn about sharing and playing with others in a safe and fun way."
+        },
+        "section_2_title": {
+          "eng": "SUPPORT CURIOSITY"
+        },
+        "section_2_text": {
+          "eng": "📖 your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!"
+        },
+        "section_3_title": {
+          "eng": "TRUST YOUR CHILD"
+        },
+        "section_3_text": {
+          "eng": "📝 your child may begin making their own decisions and will want you to trust them. Listen to what they want and set rules that work for the family. \n🏆 Praise your child when they follow the rules!"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "FIND FRIENDS",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_text": "🎨 your child will want to spend time with other children. \n⚽ Support your child to make friends based on their interests - it’s great for them!\n💚 Help your child learn about sharing and playing with others in a safe and fun way.",
+      "section_2_title": "SUPPORT CURIOSITY",
+      "section_2_text": "📖 your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",
+      "section_3_title": "TRUST YOUR CHILD",
+      "section_3_text": "📝 your child may begin making their own decisions and will want you to trust them. Listen to what they want and set rules that work for the family. \n🏆 Praise your child when they follow the rules!",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱"
+        }
+      },
+      "quiz_1_question": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow.",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}
