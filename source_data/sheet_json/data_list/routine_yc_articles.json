@@ -1,0 +1,100 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "routine_yc_articles",
+  "data_list_name": "routine_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_routine_yc",
+  "module": "routine_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "This skill is about creating routines with your child. Routines are things we do every day. 🔄",
+      "text_2::eng": "Creating daily routines with your child will help them feel more secure and safe. 🔑 \n\nYou can help create regular times for resting ⏰, meals 🍚, chores 🌱, school 📖, and sleep 🌙."
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Sleep is a big part of a child’s routine. How much sleep do children need? Let’s find out!",
+      "quiz_1_question::eng": "True or false: Children aged 2 to 9 need at least 9-13 hours of sleep each day. 🌙",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "⭐ That’s correct! \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep.\n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "❌ That’s incorrect. \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep. \n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "@data.characters.f1_mother.name is helping to create a bedtime routine with her daughter, @data.characters.f1_daughter_2.name. Let’s see how they do it together!",
+      "image_asset": "images/yc_modules/create_routines_yc_1.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text::eng": "@data.characters.f1_mother.name: Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?",
+      "character_2_id": "f1_daughter_2",
+      "character_2_text::eng": "Okay!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/create_routines_yc_2.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text::eng": "Time to get ready for bed. First, let’s get you nice and clean with a bath."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/create_routines_yc_3.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text::eng": "You did such a good job in the bath, @data.characters.f1_daughter_2.name. Now, let’s put on your pyjamas."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/create_routines_yc_4.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text::eng": "Well done getting into your pyjamas all by yourself, @data.characters.f1_daughter_2.name! Now, let’s brush your teeth. Don’t forget the ones at the back!"
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/create_routines_yc_5.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text::eng": "Since you were such a good girl getting ready for bed, we now have time to read your favourite story.",
+      "character_2_id": "f1_daughter_2",
+      "character_2_text::eng": "Yay!"
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "3️⃣ Here are three tips on how to create routines with your child.",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "BE A TEAM",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "🎈 Talk to your child about how they’d like their routines to look like.\n✨ Did you know? When children help set routines, they’re more likely to stick to them—give it a try! 💚",
+      "section_2_title::eng": "BE CONSISTENT",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "⏰ Help your child follow their routines every day.\n🌱 Activities become easier to manage when children learn and get used to a routine.\n🔄 Consistent routines help your child learn about daily activities and how to manage their time.",
+      "section_3_title::eng": "PRAISE, PRAISE, PRAISE",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "🎈 Praise your child for setting a routine with you.\n⭐ Praise your child when they follow the routine."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "Do you have time to try setting routines with your child today? ⏰",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "That's great! Create ONE regular daily routine, like having a meal together or going for a walk. It will help your child feel secure and loved.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "That's OK! Beginning something new takes time. You can start with something simple, like creating a time when you and your child can do something together. ⚽ \n\nFor example, having dinner or going for a walk. Ask your child for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲"
+    }
+  ]
+}

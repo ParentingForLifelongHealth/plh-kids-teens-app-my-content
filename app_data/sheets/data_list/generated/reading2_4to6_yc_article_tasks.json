@@ -1,0 +1,256 @@
+{
+  "flow_name": "reading2_4to6_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_2",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_2": "Tutup mata anda.\nMari kita gunakan kuasa ajaib nombor 3 untuk kekal hadir dan bertenang.\n\nSebut 3 bunyi yang anda boleh dengar sekarang.\nSebut 3 bau yang anda boleh hidu sekarang.\nSebut 3 makanan kegemaran anda.\nApakah 3 perkara yang anda berasa bersyukur pada saat ini.\n\nDi penghujung hari yang mencabar, fikirkan 3 perkara yang kita rasa beruntung dan boleh membantu kita untuk mengumpul semula semangat untuk mencuba lagi pada esok hari.",
+      "title": "Power of three",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Power of three"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_8",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Self-care is a key parenting tool. It starts with recognising how we feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult right now. Take a deep breath and know that you are valued."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
+      "quiz_1_feedback_2": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward.",
+      "quiz_1_feedback_3": "Sorry that things are difficult right now. Take a deep breath and know that you are valued.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Welcome back! Today, you will continue to learn about how to help your child become a better reader. \n\n📖 It is about word games and writing. 📝"
+        },
+        "text_2": {
+          "eng": "Learning to read begins with understanding language, letters, and sounds. 🎵 \n\nStarting to write letters will also help your child learn to read. 📖⭐"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Welcome back! Today, you will continue to learn about how to help your child become a better reader. \n\n📖 It is about word games and writing. 📝",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Learning to read begins with understanding language, letters, and sounds. 🎵 \n\nStarting to write letters will also help your child learn to read. 📖⭐",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Some say it’s best to wait until children start formal schooling, while others think otherwise. What do you think?"
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Reading with your child means reading the words in the book aloud."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "quiz_1_question": "True or False: Reading with your child means reading the words in the book aloud.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_option_2_text": "False",
+      "text_1_facilitator": "Some say it’s best to wait until children start formal schooling, while others think otherwise. What do you think?",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four more ways to help your child learn reading skills: Use Books to Learn, Notice Letters, Play Word Games, and Start Writing."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four more ways to help your child learn reading skills: Use Books to Learn, Notice Letters, Play Word Games, and Start Writing.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "USE BOOKS TO LEARN"
+        },
+        "section_1_text": {
+          "eng": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. \n⭐ Books with words help to understand letters, sounds, and what different words look like.\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”\n➡️ Point to each word and say it aloud to help your child recognise some of the letters and sounds!"
+        },
+        "section_2_title": {
+          "eng": "NOTICE LETTERS"
+        },
+        "section_2_text": {
+          "eng": "👀 Look for letters everywhere, such as on signs and packages.\n💡Point the letters out to your child and name them.\n👂 Ask your child to find letters and name them, too!"
+        },
+        "section_3_title": {
+          "eng": "PLAY WORD GAMES"
+        },
+        "section_3_text": {
+          "eng": "🎵 Sing and rhyme with your child to help them learn about the different sounds that make words.\n👋 Break up words into syllables. Clap with your child while saying each syllable - start with just 2!\n🔄 Swap sounds or letters to make new words, like “cat, pat, mat.” Then, repeat the sounds that were changed: “c”, “p”, “m”\n👀 Help your child identify “beginning,” “middle,” and “end” sounds - and letters that make these.\n✅ Once they understand letters and sounds in different places in words, you can help them put the parts of a word together to make the whole word!"
+        },
+        "section_4_title": {
+          "eng": "START WRITING"
+        },
+        "section_4_text": {
+          "eng": "🧸🌷 Encourage your child to draw. They can start by drawing things they like, such as animals or flowers.\n▶️ Next, show them how to draw shapes that look like letters: 🔵🔶\n😃 Later, help them write simple letters. Start with the first letter of their name! \n🔄 Practise and add letters until they can write their whole name. Then learn letters in other words!"
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "USE BOOKS TO LEARN",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_text": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. \n⭐ Books with words help to understand letters, sounds, and what different words look like.\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”\n➡️ Point to each word and say it aloud to help your child recognise some of the letters and sounds!",
+      "section_2_title": "NOTICE LETTERS",
+      "section_2_text": "👀 Look for letters everywhere, such as on signs and packages.\n💡Point the letters out to your child and name them.\n👂 Ask your child to find letters and name them, too!",
+      "section_3_title": "PLAY WORD GAMES",
+      "section_3_text": "🎵 Sing and rhyme with your child to help them learn about the different sounds that make words.\n👋 Break up words into syllables. Clap with your child while saying each syllable - start with just 2!\n🔄 Swap sounds or letters to make new words, like “cat, pat, mat.” Then, repeat the sounds that were changed: “c”, “p”, “m”\n👀 Help your child identify “beginning,” “middle,” and “end” sounds - and letters that make these.\n✅ Once they understand letters and sounds in different places in words, you can help them put the parts of a word together to make the whole word!",
+      "section_4_title": "START WRITING",
+      "section_4_text": "🧸🌷 Encourage your child to draw. They can start by drawing things they like, such as animals or flowers.\n▶️ Next, show them how to draw shapes that look like letters: 🔵🔶\n😃 Later, help them write simple letters. Start with the first letter of their name! \n🔄 Practise and add letters until they can write their whole name. Then learn letters in other words!",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Home activity! Can you draw or write with your child today? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
+        }
+      },
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {}
+      },
+      "quiz_1_feedback_2": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝",
+      "quiz_1_question": "Home activity! Can you draw or write with your child today? ⭐",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

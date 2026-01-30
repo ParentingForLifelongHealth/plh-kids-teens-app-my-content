@@ -1,0 +1,104 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "language_yc_articles",
+  "data_list_name": "language_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_language_yc",
+  "module": "language_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Welcome to your next course! ✨This course is about preparing your child for success in school by helping them learn. \n\nThese skills are a guide: use them as your child is ready for them. 💡\n\nThis first skill is about helping your child learn new words and improve their language skills! 👂",
+      "text_2::eng": "Learning to talk and have conversations is important to help your child get ready to read and do well for school. 🎓"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Here’s something to think about. ",
+      "quiz_1_question::eng": "True or False: All children, no matter how they are growing, can learn and develop skills.",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "✨You’re right! \n\n🎉 All children, no matter how they are growing, can learn and develop skills. \n\n🔑 Every child is different. They learn at different speeds, and what they can do changes with their age.",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "❌ That’s incorrect! \n\n🎉 All children, no matter how they are growing, can learn and develop skills. \n\n🔑 Every child is different. They learn at different speeds, and what they can do changes with their age.",
+      "quiz_2_question::eng": "True or False: It's okay if you do most of the talking when you have a conversation with your child.",
+      "quiz_2_option_1_text::eng": "True",
+      "quiz_2_feedback_1::eng": "❌ That’s incorrect! \n\n🎈 Children learn new words and build confidence in their language abilities when they actively participate in the conversation. \n\n🌷 Children may not know how to say many words, but it’s important to continue encouraging them!",
+      "quiz_2_option_2_text::eng": "False",
+      "quiz_2_feedback_2::eng": "⭐ That’s correct! \n\n🎈 Children learn new words and build confidence in their language abilities when they actively participate in the conversation. \n\n🌷 Children may not know how to say many words, but it’s important to continue encouraging them!"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "@data.characters.f1_father.name is a dad committed to positive parenting. Let’s see how he approaches time with his son, @data.characters.f1_son_5.name:",
+      "image_asset": "images/yc_modules/language_yc_1.svg",
+      "character_1_id": "f1_father",
+      "character_1_text::eng": "\nI see you are playing quietly with the blocks with concentration, @data.characters.f1_son_5.name. What are you building?"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/language_yc_2.svg",
+      "character_1_id": "f1_father",
+      "character_1_text::eng": "Wow! You are building such a tall and strong wall with those blocks. ",
+      "character_2_id": "f1_son_5",
+      "character_2_text::eng": "It is for cows."
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/language_yc_3.svg",
+      "character_1_id": "f1_father",
+      "character_1_text::eng": "It will keep the cows safe!",
+      "character_2_id": "f1_son_5",
+      "character_2_text::eng": "Yes! I want to build more. Come help me build a house for our family!"
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/language_yc_4.svg",
+      "character_1_id": "f1_father",
+      "character_1_text::eng": "Happy to help, @data.characters.f1_son_5.name. This house is going to keep our family warm and dry. You are such a good builder!"
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say.",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "EXPLAIN",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "😃 You can talk by describing and explaining what you are doing. For example, chat with them while shopping at the market. 🍅\n👂 Ask your child questions and listen to their answers!\n⏯️ Give your child learning opportunities at their own pace. When they have tasks that suit their abilities, it will boost their excitement for learning. 😃",
+      "section_2_title::eng": "ASK",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "💡 Ask questions that don’t have just ‘yes’ or ‘no’ answers.\n✨ Ask questions like, “What would you like to do with your friend later?” or, “What fun thing did you do in school today?”",
+      "section_3_title::eng": "LISTEN",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "👂 Let your child speak too.\n⏰ Give them time to respond - they may need time to think and express, especially if they are giving longer answers!\n😃 After giving them time, if it is difficult for them to say what they want, you can help them with prompts!",
+      "section_4_title::eng": "BUILD",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_4_text::eng": "👂Listen to your child and always respond. \n🔄 Confirm what they said and add more to help them connect their understanding to new language. For example, if your child says, “There’s a cat,” you could respond, “Yes, there’s a cat making a big hole in the ground”.",
+      "section_5_title::eng": "TELL STORIES",
+      "section_5_icon_asset": "images/icons/diamond_blue.png",
+      "section_5_text::eng": "🎈 Tell your child stories! They can be real, made up, about your lives, or read to them from books.\n😃 Encourage your child to tell stories too. You could show photos and create a story together!\n🔄 Be patient! It takes lots of practice to listen to stories, and even more to learn the skill of telling them. 💙"
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "Here is today’s home activity! Try to use words and gestures to describe your activities when spending time together. Make sure you communicate in a way that your child can understand. Can you do it today? ⭐",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "Excellent! Using words and gestures that your child can understand to describe your activities is a great way to help them learn! 💡",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "That’s okay. Try to find a time to talk to them, even if it’s just explaining something you’re doing around the house! 💡"
+    }
+  ]
+}

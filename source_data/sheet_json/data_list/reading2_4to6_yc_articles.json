@@ -1,0 +1,63 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "reading2_4to6_yc_articles",
+  "data_list_name": "reading2_4to6_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_reading2_4to6_yc",
+  "module": "reading2_4to6_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Welcome back! Today, you will continue to learn about how to help your child become a better reader. \n\n📖 It is about word games and writing. 📝",
+      "text_2::eng": "Learning to read begins with understanding language, letters, and sounds. 🎵 \n\nStarting to write letters will also help your child learn to read. 📖⭐"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Some say it’s best to wait until children start formal schooling, while others think otherwise. What do you think?",
+      "quiz_1_question::eng": "True or False: Reading with your child means reading the words in the book aloud. ",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "4️⃣ Here are four more ways to help your child learn reading skills: Use Books to Learn, Notice Letters, Play Word Games, and Start Writing.",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "USE BOOKS TO LEARN",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. \n⭐ Books with words help to understand letters, sounds, and what different words look like.\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”\n➡️ Point to each word and say it aloud to help your child recognise some of the letters and sounds!",
+      "section_2_title::eng": "NOTICE LETTERS",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "👀 Look for letters everywhere, such as on signs and packages.\n💡Point the letters out to your child and name them.\n👂 Ask your child to find letters and name them, too!",
+      "section_3_title::eng": "PLAY WORD GAMES",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "🎵 Sing and rhyme with your child to help them learn about the different sounds that make words.\n👋 Break up words into syllables. Clap with your child while saying each syllable - start with just 2!\n🔄 Swap sounds or letters to make new words, like “cat, pat, mat.” Then, repeat the sounds that were changed: “c”, “p”, “m”\n👀 Help your child identify “beginning,” “middle,” and “end” sounds - and letters that make these.\n✅ Once they understand letters and sounds in different places in words, you can help them put the parts of a word together to make the whole word!",
+      "section_4_title::eng": "START WRITING",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_4_text::eng": "🧸🌷 Encourage your child to draw. They can start by drawing things they like, such as animals or flowers.\n▶️ Next, show them how to draw shapes that look like letters: 🔵🔶\n😃 Later, help them write simple letters. Start with the first letter of their name! \n🔄 Practise and add letters until they can write their whole name. Then learn letters in other words!"
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "Home activity! Can you draw or write with your child today? ⭐",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
+    }
+  ]
+}

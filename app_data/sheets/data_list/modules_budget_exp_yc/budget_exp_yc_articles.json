@@ -1,0 +1,163 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "budget_exp_yc_articles",
+  "data_list_name": "budget_exp_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_budget_exp_yc",
+  "module": "budget_exp_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "There are four steps to building a family budget. 💰You have already covered:\n1️⃣ Step 1: identifying needs and wants.\n\n2️⃣ Today, you will learn about Step 2: talking about monthly expenses.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "There are four steps to building a family budget. 💰You have already covered:\n1️⃣ Step 1: identifying needs and wants.\n\n2️⃣ Today, you will learn about Step 2: talking about monthly expenses."
+        },
+        "text_2": {
+          "eng": "🔑 Knowing what your family’s monthly expenses are can be helpful for everyone in your family. \n\n💡 It can help them understand why money is being spent on some things and not on others."
+        }
+      },
+      "text_2": "🔑 Knowing what your family’s monthly expenses are can be helpful for everyone in your family. \n\n💡 It can help them understand why money is being spent on some things and not on others."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "Let's get started with an activity!",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let's get started with an activity!"
+        }
+      }
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen."
+        }
+      }
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "talk_monthly_expenses_yc_1",
+      "nested": false,
+      "text_1_facilitator": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "🎨 Draw pictures of all the things that you and your family spend money on each month."
+        }
+      }
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "talk_monthly_expenses_yc_2",
+      "nested": false,
+      "text_1_facilitator": "📝 Write next to each picture how much each thing costs.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "📝 Write next to each picture how much each thing costs."
+        }
+      }
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "image_asset": "talk_monthly_expenses_yc_3",
+      "nested": false,
+      "text_1_facilitator": "💰 Add up how much money you have to spend each month.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "💰 Add up how much money you have to spend each month."
+        }
+      }
+    },
+    {
+      "id": "explore_6",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Take a picture of the paper or save it for Step 3! ⭐",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Take a picture of the paper or save it for Step 3! ⭐"
+        }
+      }
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "Are you ready for today’s home activity? ⭐ It’s time to add up your monthly expenses.",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Are you ready for today’s home activity? ⭐ It’s time to add up your monthly expenses."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s OK. Try to make some time to do this soon. You can do this! 🌷"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s OK. Try to make some time to do this soon. You can do this! 🌷"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

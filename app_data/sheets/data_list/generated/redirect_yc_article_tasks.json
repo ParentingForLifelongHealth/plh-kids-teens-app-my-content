@@ -1,0 +1,297 @@
+{
+  "flow_name": "redirect_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today is about learning what to do when our children misbehave. 🚩 \n\nIt is normal for children to misbehave when they are tired, scared, hungry, learning independence, wanting something, or avoiding a task. 😒😔😣\n\nOne thing you can do is to stop it before it starts. This is called redirecting behaviours.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today is about learning what to do when our children misbehave. 🚩 \n\nIt is normal for children to misbehave when they are tired, scared, hungry, learning independence, wanting something, or avoiding a task. 😒😔😣\n\nOne thing you can do is to stop it before it starts. This is called redirecting behaviours."
+        },
+        "text_2": {
+          "eng": "Redirecting behaviours can help focus your child’s attention from negative to positive behaviours. 😣➡️😃\n\nFor example, when your child begins to whine, you can redirect their attention towards something positive like helping out with an activity. 🌱🎨"
+        }
+      },
+      "text_2": "Redirecting behaviours can help focus your child’s attention from negative to positive behaviours. 😣➡️😃\n\nFor example, when your child begins to whine, you can redirect their attention towards something positive like helping out with an activity. 🌱🎨",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "But what if children are already misbehaving? Can you still redirect their behaviour at that point?",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "But what if children are already misbehaving? Can you still redirect their behaviour at that point?"
+        },
+        "quiz_1_question": {
+          "eng": "True or False: You can use redirect at any time, even when your child is already behaving badly like having a tantrum."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ Incorrect. \n\n➡️ Redirecting your child’s behaviour only works either before the behaviour begins or at the beginning of the behaviour (before it gets worse).\n\n🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 You are right! \n\n➡️ Redirecting your child’s behaviour only works either before the behaviour begins or at the beginning of the behaviour (before it gets worse).\n\n🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills."
+        }
+      },
+      "quiz_1_question": "True or False: You can use redirect at any time, even when your child is already behaving badly like having a tantrum.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ Incorrect. \n\n➡️ Redirecting your child’s behaviour only works either before the behaviour begins or at the beginning of the behaviour (before it gets worse).\n\n🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills.",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉 You are right! \n\n➡️ Redirecting your child’s behaviour only works either before the behaviour begins or at the beginning of the behaviour (before it gets worse).\n\n🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f2_grandfather.name is working in the garden while his granddaughter and grandson are playing with a ball.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f2_grandfather.name is working in the garden while his granddaughter and grandson are playing with a ball."
+        },
+        "character_1_text": {
+          "eng": "Give it back to me!"
+        },
+        "character_2_text": {
+          "eng": "But I want it!"
+        }
+      },
+      "image_asset": "images/yc_modules/redirect_yc_1.svg",
+      "character_1_id": "f2_daughter_8",
+      "character_2_id": "f2_son_3",
+      "character_1_text": "Give it back to me!",
+      "character_2_text": "But I want it!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f2_daughter_8.name and @data.characters.f2_son_3.name, come and help me plant these vegetables together."
+        },
+        "character_2_text": {
+          "eng": "But he’s not giving it back!"
+        },
+        "character_3_text": {
+          "eng": "I want to play, not dig!"
+        }
+      },
+      "image_asset": "images/yc_modules/redirect_yc_2.svg",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_daughter_8",
+      "character_1_text": "@data.characters.f2_daughter_8.name and @data.characters.f2_son_3.name, come and help me plant these vegetables together.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "But he’s not giving it back!",
+      "character_3_id": "f2_son_3",
+      "character_3_text": "I want to play, not dig!",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "@data.characters.f2_grandfather.name: We can play with the ball later. Right now, I’d really love your help."
+        },
+        "character_2_text": {
+          "eng": "Fine, okay..."
+        },
+        "character_3_text": {
+          "eng": "Okay…"
+        }
+      },
+      "image_asset": "images/yc_modules/redirect_yc_3.svg",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_daughter_8",
+      "character_1_text": "@data.characters.f2_grandfather.name: We can play with the ball later. Right now, I’d really love your help.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Fine, okay...",
+      "character_3_id": "f2_son_3",
+      "character_3_text": "Okay…",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Thank you, @data.characters.f2_daughter_8.name and @data.characters.f2_son_3.name. We are going to grow some vegetables together. It’ll be fun!"
+        },
+        "character_2_text": {
+          "eng": "What kind of vegetables?"
+        },
+        "character_3_text": {
+          "eng": "Can I put the seeds in?"
+        }
+      },
+      "image_asset": "images/yc_modules/redirect_yc_4.svg",
+      "character_1_id": "f2_grandfather",
+      "character_2_id": "f2_daughter_8",
+      "character_1_text": "Thank you, @data.characters.f2_daughter_8.name and @data.characters.f2_son_3.name. We are going to grow some vegetables together. It’ll be fun!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "What kind of vegetables?",
+      "character_3_id": "f2_son_3",
+      "character_3_text": "Can I put the seeds in?",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE."
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "BE CALM"
+        },
+        "section_1_text": {
+          "eng": "✅ Take a few breaths before asking your child to do something else.\n✅ Speak with a calm voice."
+        },
+        "section_2_title": {
+          "eng": "BE QUICK"
+        },
+        "section_2_text": {
+          "eng": "2️⃣ BE QUICK\n\n⏰ Ask your child to do something else, distract them, before the behaviour begins or gets worse.\n💡 This is much easier than using consequences after they do something!"
+        },
+        "section_3_title": {
+          "eng": "BE CLEAR"
+        },
+        "section_3_text": {
+          "eng": "✅ Rather than saying what you DON’T like or want, tell your child what you DO want them to do.\nFor example, say:\n👂 “Please speak more softly.”\n🍚 “Remember to wash your hands after eating.”\nThis way, it is easier for them to follow! ⭐"
+        },
+        "section_4_title": {
+          "eng": "BE POSITIVE"
+        },
+        "section_4_text": {
+          "eng": "💚 Use positive words. Say “Come and help me plant these vegetables,” instead of saying, “Stop fighting.”\n⭐ Praise your child when they behave well!\n💙 It will also help them know what you expect from them!"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "BE CALM",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_text": "✅ Take a few breaths before asking your child to do something else.\n✅ Speak with a calm voice.",
+      "section_2_title": "BE QUICK",
+      "section_2_text": "2️⃣ BE QUICK\n\n⏰ Ask your child to do something else, distract them, before the behaviour begins or gets worse.\n💡 This is much easier than using consequences after they do something!",
+      "section_3_title": "BE CLEAR",
+      "section_3_text": "✅ Rather than saying what you DON’T like or want, tell your child what you DO want them to do.\nFor example, say:\n👂 “Please speak more softly.”\n🍚 “Remember to wash your hands after eating.”\nThis way, it is easier for them to follow! ⭐",
+      "section_4_title": "BE POSITIVE",
+      "section_4_text": "💚 Use positive words. Say “Come and help me plant these vegetables,” instead of saying, “Stop fighting.”\n⭐ Praise your child when they behave well!\n💙 It will also help them know what you expect from them!",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Today’s home activity is to share these four steps with another member of your family. Sharing these skills will help everyone learn and feel more connected and supported. ➡️\n\nCan you share these tips today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! ✨Sharing will allow us to learn together!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! Sometimes it takes time to share a new parenting skill."
+        }
+      },
+      "quiz_1_question": "Today’s home activity is to share these four steps with another member of your family. Sharing these skills will help everyone learn and feel more connected and supported. ➡️\n\nCan you share these tips today?",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! ✨Sharing will allow us to learn together!",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! Sometimes it takes time to share a new parenting skill.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}
