@@ -1,0 +1,342 @@
+{
+  "flow_name": "one_on_one_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_5",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang boleh mengawalnya!",
+      "title": "In and out",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "In and out"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_1",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today’s skill is about spending one-on-one time with your child 😃"
+        },
+        "text_2": {
+          "eng": "Spending special time with your child will make them feel valued and loved. 💙 \n\nIt also builds trust and respect, and helps your child learn new things. ✨"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s skill is about spending one-on-one time with your child 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "Spending special time with your child will make them feel valued and loved. 💙 \n\nIt also builds trust and respect, and helps your child learn new things. ✨",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today, you will learn how one-on-one time works. Let’s begin with a question for our learning."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: When I spend special time with my child, I need to have a plan. I need to know what we will do together."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That is not correct. \n\n🧸 You do not have to plan an activity. Your child can lead! Let them choose as long as it is safe. This will increase their confidence and make it more likely that they enjoy their time with you."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎈 You are right! \n\n🧸 Your child can choose the activity as long as it is safe. This will increase their confidence and make it more likely that they enjoy their time with you."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That is not correct. \n\n🧸 You do not have to plan an activity. Your child can lead! Let them choose as long as it is safe. This will increase their confidence and make it more likely that they enjoy their time with you.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "🎈 You are right! \n\n🧸 Your child can choose the activity as long as it is safe. This will increase their confidence and make it more likely that they enjoy their time with you.",
+      "quiz_1_question": "True or False: When I spend special time with my child, I need to have a plan. I need to know what we will do together.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_option_2_text": "False",
+      "text_1_facilitator": "Today, you will learn how one-on-one time works. Let’s begin with a question for our learning.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Throughout this programme, you will also learn through some stories.\n\nHere is our first one: @data.characters.f1_daughter_6.name and her mother, @data.characters.f1_mother.name, are playing dress up during one-on-one time. Let’s see how they have fun together."
+        },
+        "character_1_text": {
+          "eng": "I have 5 minutes of one-on-one time to spend with you, @data.characters.f1_daughter_6.name. What would you like to do?"
+        },
+        "character_2_text": {
+          "eng": "I want to play dress up!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Throughout this programme, you will also learn through some stories.\n\nHere is our first one: @data.characters.f1_daughter_6.name and her mother, @data.characters.f1_mother.name, are playing dress up during one-on-one time. Let’s see how they have fun together.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "image_asset": "images/yc_modules/one_on_one_yc_1.svg",
+      "character_1_id": "f1_mother",
+      "character_2_id": "f1_daughter_6",
+      "character_1_text": "I have 5 minutes of one-on-one time to spend with you, @data.characters.f1_daughter_6.name. What would you like to do?",
+      "character_2_text": "I want to play dress up!",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/yc_modules/one_on_one_yc_2.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Ibu, it’s for you."
+        },
+        "character_2_text": {
+          "eng": "Thank you, I love it!"
+        },
+        "character_3_text": {
+          "eng": "Wear it Ibu!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/yc_modules/one_on_one_yc_3.svg",
+      "character_1_id": "f1_daughter_6",
+      "character_2_id": "f1_mother",
+      "character_1_text": "Ibu, it’s for you.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_text": "Thank you, I love it!",
+      "character_3_id": "f1_daughter_6",
+      "character_3_text": "Wear it Ibu!",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "What a big girl you are, @data.characters.f1_daughter_6.name to get dressed by yourself!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/yc_modules/one_on_one_yc_4.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text": "What a big girl you are, @data.characters.f1_daughter_6.name to get dressed by yourself!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "I will also provide you with tips that you can use anytime and anywhere!\n\n3️⃣ Here are three tips to remember when spending one-on-one time with your child: DAY, PLAY, and STAY."
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "I will also provide you with tips that you can use anytime and anywhere!\n\n3️⃣ Here are three tips to remember when spending one-on-one time with your child: DAY, PLAY, and STAY.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "DAY"
+        },
+        "section_1_text": {
+          "eng": "Try to do it every day\n\n⏰ Spend 5 minutes (or more!) with your child each day"
+        },
+        "section_2_title": {
+          "eng": "PLAY"
+        },
+        "section_2_text": {
+          "eng": "Let them choose the activity\n\n⏰ Ask to spend time with your child.\n⚽ Let them choose what to do or talk about.\n🎈Try different activities together.\n😃 Have fun!"
+        },
+        "section_3_title": {
+          "eng": "STAY"
+        },
+        "section_3_text": {
+          "eng": "Focus on your child\n\n📺 Switch off the TV, put aside phones, and remove distractions.\n👀 Look at your child. Nod or say “I see” to show you are really paying attention. \n💛 Accept your child and avoid judgement.\n💡 Respond to your child when they communicate with you. your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "quiz_3_option_3_image_asset": "",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "DAY",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "section_1_text": "Try to do it every day\n\n⏰ Spend 5 minutes (or more!) with your child each day",
+      "section_2_title": "PLAY",
+      "section_2_text": "Let them choose the activity\n\n⏰ Ask to spend time with your child.\n⚽ Let them choose what to do or talk about.\n🎈Try different activities together.\n😃 Have fun!",
+      "section_3_title": "STAY",
+      "section_3_text": "Focus on your child\n\n📺 Switch off the TV, put aside phones, and remove distractions.\n👀 Look at your child. Nod or say “I see” to show you are really paying attention. \n💛 Accept your child and avoid judgement.\n💡 Respond to your child when they communicate with you. your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "At the end of each skill, I will have a home activity for you that you can try in your own time."
+        },
+        "quiz_1_question": {
+          "eng": "⭐ Your first home activity is to try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make a huge difference! Do you have time to do it today? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! You can use the tips you learnt today and have fun! Spending time with your child is a great way to form a positive relationship with them. 💙"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! If you don't have time today, you can set some time aside tomorrow."
+        }
+      },
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That’s great! You can use the tips you learnt today and have fun! Spending time with your child is a great way to form a positive relationship with them. 💙",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "That's OK! If you don't have time today, you can set some time aside tomorrow.",
+      "quiz_1_question": "⭐ Your first home activity is to try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make a huge difference! Do you have time to do it today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
+      "text_1_facilitator": "At the end of each skill, I will have a home activity for you that you can try in your own time.",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

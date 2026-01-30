@@ -1,0 +1,182 @@
+{
+  "flow_name": "school_3to6_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "The final skill of this course is about connecting with your child’s school and their teacher(s). 📖✨",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "The final skill of this course is about connecting with your child’s school and their teacher(s). 📖✨"
+        },
+        "text_2": {
+          "eng": "Talking to your child’s teacher(s) will help you understand what your child is doing in school. ⭐\n\nYou will also know what kinds of things your child can do at home to learn better, and how you can help them! 🎓"
+        }
+      },
+      "text_2": "Talking to your child’s teacher(s) will help you understand what your child is doing in school. ⭐\n\nYou will also know what kinds of things your child can do at home to learn better, and how you can help them! 🎓",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Connecting with others who support your child in their learning and growth, like their teacher(s), is just as important. What do you think about the following?",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Connecting with others who support your child in their learning and growth, like their teacher(s), is just as important. What do you think about the following?"
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Knowing what my child is doing in school won’t help them learn."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!"
+        }
+      },
+      "quiz_1_question": "True or False: Knowing what my child is doing in school won’t help them learn.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about."
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "CONNECT"
+        },
+        "section_1_text": {
+          "eng": "👋 Get to know your child’s teacher and have their phone number.\n👂 When you speak to your child’s teacher, ask them what your child is doing in school, and how you can help them.\n🔔 Let the teacher know that you are available to receive messages about anything related to the school and your child’s learning."
+        },
+        "section_2_title": {
+          "eng": "ASK"
+        },
+        "section_2_text": {
+          "eng": "👂 Ask your child what they have been doing in school.\n😃 What did they enjoy or find interesting?\n👀 Notice what they like and what interests them. Ask questions and talk about these interests."
+        },
+        "section_3_title": {
+          "eng": "PRACTISE"
+        },
+        "section_3_text": {
+          "eng": "🎨 Activities that your child enjoys at school can also be done at home! For example, if they enjoyed working with colours at school, ask them to find as many colours as they can around the home.\n📖 If they can bring books home from school, read them together! \n💡If something in school was difficult, see if you can help your child understand it!"
+        },
+        "section_4_title": {
+          "eng": "GET INVOLVED"
+        },
+        "section_4_text": {
+          "eng": "🚗 If you have time, attend events or meetings at your child’s school - learn what’s happening.\n⏰ If you have time, volunteer at your child’s school! You’ll get to know the school, teachers, and the other parents better. 😃"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "CONNECT",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_text": "👋 Get to know your child’s teacher and have their phone number.\n👂 When you speak to your child’s teacher, ask them what your child is doing in school, and how you can help them.\n🔔 Let the teacher know that you are available to receive messages about anything related to the school and your child’s learning.",
+      "section_2_title": "ASK",
+      "section_2_text": "👂 Ask your child what they have been doing in school.\n😃 What did they enjoy or find interesting?\n👀 Notice what they like and what interests them. Ask questions and talk about these interests.",
+      "section_3_title": "PRACTISE",
+      "section_3_text": "🎨 Activities that your child enjoys at school can also be done at home! For example, if they enjoyed working with colours at school, ask them to find as many colours as they can around the home.\n📖 If they can bring books home from school, read them together! \n💡If something in school was difficult, see if you can help your child understand it!",
+      "section_4_title": "GET INVOLVED",
+      "section_4_text": "🚗 If you have time, attend events or meetings at your child’s school - learn what’s happening.\n⏰ If you have time, volunteer at your child’s school! You’ll get to know the school, teachers, and the other parents better. 😃",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Excellent! See if you can practise what they learned in school at home! 😃"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
+        }
+      },
+      "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "Excellent! See if you can practise what they learned in school at home! 😃",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

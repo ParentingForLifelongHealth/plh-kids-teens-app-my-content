@@ -4,7 +4,7 @@ const config = extendDeploymentConfig({ name: "plh_kids_teens_my", parent: "plh_
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.0.1",
+  content_tag_latest: "1.0.3",
 };
 
 config.google_drive.sheets_folders = [

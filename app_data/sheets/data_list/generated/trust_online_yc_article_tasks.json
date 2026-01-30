@@ -1,0 +1,222 @@
+{
+  "flow_name": "trust_online_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today, you will continue learning about how to keep your child safe online. 📱",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Today, you will continue learning about how to keep your child safe online. 📱"
+        },
+        "text_2": {
+          "eng": "🌐 Knowing so will help you guide them to be confident, safe and responsible as they take part in the digital world."
+        }
+      },
+      "text_2": "🌐 Knowing so will help you guide them to be confident, safe and responsible as they take part in the digital world.",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "💡 Often, our children understand more about life online than we do, but that does not mean they know how to keep safe. \n\n⭐ Let’s build on what you’ve been learning with a few questions.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "💡 Often, our children understand more about life online than we do, but that does not mean they know how to keep safe. \n\n⭐ Let’s build on what you’ve been learning with a few questions."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: If I send a picture to a friend, it will only be visible to them."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect.\n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 That’s correct. \n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!"
+        },
+        "quiz_2_question": {
+          "eng": "My password is strong because you have to know my home address to guess it."
+        },
+        "quiz_2_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_2_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n❗ Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. \n\n🚩 You should never use these details in your password as they are easily guessed."
+        },
+        "quiz_2_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_2_feedback_2": {
+          "eng": "✨ That’s correct. \n\n❗ Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. \n\n🚩 You should never use these details in your password as they are easily guessed."
+        },
+        "quiz_3_question": {
+          "eng": "Links sent to me by my family and friends are safe to click on."
+        },
+        "quiz_3_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_3_feedback_1": {
+          "eng": "❌ That’s incorrect.\n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it."
+        },
+        "quiz_3_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_3_feedback_2": {
+          "eng": "🎈 That’s right! \n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it."
+        }
+      },
+      "quiz_1_question": "True or False: If I send a picture to a friend, it will only be visible to them.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s incorrect.\n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉 That’s correct. \n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
+      "quiz_2_question": "My password is strong because you have to know my home address to guess it.",
+      "quiz_2_option_1_text": "True",
+      "quiz_2_feedback_1": "❌ That’s incorrect. \n\n❗ Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. \n\n🚩 You should never use these details in your password as they are easily guessed.",
+      "quiz_2_option_2_text": "False",
+      "quiz_2_feedback_2": "✨ That’s correct. \n\n❗ Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. \n\n🚩 You should never use these details in your password as they are easily guessed.",
+      "quiz_3_question": "Links sent to me by my family and friends are safe to click on.",
+      "quiz_3_option_1_text": "True",
+      "quiz_3_feedback_1": "❌ That’s incorrect.\n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it.",
+      "quiz_3_option_2_text": "False",
+      "quiz_3_feedback_2": "🎈 That’s right! \n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST."
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "BUILD HABITS to set up safe online habits"
+        },
+        "section_1_text": {
+          "eng": "❌📱 Plan phone-free times in your house, like during meals, homework, or in bed.\n⭐ Only let your child chat online with people they already know. They should never share personal information in a chat room or with strangers.\n👀 Check that web addresses begin with https://. Websites that begin with http:// may not be secure.\n📝 For older children, help them create strong passwords for their accounts. They should be long, contain both upper and lower case letters, numbers and symbols, and should not include obvious personal information. \n❗ Tell your child not to click on pop-ups that ask them to download or pay for anything."
+        },
+        "section_2_title": {
+          "eng": "BUILD TRUST"
+        },
+        "section_2_text": {
+          "eng": "🌷 Together, look at websites, social media, games, and apps your child uses. \n👂 Ask questions - this helps you learn more about your child’s interests!\n💙 If you come across anything worrying together, talk about it with your child.\n✅ Tell your child that they should tell an adult if they feel scared, unsafe or upset about something online."
+        },
+        "section_3_title": {
+          "eng": "BE KIND"
+        },
+        "section_4_title": {
+          "eng": "BE KIND"
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "BUILD HABITS to set up safe online habits",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_4_title": {}
+      },
+      "section_1_text": "❌📱 Plan phone-free times in your house, like during meals, homework, or in bed.\n⭐ Only let your child chat online with people they already know. They should never share personal information in a chat room or with strangers.\n👀 Check that web addresses begin with https://. Websites that begin with http:// may not be secure.\n📝 For older children, help them create strong passwords for their accounts. They should be long, contain both upper and lower case letters, numbers and symbols, and should not include obvious personal information. \n❗ Tell your child not to click on pop-ups that ask them to download or pay for anything.",
+      "section_2_title": "BUILD TRUST",
+      "section_2_text": "🌷 Together, look at websites, social media, games, and apps your child uses. \n👂 Ask questions - this helps you learn more about your child’s interests!\n💙 If you come across anything worrying together, talk about it with your child.\n✅ Tell your child that they should tell an adult if they feel scared, unsafe or upset about something online.",
+      "section_3_title": "BE KIND",
+      "section_4_title": "BE KIND",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐"
+        }
+      },
+      "quiz_1_question": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

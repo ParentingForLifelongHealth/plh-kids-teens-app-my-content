@@ -1,0 +1,132 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "budget_needs_yc_articles",
+  "data_list_name": "budget_needs_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_budget_needs_yc",
+  "module": "budget_needs_yc",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Welcome back! In this course, you will learn about the four steps to building a family budget. 💰\n\n1️⃣ The first step is identifying needs and wants. 🍞🚗📱",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Welcome back! In this course, you will learn about the four steps to building a family budget. 💰\n\n1️⃣ The first step is identifying needs and wants. 🍞🚗📱"
+        },
+        "text_2": {
+          "eng": "Managing how money is spent is important to ensure that parents are able to provide for our children. 💛\n\nWhen money is tight, this can create feelings of anxiety, stress and sadness. 😒😔😣\n\nBut even small steps toward budgeting can help you feel more in control and reduce stress. 🌟"
+        }
+      },
+      "text_2": "Managing how money is spent is important to ensure that parents are able to provide for our children. 💛\n\nWhen money is tight, this can create feelings of anxiety, stress and sadness. 😒😔😣\n\nBut even small steps toward budgeting can help you feel more in control and reduce stress. 🌟"
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "nested": false,
+      "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are the three steps to start your family budget!"
+        }
+      }
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "nested": false,
+      "section_1_title": "IDENTIFY NEEDS",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {}
+      },
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "IDENTIFY NEEDS"
+        },
+        "section_1_text": {
+          "eng": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧."
+        },
+        "section_2_title": {
+          "eng": "IDENTIFY WANTS"
+        },
+        "section_2_text": {
+          "eng": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗."
+        },
+        "section_3_title": {
+          "eng": "TALK"
+        },
+        "section_3_text": {
+          "eng": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
+        }
+      },
+      "section_1_text": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
+      "section_2_title": "IDENTIFY WANTS",
+      "section_2_text": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
+      "section_3_title": "TALK",
+      "section_3_text": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_question": "Today’s home activity is to discuss your wants and needs with your family. ⭐Do you have time to do it today?",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Today’s home activity is to discuss your wants and needs with your family. ⭐Do you have time to do it today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! Discussing Needs and Wants is very important and the first step to creating a successful budget plan. 💚"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s OK! The best place to start is by thinking about your own wants and needs before speaking with other members of your family. 📝\n\nOnce you feel comfortable, you can take the next step and complete step two of setting a family budget. ✨"
+        }
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! Discussing Needs and Wants is very important and the first step to creating a successful budget plan. 💚",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That’s OK! The best place to start is by thinking about your own wants and needs before speaking with other members of your family. 📝\n\nOnce you feel comfortable, you can take the next step and complete step two of setting a family budget. ✨"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+  },
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    }
+  }
+}

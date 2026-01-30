@@ -1,0 +1,347 @@
+{
+  "flow_name": "reading1_4to6_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
+      "title": "Quick pause",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_7",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Remember that YOU matter! Let’s check in with our emotions first.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
+      "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
+      "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "📖This skill is about helping your child learn to read. \n\n2️⃣This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child."
+        },
+        "text_2": {
+          "eng": "The best way to help your child learn to read is to read with them!. 📖🎉\n\nChildren learn by watching, listening, and copying. When they are little, they learn new words when you read to them. Later they learn letters and letter sounds, and when they’re bigger, reading together can help them learn about anything they are interested in! 💡"
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "📖This skill is about helping your child learn to read. \n\n2️⃣This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "text_2": "The best way to help your child learn to read is to read with them!. 📖🎉\n\nChildren learn by watching, listening, and copying. When they are little, they learn new words when you read to them. Later they learn letters and letter sounds, and when they’re bigger, reading together can help them learn about anything they are interested in! 💡",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Reading with your child means reading the words in the book aloud."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading."
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading."
+        }
+      },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "quiz_1_question": "True or False: Reading with your child means reading the words in the book aloud.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_option_2_text": "False",
+      "text_1_facilitator": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you.",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s see how @data.characters.f1_father.name reads with his son, @data.characters.f1_son_5.name. Notice how he uses the pictures in the book to teach."
+        },
+        "character_1_text": {
+          "eng": "Wow, this book looks interesting! Can you see the picture? The tiger is smiling. Why do you think he is smiling?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s see how @data.characters.f1_father.name reads with his son, @data.characters.f1_son_5.name. Notice how he uses the pictures in the book to teach.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "image_asset": "images/yc_modules/reading1_4to6_yc_1.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "Wow, this book looks interesting! Can you see the picture? The tiger is smiling. Why do you think he is smiling?",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Wow, what is happening here? What is the tiger holding?"
+        },
+        "character_2_text": {
+          "eng": "A balloon!"
+        },
+        "character_3_text": {
+          "eng": "That’s right, it's a balloon, what colour is it?"
+        },
+        "character_4_text": {
+          "eng": "Red!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/yc_modules/reading1_4to6_yc_2.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "Wow, what is happening here? What is the tiger holding?",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {},
+        "character_4_text": {}
+      },
+      "character_2_id": "f1_son_5",
+      "character_3_id": "f1_father",
+      "character_4_id": "f1_son_5",
+      "character_2_text": "A balloon!",
+      "character_3_text": "That’s right, it's a balloon, what colour is it?",
+      "character_4_text": "Red!",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon? Do you think it’s his birthday? Yes! The tiger is holding the red balloon because it’s his birthday!"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/yc_modules/reading1_4to6_yc_3.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon? Do you think it’s his birthday? Yes! The tiger is holding the red balloon because it’s his birthday!",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "What is the first sound of “balloon”? “B”? That’s right, this letter makes the sound “B”! Can you think of any other words that start with “B”? Yes! “Ball also starts with “B”. If you can’t think of any more I can help! What about “basket”?"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "image_asset": "images/yc_modules/reading1_4to6_yc_4.svg",
+      "character_1_id": "f1_father",
+      "character_1_text": "What is the first sound of “balloon”? “B”? That’s right, this letter makes the sound “B”! Can you think of any other words that start with “B”? Yes! “Ball also starts with “B”. If you can’t think of any more I can help! What about “basket”?",
+      "_translations": {
+        "character_1_text": {}
+      },
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙"
+        }
+      },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "MAKE ROUTINES"
+        },
+        "section_1_text": {
+          "eng": "📖 You can share books with your child anywhere - in the living room or bedroom, for example! \nGet rid of any distractions (like the TV 📺❌). \n⏰ Pick a time every day when you can share books with your child. \n💡 If your child wants to, let them choose a book 😃\n✨ If you don’t have any books - you can use anything with words and pictures, like old magazines or newspapers!"
+        },
+        "section_2_title": {
+          "eng": "ASK QUESTIONS"
+        },
+        "section_2_text": {
+          "eng": "⭐ From the book cover, ask your child what they think the story might be about. \n➡️ Throughout the book, ask who, what, where, when, why, and how questions.\n✨ If you have read a story many times, see if your child knows what comes next! \n👀 Describe what’s happening in a picture. Always use language that your child can understand. \n💡 Ask your child to retell the story."
+        },
+        "section_3_title": {
+          "eng": "RESPOND AND EXPLORE"
+        },
+        "section_3_text": {
+          "eng": "👀 Notice what your child is interested in and talk about it. Help them understand the story, words, sounds, letters, and character emotions. 💚\n📖 Explore by rephrasing or adding more information - help your child learn new words and understand more 😃\n👂 Respond positively and encourage them, even if what they are wrong.\n😃 Ask your child to repeat what you have taught them."
+        },
+        "section_4_title": {
+          "eng": "BUILD AND CONNECT"
+        },
+        "section_4_text": {
+          "eng": "💙 Help your child build confidence by asking questions that they might know the answer to or that encourage them to go a bit further with their skill! \n🎨 Always connect what’s in the book to your child’s experience."
+        }
+      },
+      "category_id": "practical_tips",
+      "nested": false,
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "MAKE ROUTINES",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {},
+        "section_3_title": {},
+        "section_3_text": {},
+        "section_4_title": {},
+        "section_4_text": {}
+      },
+      "section_1_text": "📖 You can share books with your child anywhere - in the living room or bedroom, for example! \nGet rid of any distractions (like the TV 📺❌). \n⏰ Pick a time every day when you can share books with your child. \n💡 If your child wants to, let them choose a book 😃\n✨ If you don’t have any books - you can use anything with words and pictures, like old magazines or newspapers!",
+      "section_2_title": "ASK QUESTIONS",
+      "section_2_text": "⭐ From the book cover, ask your child what they think the story might be about. \n➡️ Throughout the book, ask who, what, where, when, why, and how questions.\n✨ If you have read a story many times, see if your child knows what comes next! \n👀 Describe what’s happening in a picture. Always use language that your child can understand. \n💡 Ask your child to retell the story.",
+      "section_3_title": "RESPOND AND EXPLORE",
+      "section_3_text": "👀 Notice what your child is interested in and talk about it. Help them understand the story, words, sounds, letters, and character emotions. 💚\n📖 Explore by rephrasing or adding more information - help your child learn new words and understand more 😃\n👂 Respond positively and encourage them, even if what they are wrong.\n😃 Ask your child to repeat what you have taught them.",
+      "section_4_title": "BUILD AND CONNECT",
+      "section_4_text": "💙 Help your child build confidence by asking questions that they might know the answer to or that encourage them to go a bit further with their skill! \n🎨 Always connect what’s in the book to your child’s experience.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "Home activity! Can you read with your child today? ⭐"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Excellent! Reading with your child is a great way to help them learn!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That’s okay. It’s not always possible to read with your child. Try to find a little bit of time every day because it will help your child learn."
+        }
+      },
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Excellent! Reading with your child is a great way to help them learn!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {}
+      },
+      "quiz_1_feedback_2": "That’s okay. It’s not always possible to read with your child. Try to find a little bit of time every day because it will help your child learn.",
+      "quiz_1_question": "Home activity! Can you read with your child today? ⭐",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

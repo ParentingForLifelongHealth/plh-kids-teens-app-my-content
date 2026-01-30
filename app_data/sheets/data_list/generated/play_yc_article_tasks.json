@@ -1,0 +1,257 @@
+{
+  "flow_name": "play_yc_article_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "🧸Today’s skill is about supporting your child to find joy in learning in a playful and fun way. 😃",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "🧸Today’s skill is about supporting your child to find joy in learning in a playful and fun way. 😃"
+        },
+        "text_2": {
+          "eng": "🎨 Playing with your child is important for their development and learning in and out of school. This is true for ALL children, including those with physical and developmental disabilities. \n\n🚲 Did you know? Playing also helps your child learn social values and social rules!"
+        }
+      },
+      "text_2": "🎨 Playing with your child is important for their development and learning in and out of school. This is true for ALL children, including those with physical and developmental disabilities. \n\n🚲 Did you know? Playing also helps your child learn social values and social rules!",
+      "completed": false
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let’s find out more about learning through play with this question.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Let’s find out more about learning through play with this question."
+        },
+        "quiz_1_question": {
+          "eng": "True or False: Children learn more when they are told what to do instead of letting them explore and play."
+        },
+        "quiz_1_option_1_text": {
+          "eng": "True"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "❌ That’s incorrect. \n\n🌷 Did you know that children naturally explore the world around them creatively?\n\n🎨 Research shows that children learn best when doing things instead of listening to instructions.\n\n🧸 Creating opportunities for your child to explore the world through play is the best way to help them learn!"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "False"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "🎉 That’s correct! \n\n🌷 Did you know that children naturally explore the world around them creatively?\n\n🎨 Research shows that children learn best when doing things instead of listening to instructions. \n\n🧸 Creating opportunities for your child to explore the world through play is the best way to help them learn!"
+        }
+      },
+      "quiz_1_question": "True or False: Children learn more when they are told what to do instead of letting them explore and play.",
+      "quiz_1_option_1_text": "True",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n🌷 Did you know that children naturally explore the world around them creatively?\n\n🎨 Research shows that children learn best when doing things instead of listening to instructions.\n\n🧸 Creating opportunities for your child to explore the world through play is the best way to help them learn!",
+      "quiz_1_option_2_text": "False",
+      "quiz_1_feedback_2": "🎉 That’s correct! \n\n🌷 Did you know that children naturally explore the world around them creatively?\n\n🎨 Research shows that children learn best when doing things instead of listening to instructions. \n\n🧸 Creating opportunities for your child to explore the world through play is the best way to help them learn!",
+      "completed": false
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f3_mother.name wants to spend more time helping her daughter, @data.characters.f3_daughter_4.name, learn through play together. Let’s see how both of them do it:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_mother.name wants to spend more time helping her daughter, @data.characters.f3_daughter_4.name, learn through play together. Let’s see how both of them do it:"
+        },
+        "character_1_text": {
+          "eng": "Hi my love, I have 5 minutes of One-on-One Time to spend with you. What would you like to do?"
+        }
+      },
+      "image_asset": "images/yc_modules/play_yc_1.svg",
+      "character_1_id": "f3_mother",
+      "character_1_text": "Hi my love, I have 5 minutes of One-on-One Time to spend with you. What would you like to do?",
+      "completed": false
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "I want to… Build a house out of bed sheets!"
+        },
+        "character_2_text": {
+          "eng": "Great idea! What do we need to do first?"
+        }
+      },
+      "image_asset": "images/yc_modules/play_yc_2.svg",
+      "character_1_id": "f3_daughter_4",
+      "character_1_text": "I want to… Build a house out of bed sheets!",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "f3_mother",
+      "character_2_text": "Great idea! What do we need to do first?",
+      "completed": false
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "First, we hang one bed sheet from the bed on top. Look! It’s our first wall! Then, we can use a pillow at the bottom."
+        },
+        "character_2_text": {
+          "eng": "That’s a great idea, @data.characters.f3_daughter_4.name! You are thinking through the steps so carefully!"
+        }
+      },
+      "image_asset": "images/yc_modules/play_yc_3.svg",
+      "character_1_id": "f3_daughter_4",
+      "character_1_text": "First, we hang one bed sheet from the bed on top. Look! It’s our first wall! Then, we can use a pillow at the bottom.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {}
+      },
+      "character_2_id": "f3_mother",
+      "character_2_text": "That’s a great idea, @data.characters.f3_daughter_4.name! You are thinking through the steps so carefully!",
+      "completed": false
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "nested": false,
+      "_translatedFields": {
+        "character_1_text": {
+          "eng": "Well done, @data.characters.f3_daughter_4.name! This is such a nice house."
+        },
+        "character_2_text": {
+          "eng": "Can we read our bedtime story here tonight?"
+        },
+        "character_3_text": {
+          "eng": "Of course, @data.characters.f3_daughter_4.name!"
+        }
+      },
+      "image_asset": "images/yc_modules/play_yc_4.svg",
+      "character_1_id": "f1_mother",
+      "character_1_text": "Well done, @data.characters.f3_daughter_4.name! This is such a nice house.",
+      "_translations": {
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
+      "character_2_id": "f3_daughter_4",
+      "character_2_text": "Can we read our bedtime story here tonight?",
+      "character_3_id": "f3_mother",
+      "character_3_text": "Of course, @data.characters.f3_daughter_4.name!",
+      "completed": false
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "2️⃣ Here are 2 tips on how you can make learning playful and fun with your child.",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "2️⃣ Here are 2 tips on how you can make learning playful and fun with your child."
+        }
+      },
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE",
+      "completed": false
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "nested": false,
+      "_translatedFields": {
+        "section_1_title": {
+          "eng": "GET ACTIVE"
+        },
+        "section_1_text": {
+          "eng": "⚽ Create time and have fun playing games with your child! \n🌱 This has benefits, like improving their physical and mental health, and helping them to learn and remember important facts better! \n⏰ If your child starts to feel overwhelmed, take a pause or play together to help calm them. \n💡 Take note of your child’s interests and use those in your play. This keeps them engaged!"
+        },
+        "section_2_title": {
+          "eng": "ALLOW CREATIVITY"
+        },
+        "section_2_text": {
+          "eng": "🎨 Allow your child to be creative when playing. For example, encourage your child to draw or go outside.\n✨ If your child is interested in a new topic, talk to them about it and help them explore the topic through play.\n💙 Set a good example: Let your child see you being creative and trying something new, even if you are not good at it yet."
+        }
+      },
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_1_title": "GET ACTIVE",
+      "_translations": {
+        "section_1_title": {},
+        "section_1_text": {},
+        "section_2_title": {},
+        "section_2_text": {}
+      },
+      "section_1_text": "⚽ Create time and have fun playing games with your child! \n🌱 This has benefits, like improving their physical and mental health, and helping them to learn and remember important facts better! \n⏰ If your child starts to feel overwhelmed, take a pause or play together to help calm them. \n💡 Take note of your child’s interests and use those in your play. This keeps them engaged!",
+      "section_2_title": "ALLOW CREATIVITY",
+      "section_2_text": "🎨 Allow your child to be creative when playing. For example, encourage your child to draw or go outside.\n✨ If your child is interested in a new topic, talk to them about it and help them explore the topic through play.\n💙 Set a good example: Let your child see you being creative and trying something new, even if you are not good at it yet.",
+      "completed": false
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "nested": false,
+      "_translatedFields": {
+        "quiz_1_question": {
+          "eng": "For today’s home activity, ⭐ invite your child to play with you. Encourage them to ask questions and explore new things through play. Do you have time to do it today? ⏰"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Yes"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "That’s great! 💙 Use the tips you have learnt today and have fun! Playing with your child is a great way to motivate them to learn and develop new skills. ⚽"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "That's OK! 💙 It can be hard to find time. You can set some time aside to play together tomorrow!"
+        }
+      },
+      "quiz_1_question": "For today’s home activity, ⭐ invite your child to play with you. Encourage them to ask questions and explore new things through play. Do you have time to do it today? ⏰",
+      "_translations": {
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_feedback_2": {}
+      },
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_feedback_1": "That’s great! 💙 Use the tips you have learnt today and have fun! Playing with your child is a great way to motivate them to learn and develop new skills. ⚽",
+      "quiz_1_option_2_text": "No",
+      "quiz_1_feedback_2": "That's OK! 💙 It can be hard to find time. You can set some time aside to play together tomorrow!",
+      "completed": false
+    }
+  ],
+  "_metadata": {
+    "nested": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

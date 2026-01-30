@@ -1,0 +1,97 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "learn_exp_yc_articles",
+  "data_list_name": "learn_exp_yc_articles",
+  "status": "released",
+  "flow_subtype": "modules_learn_exp_yc",
+  "module": "learn_exp_yc",
+  "rows": [
+    {
+      "id": "@default",
+      "nested": false
+    },
+    {
+      "id": "intro_1",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚",
+      "text_2::eng": "Learning from our mistakes can help us avoid them in the future. 🌷\n\nIt can also help us be more supportive to ourselves and less harsh when things do not go well. 😃"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "text_1_facilitator::eng": "What do you think about this? ",
+      "quiz_1_question::eng": "True or False: If my child understands their mistake and says sorry, that means I can bring up other mistakes they have made so that they learn.",
+      "quiz_1_option_1_text::eng": "True",
+      "quiz_1_feedback_1::eng": "❌ That’s incorrect. \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
+      "quiz_1_option_2_text::eng": "False",
+      "quiz_1_feedback_2::eng": "🌷 That’s correct! \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them for realising and saying sorry. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported."
+    },
+    {
+      "id": "explore_1",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "@data.characters.f3_daughter_4.name is getting a bit too active indoors, today. Let’s see how her uncle, @data.characters.f3_uncle.name, reacts:",
+      "image_asset": "images/yc_modules/learn_experience_yc_1.svg",
+      "character_1_id": "f3_uncle",
+      "character_1_text::eng": "@data.characters.f3_daughter_4.name, watch where you’re going! You’re going to break something. ",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "No I won’t! Look! I’m so fast!"
+    },
+    {
+      "id": "explore_2",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "@data.characters.f3_daughter_4.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.",
+      "image_asset": "images/yc_modules/learn_experience_yc_2.svg"
+    },
+    {
+      "id": "explore_3",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/learn_experience_yc_3.svg",
+      "character_1_id": "f3_uncle",
+      "character_1_text::eng": "Are you hurt??",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "No, uncle. I’m so, so sorry for breaking the vase… I didn’t see it."
+    },
+    {
+      "id": "explore_4",
+      "category_id": "explore",
+      "image_asset": "images/yc_modules/learn_experience_yc_4.svg",
+      "character_1_id": "f3_uncle",
+      "character_1_text::eng": "Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?",
+      "character_2_id": "f3_daughter_4",
+      "character_2_text::eng": "Yes, I should have listened. I continued running even after you said so."
+    },
+    {
+      "id": "explore_5",
+      "category_id": "explore",
+      "text_1_facilitator::eng": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
+      "media_type": "video",
+      "youtube_gb_en": "LINK HERE",
+      "youtube_my": "LINK HERE"
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_title::eng": "TALK",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_1_text::eng": "👂 Create space and time for your child to talk with you about their life. \n💙 If their day was challenging, give space to let them share and listen.\n💛 Give them support and show you care. Tell them, \"that sounds difficult.”",
+      "section_2_title::eng": "PRAISE EFFORT",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_2_text::eng": "💛 Praise your child for the effort they put into their learning even if they did not succeed.\n✨ Effort is more important than mastering a specific skill.",
+      "section_3_title::eng": "ALLOW FOR MISTAKES TO HAPPEN",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_3_text::eng": "🌱 Mistakes are part of learning. . It’s okay for your child to make them. It helps them learn and grow! \n❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. \n😃 You can talk to your child about their mistakes and allow them to figure out a way to solve their problems and do better next time.",
+      "section_4_title::eng": "SHARE",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_4_text::eng": "📖 Try and share your own failures with your child and discuss how they helped you develop and grow. \n✅ This helps your child learn that you do not have to be perfect all the time."
+    },
+    {
+      "id": "home_activity_1",
+      "category_id": "home_activity",
+      "quiz_1_question::eng": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰",
+      "quiz_1_option_1_text::eng": "Yes",
+      "quiz_1_feedback_1::eng": "Great! 💙 Use the tips you have learnt today to help your child learn from their mistakes.",
+      "quiz_1_option_2_text::eng": "No",
+      "quiz_1_feedback_2::eng": "That's OK! If you don't have time today, set some time aside tomorrow."
+    }
+  ]
+}
