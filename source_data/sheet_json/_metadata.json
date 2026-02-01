@@ -1741,6 +1741,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "home_screen_header",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY module_navigation.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "hp_challenges",
     "_source": {
       "name": "kids_global",

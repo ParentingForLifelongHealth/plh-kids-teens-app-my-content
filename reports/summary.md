@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 81 |
+| button | 82 |
 | combo_box | 13 |
-| data_items | 144 |
+| data_items | 146 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 84 |
+| display_group | 85 |
 | google_sign_in_button | 2 |
 | image | 16 |
 | items | 10 |
@@ -28,15 +28,15 @@
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 10 |
+| round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2704 |
+| set_variable | 2712 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 936 |
-| text | 132 |
+| text | 136 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
@@ -54,7 +54,7 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 755 |
+| emit: completed | 757 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -63,14 +63,14 @@
 | emit: uncompleted | 751 |
 | feedback | 13 |
 | go_to | 13 |
-| nav_stack | 197 |
+| nav_stack | 199 |
 | pop_up | 61 |
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 69 |
 | set_field | 83 |
 | set_item | 69 |
-| set_local | 39 |
+| set_local | 41 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -80,8 +80,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 48623 KB | 48.6 MB |
-| unused | 61403 KB | 61.4 MB |
+| total | 48625 KB | 48.6 MB |
+| unused | 61401 KB | 61.4 MB |
 </details>
 
 <details open>
@@ -206,7 +206,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/brain_blue.png | 5.2 |
 | images/icons/clock_blue.png | 4.5 |
 | images/icons/expand_circle_right.png | 0.9 |
-| images/icons/expand_circle_right_blue.svg | 2.1 |
 | images/icons/eye_blue.png | 4.2 |
 | images/icons/fire.png | 0.9 |
 | images/icons/football_blue.png | 5.1 |
@@ -484,6 +483,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond_blue.png | 4.7 | 92 |
 | images/icons/document.svg | 7.3 | 1 |
 | images/icons/expand_circle_right.svg | 0.5 | 1 |
+| images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
 | images/icons/feather.svg | 3.5 | 1 |
 | images/icons/heart.png | 1.3 | 3 |
 | images/icons/heart_filled.png | 1.4 | 2 |
@@ -605,7 +605,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 121 |
+| template |  | 122 |
 | template | generated | 767 |
 | template | legal_terms | 4 |
 </details>

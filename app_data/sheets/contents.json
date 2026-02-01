@@ -12666,6 +12666,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
       }
     },
+    "home_screen_header": {
+      "flow_type": "template",
+      "flow_name": "home_screen_header",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "templates/MY module_navigation.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
+      }
+    },
     "hp_challenges": {
       "flow_type": "template",
       "flow_name": "hp_challenges",
