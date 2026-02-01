@@ -253,6 +253,21 @@
       "type": "declare_global_constant",
       "name": "question_child_age_multipe_child",
       "value": "How many years old is your child you are focusing on?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_household_children",
+      "value": "How many children do you care for in your home?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_household_children",
+      "value": "Enter number of children"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "household_children_input_restriction",
+      "value": "Please enter a number between 1 and 20."
     }
   ]
 }
