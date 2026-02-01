@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 81
+        "count": 82
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 144
+        "count": 146
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 84
+        "count": 85
       },
       {
         "type": "google_sign_in_button",
@@ -103,7 +103,7 @@
       },
       {
         "type": "round_button",
-        "count": 10
+        "count": 11
       },
       {
         "type": "select_text",
@@ -115,7 +115,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2704
+        "count": 2712
       },
       {
         "type": "simple_checkbox",
@@ -135,7 +135,7 @@
       },
       {
         "type": "text",
-        "count": 132
+        "count": 136
       },
       {
         "type": "text_area",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 755
+        "count": 757
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "nav_stack",
-        "count": 197
+        "count": 199
       },
       {
         "type": "pop_up",
@@ -247,7 +247,7 @@
       },
       {
         "type": "set_local",
-        "count": 39
+        "count": 41
       },
       {
         "type": "task",
@@ -263,12 +263,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "48623 KB",
+        "KB": "48625 KB",
         "MB": "48.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "61403 KB",
+        "KB": "61401 KB",
         "MB": "61.4 MB"
       }
     ]
@@ -734,10 +734,6 @@
       {
         "path": "images/icons/expand_circle_right.png",
         "size_kb": 0.9
-      },
-      {
-        "path": "images/icons/expand_circle_right_blue.svg",
-        "size_kb": 2.1
       },
       {
         "path": "images/icons/eye_blue.png",
@@ -2020,6 +2016,11 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/expand_circle_right_blue.svg",
+        "count": 1,
+        "size_kb": 2.1
+      },
+      {
         "path": "images/icons/feather.svg",
         "count": 1,
         "size_kb": 3.5
@@ -2596,7 +2597,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 121
+        "total": 122
       },
       {
         "type": "template",
