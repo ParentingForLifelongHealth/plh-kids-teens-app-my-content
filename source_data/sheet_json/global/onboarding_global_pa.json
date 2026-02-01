@@ -243,6 +243,16 @@
       "type": "declare_global_constant",
       "name": "facilitator_selection_question",
       "value": "Who would you like to learn with?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_message_3_multipe_child",
+      "value": "**Thanks @fields.user_name.**\n\nCan you tell me more about your child? You might have more than one, but we're going to start by focusing on just one."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_child_age_multipe_child",
+      "value": "How many years old is your child you are focusing on?"
     }
   ]
 }

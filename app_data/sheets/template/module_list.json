@@ -110,7 +110,7 @@
           "name": "loop_modules",
           "value": "@data.module_tasks",
           "parameter_list": {
-            "filter": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
+            "filter": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
             "sort": "number"
           },
           "exclude_from_translation": true,
@@ -332,40 +332,11 @@
                 },
                 {
                   "name": "is_locked",
-                  "value": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
-                  "_translations": {
-                    "value": {}
-                  },
+                  "value": false,
                   "exclude_from_translation": true,
                   "type": "set_variable",
                   "_nested_name": "dg_all_modules.loop_modules.module_@item.id.is_locked",
                   "_dynamicFields": {
-                    "value": [
-                      {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      },
-                      {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
-                        "matchedExpression": "@local.current_module_id",
-                        "type": "local",
-                        "fieldName": "current_module_id"
-                      },
-                      {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
-                        "matchedExpression": "!@item.completed_ts",
-                        "type": "item",
-                        "fieldName": "completed_ts"
-                      },
-                      {
-                        "fullExpression": "!(@item.id == @local.current_module_id || !!@item.completed_ts || @item.tag_list.includes(\"teen\"))",
-                        "matchedExpression": "@item.tag_list.includes",
-                        "type": "item",
-                        "fieldName": "tag_list"
-                      }
-                    ],
                     "_nested_name": [
                       {
                         "fullExpression": "dg_all_modules.loop_modules.module_@item.id.is_locked",
@@ -376,18 +347,6 @@
                     ]
                   },
                   "_dynamicDependencies": {
-                    "@item.id": [
-                      "value"
-                    ],
-                    "@local.current_module_id": [
-                      "value"
-                    ],
-                    "!@item.completed_ts": [
-                      "value"
-                    ],
-                    "@item.tag_list.includes": [
-                      "value"
-                    ],
                     "@item.id.is_locked": [
                       "_nested_name"
                     ]
@@ -487,22 +446,58 @@
             "parameter_list": {
               "filter": [
                 {
-                  "fullExpression": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
-                  "matchedExpression": "!@item.tag_list",
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "!@item.age_list",
                   "type": "item",
-                  "fieldName": "tag_list"
+                  "fieldName": "age_list"
                 },
                 {
-                  "fullExpression": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
-                  "matchedExpression": "@item.tag_list.includes",
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "@item.age_list.includes",
                   "type": "item",
-                  "fieldName": "tag_list"
+                  "fieldName": "age_list"
                 },
                 {
-                  "fullExpression": "!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag)",
-                  "matchedExpression": "@fields.child_age_tag",
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "@fields.child_age",
                   "type": "fields",
-                  "fieldName": "child_age_tag"
+                  "fieldName": "child_age"
+                },
+                {
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "!@item.child_gender_list",
+                  "type": "item",
+                  "fieldName": "child_gender_list"
+                },
+                {
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "@item.child_gender_list.includes",
+                  "type": "item",
+                  "fieldName": "child_gender_list"
+                },
+                {
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "@fields.child_gender",
+                  "type": "fields",
+                  "fieldName": "child_gender"
+                },
+                {
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "!@item.caregiver_relationship_list",
+                  "type": "item",
+                  "fieldName": "caregiver_relationship_list"
+                },
+                {
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "@item.caregiver_relationship_list.includes",
+                  "type": "item",
+                  "fieldName": "caregiver_relationship_list"
+                },
+                {
+                  "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+                  "matchedExpression": "@fields.user_relationship",
+                  "type": "fields",
+                  "fieldName": "user_relationship"
                 }
               ]
             }
@@ -511,13 +506,31 @@
             "@data.module_tasks": [
               "value"
             ],
-            "!@item.tag_list": [
+            "!@item.age_list": [
               "parameter_list.filter"
             ],
-            "@item.tag_list.includes": [
+            "@item.age_list.includes": [
               "parameter_list.filter"
             ],
-            "@fields.child_age_tag": [
+            "@fields.child_age": [
+              "parameter_list.filter"
+            ],
+            "!@item.child_gender_list": [
+              "parameter_list.filter"
+            ],
+            "@item.child_gender_list.includes": [
+              "parameter_list.filter"
+            ],
+            "@fields.child_gender": [
+              "parameter_list.filter"
+            ],
+            "!@item.caregiver_relationship_list": [
+              "parameter_list.filter"
+            ],
+            "@item.caregiver_relationship_list.includes": [
+              "parameter_list.filter"
+            ],
+            "@fields.user_relationship": [
               "parameter_list.filter"
             ]
           }
@@ -527,8 +540,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global",
-    "path": "PLH module_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/13WrrsCwjK_5S9t8VQTbgWbWpAVbRKByxpOXr95YnjY8"
+    "name": "kids_teens_my",
+    "path": "templates/MY module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
   }
 }

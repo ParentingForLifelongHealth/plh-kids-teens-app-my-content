@@ -1,0 +1,22 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_relationship",
+  "status": "released",
+  "rows": [
+    {
+      "id": "yes",
+      "name": "yes",
+      "text": "Yes"
+    },
+    {
+      "id": "no",
+      "name": "no",
+      "text": "No"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "templates/MY onboarding templates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1aUwbR38bDjfGwoFG1DaHaRejyoCbFGhyFOZ0lVJmOks"
+  }
+}

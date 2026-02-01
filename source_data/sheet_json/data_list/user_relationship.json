@@ -1,0 +1,17 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_relationship",
+  "status": "released",
+  "rows": [
+    {
+      "id": "yes",
+      "name": "yes",
+      "text": "Yes"
+    },
+    {
+      "id": "no",
+      "name": "no",
+      "text": "No"
+    }
+  ]
+}

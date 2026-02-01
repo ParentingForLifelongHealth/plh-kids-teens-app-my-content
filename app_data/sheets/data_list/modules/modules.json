@@ -9,13 +9,22 @@
       "id": "one_on_one_yc",
       "tag_course": "relation",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -39,13 +48,22 @@
       "id": "kind_to_me_yc",
       "tag_course": "relation",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -69,13 +87,22 @@
       "id": "give_praise_yc",
       "tag_course": "relation",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -99,13 +126,22 @@
       "id": "talk_feelings_yc",
       "tag_course": "relation",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -129,13 +165,22 @@
       "id": "spirituality_yc",
       "tag_course": "relation",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -159,13 +204,20 @@
       "id": "language_yc",
       "tag_course": "learning",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -189,13 +241,18 @@
       "id": "reading1_4to6_yc",
       "tag_course": "learning",
       "age_list": [
-        "4 | 5 | 6 | 7"
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -219,13 +276,18 @@
       "id": "reading2_4to6_yc",
       "tag_course": "learning",
       "age_list": [
-        "4 | 5 | 6 | 7"
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -249,13 +311,18 @@
       "id": "maths1_4to6_yc",
       "tag_course": "learning",
       "age_list": [
-        "4 | 5 | 6 | 7"
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -279,13 +346,18 @@
       "id": "maths2_4to6_yc",
       "tag_course": "learning",
       "age_list": [
-        "4 | 5 | 6 | 7"
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -305,13 +377,16 @@
       "id": "reading_2to3_yc",
       "tag_course": "learning",
       "age_list": [
-        "2 | 3"
+        "2",
+        "3"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -331,13 +406,16 @@
       "id": "maths_2to3_yc",
       "tag_course": "learning",
       "age_list": [
-        "2 | 3"
+        "2",
+        "3"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -357,13 +435,19 @@
       "id": "school_3to6_yc",
       "tag_course": "learning",
       "age_list": [
-        "3 | 4 | 5 | 6 | 7"
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -383,13 +467,16 @@
       "id": "toddle_change_yc",
       "tag_course": "develop",
       "age_list": [
-        "2 | 3"
+        "2",
+        "3"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -409,13 +496,17 @@
       "id": "young_change_yc",
       "tag_course": "develop",
       "age_list": [
-        "4 | 5 | 6"
+        "4",
+        "5",
+        "6"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -435,13 +526,17 @@
       "id": "child_change_yc",
       "tag_course": "develop",
       "age_list": [
-        "7 | 8 | 9"
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -461,13 +556,22 @@
       "id": "play_yc",
       "tag_course": "develop",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -487,13 +591,22 @@
       "id": "learn_exp_yc",
       "tag_course": "develop",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -513,13 +626,22 @@
       "id": "manage_stress_yc",
       "tag_course": "structure",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -539,13 +661,22 @@
       "id": "keep_positive_yc",
       "tag_course": "structure",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -565,13 +696,22 @@
       "id": "routine_yc",
       "tag_course": "structure",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -591,13 +731,22 @@
       "id": "family_rules_yc",
       "tag_course": "structure",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -617,13 +766,22 @@
       "id": "know_role_yc",
       "tag_course": "structure",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -643,13 +801,22 @@
       "id": "manage_anger_yc",
       "tag_course": "behave",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -669,13 +836,22 @@
       "id": "redirect_yc",
       "tag_course": "behave",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -695,13 +871,22 @@
       "id": "ignore_demand_yc",
       "tag_course": "behave",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -721,13 +906,22 @@
       "id": "consequences_yc",
       "tag_course": "behave",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -747,13 +941,22 @@
       "id": "solve_problem_yc",
       "tag_course": "behave",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male, female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -773,13 +976,17 @@
       "id": "safe_2to5_yc_m",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4 | 5"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
       "child_gender_list": [
         "male"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -799,13 +1006,17 @@
       "id": "safe_2to5_yc_f",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4 | 5"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
       "child_gender_list": [
         "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -825,13 +1036,18 @@
       "id": "safe_6to9_yc",
       "tag_course": "safety",
       "age_list": [
-        "6 | 7 | 8 | 9"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -851,13 +1067,17 @@
       "id": "com_safe_2to4_yc",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4"
+        "2",
+        "3",
+        "4"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -877,13 +1097,19 @@
       "id": "com_safe_5to9_yc",
       "tag_course": "safety",
       "age_list": [
-        "5 | 6 | 7 | 8 | 9"
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -903,13 +1129,19 @@
       "id": "crises_2to6_yc",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -929,13 +1161,17 @@
       "id": "crises_7to9_yc",
       "tag_course": "safety",
       "age_list": [
-        "7 | 8 | 9"
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -955,13 +1191,22 @@
       "id": "online_safety_yc",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -981,13 +1226,22 @@
       "id": "trust_online_yc",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -1007,13 +1261,22 @@
       "id": "nutrition_yc",
       "tag_course": "safety",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -1033,10 +1296,18 @@
       "id": "ipv_equals",
       "tag_course": "ipv",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
         "yes"
@@ -1059,10 +1330,18 @@
       "id": "ipv_supportive",
       "tag_course": "ipv",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
         "yes"
@@ -1085,10 +1364,18 @@
       "id": "ipv_sharing",
       "tag_course": "ipv",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
         "yes"
@@ -1111,10 +1398,18 @@
       "id": "ipv_conflicts",
       "tag_course": "ipv",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
         "yes"
@@ -1137,10 +1432,18 @@
       "id": "ipv_listen",
       "tag_course": "ipv",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
         "yes"
@@ -1163,13 +1466,22 @@
       "id": "budget_needs_yc",
       "tag_course": "budget",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -1189,13 +1501,22 @@
       "id": "budget_exp_yc",
       "tag_course": "budget",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -1215,13 +1536,22 @@
       "id": "budget_month_yc",
       "tag_course": "budget",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -1241,13 +1571,22 @@
       "id": "budget_save_yc",
       "tag_course": "budget",
       "age_list": [
-        "2 | 3 | 4 | 5 | 6 | 7 | 8 | 9"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "child_gender_list": [
-        "male | female"
+        "male",
+        "female"
       ],
       "caregiver_relationship_list": [
-        "yes | no"
+        "yes",
+        "no"
       ],
       "tag_list": [
         "child"
@@ -1267,7 +1606,7 @@
   "_source": {
     "name": "kids_teens_my",
     "path": "data/MY modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/12RqLJ8nF83YloR1HIpXEcI_5l94lD69Q"
+    "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
   },
   "_metadata": {
     "number": {
