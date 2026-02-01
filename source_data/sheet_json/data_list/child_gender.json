@@ -1,0 +1,17 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "child_gender",
+  "status": "released",
+  "rows": [
+    {
+      "id": "male",
+      "name": "male",
+      "text": "Boy"
+    },
+    {
+      "id": "female",
+      "name": "female",
+      "text": "Girl"
+    }
+  ]
+}

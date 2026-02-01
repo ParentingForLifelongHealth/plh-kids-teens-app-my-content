@@ -9,14 +9,14 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 78 |
-| combo_box | 7 |
-| data_items | 146 |
+| button | 81 |
+| combo_box | 13 |
+| data_items | 144 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 79 |
+| display_group | 84 |
 | google_sign_in_button | 2 |
-| image | 15 |
+| image | 16 |
 | items | 10 |
 | lottie_animation | 4 |
 | nested_properties | 287 |
@@ -27,21 +27,21 @@
 | plh_module_list_item | 3 |
 | progress_path | 1 |
 | qr_code | 1 |
-| radio_button_grid | 8 |
-| round_button | 8 |
+| radio_button_grid | 9 |
+| round_button | 10 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2675 |
+| set_variable | 2704 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 941 |
-| text | 123 |
+| template | 936 |
+| text | 132 |
 | text_area | 2 |
-| text_box | 5 |
-| text_bubble | 2 |
+| text_box | 12 |
+| text_bubble | 7 |
 | title | 41 |
-| toggle_bar | 6 |
+| toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
 | youtube | 4 |
@@ -54,22 +54,22 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 752 |
+| emit: completed | 755 |
 | emit: force_reload | 4 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 749 |
+| emit: uncompleted | 751 |
 | feedback | 13 |
 | go_to | 13 |
-| nav_stack | 205 |
-| pop_up | 63 |
+| nav_stack | 197 |
+| pop_up | 61 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 71 |
-| set_field | 78 |
-| set_item | 67 |
+| set_data | 69 |
+| set_field | 83 |
+| set_item | 69 |
 | set_local | 39 |
 | task | 2 |
 | user | 3 |
@@ -247,9 +247,6 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_23.mp3 | 1 |
 | audio/relax/relax_24.mp3 | 1 |
 | audio/relax/relax_6.mp3 | 1 |
-| images/faces/happy.svg | 2 |
-| images/faces/neutral.svg | 2 |
-| images/faces/sad.svg | 2 |
 | images/icons/faces/happy_face_new.svg | 25 |
 | images/icons/faces/ok_face_new.svg | 25 |
 | images/icons/faces/sad_face_new.svg | 25 |
@@ -544,12 +541,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 9 |
+| data_list |  | 11 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 98 |
-| data_list | hp_review | 2 |
 | data_list | legal_terms | 2 |
 | data_list | library | 3 |
 | data_list | lifecycle_actions | 1 |
@@ -605,11 +601,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 94 |
-| generator |  | 59 |
+| generator |  | 58 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 118 |
-| template | generated | 769 |
+| template |  | 121 |
+| template | generated | 767 |
 | template | legal_terms | 4 |
 </details>

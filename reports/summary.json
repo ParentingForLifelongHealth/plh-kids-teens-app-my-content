@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 78
+        "count": 81
       },
       {
         "type": "combo_box",
-        "count": 7
+        "count": 13
       },
       {
         "type": "data_items",
-        "count": 146
+        "count": 144
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 79
+        "count": 84
       },
       {
         "type": "google_sign_in_button",
@@ -55,7 +55,7 @@
       },
       {
         "type": "image",
-        "count": 15
+        "count": 16
       },
       {
         "type": "items",
@@ -99,11 +99,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 8
+        "count": 9
       },
       {
         "type": "round_button",
-        "count": 8
+        "count": 10
       },
       {
         "type": "select_text",
@@ -115,7 +115,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2675
+        "count": 2704
       },
       {
         "type": "simple_checkbox",
@@ -131,11 +131,11 @@
       },
       {
         "type": "template",
-        "count": 941
+        "count": 936
       },
       {
         "type": "text",
-        "count": 123
+        "count": 132
       },
       {
         "type": "text_area",
@@ -143,11 +143,11 @@
       },
       {
         "type": "text_box",
-        "count": 5
+        "count": 12
       },
       {
         "type": "text_bubble",
-        "count": 2
+        "count": 7
       },
       {
         "type": "title",
@@ -155,7 +155,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 752
+        "count": 755
       },
       {
         "type": "emit: force_reload",
@@ -207,7 +207,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 749
+        "count": 751
       },
       {
         "type": "feedback",
@@ -219,11 +219,11 @@
       },
       {
         "type": "nav_stack",
-        "count": 205
+        "count": 197
       },
       {
         "type": "pop_up",
-        "count": 63
+        "count": 61
       },
       {
         "type": "reset_app",
@@ -235,15 +235,15 @@
       },
       {
         "type": "set_data",
-        "count": 71
+        "count": 69
       },
       {
         "type": "set_field",
-        "count": 78
+        "count": 83
       },
       {
         "type": "set_item",
-        "count": 67
+        "count": 69
       },
       {
         "type": "set_local",
@@ -873,21 +873,6 @@
       {
         "path": "audio/relax/relax_6.mp3",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/faces/happy.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/faces/neutral.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/faces/sad.svg",
-        "count": 2,
         "missing": true
       },
       {
@@ -2291,7 +2276,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 9
+        "total": 11
       },
       {
         "type": "data_list",
@@ -2312,11 +2297,6 @@
         "type": "data_list",
         "subtype": "generated",
         "total": 98
-      },
-      {
-        "type": "data_list",
-        "subtype": "hp_review",
-        "total": 2
       },
       {
         "type": "data_list",
@@ -2596,7 +2576,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 59
+        "total": 58
       },
       {
         "type": "global",
@@ -2616,12 +2596,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 118
+        "total": 121
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 769
+        "total": 767
       },
       {
         "type": "template",
