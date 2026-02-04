@@ -4,20 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.mp3",
+      "id": "relax_6",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_6.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\nBagus sekali, anda memang hebat!",
-      "title": "One thing today",
+      "transcript_1": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_2": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau menyeronokkan yang anda lakukan.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang anda rasa bersyukur.",
+      "title": "Think about today",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "One thing today"
+          "eng": "Think about today"
         }
       },
       "category_id": "relax",

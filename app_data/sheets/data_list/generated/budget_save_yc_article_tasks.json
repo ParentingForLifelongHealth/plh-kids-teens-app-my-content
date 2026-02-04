@@ -4,14 +4,80 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Congratulations! You have reached the final step to family budgeting. 💰\n\nRemember, you have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n3️⃣ Step 3: making a monthly budget.\n\n4️⃣ Today, the final step is: make a saving plan!",
+      "id": "relax_8",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_8.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
+      "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.",
+      "title": "Small things",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Small things"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_16",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Amazing, life is the best when you're feeling good."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
+      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
+      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Congratulations! You have reached the final step to family budgeting. 💰\n\nRemember, you have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n3️⃣ Step 3: making a monthly budget.\n\n4️⃣ Today, the final step is: make a saving plan!"
@@ -20,22 +86,18 @@
           "eng": "🌷 Making a saving plan can help you prepare for crises while also having funds for your child’s education and other things that you may need in the future. \n\n✨ Even a small amount each month can make a big difference over time."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Congratulations! You have reached the final step to family budgeting. 💰\n\nRemember, you have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n3️⃣ Step 3: making a monthly budget.\n\n4️⃣ Today, the final step is: make a saving plan!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "🌷 Making a saving plan can help you prepare for crises while also having funds for your child’s education and other things that you may need in the future. \n\n✨ Even a small amount each month can make a big difference over time.",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Let’s consider this.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s consider this."
@@ -56,22 +118,26 @@
           "eng": "⭐ That’s correct! \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
       "quiz_1_question": "True or False: It’s OK to think about saving in the future if I don’t have enough now.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect. \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "⭐ That’s correct! \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
+      "text_1_facilitator": "Let’s consider this.",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:"
@@ -80,6 +146,13 @@
           "eng": "\"I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!\""
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
       "image_asset": "images/yc_modules/budget_savings_yc_1.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "\"I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!\"",
@@ -87,13 +160,13 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "\"My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?\""
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_2.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "\"My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?\"",
@@ -104,13 +177,13 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "\"Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.\""
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_3.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "\"Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.\"",
@@ -121,13 +194,13 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "\"I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.\""
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_4.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "\"I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.\"",
@@ -138,26 +211,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are five tips on how to make a savings plan for you and your child:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are five tips on how to make a savings plan for you and your child:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "WHY SAVE"
@@ -190,6 +261,8 @@
           "eng": "🌱 Your government or community groups may be giving money, vouchers, or food parcels to families in need. \n💛 Think about whether there are places in your community that provide support."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -221,8 +294,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "The final home activity of this course is to create your savings plan. ⭐ Do you have time to do it today?"
@@ -240,18 +311,20 @@
           "eng": "That’s OK. Try to do it this week. 💚"
         }
       },
-      "quiz_1_question": "The final home activity of this course is to create your savings plan. ⭐ Do you have time to do it today?",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That’s great! Congratulations. 💚",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "That’s great! Congratulations. 💚",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That’s OK. Try to do it this week. 💚",
+      "quiz_1_question": "The final home activity of this course is to create your savings plan. ⭐ Do you have time to do it today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

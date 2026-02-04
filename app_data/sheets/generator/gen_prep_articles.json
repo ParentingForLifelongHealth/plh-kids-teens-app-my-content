@@ -126,7 +126,12 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_maths_2to3_yc_articles",
+      "flow_name": "prep_maths_2_yc_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_maths_3_yc_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },

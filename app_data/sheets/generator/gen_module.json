@@ -101,7 +101,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_maths_2to3_yc",
+      "flow_name": "module_maths_2_yc",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_maths_3_yc",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -169,7 +169,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "stack_module_maths_2to3_yc_start_at_id",
+      "flow_name": "stack_module_maths_2_yc_start_at_id",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "stack_module_maths_3_yc_start_at_id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

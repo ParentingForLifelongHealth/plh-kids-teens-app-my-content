@@ -2,10 +2,17 @@ import { generateDeploymentConfig,loadEncryptedConfig } from "scripts";
 
 const config = generateDeploymentConfig("plh_kids_teens_my");
 
+//import { extendDeploymentConfig } from "scripts";
+
+//const config = extendDeploymentConfig({ name: "plh_kids_teens_my", parent: "plh_kids_kw" });
+
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.0.9",
+  content_tag_latest: "1.0.10",
 };
+
+
+
 
 config.google_drive.sheets_folders = [
   { id: "19wSspWYMbRc75een-kS0q0aq24--75u8", name: "library_app_menu" },
@@ -13,10 +20,12 @@ config.google_drive.sheets_folders = [
   { id: "1Y8uC9-rqQtsjQgUfeX9qp-vNzsFDUQFU", name: "kids_global" },
   { id: "1GnKk8luhnYcWobeeEfbR23ZSoZakcNF9", name: "kids_teens_global" },
   { id: "1XBq4iGIZHEwzwPk3xbHDAm9WCesjR7kR", name: "library PLH onboarding" },
-  { id: "1jQxwGLF84UCVhyicpNI0111JY7a3nOkT", name: "kids_teens_my" },
+  { id: "1jQxwGLF84UCVhyicpNI0111JY7a3nOkT", name: "kids_teens_my" }
+
 ];
 
 config.google_drive.assets_folders = [
+  {id: "1abaL1QGd33NqqLoKuo2t9fVWKmh5ouM9", name: "kids_global_assets"},
   {id: "1N2GdS5Thka5sJMbC32zyAFKNy61-yn6-", name: "kids_teens_my"},
 ];
 
@@ -38,11 +47,11 @@ config.ios = {
 
 config.firebase = {
   config: loadEncryptedConfig('firebase.json'),
-}
+};
 
 config.auth = {
   provider: 'firebase',
-}
+};
 
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";

@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Today’s skill is about encouraging your child to eat nutritious food and practise healthy eating habits. 🍚",
+      "id": "relax_9",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_9.mp3",
+      "media_type": "audio",
+      "transcript_1": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_2": "Berikut ialah satu aktiviti untuk merehatkan tubuh anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah cincin keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh anda. Adakah ada bahagian yang terasa tegang? Kebas? Sakit?\nFokus pada bahagian itu seketika. Tarik nafas ke arah bahagian tersebut dan, apabila anda menghembus nafas, cuba lepaskan apa-apa ketegangan atau rasa sakit.\nUlang dan tarik nafas beberapa kali.\n\nBuka mata anda. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
+      "title": "Body scan",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body scan"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_7",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Remember that YOU matter! Let’s check in with our emotions first.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
+      "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
+      "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today’s skill is about encouraging your child to eat nutritious food and practise healthy eating habits. 🍚"
@@ -20,22 +87,18 @@
           "eng": "Children are exposed to lots of different food in their lives. 🎂☕\n\nSome are good for children’s development, while others are not. 🍅\n\nDid you know that children can be trained at home to eat balanced and nutritious meals in moderate amounts, especially in the early years? 🍞\n\nWith your support, children can practise healthy eating habits from a young age. 💛"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s skill is about encouraging your child to eat nutritious food and practise healthy eating habits. 🍚",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Children are exposed to lots of different food in their lives. 🎂☕\n\nSome are good for children’s development, while others are not. 🍅\n\nDid you know that children can be trained at home to eat balanced and nutritious meals in moderate amounts, especially in the early years? 🍞\n\nWith your support, children can practise healthy eating habits from a young age. 💛",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Could food be linked to behaviour? Let’s have a look!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Could food be linked to behaviour? Let’s have a look!"
@@ -56,23 +119,26 @@
           "eng": "⭐ That’s correct! \n\n😣 Eating too much sugary and junk food may make your child feel cranky.\n\n🍅Healthy foods like fruits, veggies, and whole grains are good for your child’s body, brain, AND behaviour. This can improve their thinking, focus, and mood."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n😣 Eating too much sugary and junk food may make your child feel cranky.\n\n🍅Healthy foods like fruits, veggies, and whole grains are good for your child’s body, brain, AND behaviour. This can improve their thinking, focus, and mood.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\n😣 Eating too much sugary and junk food may make your child feel cranky.\n\n🍅Healthy foods like fruits, veggies, and whole grains are good for your child’s body, brain, AND behaviour. This can improve their thinking, focus, and mood.",
       "quiz_1_question": "True or False: Eating unhealthy food will not influence how your child behaves.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n😣 Eating too much sugary and junk food may make your child feel cranky.\n\n🍅Healthy foods like fruits, veggies, and whole grains are good for your child’s body, brain, AND behaviour. This can improve their thinking, focus, and mood.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "⭐ That’s correct! \n\n😣 Eating too much sugary and junk food may make your child feel cranky.\n\n🍅Healthy foods like fruits, veggies, and whole grains are good for your child’s body, brain, AND behaviour. This can improve their thinking, focus, and mood.",
+      "text_1_facilitator": "Could food be linked to behaviour? Let’s have a look!",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name encourages her daughter to eat healthy food, even when she doesn’t want to.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_mother.name encourages her daughter to eat healthy food, even when she doesn’t want to."
@@ -84,6 +150,14 @@
           "eng": "Lunch will be ready in five minutes. Can you hang on until then?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name encourages her daughter to eat healthy food, even when she doesn’t want to.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/nutrition_health_yc_1.svg",
       "character_1_id": "f1_daughter_6",
       "character_2_id": "f1_mother",
@@ -93,8 +167,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "NO! I'm HUNGRY!!!"
@@ -103,6 +175,8 @@
           "eng": "Okay, come wash your hands and sit down - your veggies are ready, so you can eat those while I prepare the rest of the meal."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/nutrition_health_yc_2.svg",
       "character_1_id": "f1_daughter_6",
       "character_2_id": "f1_mother",
@@ -116,8 +190,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Well done, @data.characters.f1_daughter_6.name, for eating all of your carrots. Come and help me get the jelly from the fridge."
@@ -126,6 +198,8 @@
           "eng": "Yay!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/nutrition_health_yc_3.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_6",
@@ -139,13 +213,13 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Good job for eating your veggies, @data.characters.f1_daughter_6.name! Your body will thank you!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/nutrition_health_yc_4.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Good job for eating your veggies, @data.characters.f1_daughter_6.name! Your body will thank you!",
@@ -156,26 +230,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Teaching your child healthy eating habits from a young age will help them make healthy choices as they grow older. 💙😃🍚\n\n4️⃣ Here are four tips you can use to support your child with healthy eating:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "Teaching your child healthy eating habits from a young age will help them make healthy choices as they grow older. 💙😃🍚\n\n4️⃣ Here are four tips you can use to support your child with healthy eating:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Teaching your child healthy eating habits from a young age will help them make healthy choices as they grow older. 💙😃🍚\n\n4️⃣ Here are four tips you can use to support your child with healthy eating:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "A BIT OF EVERYTHING"
@@ -202,6 +274,8 @@
           "eng": "💙 Preparing food with love is important for your child - and so is keeping it clean!\n✨ Wash your hands before handling food or feeding your child. \n💡 Wash fresh food items before cooking them.\n☀️ Hot weather makes food spoil quickly. It is best to store food in airtight containers or the fridge so they stay fresh. \n⭐ Keep the kitchen, fridge, cutlery, and table tops clean from dust, insects, and house lizards."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -228,8 +302,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Today’s home activity is to talk with your child about the importance of eating healthy foods and water instead of fizzy drinks. Plan to make better choices together, and praise them each time they make a healthy choice. \n\nDo you have time to chat with your child about this today? ⏰"
@@ -247,18 +319,20 @@
           "eng": "That's OK! If you don't have time today, set some time aside tomorrow to talk about making healthy choices. Remember to praise them when they do it! You are a super parent! 😃"
         }
       },
-      "quiz_1_question": "Today’s home activity is to talk with your child about the importance of eating healthy foods and water instead of fizzy drinks. Plan to make better choices together, and praise them each time they make a healthy choice. \n\nDo you have time to chat with your child about this today? ⏰",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Great! 💙 You are helping your child make healthy eating choices. You are a super parent! 😃",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! 💙 You are helping your child make healthy eating choices. You are a super parent! 😃",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow to talk about making healthy choices. Remember to praise them when they do it! You are a super parent! 😃",
+      "quiz_1_question": "Today’s home activity is to talk with your child about the importance of eating healthy foods and water instead of fizzy drinks. Plan to make better choices together, and praise them each time they make a healthy choice. \n\nDo you have time to chat with your child about this today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

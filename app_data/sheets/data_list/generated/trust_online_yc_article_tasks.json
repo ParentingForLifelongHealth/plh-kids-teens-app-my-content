@@ -4,14 +4,80 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Today, you will continue learning about how to keep your child safe online. 📱",
+      "id": "relax_8",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_8.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
+      "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.",
+      "title": "Small things",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Small things"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_6",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Caring for yourself is so essential. When you know how you feel, you can see what you need."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well. Keep up the good work."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have better and worse days. The fact that you are here shows courage and commitment!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Caring for yourself is so essential. When you know how you feel, you can see what you need.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
+      "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here shows courage and commitment!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today, you will continue learning about how to keep your child safe online. 📱"
@@ -20,32 +86,18 @@
           "eng": "🌐 Knowing so will help you guide them to be confident, safe and responsible as they take part in the digital world."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today, you will continue learning about how to keep your child safe online. 📱",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "🌐 Knowing so will help you guide them to be confident, safe and responsible as they take part in the digital world.",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "💡 Often, our children understand more about life online than we do, but that does not mean they know how to keep safe. \n\n⭐ Let’s build on what you’ve been learning with a few questions.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "💡 Often, our children understand more about life online than we do, but that does not mean they know how to keep safe. \n\n⭐ Let’s build on what you’ve been learning with a few questions."
@@ -96,11 +148,32 @@
           "eng": "🎈 That’s right! \n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect.\n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {},
+        "quiz_3_question": {},
+        "quiz_3_option_1_text": {},
+        "quiz_3_feedback_1": {},
+        "quiz_3_option_2_text": {},
+        "quiz_3_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "🎉 That’s correct. \n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
       "quiz_1_question": "True or False: If I send a picture to a friend, it will only be visible to them.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect.\n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🎉 That’s correct. \n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
+      "text_1_facilitator": "💡 Often, our children understand more about life online than we do, but that does not mean they know how to keep safe. \n\n⭐ Let’s build on what you’ve been learning with a few questions.",
       "quiz_2_question": "My password is strong because you have to know my home address to guess it.",
       "quiz_2_option_1_text": "True",
       "quiz_2_feedback_1": "❌ That’s incorrect. \n\n❗ Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. \n\n🚩 You should never use these details in your password as they are easily guessed.",
@@ -115,26 +188,24 @@
     },
     {
       "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST."
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST."
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "BUILD HABITS to set up safe online habits"
@@ -155,6 +226,8 @@
           "eng": "BE KIND"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -177,8 +250,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔"
@@ -196,18 +267,20 @@
           "eng": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐"
         }
       },
-      "quiz_1_question": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
+      "quiz_1_question": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

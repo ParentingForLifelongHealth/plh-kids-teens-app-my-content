@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Welcome back! 📖 Today’s skill is about helping your child learn skills to prepare them for reading when they are older. ⭐",
+      "id": "relax_1",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_1.mp3",
+      "media_type": "audio",
+      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
+      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
+      "title": "Quick pause",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Quick pause"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_11",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Taking a moment for YOU makes a big difference for everyone!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
+      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
+      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Welcome back! 📖 Today’s skill is about helping your child learn skills to prepare them for reading when they are older. ⭐"
@@ -20,22 +87,18 @@
           "eng": "Reading together is the best way to help your child learn to read. 🔑\n\nIt helps them learn to read themselves and develop well. 🎉\n\nWhen they’re little, they learn new words, and it helps with attention and language! 💡"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Welcome back! 📖 Today’s skill is about helping your child learn skills to prepare them for reading when they are older. ⭐",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Reading together is the best way to help your child learn to read. 🔑\n\nIt helps them learn to read themselves and develop well. 🎉\n\nWhen they’re little, they learn new words, and it helps with attention and language! 💡",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you:"
@@ -56,22 +119,26 @@
           "eng": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
       "quiz_1_question": "True or False: Reading with your child means reading the words in the book aloud.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+      "text_1_facilitator": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you:",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Let’s watch @data.characters.f1_father.name read with his daughter, @data.characters.f1_daughter_2.name. Notice how he asks the child lots of questions and describes things.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s watch @data.characters.f1_father.name read with his daughter, @data.characters.f1_daughter_2.name. Notice how he asks the child lots of questions and describes things."
@@ -80,6 +147,13 @@
           "eng": "Wow, this book looks interesting! Can you see the picture? The tiger is smiling. Why do you think he is smiling?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s watch @data.characters.f1_father.name read with his daughter, @data.characters.f1_daughter_2.name. Notice how he asks the child lots of questions and describes things.",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
       "image_asset": "images/yc_modules/reading_2to3_yc_1.svg",
       "character_1_id": "f1_father",
       "character_1_text": "Wow, this book looks interesting! Can you see the picture? The tiger is smiling. Why do you think he is smiling?",
@@ -87,8 +161,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Wow, what is happening here? What is the tiger holding?"
@@ -103,6 +175,8 @@
           "eng": "Red!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/reading_2to3_yc_2.svg",
       "character_1_id": "f1_father",
       "character_1_text": "Wow, what is happening here? What is the tiger holding?",
@@ -122,8 +196,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon?"
@@ -135,6 +207,8 @@
           "eng": "Do you think it’s his birthday? Yes! The tiger is holding the red balloon because it’s his birthday!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/reading_2to3_yc_3.svg",
       "character_1_id": "f1_father",
       "character_1_text": "Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon?",
@@ -151,8 +225,6 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Do you remember when we attended your cousin’s birthday? What colour balloons did he have?"
@@ -161,6 +233,8 @@
           "eng": "Blue, pink, and yellow!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/reading_2to3_yc_4.svg",
       "character_1_id": "f1_father",
       "character_1_text": "Do you remember when we attended your cousin’s birthday? What colour balloons did he have?",
@@ -174,26 +248,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "SHARE BOOKS"
@@ -226,6 +298,8 @@
           "eng": "🌷 Always connect what’s in the book to your child’s experience."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -257,8 +331,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Home activity! Do you have time to read with your child today? ⭐"
@@ -276,18 +348,20 @@
           "eng": "That’s okay! Remember to try to find a little bit of time every day because it will help your child learn."
         }
       },
-      "quiz_1_question": "Home activity! Do you have time to read with your child today? ⭐",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Excellent! Reading with your child is a great way to help them learn!",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Excellent! Reading with your child is a great way to help them learn!",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That’s okay! Remember to try to find a little bit of time every day because it will help your child learn.",
+      "quiz_1_question": "Home activity! Do you have time to read with your child today? ⭐",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

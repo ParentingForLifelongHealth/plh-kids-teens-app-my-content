@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!",
+      "id": "relax_9",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_9.mp3",
+      "media_type": "audio",
+      "transcript_1": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_2": "Berikut ialah satu aktiviti untuk merehatkan tubuh anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah cincin keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh anda. Adakah ada bahagian yang terasa tegang? Kebas? Sakit?\nFokus pada bahagian itu seketika. Tarik nafas ke arah bahagian tersebut dan, apabila anda menghembus nafas, cuba lepaskan apa-apa ketegangan atau rasa sakit.\nUlang dan tarik nafas beberapa kali.\n\nBuka mata anda. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
+      "title": "Body scan",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body scan"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_13",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment for yourself first."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "It is great to hear you are feeling positive today. You make a real difference for your family!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Life has its great and hard moments – that is okay. You are on the right track."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment for yourself first.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "It is great to hear you are feeling positive today. You make a real difference for your family!",
+      "quiz_1_feedback_2": "Life has its great and hard moments – that is okay. You are on the right track.",
+      "quiz_1_feedback_3": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!"
@@ -20,20 +87,18 @@
           "eng": "❗ Learning how to solve problems with your child can help you avoid having to use consequences. \n\n🌱 As children get older, they will be able to work through their problems by themselves more often. \n\n💡 This builds important skills that will benefit them for life! 😃"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "❗ Learning how to solve problems with your child can help you avoid having to use consequences. \n\n🌱 As children get older, they will be able to work through their problems by themselves more often. \n\n💡 This builds important skills that will benefit them for life! 😃",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "@data.characters.f3_son_7.name’s mother, @data.characters.f3_mother.name is concerned that @data.characters.f3_son_7.name is sleeping late everyday because of unfinished homework. Let’s see how they try to solve the problem together:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f3_son_7.name’s mother, @data.characters.f3_mother.name is concerned that @data.characters.f3_son_7.name is sleeping late everyday because of unfinished homework. Let’s see how they try to solve the problem together:"
@@ -48,6 +113,15 @@
           "eng": "Hm, this is the third night in a row that you haven't got to bed on time because of homework."
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f3_son_7.name’s mother, @data.characters.f3_mother.name is concerned that @data.characters.f3_son_7.name is sleeping late everyday because of unfinished homework. Let’s see how they try to solve the problem together:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
       "image_asset": "images/yc_modules/solve_problems_yc_1.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_son_7",
@@ -59,8 +133,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "How can we make sure you get all your work done and still get to bed on time?"
@@ -75,6 +147,8 @@
           "eng": "Okay, mummy."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/solve_problems_yc_2.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_son_7",
@@ -94,8 +168,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f3_son_7.name, have you started your homework yet?"
@@ -107,6 +179,8 @@
           "eng": "Of course, boy."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/solve_problems_yc_3.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_son_7",
@@ -123,13 +197,13 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Look, Mummy, I'm ready for bed so early tonight!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/solve_problems_yc_4.svg",
       "character_1_id": "f3_son_7",
       "character_2_id": "f3_mother",
@@ -142,26 +216,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "KNOW IT"
@@ -188,6 +260,8 @@
           "eng": "✅ Ask yourself, “Did it work?” \n😃 If yes, great!\n😔 If not, talk to your child about trying another solution next time."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -214,8 +288,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?"
@@ -233,18 +305,20 @@
           "eng": "That’s okay. Try to review these steps together sometime this week."
         }
       },
-      "quiz_1_question": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Great!",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great!",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That’s okay. Try to review these steps together sometime this week.",
+      "quiz_1_question": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

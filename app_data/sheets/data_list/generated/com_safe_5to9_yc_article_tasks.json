@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "It is important to know how to keep your children safe in your community. 🚩",
+      "id": "relax_4",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript_2": "Tutup mata anda.\n\n\nGunakan kuasa ajaib nombor tiga untuk kekal tenang dan berhubung dengan diri sendiri.\n\nTarik nafas sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\nTarik nafas sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\n\nAdakah anda rasa sedikit berbeza? Teknik pernafasan dalam membantu seluruh tubuh dan minda kita menjadi lebih tenang.\n\nAnda memang hebat!",
+      "title": "Breathe to three",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to three"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_2",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! So good to hear you are in a positive space."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
+      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
+      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It is important to know how to keep your children safe in your community. 🚩"
@@ -20,32 +87,18 @@
           "eng": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "It is important to know how to keep your children safe in your community. 🚩",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Let’s test your knowledge about children’s safety.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {},
-        "quiz_2_question": {},
-        "quiz_2_feedback_1": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s test your knowledge about children’s safety."
@@ -96,15 +149,36 @@
           "eng": "None of the Above"
         }
       },
-      "quiz_2_option_1_image_asset": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
-      "quiz_2_option_2_image_asset": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {},
+        "text_1_facilitator": {},
+        "quiz_1_option_4_text": {},
+        "quiz_1_feedback_4": {},
+        "quiz_1_option_5_text": {},
+        "quiz_1_feedback_5": {},
+        "quiz_1_option_6_text": {},
+        "quiz_1_feedback_6": {},
+        "quiz_2_question": {},
+        "quiz_2_feedback_1": {}
+      },
+      "quiz_1_feedback_2": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_feedback_3": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_question": "Which of these is NOT a place where children could experience harm?",
       "quiz_1_option_1_text": "Home",
-      "quiz_1_feedback_1": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_option_2_text": "A friend’s house",
-      "quiz_1_feedback_2": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_option_3_text": "School",
-      "quiz_1_feedback_3": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "text_1_facilitator": "Let’s test your knowledge about children’s safety.",
+      "quiz_2_option_1_image_asset": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_2_option_2_image_asset": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_option_4_text": "Religious Centre",
       "quiz_1_feedback_4": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_option_5_text": "Clinic",
@@ -117,14 +191,6 @@
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Let’s check in on @data.characters.f3_son_7.name and his mother, @data.characters.f3_mother.name after @data.characters.f3_son_7.name finds himself in an uncomfortable situation:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s check in on @data.characters.f3_son_7.name and his mother, @data.characters.f3_mother.name after @data.characters.f3_son_7.name finds himself in an uncomfortable situation:"
@@ -136,6 +202,14 @@
           "eng": "What is it, @data.characters.f3_son_7.name!? Take a breath and tell me."
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s check in on @data.characters.f3_son_7.name and his mother, @data.characters.f3_mother.name after @data.characters.f3_son_7.name finds himself in an uncomfortable situation:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/com_safety_5to9_yc_1.svg",
       "character_1_id": "f3_son_7",
       "character_2_id": "f3_mother",
@@ -145,8 +219,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.man_in_car.name: Hi boy. You have such a nice smile and lovely straight hair. What’s your name?"
@@ -161,6 +233,8 @@
           "eng": "Thank you."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/com_safety_5to9_yc_2.svg",
       "character_1_id": "man_in_car",
       "character_2_id": "f3_son_7",
@@ -180,8 +254,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f3_son_7.name, I have chips and some toys for you in my car. If you come in, you can eat chips and play with all the toys, I promise…"
@@ -190,6 +262,8 @@
           "eng": "No, thank you."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/com_safety_5to9_yc_3.svg",
       "character_1_id": "man_in_car",
       "character_2_id": "f3_son_7",
@@ -203,13 +277,13 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Mummyyyyyy!!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/com_safety_5to9_yc_4.svg",
       "character_1_id": "f3_son_7",
       "character_1_text": "Mummyyyyyy!!",
@@ -220,13 +294,13 @@
     },
     {
       "id": "explore_5",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "@data.characters.f3_son_7.name, I’m so proud of you for not getting out of our house gate and getting into the car. You remembered the rules we created about safety in this community. That was a dangerous situation. You are so brave. Thank you for telling me. I will report it so it doesn’t happen again."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/com_safety_5to9_yc_4.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "@data.characters.f3_son_7.name, I’m so proud of you for not getting out of our house gate and getting into the car. You remembered the rules we created about safety in this community. That was a dangerous situation. You are so brave. Thank you for telling me. I will report it so it doesn’t happen again.",
@@ -237,26 +311,24 @@
     },
     {
       "id": "explore_6",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "DRAW"
@@ -283,6 +355,8 @@
           "eng": "🔔Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -309,8 +383,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\n✨ Give space for your child to share their thoughts, too. They may think a place is unsafe that you thought was safe. Allow them to explain their reasons. Do you have time to do it today? ⏰"
@@ -328,18 +400,20 @@
           "eng": "That's OK! If you don't have time today, set some time aside tomorrow to talk to your child about safe and unsafe places. You can do this! 🌷"
         }
       },
-      "quiz_1_question": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\n✨ Give space for your child to share their thoughts, too. They may think a place is unsafe that you thought was safe. Allow them to explain their reasons. Do you have time to do it today? ⏰",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Great! 💙 You are helping your child be aware of their surroundings to keep themselves safe.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! 💙 You are helping your child be aware of their surroundings to keep themselves safe.",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow to talk to your child about safe and unsafe places. You can do this! 🌷",
+      "quiz_1_question": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\n✨ Give space for your child to share their thoughts, too. They may think a place is unsafe that you thought was safe. Allow them to explain their reasons. Do you have time to do it today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

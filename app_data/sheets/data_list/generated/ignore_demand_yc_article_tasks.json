@@ -4,14 +4,80 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "This skill is about what to do when children are seeking attention with demanding and negative behaviours. 🚩",
+      "id": "relax_7",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_7.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT.",
+      "transcript_2": "Tutup mata anda.\n\nAdakah anak-anak anda pernah membuat anda rasa seperti mahu menjerit?\n\nBerhenti seketika selama 10 saat. Tarik dan hembus nafas perlahan-lahan sebanyak 5 kali.\n\nKemudian cuba memberi respon dengan lebih tenang.\n\nJutaan ibu bapa mengatakan cara ini sangat membantu – YA MEMANG BANYAK",
+      "title": "Pause to respond",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Pause to respond"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_11",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Taking a moment for YOU makes a big difference for everyone!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
+      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
+      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This skill is about what to do when children are seeking attention with demanding and negative behaviours. 🚩"
@@ -20,27 +86,18 @@
           "eng": "Children need attention from a very early age. 💛 \n\nPositive attention is very important for children, especially when they are young.\n\nIt’s a great way to help them feel good about themselves. They are more likely to do as they are asked! 🔄"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "This skill is about what to do when children are seeking attention with demanding and negative behaviours. 🚩",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Children need attention from a very early age. 💛 \n\nPositive attention is very important for children, especially when they are young.\n\nIt’s a great way to help them feel good about themselves. They are more likely to do as they are asked! 🔄",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Here’s a quick question for you:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here’s a quick question for you:"
@@ -76,11 +133,27 @@
           "eng": "⭐ That’s correct! \n\n💚 Telling your child to stop or threatening them can make things worse. Hitting will only teach your child that violence is an acceptable solution to problems. It is also against the law. \n\n✨ Instead, explain in a calm way why, then try to redirect your child to something else. \n\n💙 If your child continues or loses control, remain calm and stay with your child without engaging in an argument. It may be difficult but eventually they will calm down too. Then you can attend to their needs."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n⚠️ Giving into your child when they are demanding something, whining, or having a tantrum will only make it worse. \n\n🎯 your child will learn that they get their way when they misbehave.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "quiz_2_question": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_feedback_1": {},
+        "quiz_2_option_2_text": {},
+        "quiz_2_feedback_2": {}
+      },
+      "quiz_1_feedback_2": "⭐ That’s correct! \n\n⚠️ Giving into your child when they are demanding something, whining, or having a tantrum will only make it worse. \n\n🎯 your child will learn that they get their way when they misbehave.",
       "quiz_1_question": "True or False: It is okay to give into your child if they continue to whine or have a tantrum.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n⚠️ Giving into your child when they are demanding something, whining, or having a tantrum will only make it worse. \n\n🎯 your child will learn that they get their way when they misbehave.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "⭐ That’s correct! \n\n⚠️ Giving into your child when they are demanding something, whining, or having a tantrum will only make it worse. \n\n🎯 your child will learn that they get their way when they misbehave.",
+      "text_1_facilitator": "Here’s a quick question for you:",
       "quiz_2_question": "How you respond to your child really matters. Here’s one more question to consider. \n\nTrue or False: You should tell your child to stop complaining and threaten to hit them if they continue.",
       "quiz_2_option_1_text": "True",
       "quiz_2_feedback_1": "❌ That’s incorrect. \n\n💚 Telling your child to stop or threatening them canmake things worse. Hitting will only teach your child that violence is an acceptable solution to problems. It is also against the law. \n\n✨ Instead, explain in a calm way why, then try to redirect your child to something else. \n\n💙 If your child continues or loses control, remain calm and stay with your child without engaging in an argument. It may be difficult but eventually they will calm down too. Then you can attend to their needs.",
@@ -90,14 +163,6 @@
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Dinner time isn’t going the way that @data.characters.f3_daughter_4.name wants. Let’s see how her mother, @data.characters.f3_mother.name, handles her behaviour:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Dinner time isn’t going the way that @data.characters.f3_daughter_4.name wants. Let’s see how her mother, @data.characters.f3_mother.name, handles her behaviour:"
@@ -109,6 +174,14 @@
           "eng": "The household rule is that you can only have one glass of sweet drink during dinner, @data.characters.f3_daughter_4.name."
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Dinner time isn’t going the way that @data.characters.f3_daughter_4.name wants. Let’s see how her mother, @data.characters.f3_mother.name, handles her behaviour:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/ignore_demanding_yc_1.svg",
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
@@ -118,8 +191,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "But I WANT it! Give me!"
@@ -128,6 +199,8 @@
           "eng": "@data.characters.f3_son_7.name, you are eating your dinner so nicely."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ignore_demanding_yc_2.svg",
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
@@ -141,8 +214,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Waaaaaa! Waaaaaa! WAAAAAA!"
@@ -151,6 +222,8 @@
           "eng": "@data.characters.f3_son_7.name, can you please take the pudding from the counter?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ignore_demanding_yc_3.svg",
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
@@ -164,8 +237,6 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Waaaaaa! Waaaaaa! WAAAAAA!"
@@ -174,6 +245,8 @@
           "eng": "Take a deep breath. I can do this…"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ignore_demanding_yc_4.svg",
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
@@ -187,26 +260,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "REDIRECT"
@@ -239,6 +310,8 @@
           "eng": "⭐ Even if your child behaves even worse at first when you do not give in, it is important to continue staying calm without getting into an argument or shouting at your child. \n\n✨You can calmly explain the reason why your child cannot have something, but do it only once without engaging in a debate or argument. \n\n🔄 Over time, your child will learn how to become calm by themselves. \n\n💚 Spend lots of positive time with your child - especially one-on-one time!"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -270,8 +343,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Here is today’s home activity! ⭐ Find one positive thing your child does today and praise them for it. If your child starts whining about something or having a tantrum, try to use the tips from this lesson to redirect, stay calm, observe, and nurture. It may not be easy to do at first, but you can do it!\n\nCan you find something to praise your child for today? ⏰"
@@ -289,18 +360,20 @@
           "eng": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it!"
         }
       },
-      "quiz_1_question": "Here is today’s home activity! ⭐ Find one positive thing your child does today and praise them for it. If your child starts whining about something or having a tantrum, try to use the tips from this lesson to redirect, stay calm, observe, and nurture. It may not be easy to do at first, but you can do it!\n\nCan you find something to praise your child for today? ⏰",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it!",
+      "quiz_1_question": "Here is today’s home activity! ⭐ Find one positive thing your child does today and praise them for it. If your child starts whining about something or having a tantrum, try to use the tips from this lesson to redirect, stay calm, observe, and nurture. It may not be easy to do at first, but you can do it!\n\nCan you find something to praise your child for today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

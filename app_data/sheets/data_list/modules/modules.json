@@ -30,17 +30,15 @@
         "child"
       ],
       "number": 1,
-      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
-      "image_asset": "images/homescreen/self_care.svg",
-      "relax_id": "relax_5",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_1",
-      "title": "One-on-One",
+      "title": "One-on-One Time",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "One-on-One"
+          "eng": "One-on-One Time"
         }
       }
     },
@@ -69,8 +67,6 @@
         "child"
       ],
       "number": 2,
-      "bottom_aligned_image_asset": "images/homescreen/listview/developmentplay.svg",
-      "image_asset": "images/homescreen/developmentplay.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_2",
       "title": "Kindness to Self",
@@ -108,8 +104,6 @@
         "child"
       ],
       "number": 3,
-      "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_time.svg",
-      "image_asset": "images/homescreen/one_on_one_time.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_3",
       "title": "Give Praise",
@@ -147,9 +141,7 @@
         "child"
       ],
       "number": 4,
-      "bottom_aligned_image_asset": "images/homescreen/listview/praise.svg",
-      "image_asset": "images/homescreen/praise.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_4",
       "title": "Feelings",
       "_translations": {
@@ -186,9 +178,7 @@
         "child"
       ],
       "number": 5,
-      "bottom_aligned_image_asset": "images/homescreen/listview/feelings.svg",
-      "image_asset": "images/homescreen/feelings.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_5",
       "title": "Parenting Values",
       "_translations": {
@@ -223,9 +213,7 @@
         "child"
       ],
       "number": 6,
-      "bottom_aligned_image_asset": "images/homescreen/listview/instructions.svg",
-      "image_asset": "images/homescreen/instructions.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_6",
       "title": "Language Skills",
       "_translations": {
@@ -258,9 +246,7 @@
         "child"
       ],
       "number": 7,
-      "bottom_aligned_image_asset": "images/homescreen/listview/rulesroutines.svg",
-      "image_asset": "images/homescreen/rulesroutines.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_7",
       "check_in_id": "check_in_7",
       "title": "Reading, Part 1",
       "_translations": {
@@ -293,9 +279,7 @@
         "child"
       ],
       "number": 8,
-      "bottom_aligned_image_asset": "images/homescreen/listview/consequences.svg",
-      "image_asset": "images/homescreen/consequences.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_8",
       "check_in_id": "check_in_8",
       "title": "Reading, Part 2",
       "_translations": {
@@ -328,9 +312,7 @@
         "child"
       ],
       "number": 9,
-      "bottom_aligned_image_asset": "images/homescreen/listview/problemsolving.svg",
-      "image_asset": "images/homescreen/problemsolving.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_9",
       "title": "Maths, Part 1",
       "_translations": {
@@ -363,6 +345,8 @@
         "child"
       ],
       "number": 10,
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_10",
       "title": "Maths, Part 2",
       "_translations": {
         "title": {}
@@ -392,6 +376,8 @@
         "child"
       ],
       "number": 11,
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_11",
       "title": "Reading",
       "_translations": {
         "title": {}
@@ -403,10 +389,39 @@
       }
     },
     {
-      "id": "maths_2to3_yc",
+      "id": "maths_2_yc",
       "tag_course": "learning",
       "age_list": [
-        "2",
+        "2"
+      ],
+      "child_gender_list": [
+        "male",
+        "female"
+      ],
+      "caregiver_relationship_list": [
+        "yes",
+        "no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 12,
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_12",
+      "title": "Maths",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Maths"
+        }
+      }
+    },
+    {
+      "id": "maths_3_yc",
+      "tag_course": "learning",
+      "age_list": [
         "3"
       ],
       "child_gender_list": [
@@ -421,6 +436,8 @@
         "child"
       ],
       "number": 12,
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_13",
       "title": "Maths",
       "_translations": {
         "title": {}
@@ -453,6 +470,8 @@
         "child"
       ],
       "number": 13,
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_14",
       "title": "Talk to Teachers",
       "_translations": {
         "title": {}
@@ -482,6 +501,8 @@
         "child"
       ],
       "number": 16,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_15",
       "title": "Child Development",
       "_translations": {
         "title": {}
@@ -512,6 +533,8 @@
         "child"
       ],
       "number": 17,
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_16",
       "title": "Child Development",
       "_translations": {
         "title": {}
@@ -542,6 +565,8 @@
         "child"
       ],
       "number": 18,
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_1",
       "title": "Child Development",
       "_translations": {
         "title": {}
@@ -577,6 +602,8 @@
         "child"
       ],
       "number": 14,
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_2",
       "title": "Play & Learn",
       "_translations": {
         "title": {}
@@ -612,6 +639,8 @@
         "child"
       ],
       "number": 15,
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_3",
       "title": "Life Lessons",
       "_translations": {
         "title": {}
@@ -647,6 +676,8 @@
         "child"
       ],
       "number": 19,
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_4",
       "title": "Manage Stress",
       "_translations": {
         "title": {}
@@ -682,6 +713,8 @@
         "child"
       ],
       "number": 20,
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_5",
       "title": "Keep it Positive",
       "_translations": {
         "title": {}
@@ -717,6 +750,8 @@
         "child"
       ],
       "number": 21,
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_6",
       "title": "Daily Routines",
       "_translations": {
         "title": {}
@@ -752,6 +787,8 @@
         "child"
       ],
       "number": 22,
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_7",
       "title": "Family Rules",
       "_translations": {
         "title": {}
@@ -787,6 +824,8 @@
         "child"
       ],
       "number": 23,
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_8",
       "title": "Roles at Home",
       "_translations": {
         "title": {}
@@ -822,6 +861,8 @@
         "child"
       ],
       "number": 26,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_9",
       "title": "Manage Anger",
       "_translations": {
         "title": {}
@@ -857,6 +898,8 @@
         "child"
       ],
       "number": 24,
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_10",
       "title": "Misbehaviour",
       "_translations": {
         "title": {}
@@ -892,6 +935,8 @@
         "child"
       ],
       "number": 25,
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_11",
       "title": "Manage Demands",
       "_translations": {
         "title": {}
@@ -927,6 +972,8 @@
         "child"
       ],
       "number": 27,
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_12",
       "title": "Consequences",
       "_translations": {
         "title": {}
@@ -962,6 +1009,8 @@
         "child"
       ],
       "number": 28,
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_13",
       "title": "Problem Solving",
       "_translations": {
         "title": {}
@@ -992,6 +1041,8 @@
         "child"
       ],
       "number": 29,
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_14",
       "title": "Safe Touch",
       "_translations": {
         "title": {}
@@ -1022,6 +1073,8 @@
         "child"
       ],
       "number": 30,
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_15",
       "title": "Safe Touch",
       "_translations": {
         "title": {}
@@ -1053,6 +1106,8 @@
         "child"
       ],
       "number": 31,
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_16",
       "title": "Safe Touch",
       "_translations": {
         "title": {}
@@ -1083,6 +1138,8 @@
         "child"
       ],
       "number": 32,
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_1",
       "title": "Stay Safe",
       "_translations": {
         "title": {}
@@ -1115,6 +1172,8 @@
         "child"
       ],
       "number": 33,
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_2",
       "title": "Stay Safe",
       "_translations": {
         "title": {}
@@ -1147,6 +1206,8 @@
         "child"
       ],
       "number": 34,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_3",
       "title": "Stay Safe",
       "_translations": {
         "title": {}
@@ -1177,6 +1238,8 @@
         "child"
       ],
       "number": 35,
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_4",
       "title": "Crises",
       "_translations": {
         "title": {}
@@ -1212,6 +1275,8 @@
         "child"
       ],
       "number": 36,
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_5",
       "title": "Online Safety",
       "_translations": {
         "title": {}
@@ -1247,6 +1312,8 @@
         "child"
       ],
       "number": 37,
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_6",
       "title": "Online Habits",
       "_translations": {
         "title": {}
@@ -1282,6 +1349,8 @@
         "child"
       ],
       "number": 38,
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_7",
       "title": "Nutrition and Health",
       "_translations": {
         "title": {}
@@ -1316,6 +1385,8 @@
         "child"
       ],
       "number": 39,
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_8",
       "title": "Respect Each Other",
       "_translations": {
         "title": {}
@@ -1350,6 +1421,8 @@
         "child"
       ],
       "number": 40,
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_9",
       "title": "Team Parenting",
       "_translations": {
         "title": {}
@@ -1384,6 +1457,8 @@
         "child"
       ],
       "number": 41,
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_10",
       "title": "Teamwork",
       "_translations": {
         "title": {}
@@ -1418,6 +1493,8 @@
         "child"
       ],
       "number": 42,
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_11",
       "title": "Resolve Conflicts",
       "_translations": {
         "title": {}
@@ -1452,6 +1529,8 @@
         "child"
       ],
       "number": 43,
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_12",
       "title": "Talk and Listen",
       "_translations": {
         "title": {}
@@ -1487,6 +1566,8 @@
         "child"
       ],
       "number": 44,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_13",
       "title": "Needs and Wants",
       "_translations": {
         "title": {}
@@ -1522,6 +1603,8 @@
         "child"
       ],
       "number": 45,
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_14",
       "title": "Expenses",
       "_translations": {
         "title": {}
@@ -1557,6 +1640,8 @@
         "child"
       ],
       "number": 46,
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_15",
       "title": "Budgeting",
       "_translations": {
         "title": {}
@@ -1592,6 +1677,8 @@
         "child"
       ],
       "number": 47,
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_16",
       "title": "Savings",
       "_translations": {
         "title": {}

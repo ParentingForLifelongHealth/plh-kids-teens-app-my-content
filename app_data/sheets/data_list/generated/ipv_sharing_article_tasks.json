@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Let’s learn about sharing family responsibilities between you and your spouse today. 👋",
+      "id": "relax_2",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_2": "Tutup mata anda.\nMari kita gunakan kuasa ajaib nombor 3 untuk kekal hadir dan bertenang.\n\nSebut 3 bunyi yang anda boleh dengar sekarang.\nSebut 3 bau yang anda boleh hidu sekarang.\nSebut 3 makanan kegemaran anda.\nApakah 3 perkara yang anda berasa bersyukur pada saat ini.\n\nDi penghujung hari yang mencabar, fikirkan 3 perkara yang kita rasa beruntung dan boleh membantu kita untuk mengumpul semula semangat untuk mencuba lagi pada esok hari.",
+      "title": "Power of three",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Power of three"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_10",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "So good to hear you are feeling well today. You are incredible!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s learn about sharing family responsibilities between you and your spouse today. 👋"
@@ -20,24 +87,18 @@
           "eng": "Sharing family responsibilities can help make life less stressful and improve your relationship! 💚"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Let’s learn about sharing family responsibilities between you and your spouse today. 👋",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Sharing family responsibilities can help make life less stressful and improve your relationship! 💚",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Taking care of the home is important, and sharing family responsibilities is too. Let’s consider a question on this.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_option_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Taking care of the home is important, and sharing family responsibilities is too. Let’s consider a question on this."
@@ -64,25 +125,30 @@
           "eng": "False"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ Incorrect. \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {},
+        "quiz_2_option_1_text": {},
+        "quiz_2_option_2_text": {}
+      },
+      "quiz_1_feedback_2": "🎉 You are right! \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
       "quiz_1_question": "True or False: Sharing family responsibilities is not important as long as the housework gets done.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ Incorrect. \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🎉 You are right! \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
+      "text_1_facilitator": "Taking care of the home is important, and sharing family responsibilities is too. Let’s consider a question on this.",
       "quiz_2_option_1_text": "True",
       "quiz_2_option_2_text": "False",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "In this comic, @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name are setting a great example for their granddaughter by sharing a task:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "In this comic, @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name are setting a great example for their granddaughter by sharing a task:"
@@ -94,6 +160,14 @@
           "eng": "Thank you, my love. I’m glad you liked it."
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "In this comic, @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name are setting a great example for their granddaughter by sharing a task:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/ipv_sharing_1.svg",
       "character_1_id": "f2_daughter_8",
       "character_2_id": "f2_grandmother",
@@ -103,8 +177,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Yes, @data.characters.f2_daughter_8.name. Paati’s curry is so yummy today."
@@ -113,6 +185,8 @@
           "eng": "Thank you. It’s actually quite tiring to cook and clean everyday, so it’s nice to hear that my effort is worth it!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_sharing_2.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
@@ -126,8 +200,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "I understand. Can I help in cleaning after every meal?"
@@ -139,6 +211,8 @@
           "eng": "Let me help with the cleaning too!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_sharing_3.svg",
       "character_1_id": "f2_grandfather",
       "character_2_id": "f2_grandmother",
@@ -155,26 +229,24 @@
     },
     {
       "id": "explore_4",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "CREATE A ROUTINE"
@@ -195,6 +267,8 @@
           "eng": "😒 It can be hard to remember to ask for help. \n🌷 Be kind to yourself if you forget! You can try again another time. \n⭐ Asking for help and sharing responsibilities creates a more supportive home for everyone!"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -216,8 +290,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?"
@@ -235,18 +307,20 @@
           "eng": "That’s okay. Trying something new can be hard! 💚 \n\nYou can start by discussing something small - like who helps your child with homework, or who does the dishes after dinner. Soon you’ll feel more confident doing it on your own! ⭐"
         }
       },
-      "quiz_1_question": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That’s great! Sharing the workload benefits the whole family and creates a supportive home for everyone! 🎉",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "That’s great! Sharing the workload benefits the whole family and creates a supportive home for everyone! 🎉",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That’s okay. Trying something new can be hard! 💚 \n\nYou can start by discussing something small - like who helps your child with homework, or who does the dishes after dinner. Soon you’ll feel more confident doing it on your own! ⭐",
+      "quiz_1_question": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

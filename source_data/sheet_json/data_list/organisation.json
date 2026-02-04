@@ -6,27 +6,63 @@
   "rows": [
     {
       "id": "organisation_1",
-      "name": "PLH",
-      "image_asset": "images/logos/PLH.png",
+      "name": "KEMAS",
+      "image_asset": "images/logos/kemas.png",
       "group": "partners"
     },
     {
       "id": "organisation_2",
-      "name": "IDEMS",
-      "image_asset": "images/logos/IDEMS.png",
+      "name": "LPPKN",
+      "image_asset": "images/logos/lppkn.png",
       "group": "partners"
     },
     {
       "id": "organisation_3",
-      "name": "UNICEF",
-      "image_asset": "images/logos/UNICEF.png",
+      "name": "UPM",
+      "image_asset": "images/logos/upm.png",
       "group": "partners"
     },
     {
       "id": "organisation_4",
-      "name": "Ministerio de Desarrollo Social",
-      "image_asset": "images/logos/MIDES.png",
+      "name": "MASW",
+      "image_asset": "images/logos/masw.png",
       "group": "partners"
+    },
+    {
+      "id": "organisation_5",
+      "name": "UNICEF",
+      "image_asset": "images/logos/unicef.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_6",
+      "name": "Oxford",
+      "image_asset": "images/logos/oxford.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_7",
+      "name": "PLH",
+      "image_asset": "images/logos/plh.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_8",
+      "name": "IDEMS",
+      "image_asset": "images/logos/idems.png",
+      "group": "partners"
+    },
+    {
+      "id": "organisation_9",
+      "name": "THSN",
+      "image_asset": "images/logos/thsn.png",
+      "group": "funders"
+    },
+    {
+      "id": "organisation_10",
+      "name": "LEGO",
+      "image_asset": "images/logos/lego.png",
+      "group": "funders"
     }
   ]
 }
