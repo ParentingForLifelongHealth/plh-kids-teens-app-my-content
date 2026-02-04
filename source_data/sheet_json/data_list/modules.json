@@ -13,10 +13,8 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 1,
-      "title::eng": "One-on-One",
-      "bottom_aligned_image_asset": "images/homescreen/listview/self_care.svg",
-      "image_asset": "images/homescreen/self_care.svg",
-      "relax_id": "relax_5",
+      "title::eng": "One-on-One Time",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_1"
     },
     {
@@ -28,8 +26,6 @@
       "tag_list": "child",
       "number": 2,
       "title::eng": "Kindness to Self",
-      "bottom_aligned_image_asset": "images/homescreen/listview/developmentplay.svg",
-      "image_asset": "images/homescreen/developmentplay.svg",
       "relax_id": "relax_2",
       "check_in_id": "check_in_2"
     },
@@ -42,8 +38,6 @@
       "tag_list": "child",
       "number": 3,
       "title::eng": "Give Praise",
-      "bottom_aligned_image_asset": "images/homescreen/listview/one_on_one_time.svg",
-      "image_asset": "images/homescreen/one_on_one_time.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_3"
     },
@@ -56,9 +50,7 @@
       "tag_list": "child",
       "number": 4,
       "title::eng": "Feelings",
-      "bottom_aligned_image_asset": "images/homescreen/listview/praise.svg",
-      "image_asset": "images/homescreen/praise.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_4"
     },
     {
@@ -70,9 +62,7 @@
       "tag_list": "child",
       "number": 5,
       "title::eng": "Parenting Values",
-      "bottom_aligned_image_asset": "images/homescreen/listview/feelings.svg",
-      "image_asset": "images/homescreen/feelings.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_5"
     },
     {
@@ -84,9 +74,7 @@
       "tag_list": "child",
       "number": 6,
       "title::eng": "Language Skills",
-      "bottom_aligned_image_asset": "images/homescreen/listview/instructions.svg",
-      "image_asset": "images/homescreen/instructions.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_6"
     },
     {
@@ -98,9 +86,7 @@
       "tag_list": "child",
       "number": 7,
       "title::eng": "Reading, Part 1",
-      "bottom_aligned_image_asset": "images/homescreen/listview/rulesroutines.svg",
-      "image_asset": "images/homescreen/rulesroutines.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_7",
       "check_in_id": "check_in_7"
     },
     {
@@ -112,9 +98,7 @@
       "tag_list": "child",
       "number": 8,
       "title::eng": "Reading, Part 2",
-      "bottom_aligned_image_asset": "images/homescreen/listview/consequences.svg",
-      "image_asset": "images/homescreen/consequences.svg",
-      "relax_id": "relax_2",
+      "relax_id": "relax_8",
       "check_in_id": "check_in_8"
     },
     {
@@ -126,9 +110,7 @@
       "tag_list": "child",
       "number": 9,
       "title::eng": "Maths, Part 1",
-      "bottom_aligned_image_asset": "images/homescreen/listview/problemsolving.svg",
-      "image_asset": "images/homescreen/problemsolving.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_9"
     },
     {
@@ -139,7 +121,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 10,
-      "title::eng": "Maths, Part 2"
+      "title::eng": "Maths, Part 2",
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_10"
     },
     {
       "id": "reading_2to3_yc",
@@ -149,17 +133,33 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 11,
-      "title::eng": "Reading"
+      "title::eng": "Reading",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_11"
     },
     {
-      "id": "maths_2to3_yc",
+      "id": "maths_2_yc",
       "tag_course": "learning",
-      "age_list": "2; 3",
+      "age_list": "2",
       "child_gender_list": "male; female",
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 12,
-      "title::eng": "Maths"
+      "title::eng": "Maths",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_12"
+    },
+    {
+      "id": "maths_3_yc",
+      "tag_course": "learning",
+      "age_list": "3",
+      "child_gender_list": "male; female",
+      "caregiver_relationship_list": "yes; no",
+      "tag_list": "child",
+      "number": 12,
+      "title::eng": "Maths",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_13"
     },
     {
       "id": "school_3to6_yc",
@@ -169,7 +169,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 13,
-      "title::eng": "Talk to Teachers"
+      "title::eng": "Talk to Teachers",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_14"
     },
     {
       "id": "toddle_change_yc",
@@ -179,7 +181,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 16,
-      "title::eng": "Child Development"
+      "title::eng": "Child Development",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_15"
     },
     {
       "id": "young_change_yc",
@@ -189,7 +193,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 17,
-      "title::eng": "Child Development"
+      "title::eng": "Child Development",
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_16"
     },
     {
       "id": "child_change_yc",
@@ -199,7 +205,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 18,
-      "title::eng": "Child Development"
+      "title::eng": "Child Development",
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_1"
     },
     {
       "id": "play_yc",
@@ -209,7 +217,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 14,
-      "title::eng": "Play & Learn"
+      "title::eng": "Play & Learn",
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_2"
     },
     {
       "id": "learn_exp_yc",
@@ -219,7 +229,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 15,
-      "title::eng": "Life Lessons"
+      "title::eng": "Life Lessons",
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_3"
     },
     {
       "id": "manage_stress_yc",
@@ -229,7 +241,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 19,
-      "title::eng": "Manage Stress"
+      "title::eng": "Manage Stress",
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_4"
     },
     {
       "id": "keep_positive_yc",
@@ -239,7 +253,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 20,
-      "title::eng": "Keep it Positive"
+      "title::eng": "Keep it Positive",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_5"
     },
     {
       "id": "routine_yc",
@@ -249,7 +265,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 21,
-      "title::eng": "Daily Routines"
+      "title::eng": "Daily Routines",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_6"
     },
     {
       "id": "family_rules_yc",
@@ -259,7 +277,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 22,
-      "title::eng": "Family Rules"
+      "title::eng": "Family Rules",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_7"
     },
     {
       "id": "know_role_yc",
@@ -269,7 +289,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 23,
-      "title::eng": "Roles at Home"
+      "title::eng": "Roles at Home",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_8"
     },
     {
       "id": "manage_anger_yc",
@@ -279,7 +301,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 26,
-      "title::eng": "Manage Anger"
+      "title::eng": "Manage Anger",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_9"
     },
     {
       "id": "redirect_yc",
@@ -289,7 +313,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 24,
-      "title::eng": "Misbehaviour"
+      "title::eng": "Misbehaviour",
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_10"
     },
     {
       "id": "ignore_demand_yc",
@@ -299,7 +325,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 25,
-      "title::eng": "Manage Demands"
+      "title::eng": "Manage Demands",
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_11"
     },
     {
       "id": "consequences_yc",
@@ -309,7 +337,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 27,
-      "title::eng": "Consequences"
+      "title::eng": "Consequences",
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_12"
     },
     {
       "id": "solve_problem_yc",
@@ -319,7 +349,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 28,
-      "title::eng": "Problem Solving"
+      "title::eng": "Problem Solving",
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_13"
     },
     {
       "id": "safe_2to5_yc_m",
@@ -329,7 +361,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 29,
-      "title::eng": "Safe Touch"
+      "title::eng": "Safe Touch",
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_14"
     },
     {
       "id": "safe_2to5_yc_f",
@@ -339,7 +373,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 30,
-      "title::eng": "Safe Touch"
+      "title::eng": "Safe Touch",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_15"
     },
     {
       "id": "safe_6to9_yc",
@@ -349,7 +385,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 31,
-      "title::eng": "Safe Touch"
+      "title::eng": "Safe Touch",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_16"
     },
     {
       "id": "com_safe_2to4_yc",
@@ -359,7 +397,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 32,
-      "title::eng": "Stay Safe"
+      "title::eng": "Stay Safe",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_1"
     },
     {
       "id": "com_safe_5to9_yc",
@@ -369,7 +409,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 33,
-      "title::eng": "Stay Safe"
+      "title::eng": "Stay Safe",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_2"
     },
     {
       "id": "crises_2to6_yc",
@@ -379,7 +421,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 34,
-      "title::eng": "Stay Safe"
+      "title::eng": "Stay Safe",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_3"
     },
     {
       "id": "crises_7to9_yc",
@@ -389,7 +433,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 35,
-      "title::eng": "Crises"
+      "title::eng": "Crises",
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_4"
     },
     {
       "id": "online_safety_yc",
@@ -399,7 +445,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 36,
-      "title::eng": "Online Safety"
+      "title::eng": "Online Safety",
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_5"
     },
     {
       "id": "trust_online_yc",
@@ -409,7 +457,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 37,
-      "title::eng": "Online Habits"
+      "title::eng": "Online Habits",
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_6"
     },
     {
       "id": "nutrition_yc",
@@ -419,7 +469,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 38,
-      "title::eng": "Nutrition and Health"
+      "title::eng": "Nutrition and Health",
+      "relax_id": "relax_9",
+      "check_in_id": "check_in_7"
     },
     {
       "id": "ipv_equals",
@@ -429,7 +481,9 @@
       "caregiver_relationship_list": "yes",
       "tag_list": "child",
       "number": 39,
-      "title::eng": "Respect Each Other"
+      "title::eng": "Respect Each Other",
+      "relax_id": "relax_10",
+      "check_in_id": "check_in_8"
     },
     {
       "id": "ipv_supportive",
@@ -439,7 +493,9 @@
       "caregiver_relationship_list": "yes",
       "tag_list": "child",
       "number": 40,
-      "title::eng": "Team Parenting"
+      "title::eng": "Team Parenting",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_9"
     },
     {
       "id": "ipv_sharing",
@@ -449,7 +505,9 @@
       "caregiver_relationship_list": "yes",
       "tag_list": "child",
       "number": 41,
-      "title::eng": "Teamwork"
+      "title::eng": "Teamwork",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_10"
     },
     {
       "id": "ipv_conflicts",
@@ -459,7 +517,9 @@
       "caregiver_relationship_list": "yes",
       "tag_list": "child",
       "number": 42,
-      "title::eng": "Resolve Conflicts"
+      "title::eng": "Resolve Conflicts",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_11"
     },
     {
       "id": "ipv_listen",
@@ -469,7 +529,9 @@
       "caregiver_relationship_list": "yes",
       "tag_list": "child",
       "number": 43,
-      "title::eng": "Talk and Listen"
+      "title::eng": "Talk and Listen",
+      "relax_id": "relax_4",
+      "check_in_id": "check_in_12"
     },
     {
       "id": "budget_needs_yc",
@@ -479,7 +541,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 44,
-      "title::eng": "Needs and Wants"
+      "title::eng": "Needs and Wants",
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_13"
     },
     {
       "id": "budget_exp_yc",
@@ -489,7 +553,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 45,
-      "title::eng": "Expenses"
+      "title::eng": "Expenses",
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_14"
     },
     {
       "id": "budget_month_yc",
@@ -499,7 +565,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 46,
-      "title::eng": "Budgeting"
+      "title::eng": "Budgeting",
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_15"
     },
     {
       "id": "budget_save_yc",
@@ -509,7 +577,9 @@
       "caregiver_relationship_list": "yes; no",
       "tag_list": "child",
       "number": 47,
-      "title::eng": "Savings"
+      "title::eng": "Savings",
+      "relax_id": "relax_8",
+      "check_in_id": "check_in_16"
     }
   ]
 }

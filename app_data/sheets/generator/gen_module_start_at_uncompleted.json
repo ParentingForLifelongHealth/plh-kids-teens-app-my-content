@@ -145,7 +145,12 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_maths_2to3_yc_start_at_uncompleted",
+      "flow_name": "module_maths_2_yc_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_maths_3_yc_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "It’s important to resolve conflict peacefully between you and your spouse. 💚",
+      "id": "relax_3",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset": "audio/relax/relax_3.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\nBagus sekali, anda memang hebat!",
+      "title": "One thing today",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "One thing today"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_11",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Taking a moment for YOU makes a big difference for everyone!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
+      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
+      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It’s important to resolve conflict peacefully between you and your spouse. 💚"
@@ -20,22 +87,18 @@
           "eng": "All adults have disagreements sometimes, but fighting is not an effective way to solve issues. 😔\n\nLearning to respond calmly when experiencing disagreements can help create a more peaceful home for everyone.🌷"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "It’s important to resolve conflict peacefully between you and your spouse. 💚",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "All adults have disagreements sometimes, but fighting is not an effective way to solve issues. 😔\n\nLearning to respond calmly when experiencing disagreements can help create a more peaceful home for everyone.🌷",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "So how should these disagreements be managed when they come up? Here’s a question.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "So how should these disagreements be managed when they come up? Here’s a question."
@@ -56,23 +119,26 @@
           "eng": "❌ That’s incorrect. \n\n⭐ It can be really hard to stay calm when we’re having a disagreement with others. \n\n🌷 So taking a pause, such as by taking a couple of deep breaths, can be a useful way to help us to respond better."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "✅ That’s correct! \n\n⭐ It can be really hard to stay calm when we’re having a disagreement with others. \n\n🌷 So taking a pause, such as by taking a couple of deep breaths, can be a useful way to help us to respond better.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n⭐ It can be really hard to stay calm when we’re having a disagreement with others. \n\n🌷 So taking a pause, such as by taking a couple of deep breaths, can be a useful way to help us to respond better.",
       "quiz_1_question": "True or False: When facing a disagreement, taking a pause before responding can help us stay calm and respond better.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "✅ That’s correct! \n\n⭐ It can be really hard to stay calm when we’re having a disagreement with others. \n\n🌷 So taking a pause, such as by taking a couple of deep breaths, can be a useful way to help us to respond better.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n⭐ It can be really hard to stay calm when we’re having a disagreement with others. \n\n🌷 So taking a pause, such as by taking a couple of deep breaths, can be a useful way to help us to respond better.",
+      "text_1_facilitator": "So how should these disagreements be managed when they come up? Here’s a question.",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Here is a comic that shows how @data.characters.f1_mother.name and @data.characters.f1_father.name resolved a conflict peacefully by taking a pause:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here is a comic that shows how @data.characters.f1_mother.name and @data.characters.f1_father.name resolved a conflict peacefully by taking a pause:"
@@ -84,6 +150,14 @@
           "eng": "Oh no! We left the laundry outside!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Here is a comic that shows how @data.characters.f1_mother.name and @data.characters.f1_father.name resolved a conflict peacefully by taking a pause:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/ipv_conflicts_1.svg",
       "character_1_id": "f1_daughter_6",
       "character_2_id": "f1_mother",
@@ -93,8 +167,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "I thought you said you would bring in the laundry today?"
@@ -106,6 +178,8 @@
           "eng": "I’m really sorry. It was a mistake!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_conflicts_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_mother",
@@ -122,13 +196,13 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "(Thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_conflicts_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "(Thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…",
@@ -139,8 +213,6 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "I’m sorry if I sounded upset. I just got stressed because I have had a long day."
@@ -149,6 +221,8 @@
           "eng": "I am sorry that I forgot the laundry. I know you have had a long day. I will make sure to take care of it after dinner."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_conflicts_4.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_father",
@@ -162,26 +236,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way."
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way."
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "COUNT TO 10"
@@ -202,6 +274,8 @@
           "eng": "😣 Sometimes others respond to us negatively when we’re having a disagreement.\n❗ In these situations, especially if you feel fearful or threatened, it may be best to walk away for a bit until everyone has calmed down.\n\nRemember, if you need help in a crisis, you can refer to the library for a list of community resources where you may find support."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -223,8 +297,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "⭐ Today’s home activity is to practise taking a pause, just like on our first day together. Do you have time to practise taking a pause today?"
@@ -242,18 +314,20 @@
           "eng": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙"
         }
       },
-      "quiz_1_question": "⭐ Today’s home activity is to practise taking a pause, just like on our first day together. Do you have time to practise taking a pause today?",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions.",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙",
+      "quiz_1_question": "⭐ Today’s home activity is to practise taking a pause, just like on our first day together. Do you have time to practise taking a pause today?",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

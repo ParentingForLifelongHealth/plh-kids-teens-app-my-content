@@ -4,14 +4,80 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "This is part 2 of the skill “Help your child get ready for maths.” ✨\n\nToday’s focus is on some more challenging activities that you can do with your child once they are ready 💡",
+      "id": "relax_10",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+      "transcript_2": "Pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. Sama ada di atas lantai atau tanah. \nPerhatikan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nPerhatikan di mana terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
+      "title": "Feel the ground",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feel the ground"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_10",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "So good to hear you are feeling well today. You are incredible!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This is part 2 of the skill “Help your child get ready for maths.” ✨\n\nToday’s focus is on some more challenging activities that you can do with your child once they are ready 💡"
@@ -20,20 +86,18 @@
           "eng": "Learning about comparing, adding, and subtracting will help your child understand more about maths. This will continue to help them learn number skills. 🔟/🔟 ⭐"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "This is part 2 of the skill “Help your child get ready for maths.” ✨\n\nToday’s focus is on some more challenging activities that you can do with your child once they are ready 💡",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Learning about comparing, adding, and subtracting will help your child understand more about maths. This will continue to help them learn number skills. 🔟/🔟 ⭐",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name is practising numbers with her son, @data.characters.f1_son_5.name in the kitchen:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s see how @data.characters.f1_mother.name is practising numbers with her son, @data.characters.f1_son_5.name in the kitchen:"
@@ -48,6 +112,15 @@
           "eng": "That’s right! Potatoes! How many potatoes do you have?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name is practising numbers with her son, @data.characters.f1_son_5.name in the kitchen:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {},
+        "character_3_text": {}
+      },
       "image_asset": "images/yc_modules/maths2_4to6_yc_1.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_5",
@@ -59,8 +132,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "I have… Five!"
@@ -69,6 +140,8 @@
           "eng": "That’s right! One, two, three, four… five! Five potatoes!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/maths2_4to6_yc_2.svg",
       "character_1_id": "f1_son_5",
       "character_2_id": "f1_mother",
@@ -82,13 +155,13 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Can you give me two potatoes?\nThat’s right! One… two…! \nHow many potatoes are left?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/maths2_4to6_yc_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Can you give me two potatoes?\nThat’s right! One… two…! \nHow many potatoes are left?",
@@ -99,8 +172,6 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Is it difficult? Don’t worry, let’s count together! Let’s see… we had five, and you gave me two, now there are one… two… three remaining! There are three potatoes left!"
@@ -109,6 +180,8 @@
           "eng": "Three potatoes left!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/maths2_4to6_yc_4.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_son_5",
@@ -122,26 +195,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "SORTING AND ORGANISING"
@@ -168,6 +239,8 @@
           "eng": "💚 Go slowly and help your child build confidence by doing things they are ready for and know how to do. \n😃 Always encourage their effort and praise them. Mistakes are okay, too!\n🎉 Keep learning fun. It helps them stay excited and motivated!"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -194,8 +267,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "For today’s home activity, can you do an activity with adding and taking away with your child? You can do that while cooking with them again, or with other objects - like playing outside with stones!"
@@ -213,18 +284,20 @@
           "eng": "That's OK! If you don't have time today, try to do some adding and taking away activities with your child tomorrow."
         }
       },
-      "quiz_1_question": "For today’s home activity, can you do an activity with adding and taking away with your child? You can do that while cooking with them again, or with other objects - like playing outside with stones!",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Great! 💙 These activities will help your child learn!",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! 💙 These activities will help your child learn!",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! If you don't have time today, try to do some adding and taking away activities with your child tomorrow.",
+      "quiz_1_question": "For today’s home activity, can you do an activity with adding and taking away with your child? You can do that while cooking with them again, or with other objects - like playing outside with stones!",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

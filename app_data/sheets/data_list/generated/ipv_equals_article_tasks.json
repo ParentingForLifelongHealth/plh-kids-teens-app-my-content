@@ -4,14 +4,80 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Welcome back! Today’s skill is about how you and your spouse can set an example for your children by creating respect at home. 💙 \n\nFamily and friends might have their own ideas about how you should act as a spouse or a parent.❗\n\nBut what matters most is how both husband and wife choose to talk to and support each other, and make decisions together and respectfully. 🔄",
+      "id": "relax_10",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_10.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
+      "transcript_2": "Pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. Sama ada di atas lantai atau tanah. \nPerhatikan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nPerhatikan di mana terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
+      "title": "Feel the ground",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Feel the ground"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_8",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Self-care is a key parenting tool. It starts with recognising how we feel."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult right now. Take a deep breath and know that you are valued."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
+      "quiz_1_feedback_2": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward.",
+      "quiz_1_feedback_3": "Sorry that things are difficult right now. Take a deep breath and know that you are valued.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Welcome back! Today’s skill is about how you and your spouse can set an example for your children by creating respect at home. 💙 \n\nFamily and friends might have their own ideas about how you should act as a spouse or a parent.❗\n\nBut what matters most is how both husband and wife choose to talk to and support each other, and make decisions together and respectfully. 🔄"
@@ -20,22 +86,18 @@
           "eng": "Treating each other with respect and making decisions together can have a big impact on how you feel and can help keep your child feel safe. 💚😃"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Welcome back! Today’s skill is about how you and your spouse can set an example for your children by creating respect at home. 💙 \n\nFamily and friends might have their own ideas about how you should act as a spouse or a parent.❗\n\nBut what matters most is how both husband and wife choose to talk to and support each other, and make decisions together and respectfully. 🔄",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Treating each other with respect and making decisions together can have a big impact on how you feel and can help keep your child feel safe. 💚😃",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Think about working as a team! Try this.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Think about working as a team! Try this."
@@ -56,22 +118,26 @@
           "eng": "🎉 You are right! \n\n🔑 Communicating and making big decisions together with our spouse is an important part of having a respectful relationship."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ Incorrect. \n\n🔑 When making big decisions that impact the whole family or relationship, it is important for spouses to practise making decisions together.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "🎉 You are right! \n\n🔑 Communicating and making big decisions together with our spouse is an important part of having a respectful relationship.",
       "quiz_1_question": "True or False: Important decisions that impact the whole family or the relationship should only be made by one spouse.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ Incorrect. \n\n🔑 When making big decisions that impact the whole family or relationship, it is important for spouses to practise making decisions together.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🎉 You are right! \n\n🔑 Communicating and making big decisions together with our spouse is an important part of having a respectful relationship.",
+      "text_1_facilitator": "Think about working as a team! Try this.",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Let’s observe how couples can value each other’s opinions and make decisions together:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let’s observe how couples can value each other’s opinions and make decisions together:"
@@ -80,6 +146,13 @@
           "eng": "My dear, you look worried. What’s wrong?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "Let’s observe how couples can value each other’s opinions and make decisions together:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {}
+      },
       "image_asset": "images/yc_modules/ipv_equals_1.svg",
       "character_1_id": "f1_father",
       "character_1_text": "My dear, you look worried. What’s wrong?",
@@ -87,8 +160,6 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "The stove has not been working very well recently. I think the stove might be broken."
@@ -97,6 +168,8 @@
           "eng": "I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_equals_2.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "The stove has not been working very well recently. I think the stove might be broken.",
@@ -110,8 +183,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?"
@@ -120,6 +191,8 @@
           "eng": "That sounds great. Thank you for cooking dinner, my dear!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_equals_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?",
@@ -133,8 +206,6 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first."
@@ -143,6 +214,8 @@
           "eng": "Me too. I feel a lot better now that we have talked about it together."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/ipv_equals_4.svg",
       "character_1_id": "f1_father",
       "character_1_text": "I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first.",
@@ -156,26 +229,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "SHARE DECISION MAKING"
@@ -202,6 +273,8 @@
           "eng": "⏰ It can take time to get used to making decisions together. \n🔄 Give yourself time and keep trying! \n😃 By communicating with your spouse, you’ll both feel more comfortable talking and sharing decisions over time."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -228,8 +301,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Your home activity for today is to involve your spouse in a decision you are making today. Can you do it? ⏰⭐"
@@ -247,18 +318,20 @@
           "eng": "It can take time to get used to making decisions together. Give yourself time to adjust. ⏰\n\nRemember that by communicating with your spouse and involving them in decision-making, they will start to feel more comfortable doing so too. ⭐"
         }
       },
-      "quiz_1_question": "Your home activity for today is to involve your spouse in a decision you are making today. Can you do it? ⏰⭐",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Well done! Communicating and working together with your spouse makes a difference! 🎉",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Well done! Communicating and working together with your spouse makes a difference! 🎉",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "It can take time to get used to making decisions together. Give yourself time to adjust. ⏰\n\nRemember that by communicating with your spouse and involving them in decision-making, they will start to feel more comfortable doing so too. ⭐",
+      "quiz_1_question": "Your home activity for today is to involve your spouse in a decision you are making today. Can you do it? ⏰⭐",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

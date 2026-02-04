@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "It is important to be prepared and know how to respond when our children are in crisis.❗",
+      "id": "relax_5",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang boleh mengawalnya!",
+      "title": "In and out",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "In and out"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_3",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You matter! Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "You matter! Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "It is important to be prepared and know how to respond when our children are in crisis.❗"
@@ -20,22 +87,18 @@
           "eng": "When children share something that is very hard or upsetting to them 😔😣, remember to stay calm, listen, and be open, so that they feel supported. 💛"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "It is important to be prepared and know how to respond when our children are in crisis.❗",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "When children share something that is very hard or upsetting to them 😔😣, remember to stay calm, listen, and be open, so that they feel supported. 💛",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "When my children are upset, I sometimes feel like I shouldn’t be near them.",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When my children are upset, I sometimes feel like I shouldn’t be near them."
@@ -56,23 +119,26 @@
           "eng": "🌷 That’s right!\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ Incorrect.\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "🌷 That’s right!\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
       "quiz_1_question": "True or False: When my child is upset, I should wait for them to come to me. I don’t want to upset them further by asking what is troubling them.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ Incorrect.\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🌷 That’s right!\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
+      "text_1_facilitator": "When my children are upset, I sometimes feel like I shouldn’t be near them.",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "@data.characters.f1_son_5.name looks upset. Let’s see how his father, @data.characters.f1_father.name responds:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f1_son_5.name looks upset. Let’s see how his father, @data.characters.f1_father.name responds:"
@@ -84,6 +150,14 @@
           "eng": "What happened, @data.characters.f1_son_5.name? I thought you and Aiman were friends. Do you want to talk about it?"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f1_son_5.name looks upset. Let’s see how his father, @data.characters.f1_father.name responds:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/crises_2to6_yc_1.svg",
       "character_1_id": "f1_son_5",
       "character_2_id": "f1_father",
@@ -93,13 +167,13 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "(Crying): He and some of the other kids were mean to me. They said I was stupid because I can’t button my shirt properly."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/crises_2to6_yc_2.svg",
       "character_1_id": "f1_son_5",
       "character_1_text": "(Crying): He and some of the other kids were mean to me. They said I was stupid because I can’t button my shirt properly.",
@@ -110,8 +184,6 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Oh my @data.characters.f1_son_5.name, that is not a very nice thing to say to anyone. I can understand why you would feel upset about this. \nFirst of all, you are not stupid! I am so proud about how much you are growing and learning. It is important that Aiman and the others know that it is not okay to say mean things. Would you like me to come with you so that we can have a chat with the others together?"
@@ -120,6 +192,8 @@
           "eng": "Okay…"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/crises_2to6_yc_3.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_5",
@@ -133,13 +207,13 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "I can also have a chat with Aiman's parents to let them know. Aiman is a good boy and is usually nice to you so maybe there is something else happening.\nThank you for sharing with me, @data.characters.f1_son_5.name. I am very proud of you."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/crises_2to6_yc_4.svg",
       "character_1_id": "f1_father",
       "character_1_text": "I can also have a chat with Aiman's parents to let them know. Aiman is a good boy and is usually nice to you so maybe there is something else happening.\nThank you for sharing with me, @data.characters.f1_son_5.name. I am very proud of you.",
@@ -150,26 +224,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "BREATHE: Take a pause"
@@ -196,6 +268,8 @@
           "eng": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -222,8 +296,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Home activity! ⭐ \n\nFind a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡\n\nDo you have time to do this today? ⏰"
@@ -241,18 +313,20 @@
           "eng": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place."
         }
       },
-      "quiz_1_question": "Home activity! ⭐ \n\nFind a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡\n\nDo you have time to do this today? ⏰",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place.",
+      "quiz_1_question": "Home activity! ⭐ \n\nFind a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡\n\nDo you have time to do this today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

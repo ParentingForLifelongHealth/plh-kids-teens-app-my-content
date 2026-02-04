@@ -4,20 +4,20 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
+      "id": "relax_5",
       "in_library": "yes",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.mp3",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_2": "Tutup mata anda.\nMari kita gunakan kuasa ajaib nombor 3 untuk kekal hadir dan bertenang.\n\nSebut 3 bunyi yang anda boleh dengar sekarang.\nSebut 3 bau yang anda boleh hidu sekarang.\nSebut 3 makanan kegemaran anda.\nApakah 3 perkara yang anda berasa bersyukur pada saat ini.\n\nDi penghujung hari yang mencabar, fikirkan 3 perkara yang kita rasa beruntung dan boleh membantu kita untuk mengumpul semula semangat untuk mencuba lagi pada esok hari.",
-      "title": "Power of three",
+      "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
+      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang boleh mengawalnya!",
+      "title": "In and out",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Power of three"
+          "eng": "In and out"
         }
       },
       "category_id": "relax",

@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚",
+      "id": "relax_9",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset": "audio/relax/relax_9.mp3",
+      "media_type": "audio",
+      "transcript_1": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_2": "Berikut ialah satu aktiviti untuk merehatkan tubuh anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah cincin keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh anda. Adakah ada bahagian yang terasa tegang? Kebas? Sakit?\nFokus pada bahagian itu seketika. Tarik nafas ke arah bahagian tersebut dan, apabila anda menghembus nafas, cuba lepaskan apa-apa ketegangan atau rasa sakit.\nUlang dan tarik nafas beberapa kali.\n\nBuka mata anda. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
+      "title": "Body scan",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Body scan"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_3",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "You matter! Take a moment to check in with yourself."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "You matter! Take a moment to check in with yourself.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚"
@@ -20,22 +87,18 @@
           "eng": "Learning from our mistakes can help us avoid them in the future. 🌷\n\nIt can also help us be more supportive to ourselves and less harsh when things do not go well. 😃"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Learning from our mistakes can help us avoid them in the future. 🌷\n\nIt can also help us be more supportive to ourselves and less harsh when things do not go well. 😃",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "What do you think about this?",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "What do you think about this?"
@@ -56,23 +119,26 @@
           "eng": "🌷 That’s correct! \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them for realising and saying sorry. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "🌷 That’s correct! \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them for realising and saying sorry. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
       "quiz_1_question": "True or False: If my child understands their mistake and says sorry, that means I can bring up other mistakes they have made so that they learn.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🌷 That’s correct! \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them for realising and saying sorry. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
+      "text_1_facilitator": "What do you think about this?",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "@data.characters.f3_daughter_4.name is getting a bit too active indoors, today. Let’s see how her uncle, @data.characters.f3_uncle.name, reacts:",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f3_daughter_4.name is getting a bit too active indoors, today. Let’s see how her uncle, @data.characters.f3_uncle.name, reacts:"
@@ -84,6 +150,14 @@
           "eng": "No I won’t! Look! I’m so fast!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f3_daughter_4.name is getting a bit too active indoors, today. Let’s see how her uncle, @data.characters.f3_uncle.name, reacts:",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/learn_experience_yc_1.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_daughter_4",
@@ -93,24 +167,22 @@
     },
     {
       "id": "explore_2",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "@data.characters.f3_daughter_4.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned."
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "@data.characters.f3_daughter_4.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned."
-        }
-      },
       "image_asset": "images/yc_modules/learn_experience_yc_2.svg",
       "completed": false
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Are you hurt??"
@@ -119,6 +191,8 @@
           "eng": "No, uncle. I’m so, so sorry for breaking the vase… I didn’t see it."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/learn_experience_yc_3.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_daughter_4",
@@ -132,8 +206,6 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?"
@@ -142,6 +214,8 @@
           "eng": "Yes, I should have listened. I continued running even after you said so."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/learn_experience_yc_4.svg",
       "character_1_id": "f3_uncle",
       "character_2_id": "f3_daughter_4",
@@ -155,26 +229,24 @@
     },
     {
       "id": "explore_5",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:"
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:"
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "TALK"
@@ -201,6 +273,8 @@
           "eng": "📖 Try and share your own failures with your child and discuss how they helped you develop and grow. \n✅ This helps your child learn that you do not have to be perfect all the time."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -227,8 +301,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰"
@@ -246,18 +318,20 @@
           "eng": "That's OK! If you don't have time today, set some time aside tomorrow."
         }
       },
-      "quiz_1_question": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Great! 💙 Use the tips you have learnt today to help your child learn from their mistakes.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Great! 💙 Use the tips you have learnt today to help your child learn from their mistakes.",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow.",
+      "quiz_1_question": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

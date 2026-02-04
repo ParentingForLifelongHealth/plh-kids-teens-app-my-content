@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "The final skill of this course is about connecting with your child’s school and their teacher(s). 📖✨",
+      "id": "relax_4",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset": "audio/relax/relax_4.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
+      "transcript_2": "Tutup mata anda.\n\n\nGunakan kuasa ajaib nombor tiga untuk kekal tenang dan berhubung dengan diri sendiri.\n\nTarik nafas sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\nTarik nafas sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\n\nAdakah anda rasa sedikit berbeza? Teknik pernafasan dalam membantu seluruh tubuh dan minda kita menjadi lebih tenang.\n\nAnda memang hebat!",
+      "title": "Breathe to three",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Breathe to three"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_14",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to notice how you are doing."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to notice how you are doing.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "The final skill of this course is about connecting with your child’s school and their teacher(s). 📖✨"
@@ -20,22 +87,18 @@
           "eng": "Talking to your child’s teacher(s) will help you understand what your child is doing in school. ⭐\n\nYou will also know what kinds of things your child can do at home to learn better, and how you can help them! 🎓"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "The final skill of this course is about connecting with your child’s school and their teacher(s). 📖✨",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Talking to your child’s teacher(s) will help you understand what your child is doing in school. ⭐\n\nYou will also know what kinds of things your child can do at home to learn better, and how you can help them! 🎓",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Connecting with others who support your child in their learning and growth, like their teacher(s), is just as important. What do you think about the following?",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Connecting with others who support your child in their learning and growth, like their teacher(s), is just as important. What do you think about the following?"
@@ -56,35 +119,44 @@
           "eng": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
       "quiz_1_question": "True or False: Knowing what my child is doing in school won’t help them learn.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
+      "text_1_facilitator": "Connecting with others who support your child in their learning and growth, like their teacher(s), is just as important. What do you think about the following?",
       "completed": false
     },
     {
       "id": "explore_1",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about."
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about."
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "CONNECT"
@@ -111,6 +183,8 @@
           "eng": "🚗 If you have time, attend events or meetings at your child’s school - learn what’s happening.\n⏰ If you have time, volunteer at your child’s school! You’ll get to know the school, teachers, and the other parents better. 😃"
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -137,8 +211,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨"
@@ -156,18 +228,20 @@
           "eng": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
         }
       },
-      "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "Excellent! See if you can practise what they learned in school at home! 😃",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Excellent! See if you can practise what they learned in school at home! 😃",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃",
+      "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],

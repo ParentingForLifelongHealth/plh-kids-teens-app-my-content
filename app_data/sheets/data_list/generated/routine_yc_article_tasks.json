@@ -4,14 +4,81 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "intro_1",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "This skill is about creating routines with your child. Routines are things we do every day. 🔄",
+      "id": "relax_2",
+      "in_library": "yes",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset": "audio/relax/relax_2.mp3",
+      "media_type": "audio",
+      "transcript_1": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
+      "transcript_2": "Tutup mata anda.\nMari kita gunakan kuasa ajaib nombor 3 untuk kekal hadir dan bertenang.\n\nSebut 3 bunyi yang anda boleh dengar sekarang.\nSebut 3 bau yang anda boleh hidu sekarang.\nSebut 3 makanan kegemaran anda.\nApakah 3 perkara yang anda berasa bersyukur pada saat ini.\n\nDi penghujung hari yang mencabar, fikirkan 3 perkara yang kita rasa beruntung dan boleh membantu kita untuk mengumpul semula semangat untuk mencuba lagi pada esok hari.",
+      "title": "Power of three",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "title": {}
       },
+      "_translatedFields": {
+        "title": {
+          "eng": "Power of three"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
+      "id": "check_in_6",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Caring for yourself is so essential. When you know how you feel, you can see what you need."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Wonderful, I am so happy things are going well. Keep up the good work."
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have better and worse days. The fact that you are here shows courage and commitment!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Caring for yourself is so essential. When you know how you feel, you can see what you need.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
+      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
+      "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here shows courage and commitment!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
+      "completed": false
+    },
+    {
+      "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "This skill is about creating routines with your child. Routines are things we do every day. 🔄"
@@ -20,22 +87,18 @@
           "eng": "Creating daily routines with your child will help them feel more secure and safe. 🔑 \n\nYou can help create regular times for resting ⏰, meals 🍚, chores 🌱, school 📖, and sleep 🌙."
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "text_1_facilitator": "This skill is about creating routines with your child. Routines are things we do every day. 🔄",
+      "_translations": {
+        "text_1_facilitator": {},
+        "text_2": {}
+      },
       "text_2": "Creating daily routines with your child will help them feel more secure and safe. 🔑 \n\nYou can help create regular times for resting ⏰, meals 🍚, chores 🌱, school 📖, and sleep 🌙.",
       "completed": false
     },
     {
       "id": "intro_2",
-      "category_id": "intro",
-      "nested": false,
-      "text_1_facilitator": "Sleep is a big part of a child’s routine. How much sleep do children need? Let’s find out!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Sleep is a big part of a child’s routine. How much sleep do children need? Let’s find out!"
@@ -56,23 +119,26 @@
           "eng": "❌ That’s incorrect. \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep. \n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣"
         }
       },
+      "category_id": "intro",
+      "nested": false,
+      "quiz_1_feedback_1": "⭐ That’s correct! \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep.\n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣",
+      "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "text_1_facilitator": {}
+      },
+      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep. \n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣",
       "quiz_1_question": "True or false: Children aged 2 to 9 need at least 9-13 hours of sleep each day. 🌙",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "⭐ That’s correct! \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep.\n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n⏰ Having a regular bedtime can help your child know what to expect each day before going to sleep. \n\n💙 When your child does not get enough sleep, they can be cranky, irritable, and short-tempered. 😃😒😔😣",
+      "text_1_facilitator": "Sleep is a big part of a child’s routine. How much sleep do children need? Let’s find out!",
       "completed": false
     },
     {
       "id": "explore_1",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "@data.characters.f1_mother.name is helping to create a bedtime routine with her daughter, @data.characters.f1_daughter_2.name. Let’s see how they do it together!",
-      "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
-      },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "@data.characters.f1_mother.name is helping to create a bedtime routine with her daughter, @data.characters.f1_daughter_2.name. Let’s see how they do it together!"
@@ -84,6 +150,14 @@
           "eng": "Okay!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
+      "text_1_facilitator": "@data.characters.f1_mother.name is helping to create a bedtime routine with her daughter, @data.characters.f1_daughter_2.name. Let’s see how they do it together!",
+      "_translations": {
+        "text_1_facilitator": {},
+        "character_1_text": {},
+        "character_2_text": {}
+      },
       "image_asset": "images/yc_modules/create_routines_yc_1.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_2",
@@ -93,13 +167,13 @@
     },
     {
       "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Time to get ready for bed. First, let’s get you nice and clean with a bath."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/create_routines_yc_2.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Time to get ready for bed. First, let’s get you nice and clean with a bath.",
@@ -110,13 +184,13 @@
     },
     {
       "id": "explore_3",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "You did such a good job in the bath, @data.characters.f1_daughter_2.name. Now, let’s put on your pyjamas."
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/create_routines_yc_3.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "You did such a good job in the bath, @data.characters.f1_daughter_2.name. Now, let’s put on your pyjamas.",
@@ -127,13 +201,13 @@
     },
     {
       "id": "explore_4",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Well done getting into your pyjamas all by yourself, @data.characters.f1_daughter_2.name! Now, let’s brush your teeth. Don’t forget the ones at the back!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/create_routines_yc_4.svg",
       "character_1_id": "f1_mother",
       "character_1_text": "Well done getting into your pyjamas all by yourself, @data.characters.f1_daughter_2.name! Now, let’s brush your teeth. Don’t forget the ones at the back!",
@@ -144,8 +218,6 @@
     },
     {
       "id": "explore_5",
-      "category_id": "explore",
-      "nested": false,
       "_translatedFields": {
         "character_1_text": {
           "eng": "Since you were such a good girl getting ready for bed, we now have time to read your favourite story."
@@ -154,6 +226,8 @@
           "eng": "Yay!"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "image_asset": "images/yc_modules/create_routines_yc_5.svg",
       "character_1_id": "f1_mother",
       "character_2_id": "f1_daughter_2",
@@ -167,26 +241,24 @@
     },
     {
       "id": "explore_6",
+      "media_type": "video",
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are three tips on how to create routines with your child."
+        }
+      },
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three tips on how to create routines with your child.",
       "_translations": {
         "text_1_facilitator": {}
       },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "3️⃣ Here are three tips on how to create routines with your child."
-        }
-      },
-      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
     },
     {
       "id": "tips_1",
-      "category_id": "practical_tips",
-      "nested": false,
       "_translatedFields": {
         "section_1_title": {
           "eng": "BE A TEAM"
@@ -207,6 +279,8 @@
           "eng": "🎈 Praise your child for setting a routine with you.\n⭐ Praise your child when they follow the routine."
         }
       },
+      "category_id": "practical_tips",
+      "nested": false,
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
@@ -228,8 +302,6 @@
     },
     {
       "id": "home_activity_1",
-      "category_id": "home_activity",
-      "nested": false,
       "_translatedFields": {
         "quiz_1_question": {
           "eng": "Do you have time to try setting routines with your child today? ⏰"
@@ -247,18 +319,20 @@
           "eng": "That's OK! Beginning something new takes time. You can start with something simple, like creating a time when you and your child can do something together. ⚽ \n\nFor example, having dinner or going for a walk. Ask your child for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲"
         }
       },
-      "quiz_1_question": "Do you have time to try setting routines with your child today? ⏰",
+      "category_id": "home_activity",
+      "nested": false,
+      "quiz_1_feedback_1": "That's great! Create ONE regular daily routine, like having a meal together or going for a walk. It will help your child feel secure and loved.",
       "_translations": {
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {},
         "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_option_2_text": {}
       },
-      "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "That's great! Create ONE regular daily routine, like having a meal together or going for a walk. It will help your child feel secure and loved.",
-      "quiz_1_option_2_text": "No",
       "quiz_1_feedback_2": "That's OK! Beginning something new takes time. You can start with something simple, like creating a time when you and your child can do something together. ⚽ \n\nFor example, having dinner or going for a walk. Ask your child for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲",
+      "quiz_1_question": "Do you have time to try setting routines with your child today? ⏰",
+      "quiz_1_option_1_text": "Yes",
+      "quiz_1_option_2_text": "No",
       "completed": false
     }
   ],
