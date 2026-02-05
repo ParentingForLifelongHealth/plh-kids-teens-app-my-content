@@ -7,187 +7,191 @@
     {
       "id": "facilitator_female",
       "name": "Teja",
-      "role": "facilitator"
+      "role": "facilitator",
+      "image_asset": "images/character_icons/facilitator_female.svg",
+      "intro_image_asset": "images/character_icons/facilitator_female.svg"
     },
     {
       "id": "facilitator_male",
       "name": "Tuah",
-      "role": "facilitator"
+      "role": "facilitator",
+      "image_asset": "images/character_icons/facilitator_male.svg",
+      "intro_image_asset": "images/character_icons/facilitator_male.svg"
     },
     {
       "id": "f1_mother",
       "caps_id": "F1_MOTHER",
       "name": "Farah",
       "role": "caregiver",
-      "image_asset": "images/character_icons/f1_mother"
+      "image_asset": "images/character_icons/f1_mother.svg"
     },
     {
       "id": "f1_father",
       "caps_id": "F1_FATHER",
       "name": "Hassan",
       "role": "caregiver",
-      "image_asset": "images/character_icons/f1_father"
+      "image_asset": "images/character_icons/f1_father.svg"
     },
     {
       "id": "f1_son_18",
       "caps_id": "F1_SON_18",
       "name": "Adam",
       "role": "child",
-      "image_asset": "images/character_icons/f1_son_18"
+      "image_asset": "images/character_icons/f1_son_18.svg"
     },
     {
       "id": "f1_daughter_16",
       "caps_id": "F1_DAUGHTER_16",
       "name": "Laila",
       "role": "child",
-      "image_asset": "images/character_icons/f1_daughter_16"
+      "image_asset": "images/character_icons/f1_daughter_16.svg"
     },
     {
       "id": "f1_daughter_13",
       "caps_id": "F1_DAUGHTER_13",
       "name": "Syaza",
       "role": "child",
-      "image_asset": "images/character_icons/f1_daughter_13"
+      "image_asset": "images/character_icons/f1_daughter_13.svg"
     },
     {
       "id": "f1_daughter_6",
       "caps_id": "F1_DAUGHTER_6",
       "name": "Mira",
       "role": "child",
-      "image_asset": "images/character_icons/f1_daughter_6"
+      "image_asset": "images/character_icons/f1_daughter_6.svg"
     },
     {
       "id": "f1_daughter_2",
       "caps_id": "F1_DAUGHTER_2",
       "name": "Yani",
       "role": "child",
-      "image_asset": "images/character_icons/f1_daughter_2"
+      "image_asset": "images/character_icons/f1_daughter_2.svg"
     },
     {
       "id": "f1_son_5",
       "caps_id": "F1_SON_5",
       "name": "Imran",
       "role": "child",
-      "image_asset": "images/character_icons/f1_son_5"
+      "image_asset": "images/character_icons/f1_son_5.svg"
     },
     {
       "id": "f2_grandmother",
       "caps_id": "F2_GRANDMOTHER",
       "name": "Saroja",
       "role": "caregiver",
-      "image_asset": "images/character_icons/f2_grandmother"
+      "image_asset": "images/character_icons/f2_grandmother.svg"
     },
     {
       "id": "f2_grandfather",
       "caps_id": "F2_GRANDFATHER",
       "name": "Maniam",
       "role": "caregiver",
-      "image_asset": "images/character_icons/f2_grandfather"
+      "image_asset": "images/character_icons/f2_grandfather.svg"
     },
     {
       "id": "f2_daughter_19",
       "caps_id": "F2_DAUGHTER_19",
       "name": "Nandini",
       "role": "child",
-      "image_asset": "images/character_icons/f2_daughter_19"
+      "image_asset": "images/character_icons/f2_daughter_19.svg"
     },
     {
       "id": "f2_son_15",
       "caps_id": "F2_SON_15",
       "name": "Prakash",
       "role": "child",
-      "image_asset": "images/character_icons/f2_son_15"
+      "image_asset": "images/character_icons/f2_son_15.svg"
     },
     {
       "id": "f2_daughter_8",
       "caps_id": "F2_DAUGHTER_8",
       "name": "Durga",
       "role": "child",
-      "image_asset": "images/character_icons/f2_daughter_8"
+      "image_asset": "images/character_icons/f2_daughter_8.svg"
     },
     {
       "id": "f2_son_3",
       "caps_id": "F2_SON_3",
       "name": "Sharvin",
       "role": "child",
-      "image_asset": "images/character_icons/f2_son_3"
+      "image_asset": "images/character_icons/f2_son_3.svg"
     },
     {
       "id": "f3_mother",
       "caps_id": "F3_MOTHER",
       "name": "Jenny",
       "role": "caregiver",
-      "image_asset": "images/character_icons/f3_mother"
+      "image_asset": "images/character_icons/f3_mother.svg"
     },
     {
       "id": "f3_uncle",
       "caps_id": "F3_UNCLE",
       "name": "Allan",
       "role": "caregiver",
-      "image_asset": "images/character_icons/f3_uncle"
+      "image_asset": "images/character_icons/f3_uncle.svg"
     },
     {
       "id": "f3_daughter_12",
       "caps_id": "F3_DAUGHTER_12",
       "name": "Felicia",
       "role": "child",
-      "image_asset": "images/character_icons/f3_daughter_12"
+      "image_asset": "images/character_icons/f3_daughter_12.svg"
     },
     {
       "id": "f3_son_7",
       "caps_id": "F3_SON_7",
       "name": "Alex",
       "role": "child",
-      "image_asset": "images/character_icons/f3_son_7"
+      "image_asset": "images/character_icons/f3_son_7.svg"
     },
     {
       "id": "f3_daughter_4",
       "caps_id": "F3_DAUGHTER_4",
       "name": "Stephanie",
       "role": "child",
-      "image_asset": "images/character_icons/f3_daughter_4"
+      "image_asset": "images/character_icons/f3_daughter_4.svg"
     },
     {
       "id": "friend_female_1",
       "caps_id": "FRIEND_FEMALE_1",
       "name": "Elina",
       "role": "other",
-      "image_asset": "images/character_icons/friend_female_1"
+      "image_asset": "images/character_icons/friend_female_1.svg"
     },
     {
       "id": "friend_female_2",
       "caps_id": "FRIEND_FEMALE_2",
       "name": "Alicia",
       "role": "other",
-      "image_asset": "images/character_icons/friend_female_2"
+      "image_asset": "images/character_icons/friend_female_2.svg"
     },
     {
       "id": "man_in_car",
       "caps_id": "MAN_IN_CAR",
       "name": "Abdullah",
       "role": "other",
-      "image_asset": "images/character_icons/man_in_car"
+      "image_asset": "images/character_icons/man_in_car.svg"
     },
     {
       "id": "boyfriend",
       "caps_id": "BOYFRIEND",
       "name": "Krishan",
       "role": "other",
-      "image_asset": "images/character_icons/boyfriend"
+      "image_asset": "images/character_icons/boyfriend.svg"
     },
     {
       "id": "man_threat",
       "caps_id": "MAN_THREAT",
       "name": "Razif",
       "role": "other",
-      "image_asset": "images/character_icons/man_threat"
+      "image_asset": "images/character_icons/man_threat.svg"
     },
     {
       "id": "girlfriend",
       "caps_id": "GIRLFRIEND",
       "name": "Marissa",
       "role": "other",
-      "image_asset": "images/character_icons/girlfriend"
+      "image_asset": "images/character_icons/girlfriend.svg"
     },
     {
       "id": ""

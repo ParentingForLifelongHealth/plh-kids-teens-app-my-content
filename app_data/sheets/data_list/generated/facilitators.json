@@ -6,12 +6,14 @@
     {
       "id": "facilitator_female",
       "name": "facilitator_female",
-      "text": "Teja"
+      "text": "Teja",
+      "image": "images/character_icons/facilitator_female.svg"
     },
     {
       "id": "facilitator_male",
       "name": "facilitator_male",
-      "text": "Tuah"
+      "text": "Tuah",
+      "image": "images/character_icons/facilitator_male.svg"
     }
   ]
 }

@@ -1520,6 +1520,10 @@
     "md5Checksum": "6ca42a4ea6df3c39ea9d19024ab5f9b2",
     "size_kb": 26.6
   },
+  "images/logos/app_logo.png": {
+    "md5Checksum": "d33a5923be167178d4f54c312fd5be3d",
+    "size_kb": 12.8
+  },
   "images/logos/favicon.png": {
     "md5Checksum": "2265c040569691441d445a1696bd5035",
     "size_kb": 6.3
@@ -1591,6 +1595,630 @@
   "images/onboarding/loving_parent.svg": {
     "md5Checksum": "449b9913565d147f8b3bd65746c481fa",
     "size_kb": 46.9
+  },
+  "images/yc_modules/budget_savings_yc_1.svg": {
+    "md5Checksum": "1e3a60960cf4c097c796442b3cec3da7",
+    "size_kb": 64.9
+  },
+  "images/yc_modules/budget_savings_yc_2.svg": {
+    "md5Checksum": "78f43d656e97ff8b18faac6c888328c3",
+    "size_kb": 71.4
+  },
+  "images/yc_modules/budget_savings_yc_3.svg": {
+    "md5Checksum": "27002b8c51c67e93e1ceccd599dfc827",
+    "size_kb": 48.7
+  },
+  "images/yc_modules/budget_savings_yc_4.svg": {
+    "md5Checksum": "a832fe206da0ba0e261f88763443b68a",
+    "size_kb": 65.8
+  },
+  "images/yc_modules/budget_savings_yc_5.svg": {
+    "md5Checksum": "ca9559dd9b941a2bf41ba2fb17ae01ae",
+    "size_kb": 51.8
+  },
+  "images/yc_modules/child_change_yc_1.svg": {
+    "md5Checksum": "1bd5ca5f1508d5adff3a4108ccfc9fa9",
+    "size_kb": 81.2
+  },
+  "images/yc_modules/child_change_yc_2.svg": {
+    "md5Checksum": "e6c43c5a796793d05964ec11ce878944",
+    "size_kb": 70.2
+  },
+  "images/yc_modules/child_change_yc_3.svg": {
+    "md5Checksum": "7b8a593303472a9c60e44c521b94b93d",
+    "size_kb": 74.8
+  },
+  "images/yc_modules/child_change_yc_4.svg": {
+    "md5Checksum": "4312ed93d70bedf1a5a857836a6967fb",
+    "size_kb": 69.5
+  },
+  "images/yc_modules/com_safety_2to4_yc_1.svg": {
+    "md5Checksum": "c38859ed171d96c50f0f45749fc7f4a1",
+    "size_kb": 66.6
+  },
+  "images/yc_modules/com_safety_2to4_yc_2.svg": {
+    "md5Checksum": "f2cc226ad22a1557f440abb391ffe44c",
+    "size_kb": 78.5
+  },
+  "images/yc_modules/com_safety_2to4_yc_3.svg": {
+    "md5Checksum": "5c64a384e4f57d05f20f58430b829f86",
+    "size_kb": 70.6
+  },
+  "images/yc_modules/com_safety_2to4_yc_4.svg": {
+    "md5Checksum": "514ded89d9bf7fb75230bd443ddc06cb",
+    "size_kb": 70.2
+  },
+  "images/yc_modules/com_safety_5to9_yc_1.svg": {
+    "md5Checksum": "52cbda6aef418896b3cd56dbba0e50da",
+    "size_kb": 47.2
+  },
+  "images/yc_modules/com_safety_5to9_yc_2.svg": {
+    "md5Checksum": "792d85c0b33c7dd97c00c65c242c98c3",
+    "size_kb": 708.8
+  },
+  "images/yc_modules/com_safety_5to9_yc_3.svg": {
+    "md5Checksum": "e5d9beadc438fab86ea7acb6c8e7b6a6",
+    "size_kb": 709.7
+  },
+  "images/yc_modules/com_safety_5to9_yc_4.svg": {
+    "md5Checksum": "d2aa9e05b09593abb120256a6048e0ef",
+    "size_kb": 29.2
+  },
+  "images/yc_modules/com_safety_5to9_yc_5.svg": {
+    "md5Checksum": "b455974a1e8463bd4648f0c84c2b0d7b",
+    "size_kb": 327.1
+  },
+  "images/yc_modules/create_family_rules_yc_1.svg": {
+    "md5Checksum": "bfd2c7ded7120b10310c798549f7e39d",
+    "size_kb": 47.4
+  },
+  "images/yc_modules/create_family_rules_yc_2.svg": {
+    "md5Checksum": "6d75f7c83ac27401d324c25022312520",
+    "size_kb": 44.1
+  },
+  "images/yc_modules/create_family_rules_yc_3.svg": {
+    "md5Checksum": "7392e0640df37195db396025a3561aef",
+    "size_kb": 41.3
+  },
+  "images/yc_modules/create_family_rules_yc_4.svg": {
+    "md5Checksum": "6762af86a3addc1c93308f3bfe41c542",
+    "size_kb": 45.2
+  },
+  "images/yc_modules/create_routines_yc_1.svg": {
+    "md5Checksum": "9cd206522a0c903d14e7cf122d86edff",
+    "size_kb": 59.9
+  },
+  "images/yc_modules/create_routines_yc_2.svg": {
+    "md5Checksum": "ee09bce0d90901c5b3c7c9853206a3a5",
+    "size_kb": 40.4
+  },
+  "images/yc_modules/create_routines_yc_3.svg": {
+    "md5Checksum": "c6951f8f2e3d133a8bb19ca677d259c1",
+    "size_kb": 66.8
+  },
+  "images/yc_modules/create_routines_yc_4.svg": {
+    "md5Checksum": "ac595540dd07257cdc6c66eebfaf69f6",
+    "size_kb": 43.4
+  },
+  "images/yc_modules/create_routines_yc_5.svg": {
+    "md5Checksum": "e9c4c1f6c9369e9af7b6d7ae668daf52",
+    "size_kb": 28.6
+  },
+  "images/yc_modules/crises_2to6_yc_1.svg": {
+    "md5Checksum": "447239ec9928d9ea6577763825ef844e",
+    "size_kb": 47.8
+  },
+  "images/yc_modules/crises_2to6_yc_2.svg": {
+    "md5Checksum": "aae959a1f4e998fb0e95149c00f3b7ae",
+    "size_kb": 47.9
+  },
+  "images/yc_modules/crises_2to6_yc_3.svg": {
+    "md5Checksum": "b46d3f92aa83b539bdf247f6acd4b09e",
+    "size_kb": 45.1
+  },
+  "images/yc_modules/crises_2to6_yc_4.svg": {
+    "md5Checksum": "b6b13c7d5cdba2125c1732077a77b2f9",
+    "size_kb": 34
+  },
+  "images/yc_modules/crises_7to9_yc_1.svg": {
+    "md5Checksum": "7f5400c3c809ef99745f063bb93ebb58",
+    "size_kb": 268.2
+  },
+  "images/yc_modules/crises_7to9_yc_2.svg": {
+    "md5Checksum": "37d406cec56aceaad3c831af1aebafc7",
+    "size_kb": 161.3
+  },
+  "images/yc_modules/crises_7to9_yc_3.svg": {
+    "md5Checksum": "096ede2b5183c9e492b4a8ff409cf420",
+    "size_kb": 253.6
+  },
+  "images/yc_modules/crises_7to9_yc_4.svg": {
+    "md5Checksum": "f525e5089a4dc5949dec92ebb05c8ce1",
+    "size_kb": 260
+  },
+  "images/yc_modules/crises_7to9_yc_5.svg": {
+    "md5Checksum": "0be0cb3d3c324bfd1d85187646acfb17",
+    "size_kb": 255.1
+  },
+  "images/yc_modules/crises_7to9_yc_6.svg": {
+    "md5Checksum": "e1e2b34dcbaabfc7525eb702701da7ed",
+    "size_kb": 223.1
+  },
+  "images/yc_modules/give_praise_yc_1.svg": {
+    "md5Checksum": "a7f59adc25ea62b16798e748a5eb6b3f",
+    "size_kb": 52.6
+  },
+  "images/yc_modules/give_praise_yc_2.svg": {
+    "md5Checksum": "cf23f0cc3f11c8e27ab6b7488c13fbcc",
+    "size_kb": 53.4
+  },
+  "images/yc_modules/give_praise_yc_3.svg": {
+    "md5Checksum": "e59732a34821356774eb609d4066412d",
+    "size_kb": 44.3
+  },
+  "images/yc_modules/give_praise_yc_4.svg": {
+    "md5Checksum": "a292399432420ddf7ab8f51600d71f7c",
+    "size_kb": 49.3
+  },
+  "images/yc_modules/ignore_demanding_yc_1.svg": {
+    "md5Checksum": "636c744ed5f567b5ad29f770cfa80125",
+    "size_kb": 68.2
+  },
+  "images/yc_modules/ignore_demanding_yc_2.svg": {
+    "md5Checksum": "560498a3b207c78cd2151c5e96d1c482",
+    "size_kb": 71.2
+  },
+  "images/yc_modules/ignore_demanding_yc_3.svg": {
+    "md5Checksum": "5071fe3a0afd193f25084b57db469c13",
+    "size_kb": 73.2
+  },
+  "images/yc_modules/ignore_demanding_yc_4.svg": {
+    "md5Checksum": "7ec854cff2d7fd736adb93b0c3c96406",
+    "size_kb": 60.2
+  },
+  "images/yc_modules/ignore_demanding_yc_5.svg": {
+    "md5Checksum": "d6363ebadbab784044b973084340f257",
+    "size_kb": 56.5
+  },
+  "images/yc_modules/ipv_conflicts_1.svg": {
+    "md5Checksum": "247c66c4a4af6bd6746bfa7a6681f198",
+    "size_kb": 54.9
+  },
+  "images/yc_modules/ipv_conflicts_2.svg": {
+    "md5Checksum": "6d583dc512676b0efbe1b7bf8f4daf7e",
+    "size_kb": 62.9
+  },
+  "images/yc_modules/ipv_conflicts_3.svg": {
+    "md5Checksum": "ba6a16fdf3bac618db7555478a32b68b",
+    "size_kb": 39.7
+  },
+  "images/yc_modules/ipv_conflicts_4.svg": {
+    "md5Checksum": "ee174f31331d99166a3ff84f52898058",
+    "size_kb": 32.3
+  },
+  "images/yc_modules/ipv_equals_1.svg": {
+    "md5Checksum": "905006d12ef40b9dc0e9a044913ac8bd",
+    "size_kb": 48.7
+  },
+  "images/yc_modules/ipv_equals_2.svg": {
+    "md5Checksum": "29ba4397373c4f999b26060769e241f8",
+    "size_kb": 51.6
+  },
+  "images/yc_modules/ipv_equals_3.svg": {
+    "md5Checksum": "28d11f92fad79070506d86ba0a36971e",
+    "size_kb": 45.6
+  },
+  "images/yc_modules/ipv_equals_4.svg": {
+    "md5Checksum": "616092a21a28955fe5918030a60c3895",
+    "size_kb": 48
+  },
+  "images/yc_modules/ipv_listen_1.svg": {
+    "md5Checksum": "a9f7d3d3df4d4656497fa34bc3cc82d2",
+    "size_kb": 129.4
+  },
+  "images/yc_modules/ipv_listen_2.svg": {
+    "md5Checksum": "6ea2130335fe4ca7803501c5a20f4b03",
+    "size_kb": 134.4
+  },
+  "images/yc_modules/ipv_listen_3.svg": {
+    "md5Checksum": "7c0202b1c9ed2331490f9bc9777c5cec",
+    "size_kb": 131.7
+  },
+  "images/yc_modules/ipv_supportive_1.svg": {
+    "md5Checksum": "6bc39565d4292e7946eac69d354c584f",
+    "size_kb": 59.5
+  },
+  "images/yc_modules/ipv_supportive_2.svg": {
+    "md5Checksum": "8b947c6500f3beff32bb5efdbed5c602",
+    "size_kb": 72.6
+  },
+  "images/yc_modules/ipv_supportive_3.svg": {
+    "md5Checksum": "7b41081e0afc01ad9c4a20948aa9670d",
+    "size_kb": 57.7
+  },
+  "images/yc_modules/ipv_supportive_4.svg": {
+    "md5Checksum": "d3de4d974061c8bdd71026570f71dc54",
+    "size_kb": 32.7
+  },
+  "images/yc_modules/keeping_it_positive_yc_1.svg": {
+    "md5Checksum": "dd1910c34e74485828308ca4e9ed1710",
+    "size_kb": 45
+  },
+  "images/yc_modules/keeping_it_positive_yc_2.svg": {
+    "md5Checksum": "a4ec0e18315e26c63c144d6c6bc0b8d7",
+    "size_kb": 42.4
+  },
+  "images/yc_modules/keeping_it_positive_yc_3.svg": {
+    "md5Checksum": "19691ba8caf8685d7d177eefc6c0b6f2",
+    "size_kb": 43.3
+  },
+  "images/yc_modules/keeping_it_positive_yc_4.svg": {
+    "md5Checksum": "c9a23aa38f496dca5613ec71f96f9b08",
+    "size_kb": 55.5
+  },
+  "images/yc_modules/kind_to_myself_yc_1.svg": {
+    "md5Checksum": "c57a6c9a61bd4ddc03409d669f58cc1c",
+    "size_kb": 54.7
+  },
+  "images/yc_modules/kind_to_myself_yc_2.svg": {
+    "md5Checksum": "a24829128e5253a208f960050c8c21e2",
+    "size_kb": 41.4
+  },
+  "images/yc_modules/kind_to_myself_yc_3.svg": {
+    "md5Checksum": "2198a07fef749f9c397b83cd97217fec",
+    "size_kb": 33.9
+  },
+  "images/yc_modules/language_yc_1.svg": {
+    "md5Checksum": "f3a7feac0f0ac1476b32122779ea67ef",
+    "size_kb": 44.6
+  },
+  "images/yc_modules/language_yc_2.svg": {
+    "md5Checksum": "952c25280ad60e261a1c98f64d3bb840",
+    "size_kb": 49.6
+  },
+  "images/yc_modules/language_yc_3.svg": {
+    "md5Checksum": "4228f52e4e384c1acf24a5c6c48dd5fc",
+    "size_kb": 43.1
+  },
+  "images/yc_modules/language_yc_4.svg": {
+    "md5Checksum": "dbe3655432d79f78af3e9cec049854df",
+    "size_kb": 44.4
+  },
+  "images/yc_modules/learn_experience_yc_1.svg": {
+    "md5Checksum": "bea169a37406cf3b7ee0e80728add5c6",
+    "size_kb": 51.7
+  },
+  "images/yc_modules/learn_experience_yc_2.svg": {
+    "md5Checksum": "c81f0d53b7bd6e349896e30f91a347af",
+    "size_kb": 56.9
+  },
+  "images/yc_modules/learn_experience_yc_3.svg": {
+    "md5Checksum": "38ed7b620504f2280afb4d5be70c19ea",
+    "size_kb": 48.7
+  },
+  "images/yc_modules/learn_experience_yc_4.svg": {
+    "md5Checksum": "87c4f72f94075027e1f00395db2778cc",
+    "size_kb": 49
+  },
+  "images/yc_modules/learn_experience_yc_5.svg": {
+    "md5Checksum": "abb32b9684977024e7f76480dca48244",
+    "size_kb": 44.5
+  },
+  "images/yc_modules/managing_anger_yc_1.svg": {
+    "md5Checksum": "632513f5845520c4a175bd4792570ae2",
+    "size_kb": 78.9
+  },
+  "images/yc_modules/managing_anger_yc_2.svg": {
+    "md5Checksum": "806af8b429b4d48fd19968b3a47fc443",
+    "size_kb": 83.9
+  },
+  "images/yc_modules/managing_anger_yc_3.svg": {
+    "md5Checksum": "fdf0e5d2a69b7bfc274e8c43eca8717d",
+    "size_kb": 71.9
+  },
+  "images/yc_modules/managing_anger_yc_4.svg": {
+    "md5Checksum": "2f144bf39e1c566eb8edf4d04c99a2e2",
+    "size_kb": 84.6
+  },
+  "images/yc_modules/maths2_4to6_yc_1.svg": {
+    "md5Checksum": "47eb80ff38cb661918fc9cdddc0f1204",
+    "size_kb": 85.8
+  },
+  "images/yc_modules/maths2_4to6_yc_2.svg": {
+    "md5Checksum": "53af715722a7103a15ff50921b979f77",
+    "size_kb": 75.7
+  },
+  "images/yc_modules/maths2_4to6_yc_3.svg": {
+    "md5Checksum": "df3a7a4a869213bbf6425ef797ae0e2b",
+    "size_kb": 77.1
+  },
+  "images/yc_modules/maths2_4to6_yc_4.svg": {
+    "md5Checksum": "4128e07ac8665c94a1fd388d4431bd8d",
+    "size_kb": 69.5
+  },
+  "images/yc_modules/nutrition_health_yc_1.svg": {
+    "md5Checksum": "ae0033d4a005faad0d773dbe55f668e9",
+    "size_kb": 55.8
+  },
+  "images/yc_modules/nutrition_health_yc_2.svg": {
+    "md5Checksum": "2e800a4b1bdc74f8e2fa3c234cfaa981",
+    "size_kb": 73.1
+  },
+  "images/yc_modules/nutrition_health_yc_3.svg": {
+    "md5Checksum": "2d4a71a2f8857afefc2167a466494c40",
+    "size_kb": 50.6
+  },
+  "images/yc_modules/nutrition_health_yc_4.svg": {
+    "md5Checksum": "6720ef924510102b931376c26e23a7c5",
+    "size_kb": 37.5
+  },
+  "images/yc_modules/one_on_one_yc_1.svg": {
+    "md5Checksum": "a06ad5b0a9393ace0b55f8564ab29559",
+    "size_kb": 61.1
+  },
+  "images/yc_modules/one_on_one_yc_2.svg": {
+    "md5Checksum": "58cb88308fcc240c43564ab1af34260f",
+    "size_kb": 64.2
+  },
+  "images/yc_modules/one_on_one_yc_3.svg": {
+    "md5Checksum": "db6d4bf5d60a069cc8f5b65728a6c664",
+    "size_kb": 65
+  },
+  "images/yc_modules/one_on_one_yc_4.svg": {
+    "md5Checksum": "fb72805ddbfe2df43d88d8f316587313",
+    "size_kb": 67.9
+  },
+  "images/yc_modules/online_safety_yc_1.svg": {
+    "md5Checksum": "d59d47822bae14da33b9108e701ec083",
+    "size_kb": 43.8
+  },
+  "images/yc_modules/online_safety_yc_2.svg": {
+    "md5Checksum": "8536e6f966b668898617050e4c2206d9",
+    "size_kb": 41.2
+  },
+  "images/yc_modules/online_safety_yc_3.svg": {
+    "md5Checksum": "a1a793dde10c98ee76f61c9ab0d04fe3",
+    "size_kb": 44.3
+  },
+  "images/yc_modules/online_safety_yc_4.svg": {
+    "md5Checksum": "a2adf2dd62c8fdd771680cd122ce5808",
+    "size_kb": 50.1
+  },
+  "images/yc_modules/play_yc_1.svg": {
+    "md5Checksum": "ca3e2ef2e0f42d2c3c3673f830e01dd4",
+    "size_kb": 243.7
+  },
+  "images/yc_modules/play_yc_2.svg": {
+    "md5Checksum": "1b5d171dadbf7fc26562fef633ab86e3",
+    "size_kb": 244.4
+  },
+  "images/yc_modules/play_yc_3.svg": {
+    "md5Checksum": "bf67c5bb0e3278ffd1cf27895b386b28",
+    "size_kb": 46.4
+  },
+  "images/yc_modules/play_yc_4.svg": {
+    "md5Checksum": "3fa0835ce6a8e7925648fdb9c8c11c49",
+    "size_kb": 62.1
+  },
+  "images/yc_modules/reading1_4to6_yc_1.svg": {
+    "md5Checksum": "ae9fab2a1ca3090c6e71e553c824929c",
+    "size_kb": 61.7
+  },
+  "images/yc_modules/reading1_4to6_yc_2.svg": {
+    "md5Checksum": "16bcb88338504ae8045c58cb47a9bacc",
+    "size_kb": 60.2
+  },
+  "images/yc_modules/reading1_4to6_yc_3.svg": {
+    "md5Checksum": "30e8f27a0e64d0cca3dca71d9623b060",
+    "size_kb": 62.6
+  },
+  "images/yc_modules/reading1_4to6_yc_4.svg": {
+    "md5Checksum": "e2e45930049e10835b96f36aae22b82d",
+    "size_kb": 39.2
+  },
+  "images/yc_modules/reading_2to3_1.svg": {
+    "md5Checksum": "9968b85796d2b6ffbbe3b145fa243344",
+    "size_kb": 68.6
+  },
+  "images/yc_modules/reading_2to3_2.svg": {
+    "md5Checksum": "9a0633dfed3e32c27f00b1709c562f80",
+    "size_kb": 73.7
+  },
+  "images/yc_modules/reading_2to3_3.svg": {
+    "md5Checksum": "5ddb06bfec6c1d653b0ac3fe5d2b39c1",
+    "size_kb": 77.7
+  },
+  "images/yc_modules/reading_2to3_4.svg": {
+    "md5Checksum": "50344f6539aab5e3711de2583933e482",
+    "size_kb": 73.9
+  },
+  "images/yc_modules/redirect_yc_1.svg": {
+    "md5Checksum": "c963e64fdbff149573bf26cf06156010",
+    "size_kb": 111.1
+  },
+  "images/yc_modules/redirect_yc_2.svg": {
+    "md5Checksum": "e8b96927d4033502374c48686c18fb53",
+    "size_kb": 113.4
+  },
+  "images/yc_modules/redirect_yc_3.svg": {
+    "md5Checksum": "03d95ffc41862220ca86c4e34003bd41",
+    "size_kb": 112.9
+  },
+  "images/yc_modules/redirect_yc_4.svg": {
+    "md5Checksum": "b8fabc674c9001300b86537a09fafbb3",
+    "size_kb": 123.5
+  },
+  "images/yc_modules/safe_touch_2to5_yc_f_1.svg": {
+    "md5Checksum": "271d20df713df1ad4661e5cb2162e8eb",
+    "size_kb": 56.4
+  },
+  "images/yc_modules/safe_touch_2to5_yc_f_2.svg": {
+    "md5Checksum": "575449af2e4018d9d48b37439271565a",
+    "size_kb": 40.8
+  },
+  "images/yc_modules/safe_touch_2to5_yc_f_3.svg": {
+    "md5Checksum": "ded935500bc915731baea1adc72c2b93",
+    "size_kb": 38.1
+  },
+  "images/yc_modules/safe_touch_2to5_yc_f_4.svg": {
+    "md5Checksum": "4dcb2ab4aec6f765ed7b572676b723bd",
+    "size_kb": 39.2
+  },
+  "images/yc_modules/safe_touch_2to5_yc_f_5.svg": {
+    "md5Checksum": "74bf362052d36f39666cccbd91e8e60d",
+    "size_kb": 42.3
+  },
+  "images/yc_modules/safe_touch_2to5_yc_m_1.svg": {
+    "md5Checksum": "3efb8ae99d94717a87d8cdc5266509fe",
+    "size_kb": 51
+  },
+  "images/yc_modules/safe_touch_2to5_yc_m_2.svg": {
+    "md5Checksum": "6dba3321babedab8bd5b2410957814a4",
+    "size_kb": 36.4
+  },
+  "images/yc_modules/safe_touch_2to5_yc_m_3.svg": {
+    "md5Checksum": "fd0f31d7de7ac9143a67803f430a97c8",
+    "size_kb": 35.2
+  },
+  "images/yc_modules/safe_touch_2to5_yc_m_4.svg": {
+    "md5Checksum": "2787aeb1ad99bfa81c17fb899d49c346",
+    "size_kb": 39.2
+  },
+  "images/yc_modules/safe_touch_2to5_yc_m_5.svg": {
+    "md5Checksum": "cffbdd17fab9830e7a5ebdbac9ebdcd2",
+    "size_kb": 38.8
+  },
+  "images/yc_modules/safe_touch_6to9_yc_1.svg": {
+    "md5Checksum": "9579c4b46ef69d81c8c235ab7373c797",
+    "size_kb": 80.1
+  },
+  "images/yc_modules/safe_touch_6to9_yc_2.svg": {
+    "md5Checksum": "c567a87c59693a7ac18926341a8f2013",
+    "size_kb": 250.6
+  },
+  "images/yc_modules/safe_touch_6to9_yc_3.svg": {
+    "md5Checksum": "2f15d61a1042c67dbb119f4f79bf6f74",
+    "size_kb": 249.8
+  },
+  "images/yc_modules/safe_touch_6to9_yc_4.svg": {
+    "md5Checksum": "37d2930b39e501cb7404be2f7fc6d123",
+    "size_kb": 224.5
+  },
+  "images/yc_modules/solve_problems_yc_1.svg": {
+    "md5Checksum": "6de1eebb5b1321ef2a10ff589a7c1313",
+    "size_kb": 41.6
+  },
+  "images/yc_modules/solve_problems_yc_2.svg": {
+    "md5Checksum": "b41f49310d95e25c50e7bbd27a739b3f",
+    "size_kb": 41.3
+  },
+  "images/yc_modules/solve_problems_yc_3.svg": {
+    "md5Checksum": "6dffbb20f5cd1ce95efed5a3246dc0f5",
+    "size_kb": 38.1
+  },
+  "images/yc_modules/solve_problems_yc_4.svg": {
+    "md5Checksum": "26e97c6ed499d0366ece5c933aa5115b",
+    "size_kb": 34.1
+  },
+  "images/yc_modules/spirituality_yc_1.svg": {
+    "md5Checksum": "d4dd95c874c98d0b41cab4f0f20efe6a",
+    "size_kb": 144.6
+  },
+  "images/yc_modules/spirituality_yc_2.svg": {
+    "md5Checksum": "5fa838f574d0d1533233403dc3b0767d",
+    "size_kb": 144.2
+  },
+  "images/yc_modules/spirituality_yc_3.svg": {
+    "md5Checksum": "b4a7809e9e7e28f19f85c49371614913",
+    "size_kb": 141.4
+  },
+  "images/yc_modules/take_a_pause_1_1.svg": {
+    "md5Checksum": "548859ecb08bf8d5e99705411c61ad01",
+    "size_kb": 22.1
+  },
+  "images/yc_modules/take_a_pause_1_2.svg": {
+    "md5Checksum": "cb3e7a71b75d5d9a7326f229b934f2cb",
+    "size_kb": 15.2
+  },
+  "images/yc_modules/take_a_pause_1_3.svg": {
+    "md5Checksum": "e86ddc02c3b730ab4d7328cba3410b22",
+    "size_kb": 26.5
+  },
+  "images/yc_modules/take_a_pause_1_4.svg": {
+    "md5Checksum": "1204bd2c50e41514d21024ae35b36906",
+    "size_kb": 32.5
+  },
+  "images/yc_modules/take_a_pause_1_5.svg": {
+    "md5Checksum": "7d335c6eca531e30a74a9f893594aa09",
+    "size_kb": 15.3
+  },
+  "images/yc_modules/talk_feelings_yc_1.svg": {
+    "md5Checksum": "0c4b41357135a299aab3179bdcc11863",
+    "size_kb": 72.1
+  },
+  "images/yc_modules/talk_feelings_yc_2.svg": {
+    "md5Checksum": "74c293c45575c471dbbb9697a4a48924",
+    "size_kb": 64.9
+  },
+  "images/yc_modules/talk_feelings_yc_3.svg": {
+    "md5Checksum": "3cdd35364939fd3dd559be6040ed779c",
+    "size_kb": 66.9
+  },
+  "images/yc_modules/talk_feelings_yc_4.svg": {
+    "md5Checksum": "3cbb7c2e310216103b85be4284492429",
+    "size_kb": 50
+  },
+  "images/yc_modules/teach_consequences_yc_1.svg": {
+    "md5Checksum": "101d60493dd9ce4b5d4ac2ff42f37b32",
+    "size_kb": 63.1
+  },
+  "images/yc_modules/teach_consequences_yc_2.svg": {
+    "md5Checksum": "7829deb7ed4eaf4cf7948370268df899",
+    "size_kb": 65.1
+  },
+  "images/yc_modules/teach_consequences_yc_3.svg": {
+    "md5Checksum": "1f94da24a2f91c48db2549902a3f07ae",
+    "size_kb": 64.1
+  },
+  "images/yc_modules/teach_consequences_yc_4.svg": {
+    "md5Checksum": "f44df2e2ab5f484e823f0a4d2a5e6c0f",
+    "size_kb": 60.2
+  },
+  "images/yc_modules/teach_consequences_yc_5.svg": {
+    "md5Checksum": "4abb6ec896c4158ae68632afe43e9913",
+    "size_kb": 67.5
+  },
+  "images/yc_modules/toddler_change_yc_1.svg": {
+    "md5Checksum": "25becf1cc72c104174d94094e843aad8",
+    "size_kb": 50.3
+  },
+  "images/yc_modules/toddler_change_yc_2.svg": {
+    "md5Checksum": "31a7ae3518cbae4d5c687903a6301dcd",
+    "size_kb": 72.6
+  },
+  "images/yc_modules/toddler_change_yc_3.svg": {
+    "md5Checksum": "555565bf8ddc120fd508db49ed8682de",
+    "size_kb": 72.5
+  },
+  "images/yc_modules/toddler_change_yc_4.svg": {
+    "md5Checksum": "1ecc273f67dd8a850fea4b1a3a8d9522",
+    "size_kb": 72.7
+  },
+  "images/yc_modules/young_child_change_yc_1.svg": {
+    "md5Checksum": "49d3f23e1bed007c3760a4ab31fdf4be",
+    "size_kb": 50.2
+  },
+  "images/yc_modules/young_child_change_yc_2.svg": {
+    "md5Checksum": "1f6758613b20957f2f1b804768e68db8",
+    "size_kb": 51.4
+  },
+  "images/yc_modules/young_child_change_yc_3.svg": {
+    "md5Checksum": "e1cae408288b88e4280cf62c9d084d7d",
+    "size_kb": 46.6
+  },
+  "images/yc_modules/young_child_change_yc_4.svg": {
+    "md5Checksum": "8a48511864e7f8e9cbe74a07f87f4432",
+    "size_kb": 48.5
   },
   "lottie/bulging_circles.json": {
     "md5Checksum": "e4a21bd55b999a816ee59d5b244c145b",
