@@ -80,8 +80,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 52599 KB | 52.6 MB |
-| unused | 62309 KB | 62.3 MB |
+| total | 88197 KB | 88.2 MB |
+| unused | 39538 KB | 39.5 MB |
 </details>
 
 <details open>
@@ -156,22 +156,6 @@ Assets that appear in app-data but do not have references within sheets
 | audio/yc/uncompressed/solve_audio_1.mp3 | 983.4 |
 | audio/yc/uncompressed/solve_audio_2.mp3 | 468.1 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
-| images/character_icons/f1_daughter_2.svg | 1815.2 |
-| images/character_icons/f1_daughter_6.svg | 1429.9 |
-| images/character_icons/f1_father.svg | 1678.4 |
-| images/character_icons/f1_mother.svg | 1461.5 |
-| images/character_icons/f1_son_5.svg | 1359.5 |
-| images/character_icons/f2_daughter_8.svg | 2347.5 |
-| images/character_icons/f2_grandfather.svg | 2334.9 |
-| images/character_icons/f2_grandmother.svg | 2334.9 |
-| images/character_icons/f2_son_3.svg | 2148.1 |
-| images/character_icons/f3_daughter_4.svg | 1335.6 |
-| images/character_icons/f3_mother.svg | 1465.5 |
-| images/character_icons/f3_son_7.svg | 1426.5 |
-| images/character_icons/f3_uncle.svg | 1094.4 |
-| images/character_icons/facilitator_female.svg | 636.4 |
-| images/character_icons/facilitator_male.svg | 459.5 |
-| images/character_icons/man_in_car.svg | 1241.8 |
 | images/flags/gb.svg | 0.5 |
 | images/homescreen/behave.svg | 31.6 |
 | images/homescreen/budget.svg | 15.1 |
@@ -250,6 +234,26 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/plh_white.png | 12.8 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 636.4 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 459.5 |
+| images/yc_modules/budget_savings_yc_5.svg | 51.8 |
+| images/yc_modules/com_safety_5to9_yc_5.svg | 327.1 |
+| images/yc_modules/crises_7to9_yc_5.svg | 255.1 |
+| images/yc_modules/crises_7to9_yc_6.svg | 223.1 |
+| images/yc_modules/ignore_demanding_yc_5.svg | 56.5 |
+| images/yc_modules/learn_experience_yc_5.svg | 44.5 |
+| images/yc_modules/reading_2to3_1.svg | 68.6 |
+| images/yc_modules/reading_2to3_2.svg | 73.7 |
+| images/yc_modules/reading_2to3_3.svg | 77.7 |
+| images/yc_modules/reading_2to3_4.svg | 73.9 |
+| images/yc_modules/safe_touch_2to5_yc_f_5.svg | 42.3 |
+| images/yc_modules/safe_touch_2to5_yc_m_5.svg | 38.8 |
+| images/yc_modules/spirituality_yc_2.svg | 144.2 |
+| images/yc_modules/spirituality_yc_3.svg | 141.4 |
+| images/yc_modules/take_a_pause_1_1.svg | 22.1 |
+| images/yc_modules/take_a_pause_1_2.svg | 15.2 |
+| images/yc_modules/take_a_pause_1_3.svg | 26.5 |
+| images/yc_modules/take_a_pause_1_4.svg | 32.5 |
+| images/yc_modules/take_a_pause_1_5.svg | 15.3 |
+| images/yc_modules/teach_consequences_yc_5.svg | 67.5 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
 </details>
@@ -269,154 +273,28 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/relax_23.mp3 | 1 |
 | audio/relax/relax_24.mp3 | 1 |
 | audio/relax/relax_6.mp3 | 6 |
+| images/character_icons/boyfriend.svg | 1 |
+| images/character_icons/f1_daughter_13.svg | 1 |
+| images/character_icons/f1_daughter_16.svg | 1 |
+| images/character_icons/f1_son_18.svg | 1 |
+| images/character_icons/f2_daughter_19.svg | 1 |
+| images/character_icons/f2_son_15.svg | 1 |
+| images/character_icons/f3_daughter_12.svg | 1 |
+| images/character_icons/friend_female_1.svg | 1 |
+| images/character_icons/friend_female_2.svg | 1 |
+| images/character_icons/girlfriend.svg | 1 |
+| images/character_icons/man_threat.svg | 1 |
 | images/icons/lightbulbt_blue.png | 2 |
-| images/logos/app_logo.png | 1 |
-| images/logos/plh_logomark.png | 2 |
-| images/yc_modules/budget_savings_yc_1.svg | 2 |
-| images/yc_modules/budget_savings_yc_2.svg | 2 |
-| images/yc_modules/budget_savings_yc_3.svg | 2 |
-| images/yc_modules/budget_savings_yc_4.svg | 2 |
-| images/yc_modules/child_change_yc_1.svg | 2 |
-| images/yc_modules/child_change_yc_2.svg | 2 |
-| images/yc_modules/child_change_yc_3.svg | 2 |
-| images/yc_modules/child_change_yc_4.svg | 2 |
-| images/yc_modules/com_safety_2to4_yc_1.svg | 2 |
-| images/yc_modules/com_safety_2to4_yc_2.svg | 2 |
-| images/yc_modules/com_safety_2to4_yc_3.svg | 2 |
-| images/yc_modules/com_safety_2to4_yc_4.svg | 2 |
-| images/yc_modules/com_safety_5to9_yc_1.svg | 2 |
-| images/yc_modules/com_safety_5to9_yc_2.svg | 2 |
-| images/yc_modules/com_safety_5to9_yc_3.svg | 2 |
-| images/yc_modules/com_safety_5to9_yc_4.svg | 4 |
-| images/yc_modules/create_family_rules_yc_1.svg | 2 |
-| images/yc_modules/create_family_rules_yc_2.svg | 2 |
-| images/yc_modules/create_family_rules_yc_3.svg | 2 |
-| images/yc_modules/create_family_rules_yc_4.svg | 2 |
-| images/yc_modules/create_routines_yc_1.svg | 2 |
-| images/yc_modules/create_routines_yc_2.svg | 2 |
-| images/yc_modules/create_routines_yc_3.svg | 2 |
-| images/yc_modules/create_routines_yc_4.svg | 2 |
-| images/yc_modules/create_routines_yc_5.svg | 2 |
-| images/yc_modules/crises_2to6_yc_1.svg | 2 |
-| images/yc_modules/crises_2to6_yc_2.svg | 2 |
-| images/yc_modules/crises_2to6_yc_3.svg | 2 |
-| images/yc_modules/crises_2to6_yc_4.svg | 2 |
-| images/yc_modules/crises_7to9_yc_1.svg | 2 |
-| images/yc_modules/crises_7to9_yc_2.svg | 2 |
-| images/yc_modules/crises_7to9_yc_3.svg | 2 |
-| images/yc_modules/crises_7to9_yc_4.svg | 6 |
-| images/yc_modules/give_praise_yc_1.svg | 2 |
-| images/yc_modules/give_praise_yc_2.svg | 2 |
-| images/yc_modules/give_praise_yc_3.svg | 2 |
-| images/yc_modules/give_praise_yc_4.svg | 2 |
-| images/yc_modules/ignore_demanding_yc_1.svg | 2 |
-| images/yc_modules/ignore_demanding_yc_2.svg | 2 |
-| images/yc_modules/ignore_demanding_yc_3.svg | 2 |
-| images/yc_modules/ignore_demanding_yc_4.svg | 2 |
-| images/yc_modules/ipv_conflicts_1.svg | 2 |
-| images/yc_modules/ipv_conflicts_2.svg | 2 |
-| images/yc_modules/ipv_conflicts_3.svg | 2 |
-| images/yc_modules/ipv_conflicts_4.svg | 2 |
-| images/yc_modules/ipv_equals_1.svg | 2 |
-| images/yc_modules/ipv_equals_2.svg | 2 |
-| images/yc_modules/ipv_equals_3.svg | 2 |
-| images/yc_modules/ipv_equals_4.svg | 2 |
-| images/yc_modules/ipv_listen_1.svg | 2 |
-| images/yc_modules/ipv_listen_2.svg | 2 |
-| images/yc_modules/ipv_listen_3.svg | 2 |
+| images/logos/plh_logomark.png | 1 |
 | images/yc_modules/ipv_sharing_1.svg | 2 |
 | images/yc_modules/ipv_sharing_2.svg | 2 |
 | images/yc_modules/ipv_sharing_3.svg | 2 |
-| images/yc_modules/ipv_supportive_1.svg | 2 |
-| images/yc_modules/ipv_supportive_2.svg | 2 |
-| images/yc_modules/ipv_supportive_3.svg | 2 |
-| images/yc_modules/ipv_supportive_4.svg | 2 |
-| images/yc_modules/keeping_it_positive_yc_1.svg | 2 |
-| images/yc_modules/keeping_it_positive_yc_2.svg | 2 |
-| images/yc_modules/keeping_it_positive_yc_3.svg | 2 |
-| images/yc_modules/keeping_it_positive_yc_4.svg | 2 |
-| images/yc_modules/kind_to_myself_yc_1.svg | 2 |
-| images/yc_modules/kind_to_myself_yc_2.svg | 2 |
-| images/yc_modules/kind_to_myself_yc_3.svg | 2 |
-| images/yc_modules/language_yc_1.svg | 2 |
-| images/yc_modules/language_yc_2.svg | 2 |
-| images/yc_modules/language_yc_3.svg | 2 |
-| images/yc_modules/language_yc_4.svg | 2 |
-| images/yc_modules/learn_experience_yc_1.svg | 2 |
-| images/yc_modules/learn_experience_yc_2.svg | 2 |
-| images/yc_modules/learn_experience_yc_3.svg | 2 |
-| images/yc_modules/learn_experience_yc_4.svg | 2 |
-| images/yc_modules/managing_anger_yc_1.svg | 2 |
-| images/yc_modules/managing_anger_yc_2.svg | 2 |
-| images/yc_modules/managing_anger_yc_3.svg | 2 |
-| images/yc_modules/managing_anger_yc_4.svg | 2 |
-| images/yc_modules/maths2_4to6_yc_1.svg | 2 |
-| images/yc_modules/maths2_4to6_yc_2.svg | 2 |
-| images/yc_modules/maths2_4to6_yc_3.svg | 2 |
-| images/yc_modules/maths2_4to6_yc_4.svg | 2 |
-| images/yc_modules/nutrition_health_yc_1.svg | 2 |
-| images/yc_modules/nutrition_health_yc_2.svg | 2 |
-| images/yc_modules/nutrition_health_yc_3.svg | 2 |
-| images/yc_modules/nutrition_health_yc_4.svg | 2 |
-| images/yc_modules/one_on_one_yc_1.svg | 2 |
-| images/yc_modules/one_on_one_yc_2.svg | 2 |
-| images/yc_modules/one_on_one_yc_3.svg | 2 |
-| images/yc_modules/one_on_one_yc_4.svg | 2 |
-| images/yc_modules/online_safety_yc_1.svg | 2 |
-| images/yc_modules/online_safety_yc_2.svg | 2 |
-| images/yc_modules/online_safety_yc_3.svg | 2 |
-| images/yc_modules/online_safety_yc_4.svg | 2 |
-| images/yc_modules/play_yc_1.svg | 2 |
-| images/yc_modules/play_yc_2.svg | 2 |
-| images/yc_modules/play_yc_3.svg | 2 |
-| images/yc_modules/play_yc_4.svg | 2 |
-| images/yc_modules/reading1_4to6_yc_1.svg | 2 |
-| images/yc_modules/reading1_4to6_yc_2.svg | 2 |
-| images/yc_modules/reading1_4to6_yc_3.svg | 2 |
-| images/yc_modules/reading1_4to6_yc_4.svg | 2 |
 | images/yc_modules/reading_2to3_yc_1.svg | 2 |
 | images/yc_modules/reading_2to3_yc_2.svg | 2 |
 | images/yc_modules/reading_2to3_yc_3.svg | 2 |
 | images/yc_modules/reading_2to3_yc_4.svg | 2 |
-| images/yc_modules/redirect_yc_1.svg | 2 |
-| images/yc_modules/redirect_yc_2.svg | 2 |
-| images/yc_modules/redirect_yc_3.svg | 2 |
-| images/yc_modules/redirect_yc_4.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_f_1.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_f_2.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_f_3.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_f_4.svg | 4 |
-| images/yc_modules/safe_touch_2to5_yc_m_1.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_m_2.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_m_3.svg | 2 |
-| images/yc_modules/safe_touch_2to5_yc_m_4.svg | 4 |
-| images/yc_modules/safe_touch_6to9_yc_1.svg | 2 |
-| images/yc_modules/safe_touch_6to9_yc_2.svg | 2 |
-| images/yc_modules/safe_touch_6to9_yc_3.svg | 2 |
-| images/yc_modules/safe_touch_6to9_yc_4.svg | 2 |
 | images/yc_modules/self_care_yc_2.svg | 2 |
 | images/yc_modules/self_care_yc_3.svg | 2 |
-| images/yc_modules/solve_problems_yc_1.svg | 2 |
-| images/yc_modules/solve_problems_yc_2.svg | 2 |
-| images/yc_modules/solve_problems_yc_3.svg | 2 |
-| images/yc_modules/solve_problems_yc_4.svg | 2 |
-| images/yc_modules/spirituality_yc_1.svg | 2 |
-| images/yc_modules/talk_feelings_yc_1.svg | 2 |
-| images/yc_modules/talk_feelings_yc_2.svg | 2 |
-| images/yc_modules/talk_feelings_yc_3.svg | 2 |
-| images/yc_modules/talk_feelings_yc_4.svg | 2 |
-| images/yc_modules/teach_consequences_yc_1.svg | 2 |
-| images/yc_modules/teach_consequences_yc_2.svg | 2 |
-| images/yc_modules/teach_consequences_yc_3.svg | 2 |
-| images/yc_modules/teach_consequences_yc_4.svg | 2 |
-| images/yc_modules/toddler_change_yc_1.svg | 2 |
-| images/yc_modules/toddler_change_yc_2.svg | 2 |
-| images/yc_modules/toddler_change_yc_3.svg | 2 |
-| images/yc_modules/toddler_change_yc_4.svg | 2 |
-| images/yc_modules/young_child_change_yc_1.svg | 2 |
-| images/yc_modules/young_child_change_yc_2.svg | 2 |
-| images/yc_modules/young_child_change_yc_3.svg | 2 |
-| images/yc_modules/young_child_change_yc_4.svg | 2 |
 </details>
 
 <details >
@@ -474,6 +352,22 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/backgrounds/progress_arc.png | 255.4 | 1 |
+| images/character_icons/f1_daughter_2.svg | 1815.2 | 1 |
+| images/character_icons/f1_daughter_6.svg | 1429.9 | 1 |
+| images/character_icons/f1_father.svg | 1678.4 | 1 |
+| images/character_icons/f1_mother.svg | 1461.5 | 1 |
+| images/character_icons/f1_son_5.svg | 1359.5 | 1 |
+| images/character_icons/f2_daughter_8.svg | 2347.5 | 1 |
+| images/character_icons/f2_grandfather.svg | 2334.9 | 1 |
+| images/character_icons/f2_grandmother.svg | 2334.9 | 1 |
+| images/character_icons/f2_son_3.svg | 2148.1 | 1 |
+| images/character_icons/f3_daughter_4.svg | 1335.6 | 1 |
+| images/character_icons/f3_mother.svg | 1465.5 | 1 |
+| images/character_icons/f3_son_7.svg | 1426.5 | 1 |
+| images/character_icons/f3_uncle.svg | 1094.4 | 1 |
+| images/character_icons/facilitator_female.svg | 636.4 | 3 |
+| images/character_icons/facilitator_male.svg | 459.5 | 3 |
+| images/character_icons/man_in_car.svg | 1241.8 | 1 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1692.7 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 2901.6 | 1 |
 | images/icons/diamond.png | 1.8 | 2 |
@@ -523,6 +417,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_blue.png | 5.1 | 6 |
 | images/icons/verified.svg | 0.5 | 1 |
 | images/icons/world.svg | 6.2 | 1 |
+| images/logos/app_logo.png | 12.8 | 2 |
 | images/logos/favicon.svg | 8.8 | 1 |
 | images/logos/idems.png | 42.7 | 1 |
 | images/logos/kemas.png | 5.6 | 1 |
@@ -537,6 +432,142 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/onboarding/frustrated.svg | 27.3 | 1 |
 | images/onboarding/join_parents.svg | 116 | 1 |
 | images/onboarding/loving_parent.svg | 46.9 | 1 |
+| images/yc_modules/budget_savings_yc_1.svg | 64.9 | 2 |
+| images/yc_modules/budget_savings_yc_2.svg | 71.4 | 2 |
+| images/yc_modules/budget_savings_yc_3.svg | 48.7 | 2 |
+| images/yc_modules/budget_savings_yc_4.svg | 65.8 | 2 |
+| images/yc_modules/child_change_yc_1.svg | 81.2 | 2 |
+| images/yc_modules/child_change_yc_2.svg | 70.2 | 2 |
+| images/yc_modules/child_change_yc_3.svg | 74.8 | 2 |
+| images/yc_modules/child_change_yc_4.svg | 69.5 | 2 |
+| images/yc_modules/com_safety_2to4_yc_1.svg | 66.6 | 2 |
+| images/yc_modules/com_safety_2to4_yc_2.svg | 78.5 | 2 |
+| images/yc_modules/com_safety_2to4_yc_3.svg | 70.6 | 2 |
+| images/yc_modules/com_safety_2to4_yc_4.svg | 70.2 | 2 |
+| images/yc_modules/com_safety_5to9_yc_1.svg | 47.2 | 2 |
+| images/yc_modules/com_safety_5to9_yc_2.svg | 708.8 | 2 |
+| images/yc_modules/com_safety_5to9_yc_3.svg | 709.7 | 2 |
+| images/yc_modules/com_safety_5to9_yc_4.svg | 29.2 | 4 |
+| images/yc_modules/create_family_rules_yc_1.svg | 47.4 | 2 |
+| images/yc_modules/create_family_rules_yc_2.svg | 44.1 | 2 |
+| images/yc_modules/create_family_rules_yc_3.svg | 41.3 | 2 |
+| images/yc_modules/create_family_rules_yc_4.svg | 45.2 | 2 |
+| images/yc_modules/create_routines_yc_1.svg | 59.9 | 2 |
+| images/yc_modules/create_routines_yc_2.svg | 40.4 | 2 |
+| images/yc_modules/create_routines_yc_3.svg | 66.8 | 2 |
+| images/yc_modules/create_routines_yc_4.svg | 43.4 | 2 |
+| images/yc_modules/create_routines_yc_5.svg | 28.6 | 2 |
+| images/yc_modules/crises_2to6_yc_1.svg | 47.8 | 2 |
+| images/yc_modules/crises_2to6_yc_2.svg | 47.9 | 2 |
+| images/yc_modules/crises_2to6_yc_3.svg | 45.1 | 2 |
+| images/yc_modules/crises_2to6_yc_4.svg | 34 | 2 |
+| images/yc_modules/crises_7to9_yc_1.svg | 268.2 | 2 |
+| images/yc_modules/crises_7to9_yc_2.svg | 161.3 | 2 |
+| images/yc_modules/crises_7to9_yc_3.svg | 253.6 | 2 |
+| images/yc_modules/crises_7to9_yc_4.svg | 260 | 6 |
+| images/yc_modules/give_praise_yc_1.svg | 52.6 | 2 |
+| images/yc_modules/give_praise_yc_2.svg | 53.4 | 2 |
+| images/yc_modules/give_praise_yc_3.svg | 44.3 | 2 |
+| images/yc_modules/give_praise_yc_4.svg | 49.3 | 2 |
+| images/yc_modules/ignore_demanding_yc_1.svg | 68.2 | 2 |
+| images/yc_modules/ignore_demanding_yc_2.svg | 71.2 | 2 |
+| images/yc_modules/ignore_demanding_yc_3.svg | 73.2 | 2 |
+| images/yc_modules/ignore_demanding_yc_4.svg | 60.2 | 2 |
+| images/yc_modules/ipv_conflicts_1.svg | 54.9 | 2 |
+| images/yc_modules/ipv_conflicts_2.svg | 62.9 | 2 |
+| images/yc_modules/ipv_conflicts_3.svg | 39.7 | 2 |
+| images/yc_modules/ipv_conflicts_4.svg | 32.3 | 2 |
+| images/yc_modules/ipv_equals_1.svg | 48.7 | 2 |
+| images/yc_modules/ipv_equals_2.svg | 51.6 | 2 |
+| images/yc_modules/ipv_equals_3.svg | 45.6 | 2 |
+| images/yc_modules/ipv_equals_4.svg | 48 | 2 |
+| images/yc_modules/ipv_listen_1.svg | 129.4 | 2 |
+| images/yc_modules/ipv_listen_2.svg | 134.4 | 2 |
+| images/yc_modules/ipv_listen_3.svg | 131.7 | 2 |
+| images/yc_modules/ipv_supportive_1.svg | 59.5 | 2 |
+| images/yc_modules/ipv_supportive_2.svg | 72.6 | 2 |
+| images/yc_modules/ipv_supportive_3.svg | 57.7 | 2 |
+| images/yc_modules/ipv_supportive_4.svg | 32.7 | 2 |
+| images/yc_modules/keeping_it_positive_yc_1.svg | 45 | 2 |
+| images/yc_modules/keeping_it_positive_yc_2.svg | 42.4 | 2 |
+| images/yc_modules/keeping_it_positive_yc_3.svg | 43.3 | 2 |
+| images/yc_modules/keeping_it_positive_yc_4.svg | 55.5 | 2 |
+| images/yc_modules/kind_to_myself_yc_1.svg | 54.7 | 2 |
+| images/yc_modules/kind_to_myself_yc_2.svg | 41.4 | 2 |
+| images/yc_modules/kind_to_myself_yc_3.svg | 33.9 | 2 |
+| images/yc_modules/language_yc_1.svg | 44.6 | 2 |
+| images/yc_modules/language_yc_2.svg | 49.6 | 2 |
+| images/yc_modules/language_yc_3.svg | 43.1 | 2 |
+| images/yc_modules/language_yc_4.svg | 44.4 | 2 |
+| images/yc_modules/learn_experience_yc_1.svg | 51.7 | 2 |
+| images/yc_modules/learn_experience_yc_2.svg | 56.9 | 2 |
+| images/yc_modules/learn_experience_yc_3.svg | 48.7 | 2 |
+| images/yc_modules/learn_experience_yc_4.svg | 49 | 2 |
+| images/yc_modules/managing_anger_yc_1.svg | 78.9 | 2 |
+| images/yc_modules/managing_anger_yc_2.svg | 83.9 | 2 |
+| images/yc_modules/managing_anger_yc_3.svg | 71.9 | 2 |
+| images/yc_modules/managing_anger_yc_4.svg | 84.6 | 2 |
+| images/yc_modules/maths2_4to6_yc_1.svg | 85.8 | 2 |
+| images/yc_modules/maths2_4to6_yc_2.svg | 75.7 | 2 |
+| images/yc_modules/maths2_4to6_yc_3.svg | 77.1 | 2 |
+| images/yc_modules/maths2_4to6_yc_4.svg | 69.5 | 2 |
+| images/yc_modules/nutrition_health_yc_1.svg | 55.8 | 2 |
+| images/yc_modules/nutrition_health_yc_2.svg | 73.1 | 2 |
+| images/yc_modules/nutrition_health_yc_3.svg | 50.6 | 2 |
+| images/yc_modules/nutrition_health_yc_4.svg | 37.5 | 2 |
+| images/yc_modules/one_on_one_yc_1.svg | 61.1 | 2 |
+| images/yc_modules/one_on_one_yc_2.svg | 64.2 | 2 |
+| images/yc_modules/one_on_one_yc_3.svg | 65 | 2 |
+| images/yc_modules/one_on_one_yc_4.svg | 67.9 | 2 |
+| images/yc_modules/online_safety_yc_1.svg | 43.8 | 2 |
+| images/yc_modules/online_safety_yc_2.svg | 41.2 | 2 |
+| images/yc_modules/online_safety_yc_3.svg | 44.3 | 2 |
+| images/yc_modules/online_safety_yc_4.svg | 50.1 | 2 |
+| images/yc_modules/play_yc_1.svg | 243.7 | 2 |
+| images/yc_modules/play_yc_2.svg | 244.4 | 2 |
+| images/yc_modules/play_yc_3.svg | 46.4 | 2 |
+| images/yc_modules/play_yc_4.svg | 62.1 | 2 |
+| images/yc_modules/reading1_4to6_yc_1.svg | 61.7 | 2 |
+| images/yc_modules/reading1_4to6_yc_2.svg | 60.2 | 2 |
+| images/yc_modules/reading1_4to6_yc_3.svg | 62.6 | 2 |
+| images/yc_modules/reading1_4to6_yc_4.svg | 39.2 | 2 |
+| images/yc_modules/redirect_yc_1.svg | 111.1 | 2 |
+| images/yc_modules/redirect_yc_2.svg | 113.4 | 2 |
+| images/yc_modules/redirect_yc_3.svg | 112.9 | 2 |
+| images/yc_modules/redirect_yc_4.svg | 123.5 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_f_1.svg | 56.4 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_f_2.svg | 40.8 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_f_3.svg | 38.1 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_f_4.svg | 39.2 | 4 |
+| images/yc_modules/safe_touch_2to5_yc_m_1.svg | 51 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_m_2.svg | 36.4 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_m_3.svg | 35.2 | 2 |
+| images/yc_modules/safe_touch_2to5_yc_m_4.svg | 39.2 | 4 |
+| images/yc_modules/safe_touch_6to9_yc_1.svg | 80.1 | 2 |
+| images/yc_modules/safe_touch_6to9_yc_2.svg | 250.6 | 2 |
+| images/yc_modules/safe_touch_6to9_yc_3.svg | 249.8 | 2 |
+| images/yc_modules/safe_touch_6to9_yc_4.svg | 224.5 | 2 |
+| images/yc_modules/solve_problems_yc_1.svg | 41.6 | 2 |
+| images/yc_modules/solve_problems_yc_2.svg | 41.3 | 2 |
+| images/yc_modules/solve_problems_yc_3.svg | 38.1 | 2 |
+| images/yc_modules/solve_problems_yc_4.svg | 34.1 | 2 |
+| images/yc_modules/spirituality_yc_1.svg | 144.6 | 2 |
+| images/yc_modules/talk_feelings_yc_1.svg | 72.1 | 2 |
+| images/yc_modules/talk_feelings_yc_2.svg | 64.9 | 2 |
+| images/yc_modules/talk_feelings_yc_3.svg | 66.9 | 2 |
+| images/yc_modules/talk_feelings_yc_4.svg | 50 | 2 |
+| images/yc_modules/teach_consequences_yc_1.svg | 63.1 | 2 |
+| images/yc_modules/teach_consequences_yc_2.svg | 65.1 | 2 |
+| images/yc_modules/teach_consequences_yc_3.svg | 64.1 | 2 |
+| images/yc_modules/teach_consequences_yc_4.svg | 60.2 | 2 |
+| images/yc_modules/toddler_change_yc_1.svg | 50.3 | 2 |
+| images/yc_modules/toddler_change_yc_2.svg | 72.6 | 2 |
+| images/yc_modules/toddler_change_yc_3.svg | 72.5 | 2 |
+| images/yc_modules/toddler_change_yc_4.svg | 72.7 | 2 |
+| images/yc_modules/young_child_change_yc_1.svg | 50.2 | 2 |
+| images/yc_modules/young_child_change_yc_2.svg | 51.4 | 2 |
+| images/yc_modules/young_child_change_yc_3.svg | 46.6 | 2 |
+| images/yc_modules/young_child_change_yc_4.svg | 48.5 | 2 |
 | lottie/bulging_circles.json | 11.8 | 2 |
 | lottie/checkmark.json | 23.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
