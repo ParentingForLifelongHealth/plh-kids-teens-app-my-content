@@ -100,7 +100,7 @@
       "id": "explore_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "Here is how you can build a monthly budget:"
+          "eng": "Here is how you can build a monthly budget."
         },
         "quiz_1_option_1_text": {
           "eng": "True"
@@ -126,7 +126,7 @@
         "quiz_2_option_2_text": {}
       },
       "quiz_1_option_2_text": "False",
-      "text_1_facilitator": "Here is how you can build a monthly budget:",
+      "text_1_facilitator": "Here is how you can build a monthly budget.",
       "quiz_2_option_1_text": "True",
       "quiz_2_option_2_text": "False",
       "completed": false

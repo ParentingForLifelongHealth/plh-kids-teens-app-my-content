@@ -80,8 +80,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 88197 KB | 88.2 MB |
-| unused | 39538 KB | 39.5 MB |
+| total | 88777 KB | 88.8 MB |
+| unused | 38958 KB | 39 MB |
 </details>
 
 <details open>
@@ -240,14 +240,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/yc_modules/crises_7to9_yc_6.svg | 223.1 |
 | images/yc_modules/ignore_demanding_yc_5.svg | 56.5 |
 | images/yc_modules/learn_experience_yc_5.svg | 44.5 |
-| images/yc_modules/reading_2to3_1.svg | 68.6 |
-| images/yc_modules/reading_2to3_2.svg | 73.7 |
-| images/yc_modules/reading_2to3_3.svg | 77.7 |
-| images/yc_modules/reading_2to3_4.svg | 73.9 |
 | images/yc_modules/safe_touch_2to5_yc_f_5.svg | 42.3 |
 | images/yc_modules/safe_touch_2to5_yc_m_5.svg | 38.8 |
-| images/yc_modules/spirituality_yc_2.svg | 144.2 |
-| images/yc_modules/spirituality_yc_3.svg | 141.4 |
 | images/yc_modules/take_a_pause_1_1.svg | 22.1 |
 | images/yc_modules/take_a_pause_1_2.svg | 15.2 |
 | images/yc_modules/take_a_pause_1_3.svg | 26.5 |
@@ -284,17 +278,10 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/friend_female_2.svg | 1 |
 | images/character_icons/girlfriend.svg | 1 |
 | images/character_icons/man_threat.svg | 1 |
-| images/icons/lightbulbt_blue.png | 2 |
 | images/logos/plh_logomark.png | 1 |
 | images/yc_modules/ipv_sharing_1.svg | 2 |
 | images/yc_modules/ipv_sharing_2.svg | 2 |
 | images/yc_modules/ipv_sharing_3.svg | 2 |
-| images/yc_modules/reading_2to3_yc_1.svg | 2 |
-| images/yc_modules/reading_2to3_yc_2.svg | 2 |
-| images/yc_modules/reading_2to3_yc_3.svg | 2 |
-| images/yc_modules/reading_2to3_yc_4.svg | 2 |
-| images/yc_modules/self_care_yc_2.svg | 2 |
-| images/yc_modules/self_care_yc_3.svg | 2 |
 </details>
 
 <details >
@@ -389,7 +376,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/home_active.svg | 0.4 | 1 |
 | images/icons/in_progress.svg | 1.1 | 2 |
 | images/icons/key.svg | 5.5 | 1 |
-| images/icons/lightbulb_blue.png | 3.6 | 54 |
+| images/icons/lightbulb_blue.png | 3.6 | 56 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/lock.svg | 0.5 | 1 |
@@ -531,6 +518,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/yc_modules/reading1_4to6_yc_2.svg | 60.2 | 2 |
 | images/yc_modules/reading1_4to6_yc_3.svg | 62.6 | 2 |
 | images/yc_modules/reading1_4to6_yc_4.svg | 39.2 | 2 |
+| images/yc_modules/reading_2to3_yc_1.svg | 68.6 | 2 |
+| images/yc_modules/reading_2to3_yc_2.svg | 73.7 | 2 |
+| images/yc_modules/reading_2to3_yc_3.svg | 77.7 | 2 |
+| images/yc_modules/reading_2to3_yc_4.svg | 73.9 | 2 |
 | images/yc_modules/redirect_yc_1.svg | 111.1 | 2 |
 | images/yc_modules/redirect_yc_2.svg | 113.4 | 2 |
 | images/yc_modules/redirect_yc_3.svg | 112.9 | 2 |
@@ -552,6 +543,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/yc_modules/solve_problems_yc_3.svg | 38.1 | 2 |
 | images/yc_modules/solve_problems_yc_4.svg | 34.1 | 2 |
 | images/yc_modules/spirituality_yc_1.svg | 144.6 | 2 |
+| images/yc_modules/spirituality_yc_2.svg | 144.2 | 2 |
+| images/yc_modules/spirituality_yc_3.svg | 141.4 | 2 |
 | images/yc_modules/talk_feelings_yc_1.svg | 72.1 | 2 |
 | images/yc_modules/talk_feelings_yc_2.svg | 64.9 | 2 |
 | images/yc_modules/talk_feelings_yc_3.svg | 66.9 | 2 |

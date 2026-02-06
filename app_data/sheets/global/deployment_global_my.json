@@ -8,7 +8,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "ParentApp Kids Teens",
+      "value": "Naungan Kasih",
       "_translations": {
         "value": {}
       }
@@ -16,7 +16,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name_full",
-      "value": "ParentApp Kids Teens",
+      "value": "Naungan Kasih",
       "_translations": {
         "value": {}
       }
