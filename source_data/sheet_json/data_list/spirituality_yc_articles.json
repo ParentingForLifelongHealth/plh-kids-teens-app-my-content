@@ -39,7 +39,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/self_care_yc_2.svg",
+      "image_asset": "images/yc_modules/spirituality_yc_2.svg",
       "character_1_id": "f1_father",
       "character_1_text::eng": "Hmm, maybe. When I was young, my parents never allowed me to speak loudly to them. It is a sign of respect for elders. ",
       "character_2_id": "f1_mother",
@@ -48,7 +48,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/self_care_yc_3.svg",
+      "image_asset": "images/yc_modules/spirituality_yc_3.svg",
       "character_1_id": "f1_father",
       "character_1_text::eng": "That’s true. We can help our kids to express themselves while still being respectful. ",
       "character_2_id": "f1_mother",
@@ -75,7 +75,7 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_3_text::eng": "🎉 Praise your child when they have learnt this value. You should also congratulate yourself. You’re doing so well!\n💛 Now, repeat the same process to teach other important values in your home.",
       "section_4_title::eng": "SHARE",
-      "section_4_icon_asset": "images/icons/lightbulbt_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_4_text::eng": "💙 Connect and share with other parents!\n👂 You can share your values and strategies with each other. This will let you learn together! \n🚲 Your child may even make new friends in your community through shared cultural, religious, and spiritual activities!"
     },
     {

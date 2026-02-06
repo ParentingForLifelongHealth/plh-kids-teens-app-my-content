@@ -32,28 +32,28 @@
       "text_1_facilitator::eng": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:",
       "image_asset": "images/yc_modules/budget_savings_yc_1.svg",
       "character_1_id": "f3_mother",
-      "character_1_text::eng": "\"I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!\""
+      "character_1_text::eng": "I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!"
     },
     {
       "id": "explore_2",
       "category_id": "explore",
       "image_asset": "images/yc_modules/budget_savings_yc_2.svg",
       "character_1_id": "f3_mother",
-      "character_1_text::eng": "\"My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?\""
+      "character_1_text::eng": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?"
     },
     {
       "id": "explore_3",
       "category_id": "explore",
       "image_asset": "images/yc_modules/budget_savings_yc_3.svg",
       "character_1_id": "f3_mother",
-      "character_1_text::eng": "\"Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.\""
+      "character_1_text::eng": "Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group."
     },
     {
       "id": "explore_4",
       "category_id": "explore",
       "image_asset": "images/yc_modules/budget_savings_yc_4.svg",
-      "character_1_id": "f1_mother",
-      "character_1_text::eng": "\"I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.\""
+      "character_1_id": "f3_mother",
+      "character_1_text::eng": "I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need."
     },
     {
       "id": "explore_5",

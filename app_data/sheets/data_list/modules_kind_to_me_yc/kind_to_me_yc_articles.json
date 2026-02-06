@@ -85,11 +85,11 @@
           "eng": "What is it, @data.characters.f3_son_7.name? Are you okay?"
         },
         "character_2_text": {
-          "eng": "All my friends in class had a parent attend our school performance today and you were not there! I hate that you have to work all the time. It is not fair!\""
+          "eng": "All my friends in class had a parent attend our school performance today and you were not there! I hate that you have to work all the time. It is not fair!"
         }
       },
       "character_1_text": "What is it, @data.characters.f3_son_7.name? Are you okay?",
-      "character_2_text": "All my friends in class had a parent attend our school performance today and you were not there! I hate that you have to work all the time. It is not fair!\""
+      "character_2_text": "All my friends in class had a parent attend our school performance today and you were not there! I hate that you have to work all the time. It is not fair!"
     },
     {
       "id": "explore_2",

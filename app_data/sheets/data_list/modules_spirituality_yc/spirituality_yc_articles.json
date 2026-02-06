@@ -94,7 +94,7 @@
     {
       "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/self_care_yc_2.svg",
+      "image_asset": "images/yc_modules/spirituality_yc_2.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_mother",
       "nested": false,
@@ -116,7 +116,7 @@
     {
       "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/self_care_yc_3.svg",
+      "image_asset": "images/yc_modules/spirituality_yc_3.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_mother",
       "nested": false,
@@ -158,7 +158,7 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulbt_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
       "section_1_title": "IDENTIFY",
       "_translations": {

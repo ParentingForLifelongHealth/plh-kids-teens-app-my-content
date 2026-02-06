@@ -143,7 +143,7 @@
           "eng": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:"
         },
         "character_1_text": {
-          "eng": "\"I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!\""
+          "eng": "I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!"
         }
       },
       "category_id": "explore",
@@ -155,21 +155,21 @@
       },
       "image_asset": "images/yc_modules/budget_savings_yc_1.svg",
       "character_1_id": "f3_mother",
-      "character_1_text": "\"I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!\"",
+      "character_1_text": "I want the best future for my children, but I don’t know where to get the money. Loan sharks are dangerous and paying them back is so expensive. I should save, but that feels impossible!",
       "completed": false
     },
     {
       "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "\"My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?\""
+          "eng": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?"
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_2.svg",
       "character_1_id": "f3_mother",
-      "character_1_text": "\"My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?\"",
+      "character_1_text": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
       "_translations": {
         "character_1_text": {}
       },
@@ -179,14 +179,14 @@
       "id": "explore_3",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "\"Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.\""
+          "eng": "Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group."
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_3.svg",
       "character_1_id": "f3_mother",
-      "character_1_text": "\"Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.\"",
+      "character_1_text": "Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.",
       "_translations": {
         "character_1_text": {}
       },
@@ -196,14 +196,14 @@
       "id": "explore_4",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "\"I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.\""
+          "eng": "I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need."
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_4.svg",
-      "character_1_id": "f1_mother",
-      "character_1_text": "\"I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.\"",
+      "character_1_id": "f3_mother",
+      "character_1_text": "I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.",
       "_translations": {
         "character_1_text": {}
       },

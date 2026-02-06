@@ -263,13 +263,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "88197 KB",
-        "MB": "88.2 MB"
+        "KB": "88777 KB",
+        "MB": "88.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "39538 KB",
-        "MB": "39.5 MB"
+        "KB": "38958 KB",
+        "MB": "39 MB"
       }
     ]
   },
@@ -872,36 +872,12 @@
         "size_kb": 44.5
       },
       {
-        "path": "images/yc_modules/reading_2to3_1.svg",
-        "size_kb": 68.6
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_2.svg",
-        "size_kb": 73.7
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_3.svg",
-        "size_kb": 77.7
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_4.svg",
-        "size_kb": 73.9
-      },
-      {
         "path": "images/yc_modules/safe_touch_2to5_yc_f_5.svg",
         "size_kb": 42.3
       },
       {
         "path": "images/yc_modules/safe_touch_2to5_yc_m_5.svg",
         "size_kb": 38.8
-      },
-      {
-        "path": "images/yc_modules/spirituality_yc_2.svg",
-        "size_kb": 144.2
-      },
-      {
-        "path": "images/yc_modules/spirituality_yc_3.svg",
-        "size_kb": 141.4
       },
       {
         "path": "images/yc_modules/take_a_pause_1_1.svg",
@@ -1035,11 +1011,6 @@
         "missing": true
       },
       {
-        "path": "images/icons/lightbulbt_blue.png",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "images/logos/plh_logomark.png",
         "count": 1,
         "missing": true
@@ -1056,36 +1027,6 @@
       },
       {
         "path": "images/yc_modules/ipv_sharing_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_yc_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_yc_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_yc_3.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/yc_modules/reading_2to3_yc_4.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/yc_modules/self_care_yc_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "images/yc_modules/self_care_yc_3.svg",
         "count": 2,
         "missing": true
       }
@@ -1520,7 +1461,7 @@
       },
       {
         "path": "images/icons/lightbulb_blue.png",
-        "count": 54,
+        "count": 56,
         "size_kb": 3.6
       },
       {
@@ -2229,6 +2170,26 @@
         "size_kb": 39.2
       },
       {
+        "path": "images/yc_modules/reading_2to3_yc_1.svg",
+        "count": 2,
+        "size_kb": 68.6
+      },
+      {
+        "path": "images/yc_modules/reading_2to3_yc_2.svg",
+        "count": 2,
+        "size_kb": 73.7
+      },
+      {
+        "path": "images/yc_modules/reading_2to3_yc_3.svg",
+        "count": 2,
+        "size_kb": 77.7
+      },
+      {
+        "path": "images/yc_modules/reading_2to3_yc_4.svg",
+        "count": 2,
+        "size_kb": 73.9
+      },
+      {
         "path": "images/yc_modules/redirect_yc_1.svg",
         "count": 2,
         "size_kb": 111.1
@@ -2332,6 +2293,16 @@
         "path": "images/yc_modules/spirituality_yc_1.svg",
         "count": 2,
         "size_kb": 144.6
+      },
+      {
+        "path": "images/yc_modules/spirituality_yc_2.svg",
+        "count": 2,
+        "size_kb": 144.2
+      },
+      {
+        "path": "images/yc_modules/spirituality_yc_3.svg",
+        "count": 2,
+        "size_kb": 141.4
       },
       {
         "path": "images/yc_modules/talk_feelings_yc_1.svg",

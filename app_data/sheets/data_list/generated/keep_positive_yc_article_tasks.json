@@ -169,7 +169,7 @@
       "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "[after 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone."
+          "eng": "[After 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone."
         },
         "character_2_text": {
           "eng": "No!! I’m not done!!"
@@ -180,7 +180,7 @@
       "image_asset": "images/yc_modules/keeping_it_positive_yc_2.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_4",
-      "character_1_text": "[after 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone.",
+      "character_1_text": "[After 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone.",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {}
@@ -224,7 +224,7 @@
       "category_id": "explore",
       "nested": false,
       "image_asset": "images/yc_modules/keeping_it_positive_yc_4.svg",
-      "character_1_id": "f1_mother",
+      "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_4",
       "character_1_text": "Thank you for handing the handphone back to me, @data.characters.f3_daughter_4.name. Did you like the story we read?",
       "_translations": {
