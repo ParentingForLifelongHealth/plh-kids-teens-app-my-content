@@ -115,10 +115,6 @@
       "type": "end_display_group"
     },
     {
-      "type": "text",
-      "value": "to complete"
-    },
-    {
       "type": "begin_data_items",
       "name": "other_courses",
       "value": "@data.courses",

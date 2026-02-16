@@ -92,7 +92,7 @@
     {
       "type": "text",
       "value": "@item.unlock",
-      "condition": true
+      "condition": false
     },
     {
       "name": "lock_module",
@@ -107,12 +107,12 @@
     {
       "type": "text",
       "value": "next to complete: @local.next_to_complete",
-      "condition": true
+      "condition": false
     },
     {
       "type": "text",
       "value": "lock: @local.lock_module",
-      "condition": true
+      "condition": false
     },
     {
       "type": "begin_template",

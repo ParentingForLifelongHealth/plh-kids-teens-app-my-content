@@ -36,7 +36,7 @@
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 980 |
-| text | 148 |
+| text | 147 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
