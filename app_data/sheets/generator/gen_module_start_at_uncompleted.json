@@ -160,6 +160,16 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "module_play_yc_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_learn_exp_yc_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "module_toddle_change_yc_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -171,16 +181,6 @@
     },
     {
       "flow_name": "module_child_change_yc_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_play_yc_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "module_learn_exp_yc_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -210,17 +210,17 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "module_manage_anger_yc_start_at_uncompleted",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "module_redirect_yc_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
       "flow_name": "module_ignore_demand_yc_start_at_uncompleted",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "module_manage_anger_yc_start_at_uncompleted",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

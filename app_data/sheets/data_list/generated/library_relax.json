@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_1.mp3",
       "media_type": "audio",
       "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
+      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda perlahan-lahan.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
       "title": "Quick pause",
       "_translations": {
         "title": {}
@@ -64,7 +64,7 @@
       "media_asset": "audio/relax/relax_4.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript_2": "Tutup mata anda.\n\n\nGunakan kuasa ajaib nombor tiga untuk kekal tenang dan berhubung dengan diri sendiri.\n\nTarik nafas sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\nTarik nafas sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\n\nAdakah anda rasa sedikit berbeza? Teknik pernafasan dalam membantu seluruh tubuh dan minda kita menjadi lebih tenang.\n\nAnda memang hebat!",
+      "transcript_2": "Tutup mata anda.\n\n\nGunakan kuasa ajaib nombor tiga untuk kekal tenang dan berhubung dengan diri sendiri.\n\nTarik nafas perlahan sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas perlahan sambil mengira hingga tiga. 1, 2, 3.\nTarik nafas sekali lagi sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\n\nAdakah anda rasa sedikit berbeza? \"Teknik Pernafasan Dalam\" ini membantu seluruh tubuh dan minda kita menjadi lebih tenang.\n\nAnda memang hebat!",
       "title": "Breathe to three",
       "_translations": {
         "title": {}
@@ -73,7 +73,8 @@
         "title": {
           "eng": "Breathe to three"
         }
-      }
+      },
+      "attached_single_doc": "lepaskan dalam kiraan 3. open eyes."
     },
     {
       "id": "relax_5",
@@ -82,7 +83,7 @@
       "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang boleh mengawalnya!",
+      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang mampu mengawalnya!",
       "title": "In and out",
       "_translations": {
         "title": {}
@@ -91,7 +92,8 @@
         "title": {
           "eng": "In and out"
         }
-      }
+      },
+      "attached_single_doc": "dengar bunyi pernafasan anda semasa menarik dam hembus nafas sebanyak Lima kali"
     },
     {
       "id": "relax_9",
@@ -100,7 +102,7 @@
       "media_asset": "audio/relax/relax_9.mp3",
       "media_type": "audio",
       "transcript_1": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
-      "transcript_2": "Berikut ialah satu aktiviti untuk merehatkan tubuh anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah cincin keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh anda. Adakah ada bahagian yang terasa tegang? Kebas? Sakit?\nFokus pada bahagian itu seketika. Tarik nafas ke arah bahagian tersebut dan, apabila anda menghembus nafas, cuba lepaskan apa-apa ketegangan atau rasa sakit.\nUlang dan tarik nafas beberapa kali.\n\nBuka mata anda. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
+      "transcript_2": "Berikut ialah satu aktiviti untuk merehatkan tubuh anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh anda. Adakah ada bahagian yang terasa tegang? Kebas? Sakit?\nFokus pada bahagian itu seketika. Tarik nafas ke arah bahagian tersebut dan, apabila anda menghembus nafas, cuba lepaskan apa-apa ketegangan atau rasa sakit.\nUlang dan tarik nafas beberapa kali.\n\nBuka mata anda. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
       "title": "Body scan",
       "_translations": {
         "title": {}

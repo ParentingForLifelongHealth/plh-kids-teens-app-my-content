@@ -3,18 +3,18 @@
 
 | type | count |
 | --- | --- |
-| accordion | 2 |
-| accordion_section | 5 |
+| accordion | 3 |
+| accordion_section | 6 |
 | animated_section | 1 |
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
 | button | 82 |
 | combo_box | 13 |
-| data_items | 157 |
+| data_items | 163 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 85 |
+| display_group | 88 |
 | google_sign_in_button | 2 |
 | image | 16 |
 | items | 10 |
@@ -31,16 +31,16 @@
 | round_button | 11 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2783 |
+| set_variable | 2801 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 977 |
-| text | 136 |
+| template | 980 |
+| text | 148 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
-| title | 41 |
+| title | 45 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -70,7 +70,7 @@
 | set_data | 79 |
 | set_field | 84 |
 | set_item | 70 |
-| set_local | 41 |
+| set_local | 44 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -80,8 +80,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 88777 KB | 88.8 MB |
-| unused | 38958 KB | 39 MB |
+| total | 89133 KB | 89.1 MB |
+| unused | 42425 KB | 42.4 MB |
 </details>
 
 <details open>
@@ -157,11 +157,6 @@ Assets that appear in app-data but do not have references within sheets
 | audio/yc/uncompressed/solve_audio_2.mp3 | 468.1 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/flags/gb.svg | 0.5 |
-| images/homescreen/behave.svg | 31.6 |
-| images/homescreen/budget.svg | 15.1 |
-| images/homescreen/develop.svg | 35.1 |
-| images/homescreen/ipv.svg | 27.3 |
-| images/homescreen/learning.svg | 47.1 |
 | images/homescreen/listview/celebrate_t.svg | 31.1 |
 | images/homescreen/listview/consequence_t.svg | 29.3 |
 | images/homescreen/listview/consequences.svg | 37.5 |
@@ -187,9 +182,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/homescreen/listview/srh_t.svg | 40.9 |
 | images/homescreen/listview/stress_t.svg | 15.5 |
 | images/homescreen/listview/svp_t.svg | 20.3 |
-| images/homescreen/relation.svg | 37.3 |
-| images/homescreen/safety.svg | 116 |
-| images/homescreen/structure.svg | 46.9 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
 | images/icons/book_outline_white.svg | 0.7 |
@@ -234,11 +226,17 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/plh_white.png | 12.8 |
 | images/onboarding/facilitator_female_onboarding_icon.svg | 636.4 |
 | images/onboarding/facilitator_male_onboarding_icon.svg | 459.5 |
+| images/yc_modules/Copy of ipv_sharing-01.svg | 634.2 |
+| images/yc_modules/Copy of ipv_sharing-02.svg | 637.4 |
+| images/yc_modules/Copy of ipv_sharing-03.svg | 640 |
 | images/yc_modules/budget_savings_yc_5.svg | 51.8 |
 | images/yc_modules/com_safety_5to9_yc_5.svg | 327.1 |
 | images/yc_modules/crises_7to9_yc_5.svg | 255.1 |
 | images/yc_modules/crises_7to9_yc_6.svg | 223.1 |
 | images/yc_modules/ignore_demanding_yc_5.svg | 56.5 |
+| images/yc_modules/ipv_sharing-01.svg | 634.2 |
+| images/yc_modules/ipv_sharing-02.svg | 637.4 |
+| images/yc_modules/ipv_sharing-03.svg | 640 |
 | images/yc_modules/learn_experience_yc_5.svg | 44.5 |
 | images/yc_modules/safe_touch_2to5_yc_f_5.svg | 42.3 |
 | images/yc_modules/safe_touch_2to5_yc_m_5.svg | 38.8 |
@@ -355,8 +353,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/facilitator_female.svg | 636.4 | 3 |
 | images/character_icons/facilitator_male.svg | 459.5 | 3 |
 | images/character_icons/man_in_car.svg | 1241.8 | 1 |
+| images/homescreen/behave.svg | 31.6 | 1 |
+| images/homescreen/budget.svg | 15.1 | 1 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1692.7 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 2901.6 | 1 |
+| images/homescreen/develop.svg | 35.1 | 1 |
+| images/homescreen/ipv.svg | 27.3 | 1 |
+| images/homescreen/learning.svg | 47.1 | 1 |
+| images/homescreen/relation.svg | 37.3 | 1 |
+| images/homescreen/safety.svg | 116 | 1 |
+| images/homescreen/structure.svg | 46.9 | 1 |
 | images/icons/diamond.png | 1.8 | 2 |
 | images/icons/diamond_active.png | 1.7 | 2 |
 | images/icons/diamond_blue.png | 4.7 | 94 |
@@ -576,7 +582,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 11 |
+| data_list |  | 12 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
@@ -642,7 +648,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 2 |
-| template |  | 123 |
+| template |  | 124 |
 | template | generated | 788 |
 | template | legal_terms | 4 |
 </details>

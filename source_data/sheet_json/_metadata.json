@@ -177,6 +177,15 @@
   },
   {
     "flow_type": "data_list",
+    "flow_name": "courses",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY modules.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_subtype": "modules_crises_2to6_yc",
     "flow_name": "crises_2to6_yc_articles",
     "_source": {
@@ -1866,6 +1875,15 @@
       "name": "kids_global",
       "path": "templates/modules/module_navigation.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "module_group",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY module_navigation.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
     }
   },
   {

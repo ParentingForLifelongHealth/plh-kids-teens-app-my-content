@@ -92,6 +92,24 @@
         "url": "https://docs.google.com/spreadsheets/d/1aUwbR38bDjfGwoFG1DaHaRejyoCbFGhyFOZ0lVJmOks"
       }
     },
+    "courses": {
+      "flow_type": "data_list",
+      "flow_name": "courses",
+      "data_list_name": "courses",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "data/MY modules.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
+      },
+      "_metadata": {
+        "core": {
+          "type": "boolean"
+        },
+        "completed": {
+          "type": "boolean"
+        }
+      }
+    },
     "activity_tasks": {
       "flow_name": "activity_tasks",
       "flow_subtype": "generated",
@@ -648,6 +666,12 @@
         "number": {
           "type": "number"
         },
+        "unlock": {
+          "type": "number"
+        },
+        "core": {
+          "type": "boolean"
+        },
         "completed": {
           "type": "boolean"
         }
@@ -1119,6 +1143,12 @@
       "_metadata": {
         "number": {
           "type": "number"
+        },
+        "unlock": {
+          "type": "number"
+        },
+        "core": {
+          "type": "boolean"
         }
       }
     },
@@ -3554,6 +3584,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_play_yc_check_in_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_learn_exp_yc_check_in_3",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_toddle_change_yc_check_in_15",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3565,16 +3605,6 @@
         },
         {
           "flow_name": "article_child_change_yc_check_in_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_play_yc_check_in_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_learn_exp_yc_check_in_3",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3604,17 +3634,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_manage_anger_yc_check_in_9",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_redirect_yc_check_in_10",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "article_ignore_demand_yc_check_in_11",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_manage_anger_yc_check_in_9",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4419,6 +4449,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "module_play_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_learn_exp_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "module_toddle_change_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4430,16 +4470,6 @@
         },
         {
           "flow_name": "module_child_change_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_play_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_learn_exp_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4469,17 +4499,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_manage_anger_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "module_redirect_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "module_ignore_demand_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_manage_anger_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4676,6 +4706,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "module_overview_play_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_learn_exp_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "module_overview_toddle_change_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4687,16 +4727,6 @@
         },
         {
           "flow_name": "module_overview_child_change_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_overview_play_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_overview_learn_exp_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4726,17 +4756,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_overview_manage_anger_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "module_overview_redirect_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "module_overview_ignore_demand_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_overview_manage_anger_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4933,6 +4963,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "module_play_yc_start_at_uncompleted",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_learn_exp_yc_start_at_uncompleted",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "module_toddle_change_yc_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4944,16 +4984,6 @@
         },
         {
           "flow_name": "module_child_change_yc_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_play_yc_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "module_learn_exp_yc_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4983,17 +5013,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "module_manage_anger_yc_start_at_uncompleted",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "module_redirect_yc_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "module_ignore_demand_yc_start_at_uncompleted",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "module_manage_anger_yc_start_at_uncompleted",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -5190,6 +5220,16 @@
           "flow_type": "data_pipe"
         },
         {
+          "flow_name": "prep_play_yc_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_learn_exp_yc_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
           "flow_name": "prep_toddle_change_yc_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -5201,16 +5241,6 @@
         },
         {
           "flow_name": "prep_child_change_yc_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_play_yc_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_learn_exp_yc_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -5240,17 +5270,17 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_manage_anger_yc_articles",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
           "flow_name": "prep_redirect_yc_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
         {
           "flow_name": "prep_ignore_demand_yc_articles",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_manage_anger_yc_articles",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -5447,6 +5477,16 @@
           "flow_type": "data_pipe"
         },
         {
+          "flow_name": "prep_play_yc_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_learn_exp_yc_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
           "flow_name": "prep_toddle_change_yc_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
@@ -5458,16 +5498,6 @@
         },
         {
           "flow_name": "prep_child_change_yc_categories",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_play_yc_categories",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
-          "flow_name": "prep_learn_exp_yc_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -5497,17 +5527,17 @@
           "flow_type": "data_pipe"
         },
         {
-          "flow_name": "prep_manage_anger_yc_categories",
-          "flow_subtype": "generated",
-          "flow_type": "data_pipe"
-        },
-        {
           "flow_name": "prep_redirect_yc_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
         {
           "flow_name": "prep_ignore_demand_yc_categories",
+          "flow_subtype": "generated",
+          "flow_type": "data_pipe"
+        },
+        {
+          "flow_name": "prep_manage_anger_yc_categories",
           "flow_subtype": "generated",
           "flow_type": "data_pipe"
         },
@@ -5841,6 +5871,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "stack_module_play_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_module_learn_exp_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "stack_module_toddle_change_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -5852,16 +5892,6 @@
         },
         {
           "flow_name": "stack_module_child_change_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_module_play_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_module_learn_exp_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -5891,17 +5921,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_manage_anger_yc",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "stack_module_redirect_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "stack_module_ignore_demand_yc",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_module_manage_anger_yc",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -6098,6 +6128,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "stack_module_play_yc_start_at_id",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_module_learn_exp_yc_start_at_id",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "stack_module_toddle_change_yc_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -6109,16 +6149,6 @@
         },
         {
           "flow_name": "stack_module_child_change_yc_start_at_id",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_module_play_yc_start_at_id",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_module_learn_exp_yc_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -6148,17 +6178,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "stack_module_manage_anger_yc_start_at_id",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "stack_module_redirect_yc_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "stack_module_ignore_demand_yc_start_at_id",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "stack_module_manage_anger_yc_start_at_id",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7364,6 +7394,16 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_play_yc_relax_8",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_learn_exp_yc_relax_9",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_toddle_change_yc_relax_5",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7375,16 +7415,6 @@
         },
         {
           "flow_name": "article_child_change_yc_relax_7",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_play_yc_relax_8",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_learn_exp_yc_relax_9",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7414,17 +7444,17 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_manage_anger_yc_relax_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_redirect_yc_relax_6",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
         {
           "flow_name": "article_ignore_demand_yc_relax_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_manage_anger_yc_relax_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -13130,6 +13160,15 @@
         "name": "kids_global",
         "path": "templates/modules/module_navigation.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
+      }
+    },
+    "module_group": {
+      "flow_type": "template",
+      "flow_name": "module_group",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "templates/MY module_navigation.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
       }
     },
     "module_landing": {

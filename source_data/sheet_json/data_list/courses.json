@@ -1,0 +1,64 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "courses",
+  "data_list_name": "courses",
+  "status": "released",
+  "rows": [
+    {
+      "id": "relation",
+      "core": true,
+      "title::eng": "Relationship with My Child",
+      "image_asset": "images/homescreen/relation.svg",
+      "completed": false
+    },
+    {
+      "id": "learning",
+      "core": false,
+      "title::eng": "Success in School",
+      "image_asset": "images/homescreen/learning.svg",
+      "completed": false
+    },
+    {
+      "id": "develop",
+      "core": false,
+      "title::eng": "Child Development",
+      "image_asset": "images/homescreen/develop.svg",
+      "completed": false
+    },
+    {
+      "id": "structure",
+      "core": false,
+      "title::eng": "Give Structure",
+      "image_asset": "images/homescreen/structure.svg",
+      "completed": false
+    },
+    {
+      "id": "behave",
+      "core": false,
+      "title::eng": "Positive Behaviour",
+      "image_asset": "images/homescreen/behave.svg",
+      "completed": false
+    },
+    {
+      "id": "safety",
+      "core": false,
+      "title::eng": "Safety and Health",
+      "image_asset": "images/homescreen/safety.svg",
+      "completed": false
+    },
+    {
+      "id": "ipv",
+      "core": false,
+      "title::eng": "Relationship with My Spouse",
+      "image_asset": "images/homescreen/ipv.svg",
+      "completed": false
+    },
+    {
+      "id": "budget",
+      "core": false,
+      "title::eng": "Budget and Savings",
+      "image_asset": "images/homescreen/budget.svg",
+      "completed": false
+    }
+  ]
+}
