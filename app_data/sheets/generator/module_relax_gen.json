@@ -131,6 +131,16 @@
       "flow_type": "template"
     },
     {
+      "flow_name": "article_play_yc_relax_8",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_learn_exp_yc_relax_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
       "flow_name": "article_toddle_change_yc_relax_5",
       "flow_subtype": "generated",
       "flow_type": "template"
@@ -142,16 +152,6 @@
     },
     {
       "flow_name": "article_child_change_yc_relax_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_play_yc_relax_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "article_learn_exp_yc_relax_9",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -181,17 +181,17 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_manage_anger_yc_relax_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_redirect_yc_relax_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
       "flow_name": "article_ignore_demand_yc_relax_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "article_manage_anger_yc_relax_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

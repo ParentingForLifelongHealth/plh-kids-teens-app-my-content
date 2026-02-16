@@ -3,11 +3,11 @@
     "data": [
       {
         "type": "accordion",
-        "count": 2
+        "count": 3
       },
       {
         "type": "accordion_section",
-        "count": 5
+        "count": 6
       },
       {
         "type": "animated_section",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 157
+        "count": 163
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 85
+        "count": 88
       },
       {
         "type": "google_sign_in_button",
@@ -115,7 +115,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2783
+        "count": 2801
       },
       {
         "type": "simple_checkbox",
@@ -131,11 +131,11 @@
       },
       {
         "type": "template",
-        "count": 977
+        "count": 980
       },
       {
         "type": "text",
-        "count": 136
+        "count": 148
       },
       {
         "type": "text_area",
@@ -151,7 +151,7 @@
       },
       {
         "type": "title",
-        "count": 41
+        "count": 45
       },
       {
         "type": "toggle_bar",
@@ -247,7 +247,7 @@
       },
       {
         "type": "set_local",
-        "count": 41
+        "count": 44
       },
       {
         "type": "task",
@@ -263,13 +263,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "88777 KB",
-        "MB": "88.8 MB"
+        "KB": "89133 KB",
+        "MB": "89.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "38958 KB",
-        "MB": "39 MB"
+        "KB": "42425 KB",
+        "MB": "42.4 MB"
       }
     ]
   },
@@ -540,26 +540,6 @@
         "size_kb": 0.5
       },
       {
-        "path": "images/homescreen/behave.svg",
-        "size_kb": 31.6
-      },
-      {
-        "path": "images/homescreen/budget.svg",
-        "size_kb": 15.1
-      },
-      {
-        "path": "images/homescreen/develop.svg",
-        "size_kb": 35.1
-      },
-      {
-        "path": "images/homescreen/ipv.svg",
-        "size_kb": 27.3
-      },
-      {
-        "path": "images/homescreen/learning.svg",
-        "size_kb": 47.1
-      },
-      {
         "path": "images/homescreen/listview/celebrate_t.svg",
         "size_kb": 31.1
       },
@@ -658,18 +638,6 @@
       {
         "path": "images/homescreen/listview/svp_t.svg",
         "size_kb": 20.3
-      },
-      {
-        "path": "images/homescreen/relation.svg",
-        "size_kb": 37.3
-      },
-      {
-        "path": "images/homescreen/safety.svg",
-        "size_kb": 116
-      },
-      {
-        "path": "images/homescreen/structure.svg",
-        "size_kb": 46.9
       },
       {
         "path": "images/icons/balance_blue.png",
@@ -848,6 +816,18 @@
         "size_kb": 459.5
       },
       {
+        "path": "images/yc_modules/Copy of ipv_sharing-01.svg",
+        "size_kb": 634.2
+      },
+      {
+        "path": "images/yc_modules/Copy of ipv_sharing-02.svg",
+        "size_kb": 637.4
+      },
+      {
+        "path": "images/yc_modules/Copy of ipv_sharing-03.svg",
+        "size_kb": 640
+      },
+      {
         "path": "images/yc_modules/budget_savings_yc_5.svg",
         "size_kb": 51.8
       },
@@ -866,6 +846,18 @@
       {
         "path": "images/yc_modules/ignore_demanding_yc_5.svg",
         "size_kb": 56.5
+      },
+      {
+        "path": "images/yc_modules/ipv_sharing-01.svg",
+        "size_kb": 634.2
+      },
+      {
+        "path": "images/yc_modules/ipv_sharing-02.svg",
+        "size_kb": 637.4
+      },
+      {
+        "path": "images/yc_modules/ipv_sharing-03.svg",
+        "size_kb": 640
       },
       {
         "path": "images/yc_modules/learn_experience_yc_5.svg",
@@ -1355,6 +1347,16 @@
         "size_kb": 1241.8
       },
       {
+        "path": "images/homescreen/behave.svg",
+        "count": 1,
+        "size_kb": 31.6
+      },
+      {
+        "path": "images/homescreen/budget.svg",
+        "count": 1,
+        "size_kb": 15.1
+      },
+      {
         "path": "images/homescreen/check_in/traditional_rondavel_closed.svg",
         "count": 1,
         "size_kb": 1692.7
@@ -1363,6 +1365,36 @@
         "path": "images/homescreen/check_in/traditional_rondavel_open.svg",
         "count": 1,
         "size_kb": 2901.6
+      },
+      {
+        "path": "images/homescreen/develop.svg",
+        "count": 1,
+        "size_kb": 35.1
+      },
+      {
+        "path": "images/homescreen/ipv.svg",
+        "count": 1,
+        "size_kb": 27.3
+      },
+      {
+        "path": "images/homescreen/learning.svg",
+        "count": 1,
+        "size_kb": 47.1
+      },
+      {
+        "path": "images/homescreen/relation.svg",
+        "count": 1,
+        "size_kb": 37.3
+      },
+      {
+        "path": "images/homescreen/safety.svg",
+        "count": 1,
+        "size_kb": 116
+      },
+      {
+        "path": "images/homescreen/structure.svg",
+        "count": 1,
+        "size_kb": 46.9
       },
       {
         "path": "images/icons/diamond.png",
@@ -2431,7 +2463,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 11
+        "total": 12
       },
       {
         "type": "data_list",
@@ -2761,7 +2793,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 123
+        "total": 124
       },
       {
         "type": "template",

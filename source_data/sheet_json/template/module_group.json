@@ -1,0 +1,160 @@
+{
+  "flow_type": "template",
+  "flow_name": "module_group",
+  "status": "released",
+  "rows": [
+    {
+      "name": "course",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "show_completed",
+      "value": false
+    },
+    {
+      "name": "all_locked",
+      "value": false
+    },
+    {
+      "name": "next_to_complete",
+      "value": 999999,
+      "comments": "default to way above highest number of modules for completed"
+    },
+    {
+      "type": "data_items",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : next_to_complete : @items[0]?.number;",
+      "parameter_list": "filter: !@item.completed_ts &&  (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nlimit: 1;",
+      "condition": "!@local.show_completed && !@local.all_locked"
+    },
+    {
+      "type": "text",
+      "name": "DEBUG_course",
+      "value": "course: @local.course",
+      "condition": false,
+      "comments": "course"
+    },
+    {
+      "type": "text",
+      "name": "DEBUG_course_title",
+      "value": "course_title: @local.course_title",
+      "condition": false,
+      "comments": "course_title"
+    },
+    {
+      "type": "text",
+      "name": "DEBUG_show_completed",
+      "value": "show_completed: @local.show_completed",
+      "condition": false,
+      "comments": "show_completed"
+    },
+    {
+      "type": "text",
+      "name": "DEBUG_show_group",
+      "value": "show_group: @local.show_group",
+      "condition": false,
+      "comments": "show_group"
+    },
+    {
+      "type": "text",
+      "name": "DEBUG_last_completed",
+      "value": "last_completed: @local.last_completed",
+      "condition": false,
+      "comments": "last_completed"
+    },
+    {
+      "type": "text",
+      "name": "DEBUG_next_to_complete",
+      "value": "next_to_complete: @local.next_to_complete",
+      "condition": false,
+      "comments": "next_to_complete"
+    },
+    {
+      "type": "begin_accordion"
+    },
+    {
+      "type": "begin_accordion_section",
+      "value": "@local.course_title",
+      "comments": "(!@local.show_completed && (@local.show_group > 0)) || (!!@local.show_completed && (@local.show_group == 0))"
+    },
+    {
+      "type": "begin_data_items",
+      "name": "loop_modules",
+      "value": "@data.module_tasks",
+      "parameter_list": "filter: (@item.tag_course == @local.course)  &&  (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;",
+      "exclude_from_translation": true,
+      "comments": "&& (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;"
+    },
+    {
+      "type": "text",
+      "value": "@item.unlock",
+      "condition": true
+    },
+    {
+      "name": "lock_module",
+      "value": true,
+      "condition": "!!@local.all_locked"
+    },
+    {
+      "name": "lock_module",
+      "value": "@item.unlock >= @local.next_to_complete",
+      "condition": "!@local.all_locked"
+    },
+    {
+      "type": "text",
+      "value": "next to complete: @local.next_to_complete",
+      "condition": true
+    },
+    {
+      "type": "text",
+      "value": "lock: @local.lock_module",
+      "condition": true
+    },
+    {
+      "type": "begin_template",
+      "name": "module_@item.id",
+      "value": "module_list_item",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@item.id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "is_completed",
+      "value": "!!@item.completed_ts"
+    },
+    {
+      "name": "is_locked",
+      "value": false,
+      "condition": "!!@local.show_completed",
+      "exclude_from_translation": true,
+      "comments": "@local.show_completed"
+    },
+    {
+      "name": "is_locked",
+      "value": "@local.lock_module",
+      "condition": "!@local.show_completed",
+      "comments": "!@local.show_completed"
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_data_items",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_accordion_section"
+    },
+    {
+      "type": "end_accordion"
+    }
+  ]
+}

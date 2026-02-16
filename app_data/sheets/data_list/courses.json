@@ -1,0 +1,141 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "courses",
+  "data_list_name": "courses",
+  "status": "released",
+  "rows": [
+    {
+      "id": "relation",
+      "core": true,
+      "image_asset": "images/homescreen/relation.svg",
+      "completed": false,
+      "title": "Relationship with My Child",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relationship with My Child"
+        }
+      }
+    },
+    {
+      "id": "learning",
+      "core": false,
+      "image_asset": "images/homescreen/learning.svg",
+      "completed": false,
+      "title": "Success in School",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Success in School"
+        }
+      }
+    },
+    {
+      "id": "develop",
+      "core": false,
+      "image_asset": "images/homescreen/develop.svg",
+      "completed": false,
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
+        }
+      }
+    },
+    {
+      "id": "structure",
+      "core": false,
+      "image_asset": "images/homescreen/structure.svg",
+      "completed": false,
+      "title": "Give Structure",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Give Structure"
+        }
+      }
+    },
+    {
+      "id": "behave",
+      "core": false,
+      "image_asset": "images/homescreen/behave.svg",
+      "completed": false,
+      "title": "Positive Behaviour",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Positive Behaviour"
+        }
+      }
+    },
+    {
+      "id": "safety",
+      "core": false,
+      "image_asset": "images/homescreen/safety.svg",
+      "completed": false,
+      "title": "Safety and Health",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safety and Health"
+        }
+      }
+    },
+    {
+      "id": "ipv",
+      "core": false,
+      "image_asset": "images/homescreen/ipv.svg",
+      "completed": false,
+      "title": "Relationship with My Spouse",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Relationship with My Spouse"
+        }
+      }
+    },
+    {
+      "id": "budget",
+      "core": false,
+      "image_asset": "images/homescreen/budget.svg",
+      "completed": false,
+      "title": "Budget and Savings",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Budget and Savings"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
+  },
+  "_metadata": {
+    "core": {
+      "type": "boolean"
+    },
+    "completed": {
+      "type": "boolean"
+    }
+  }
+}

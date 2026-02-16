@@ -141,6 +141,16 @@
       "flow_type": "data_pipe"
     },
     {
+      "flow_name": "prep_play_yc_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_learn_exp_yc_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
       "flow_name": "prep_toddle_change_yc_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
@@ -152,16 +162,6 @@
     },
     {
       "flow_name": "prep_child_change_yc_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_play_yc_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
-      "flow_name": "prep_learn_exp_yc_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
@@ -191,17 +191,17 @@
       "flow_type": "data_pipe"
     },
     {
-      "flow_name": "prep_manage_anger_yc_articles",
-      "flow_subtype": "generated",
-      "flow_type": "data_pipe"
-    },
-    {
       "flow_name": "prep_redirect_yc_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },
     {
       "flow_name": "prep_ignore_demand_yc_articles",
+      "flow_subtype": "generated",
+      "flow_type": "data_pipe"
+    },
+    {
+      "flow_name": "prep_manage_anger_yc_articles",
       "flow_subtype": "generated",
       "flow_type": "data_pipe"
     },

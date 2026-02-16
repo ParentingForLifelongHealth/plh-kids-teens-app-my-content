@@ -29,7 +29,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 1,
+      "number": 2,
+      "unlock": 1,
+      "core": true,
       "relax_id": "relax_1",
       "check_in_id": "check_in_1",
       "title": "One-on-One Time",
@@ -66,7 +68,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 2,
+      "number": 3,
+      "unlock": 2,
+      "core": true,
       "relax_id": "relax_2",
       "check_in_id": "check_in_2",
       "title": "Kindness to Self",
@@ -103,7 +107,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 3,
+      "number": 4,
+      "unlock": 2,
+      "core": true,
       "relax_id": "relax_3",
       "check_in_id": "check_in_3",
       "title": "Give Praise",
@@ -140,7 +146,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 4,
+      "number": 5,
+      "unlock": 2,
+      "core": true,
       "relax_id": "relax_4",
       "check_in_id": "check_in_4",
       "title": "Feelings",
@@ -177,7 +185,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 5,
+      "number": 6,
+      "unlock": 2,
+      "core": true,
       "relax_id": "relax_5",
       "check_in_id": "check_in_5",
       "title": "Parenting Values",
@@ -212,7 +222,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 6,
+      "number": 7,
+      "unlock": 6,
+      "core": false,
       "relax_id": "relax_6",
       "check_in_id": "check_in_6",
       "title": "Language Skills",
@@ -245,7 +257,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 7,
+      "number": 8,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_7",
       "check_in_id": "check_in_7",
       "title": "Reading, Part 1",
@@ -278,7 +292,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 8,
+      "number": 9,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_8",
       "check_in_id": "check_in_8",
       "title": "Reading, Part 2",
@@ -311,7 +327,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 9,
+      "number": 10,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_9",
       "check_in_id": "check_in_9",
       "title": "Maths, Part 1",
@@ -344,7 +362,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 10,
+      "number": 11,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_10",
       "check_in_id": "check_in_10",
       "title": "Maths, Part 2",
@@ -375,7 +395,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 11,
+      "number": 12,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_1",
       "check_in_id": "check_in_11",
       "title": "Reading",
@@ -405,7 +427,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 12,
+      "number": 13,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_2",
       "check_in_id": "check_in_12",
       "title": "Maths",
@@ -435,7 +459,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 12,
+      "number": 14,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_3",
       "check_in_id": "check_in_13",
       "title": "Maths",
@@ -469,7 +495,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 13,
+      "number": 15,
+      "unlock": 7,
+      "core": false,
       "relax_id": "relax_4",
       "check_in_id": "check_in_14",
       "title": "Talk to Teachers",
@@ -479,101 +507,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Talk to Teachers"
-        }
-      }
-    },
-    {
-      "id": "toddle_change_yc",
-      "tag_course": "develop",
-      "age_list": [
-        "2",
-        "3"
-      ],
-      "child_gender_list": [
-        "male",
-        "female"
-      ],
-      "caregiver_relationship_list": [
-        "yes",
-        "no"
-      ],
-      "tag_list": [
-        "child"
-      ],
-      "number": 16,
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_15",
-      "title": "Child Development",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Child Development"
-        }
-      }
-    },
-    {
-      "id": "young_change_yc",
-      "tag_course": "develop",
-      "age_list": [
-        "4",
-        "5",
-        "6"
-      ],
-      "child_gender_list": [
-        "male",
-        "female"
-      ],
-      "caregiver_relationship_list": [
-        "yes",
-        "no"
-      ],
-      "tag_list": [
-        "child"
-      ],
-      "number": 17,
-      "relax_id": "relax_6",
-      "check_in_id": "check_in_16",
-      "title": "Child Development",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Child Development"
-        }
-      }
-    },
-    {
-      "id": "child_change_yc",
-      "tag_course": "develop",
-      "age_list": [
-        "7",
-        "8",
-        "9"
-      ],
-      "child_gender_list": [
-        "male",
-        "female"
-      ],
-      "caregiver_relationship_list": [
-        "yes",
-        "no"
-      ],
-      "tag_list": [
-        "child"
-      ],
-      "number": 18,
-      "relax_id": "relax_7",
-      "check_in_id": "check_in_1",
-      "title": "Child Development",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Child Development"
         }
       }
     },
@@ -601,7 +534,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 14,
+      "number": 16,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_8",
       "check_in_id": "check_in_2",
       "title": "Play & Learn",
@@ -638,7 +573,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 15,
+      "number": 17,
+      "unlock": 15,
+      "core": false,
       "relax_id": "relax_9",
       "check_in_id": "check_in_3",
       "title": "Life Lessons",
@@ -648,6 +585,107 @@
       "_translatedFields": {
         "title": {
           "eng": "Life Lessons"
+        }
+      }
+    },
+    {
+      "id": "toddle_change_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "2",
+        "3"
+      ],
+      "child_gender_list": [
+        "male",
+        "female"
+      ],
+      "caregiver_relationship_list": [
+        "yes",
+        "no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 18,
+      "unlock": 15,
+      "core": false,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_15",
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
+        }
+      }
+    },
+    {
+      "id": "young_change_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "4",
+        "5",
+        "6"
+      ],
+      "child_gender_list": [
+        "male",
+        "female"
+      ],
+      "caregiver_relationship_list": [
+        "yes",
+        "no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 19,
+      "unlock": 15,
+      "core": false,
+      "relax_id": "relax_6",
+      "check_in_id": "check_in_16",
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
+        }
+      }
+    },
+    {
+      "id": "child_change_yc",
+      "tag_course": "develop",
+      "age_list": [
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female"
+      ],
+      "caregiver_relationship_list": [
+        "yes",
+        "no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 20,
+      "unlock": 15,
+      "core": false,
+      "relax_id": "relax_7",
+      "check_in_id": "check_in_1",
+      "title": "Child Development",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Child Development"
         }
       }
     },
@@ -675,7 +713,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 19,
+      "number": 21,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_10",
       "check_in_id": "check_in_4",
       "title": "Manage Stress",
@@ -712,7 +752,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 20,
+      "number": 22,
+      "unlock": 20,
+      "core": false,
       "relax_id": "relax_1",
       "check_in_id": "check_in_5",
       "title": "Keep it Positive",
@@ -749,7 +791,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 21,
+      "number": 23,
+      "unlock": 20,
+      "core": false,
       "relax_id": "relax_2",
       "check_in_id": "check_in_6",
       "title": "Daily Routines",
@@ -786,7 +830,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 22,
+      "number": 24,
+      "unlock": 20,
+      "core": false,
       "relax_id": "relax_3",
       "check_in_id": "check_in_7",
       "title": "Family Rules",
@@ -823,7 +869,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 23,
+      "number": 25,
+      "unlock": 20,
+      "core": false,
       "relax_id": "relax_4",
       "check_in_id": "check_in_8",
       "title": "Roles at Home",
@@ -833,43 +881,6 @@
       "_translatedFields": {
         "title": {
           "eng": "Roles at Home"
-        }
-      }
-    },
-    {
-      "id": "manage_anger_yc",
-      "tag_course": "behave",
-      "age_list": [
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "child_gender_list": [
-        "male",
-        "female"
-      ],
-      "caregiver_relationship_list": [
-        "yes",
-        "no"
-      ],
-      "tag_list": [
-        "child"
-      ],
-      "number": 26,
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_9",
-      "title": "Manage Anger",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Manage Anger"
         }
       }
     },
@@ -897,7 +908,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 24,
+      "number": 26,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_6",
       "check_in_id": "check_in_10",
       "title": "Misbehaviour",
@@ -934,7 +947,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 25,
+      "number": 27,
+      "unlock": 25,
+      "core": false,
       "relax_id": "relax_7",
       "check_in_id": "check_in_11",
       "title": "Manage Demands",
@@ -944,6 +959,45 @@
       "_translatedFields": {
         "title": {
           "eng": "Manage Demands"
+        }
+      }
+    },
+    {
+      "id": "manage_anger_yc",
+      "tag_course": "behave",
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female"
+      ],
+      "caregiver_relationship_list": [
+        "yes",
+        "no"
+      ],
+      "tag_list": [
+        "child"
+      ],
+      "number": 28,
+      "unlock": 25,
+      "core": false,
+      "relax_id": "relax_5",
+      "check_in_id": "check_in_9",
+      "title": "Manage Anger",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Manage Anger"
         }
       }
     },
@@ -971,7 +1025,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 27,
+      "number": 29,
+      "unlock": 25,
+      "core": false,
       "relax_id": "relax_8",
       "check_in_id": "check_in_12",
       "title": "Consequences",
@@ -1008,7 +1064,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 28,
+      "number": 30,
+      "unlock": 25,
+      "core": false,
       "relax_id": "relax_9",
       "check_in_id": "check_in_13",
       "title": "Problem Solving",
@@ -1040,7 +1098,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 29,
+      "number": 31,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_10",
       "check_in_id": "check_in_14",
       "title": "Safe Touch",
@@ -1072,7 +1132,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 30,
+      "number": 32,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_1",
       "check_in_id": "check_in_15",
       "title": "Safe Touch",
@@ -1105,7 +1167,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 31,
+      "number": 33,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_2",
       "check_in_id": "check_in_16",
       "title": "Safe Touch",
@@ -1137,7 +1201,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 32,
+      "number": 34,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_3",
       "check_in_id": "check_in_1",
       "title": "Stay Safe",
@@ -1171,7 +1237,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 33,
+      "number": 35,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_4",
       "check_in_id": "check_in_2",
       "title": "Stay Safe",
@@ -1205,7 +1273,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 34,
+      "number": 36,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_5",
       "check_in_id": "check_in_3",
       "title": "Stay Safe",
@@ -1237,7 +1307,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 35,
+      "number": 37,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_6",
       "check_in_id": "check_in_4",
       "title": "Crises",
@@ -1274,7 +1346,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 36,
+      "number": 38,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_7",
       "check_in_id": "check_in_5",
       "title": "Online Safety",
@@ -1311,7 +1385,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 37,
+      "number": 39,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_8",
       "check_in_id": "check_in_6",
       "title": "Online Habits",
@@ -1348,7 +1424,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 38,
+      "number": 40,
+      "unlock": 30,
+      "core": false,
       "relax_id": "relax_9",
       "check_in_id": "check_in_7",
       "title": "Nutrition and Health",
@@ -1384,7 +1462,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 39,
+      "number": 41,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_10",
       "check_in_id": "check_in_8",
       "title": "Respect Each Other",
@@ -1420,7 +1500,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 40,
+      "number": 42,
+      "unlock": 40,
+      "core": false,
       "relax_id": "relax_1",
       "check_in_id": "check_in_9",
       "title": "Team Parenting",
@@ -1456,7 +1538,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 41,
+      "number": 43,
+      "unlock": 40,
+      "core": false,
       "relax_id": "relax_2",
       "check_in_id": "check_in_10",
       "title": "Teamwork",
@@ -1492,7 +1576,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 42,
+      "number": 44,
+      "unlock": 40,
+      "core": false,
       "relax_id": "relax_3",
       "check_in_id": "check_in_11",
       "title": "Resolve Conflicts",
@@ -1528,7 +1614,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 43,
+      "number": 45,
+      "unlock": 40,
+      "core": false,
       "relax_id": "relax_4",
       "check_in_id": "check_in_12",
       "title": "Talk and Listen",
@@ -1565,7 +1653,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 44,
+      "number": 46,
+      "unlock": 1,
+      "core": false,
       "relax_id": "relax_5",
       "check_in_id": "check_in_13",
       "title": "Needs and Wants",
@@ -1602,7 +1692,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 45,
+      "number": 47,
+      "unlock": 45,
+      "core": false,
       "relax_id": "relax_6",
       "check_in_id": "check_in_14",
       "title": "Expenses",
@@ -1639,7 +1731,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 46,
+      "number": 48,
+      "unlock": 45,
+      "core": false,
       "relax_id": "relax_7",
       "check_in_id": "check_in_15",
       "title": "Budgeting",
@@ -1676,7 +1770,9 @@
       "tag_list": [
         "child"
       ],
-      "number": 47,
+      "number": 49,
+      "unlock": 45,
+      "core": false,
       "relax_id": "relax_8",
       "check_in_id": "check_in_16",
       "title": "Savings",
@@ -1698,6 +1794,12 @@
   "_metadata": {
     "number": {
       "type": "number"
+    },
+    "unlock": {
+      "type": "number"
+    },
+    "core": {
+      "type": "boolean"
     }
   }
 }
