@@ -525,15 +525,6 @@
       }
     },
     {
-      "type": "text",
-      "value": "to complete",
-      "_translations": {
-        "value": {}
-      },
-      "name": "text_17",
-      "_nested_name": "text_17"
-    },
-    {
       "type": "data_items",
       "name": "other_courses",
       "value": "@data.courses",

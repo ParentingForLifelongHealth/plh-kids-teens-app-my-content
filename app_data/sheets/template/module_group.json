@@ -359,7 +359,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "condition": true,
+                  "condition": false,
                   "name": "text_1_@item.id",
                   "_nested_name": "accordion_14.accordion_section_1.loop_modules.text_1_@item.id",
                   "_dynamicFields": {
@@ -471,7 +471,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "condition": true,
+                  "condition": false,
                   "name": "text_4_@item.id",
                   "_nested_name": "accordion_14.accordion_section_1.loop_modules.text_4_@item.id",
                   "_dynamicFields": {
@@ -516,7 +516,7 @@
                   "_translations": {
                     "value": {}
                   },
-                  "condition": true,
+                  "condition": false,
                   "name": "text_5_@item.id",
                   "_nested_name": "accordion_14.accordion_section_1.loop_modules.text_5_@item.id",
                   "_dynamicFields": {
