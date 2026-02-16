@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 163
+        "count": 164
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 88
+        "count": 91
       },
       {
         "type": "google_sign_in_button",
@@ -103,7 +103,7 @@
       },
       {
         "type": "round_button",
-        "count": 11
+        "count": 12
       },
       {
         "type": "select_text",
@@ -115,7 +115,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2801
+        "count": 2804
       },
       {
         "type": "simple_checkbox",
@@ -135,7 +135,7 @@
       },
       {
         "type": "text",
-        "count": 147
+        "count": 149
       },
       {
         "type": "text_area",
@@ -215,7 +215,7 @@
       },
       {
         "type": "go_to",
-        "count": 13
+        "count": 14
       },
       {
         "type": "nav_stack",
@@ -247,7 +247,7 @@
       },
       {
         "type": "set_local",
-        "count": 44
+        "count": 46
       },
       {
         "type": "task",
@@ -1423,7 +1423,7 @@
       },
       {
         "path": "images/icons/expand_circle_right_blue.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 2.1
       },
       {

@@ -11,10 +11,10 @@
 | audio | 3 |
 | button | 82 |
 | combo_box | 13 |
-| data_items | 163 |
+| data_items | 164 |
 | debug_toggle | 1 |
 | display_grid | 3 |
-| display_group | 88 |
+| display_group | 91 |
 | google_sign_in_button | 2 |
 | image | 16 |
 | items | 10 |
@@ -28,15 +28,15 @@
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 11 |
+| round_button | 12 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2801 |
+| set_variable | 2804 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 980 |
-| text | 147 |
+| text | 149 |
 | text_area | 2 |
 | text_box | 12 |
 | text_bubble | 7 |
@@ -62,7 +62,7 @@
 | emit: set_language | 2 |
 | emit: uncompleted | 762 |
 | feedback | 13 |
-| go_to | 13 |
+| go_to | 14 |
 | nav_stack | 239 |
 | pop_up | 71 |
 | reset_app | 4 |
@@ -70,7 +70,7 @@
 | set_data | 79 |
 | set_field | 84 |
 | set_item | 70 |
-| set_local | 44 |
+| set_local | 46 |
 | task | 2 |
 | user | 3 |
 </details>
@@ -368,7 +368,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond_blue.png | 4.7 | 94 |
 | images/icons/document.svg | 7.3 | 1 |
 | images/icons/expand_circle_right.svg | 0.5 | 1 |
-| images/icons/expand_circle_right_blue.svg | 2.1 | 1 |
+| images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 64 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 64 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 64 |
