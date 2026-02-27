@@ -1,0 +1,33 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_6_user_type",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "user_type_message",
+      "value": "**Almost done!**\n\nThe last questions help us set up the App for you."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_type",
+      "value": "What is your role?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_type",
+      "value": "Select role"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_content_package",
+      "value": "How did you hear about this app?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_content_package",
+      "value": "Select one"
+    }
+  ]
+}

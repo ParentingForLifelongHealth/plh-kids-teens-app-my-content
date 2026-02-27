@@ -1,0 +1,53 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_6_user_type",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "user_type_message",
+      "value": "**Almost done!**\n\nThe last questions help us set up the App for you.",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_type",
+      "value": "What is your role?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_type",
+      "value": "Select role",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_content_package",
+      "value": "How did you hear about this app?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_content_package",
+      "value": "Select one",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1u8N9s7F4KQW9ZAkyjHJHOEiJU96SUc9o5sWC08HRUac"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_facilitator",
+  "status": "released",
+  "data_list_name": "user_facilitator",
+  "rows": [
+    {
+      "id": "yes",
+      "name": "yes",
+      "text::eng": "Yes"
+    },
+    {
+      "id": "no",
+      "name": "no",
+      "text::eng": "No"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_facilitator",
+  "status": "released",
+  "data_list_name": "user_facilitator",
+  "rows": [
+    {
+      "id": "yes",
+      "name": "yes",
+      "text": "Yes",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Yes"
+        }
+      }
+    },
+    {
+      "id": "no",
+      "name": "no",
+      "text": "No",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "No"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/deployment_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
+  }
+}

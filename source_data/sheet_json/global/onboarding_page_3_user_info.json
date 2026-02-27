@@ -1,0 +1,43 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_3_user_info",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_message_2",
+      "value": "**Let’s get started!**\n \nCan you tell me a little about yourself?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_name",
+      "value": "What is your name?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_name",
+      "value": "Enter name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_gender",
+      "value": "What is your gender?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_gender",
+      "value": "Select gender"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_location",
+      "value": "Where do you live?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_location",
+      "value": "Select location"
+    }
+  ]
+}

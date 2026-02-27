@@ -10,7 +10,7 @@
       "media_asset": "audio/relax/relax_5.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang mampu mengawalnya!",
+      "transcript_2": "Tutup mata anda.\n\nDengar bunyi pernafasan anda semasa anda menarik nafas dan menghembus nafas sebanyak lima kali.\n\nSatu..., dua..., tiga..., empat, lima...\n\nApakah yang anda rasakan sekarang?\n\nBila anda sudah bersedia, buka semula mata anda. Dengan melakukan aktiviti ini, anda mampu mengawal emosi dan perasaan anda!",
       "title": "In and out",
       "_translations": {
         "title": {}
@@ -20,7 +20,6 @@
           "eng": "In and out"
         }
       },
-      "attached_single_doc": "dengar bunyi pernafasan anda semasa menarik dam hembus nafas sebanyak Lima kali",
       "category_id": "relax",
       "nested": false,
       "completed": false

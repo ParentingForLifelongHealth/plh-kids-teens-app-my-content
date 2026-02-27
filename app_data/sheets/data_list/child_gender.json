@@ -2,21 +2,51 @@
   "flow_type": "data_list",
   "flow_name": "child_gender",
   "status": "released",
+  "data_list_name": "child_gender",
   "rows": [
-    {
-      "id": "male",
-      "name": "male",
-      "text": "Boy"
-    },
     {
       "id": "female",
       "name": "female",
-      "text": "Girl"
+      "text": "Girl",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Girl"
+        }
+      }
+    },
+    {
+      "id": "male",
+      "name": "male",
+      "text": "Boy",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Boy"
+        }
+      }
+    },
+    {
+      "id": "opt_out",
+      "name": "opt_out",
+      "text": "Prefer not to say",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Prefer not to say"
+        }
+      }
     }
   ],
   "_source": {
     "name": "kids_teens_my",
-    "path": "templates/MY onboarding templates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1aUwbR38bDjfGwoFG1DaHaRejyoCbFGhyFOZ0lVJmOks"
+    "path": "data/deployment_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
   }
 }

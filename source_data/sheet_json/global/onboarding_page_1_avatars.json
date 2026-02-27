@@ -1,0 +1,28 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_1_avatars",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_selection_intro",
+      "value": "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting journey."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_female_intro",
+      "value": "Hi, I’m @data.characters.facilitator_female.name! I am a mother of three and work as a paediatrician. I believe that all parents can learn how to raise children who feel safe, loved, and confident when they are given the right support."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_male_intro",
+      "value": "Hi, I am @data.characters.facilitator_male.name! I am a father of four and work as a school counsellor. I believe that simple parenting skills can help you to stay calm, and guide children with love. "
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_selection_question",
+      "value": "Who would you like to learn with?"
+    }
+  ]
+}

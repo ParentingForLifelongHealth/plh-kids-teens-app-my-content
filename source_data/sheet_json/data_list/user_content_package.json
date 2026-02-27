@@ -1,0 +1,23 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_content_package",
+  "status": "released",
+  "data_list_name": "user_content_package",
+  "rows": [
+    {
+      "id": "kemas",
+      "name": "kemas",
+      "text::eng": "KEMAS"
+    },
+    {
+      "id": "masw",
+      "name": "masw",
+      "text::eng": "NGO/Community Facilitator"
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text::eng": "None of the above"
+    }
+  ]
+}
