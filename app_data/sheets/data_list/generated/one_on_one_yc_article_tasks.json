@@ -5,19 +5,21 @@
   "rows": [
     {
       "id": "relax_1",
-      "in_library": "yes",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "media_asset_en_m": "audio/relax/english/relax_1_m.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_1_m.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_1_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_1_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda perlahan-lahan.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
-      "title": "Quick pause",
+      "transcript_1": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.\n\nLet your hands hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.\n\nRelax your arms and let them swing sideways while you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n\nPlace one foot in front of the other and make small circles from your ankles – remember to turn to both sides. Do each foot with four circles in each direction.\n\nNow shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n\nClose your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.\n\nTake a moment to reflect on your experience.\n\nWell done! You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
+      "transcript_2": "<span>Sekarang, sila berdiri dengan selesa.<br/><br/>Berdiri dan regangkan tangan anda tinggi ke atas, seolah‑olah menyentuh langit. Tolak jauh “awan‑awan” yang ada dan bayangkan cahaya matahari menyinari anda. Regangkan ke kiri dan kanan, ke depan dan ke belakang.  <br/><br/>Biarkan tangan jatuh di sisi tubuh anda. Angkat bahu anda rapat ke telinga sambil menarik nafas, kerutkan mata anda sedikit, dan tahan sekejap. Lepaskan bahu perlahan‑lahan dan rasa tubuh anda mula tenang.  <br/><br/>Longgarkan tangan dan biarkan ia berayun ke kiri dan kanan sambil anda memusingkan badan. Biarkan lengan anda menyentuh belakang dengan lembut setiap kali anda berpusing.  <br/><br/>Seterusnya, letakkan satu kaki di hadapan kaki yang lain. Angkat sedikit kaki tersebut dan gerakkan pergelangan kaki membentuk bulatan kecil. Pusing ke arah jam dan lawan arah jam. Ulang empat kali untuk setiap kaki.<br/><br/></span><span><i>[Berhenti seketika selama 5 saat]</i></span><span><br/><br/>Sekarang goncangkan seluruh tubuh anda sekuat yang anda mahu. Goncang ke atas! Goncang ke bawah! Goncang ke semua arah!  <br/><br/>Pejamkan mata dan angkat tangan perlahan‑lahan ke atas sambil menarik nafas. Turunkan tangan perlahan‑lahan ke sisi sambil menghembus nafas.  <br/><br/>Luangkan masa seketika untuk rasa apa yang berubah dalam tubuh anda.  <br/><br/>Syabas! Aktiviti ini anda boleh lakukan pada bila‑bila masa sahaja untuk melepaskan tekanan atau mahu menyegarkan tubuh dan minda.</span>",
+      "title": "Physical activity",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Quick pause"
+          "eng": "Physical activity"
         }
       },
       "category_id": "relax",
@@ -242,8 +244,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "LINK HERE",
+      "youtube_my_m": "LINK HERE",
       "completed": false
     },
     {

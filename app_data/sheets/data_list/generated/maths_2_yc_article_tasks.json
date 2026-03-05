@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.mp3",
+      "id": "relax_12",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_en_m": "audio/relax/english/relax_12__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_12__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_12_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_12_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_2": "Tutup mata anda.\nMari kita gunakan kuasa ajaib nombor 3 untuk kekal hadir dan bertenang.\n\nSebut 3 bunyi yang anda boleh dengar sekarang.\nSebut 3 bau yang anda boleh hidu sekarang.\nSebut 3 makanan kegemaran anda.\nApakah 3 perkara yang anda berasa bersyukur pada saat ini.\n\nDi penghujung hari yang mencabar, fikirkan 3 perkara yang kita rasa beruntung dan boleh membantu kita untuk mengumpul semula semangat untuk mencuba lagi pada esok hari.",
-      "title": "Power of three",
+      "transcript_1": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?",
+      "transcript_2": "Pernah tak anda rasa sesuatu perasaan yang begitu kuat sampai anda mahu lari daripadanya?\n\nDaripada cuba menjauhkan diri daripada perasaan itu, mari kita mendekatinya sekejap.\nTak apa, saya faham bahawa tak mudah untuk mendekati perasaan itu. Sekarang ini, pejamkan mata jika anda selesa. Tarik nafas dengan dalam dan hembuskan nafas anda perlahan-lahan.\n\nTidakkah anda pernah tertanya-tanya tentang perasaan itu? Di mana anda rasa perasaan itu di tubuh badan anda? Adakah ia terasa panas atau sejuk? Keras atau lembut? Rasa lega atau rasa tegang?\n\nTanya diri anda beberapa soalan ini:\nApa yang perasaan ini cuba beritahu diri anda saya? \nApa yang ia perlukan? \nBagaimana saya boleh bersikap baik dengan diri sendiri saat ini?\n\nBila anda bersedia, buka mata anda.",
+      "title": "Feel your feelings",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Power of three"
+          "eng": "Feel your feelings"
         }
       },
       "category_id": "relax",

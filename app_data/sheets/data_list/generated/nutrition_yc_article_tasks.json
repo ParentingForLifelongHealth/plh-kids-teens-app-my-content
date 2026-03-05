@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_9",
-      "in_library": "yes",
+      "id": "relax_15",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_9.mp3",
+      "media_asset_en_m": "audio/relax/english/relax_15__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_15__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_15_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_15_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
-      "transcript_2": "Berikut ialah satu aktiviti untuk merehatkan tubuh anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh anda. Adakah ada bahagian yang terasa tegang? Kebas? Sakit?\nFokus pada bahagian itu seketika. Tarik nafas ke arah bahagian tersebut dan, apabila anda menghembus nafas, cuba lepaskan apa-apa ketegangan atau rasa sakit.\nUlang dan tarik nafas beberapa kali.\n\nBuka mata anda. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
-      "title": "Body scan",
+      "transcript_1": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_2": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "title": "Notice how you feel",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body scan"
+          "eng": "Notice how you feel"
         }
       },
       "category_id": "relax",

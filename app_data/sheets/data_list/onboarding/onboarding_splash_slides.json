@@ -22,13 +22,13 @@
       "id": "slide_2",
       "image_asset": "images/onboarding/loving_parent.svg",
       "duration_sec": 4,
-      "text": "You are the best parent your child could have",
+      "text": "You are the best parent or caregiver your child could have",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "You are the best parent your child could have"
+          "eng": "You are the best parent or caregiver your child could have"
         }
       }
     },
@@ -36,13 +36,13 @@
       "id": "slide_3",
       "image_asset": "images/onboarding/join_parents.svg",
       "duration_sec": 4,
-      "text": "Join over 200 million parents who have used our resources",
+      "text": "Join over 17 million parents and caregivers who have used our resources in Asia",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Join over 200 million parents who have used our resources"
+          "eng": "Join over 17 million parents and caregivers who have used our resources in Asia"
         }
       }
     }

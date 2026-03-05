@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_8",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_8.mp3",
+      "id": "relax_4",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_en_m": "audio/relax/english/relax_4_m.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_4_m.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_4_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_4_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
-      "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.",
-      "title": "Small things",
+      "transcript_1": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
+      "transcript_2": "Bila anda menjaga diri sendiri, anda juga sedang menjaga anak‑anak anda. Kita semua perlukan hubungan dengan orang lain. Cuba berhubung dengan rakan, keluarga, atau sesiapa yang menyokong anda setiap hari.\n\nKalau sudah lama anda tidak menghubungi seseorang, cuba hubungi mereka sekarang! Siapa yang anda nak hubungi sekarang?",
+      "title": "Connect",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Small things"
+          "eng": "Connect"
         }
       },
       "category_id": "relax",

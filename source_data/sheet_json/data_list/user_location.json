@@ -1,0 +1,93 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_location",
+  "status": "released",
+  "data_list_name": "user_location",
+  "rows": [
+    {
+      "id": "johor",
+      "name": "johor",
+      "text::eng": "Johor"
+    },
+    {
+      "id": "kedah",
+      "name": "kedah",
+      "text::eng": "Kedah"
+    },
+    {
+      "id": "kelantan",
+      "name": "kelantan",
+      "text::eng": "Kelantan"
+    },
+    {
+      "id": "kuala_lumpur",
+      "name": "kuala_lumpur",
+      "text::eng": "Kuala Lumpur"
+    },
+    {
+      "id": "labuan",
+      "name": "labuan",
+      "text::eng": "Labuan"
+    },
+    {
+      "id": "malacca",
+      "name": "malacca",
+      "text::eng": "Malacca"
+    },
+    {
+      "id": "negeri_sembilan",
+      "name": "negeri_sembilan",
+      "text::eng": "Negeri Sembilan"
+    },
+    {
+      "id": "pahang",
+      "name": "pahang",
+      "text::eng": "Pahang"
+    },
+    {
+      "id": "penang",
+      "name": "penang",
+      "text::eng": "Penang"
+    },
+    {
+      "id": "perak",
+      "name": "perak",
+      "text::eng": "Perak"
+    },
+    {
+      "id": "perlis",
+      "name": "perlis",
+      "text::eng": "Perlis"
+    },
+    {
+      "id": "putrajaya",
+      "name": "putrajaya",
+      "text::eng": "Putrajaya"
+    },
+    {
+      "id": "sabah",
+      "name": "sabah",
+      "text::eng": "Sabah"
+    },
+    {
+      "id": "sarawak",
+      "name": "sarawak",
+      "text::eng": "Sarawak"
+    },
+    {
+      "id": "selangor",
+      "name": "selangor",
+      "text::eng": "Selangor"
+    },
+    {
+      "id": "terengganu",
+      "name": "terengganu",
+      "text::eng": "Terengganu"
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text::eng": "Other location"
+    }
+  ]
+}

@@ -5,12 +5,14 @@
   "rows": [
     {
       "id": "relax_3",
-      "in_library": "yes",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.mp3",
+      "media_asset_en_m": "audio/relax/english/relax_3_m.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_3_m.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_3_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_3_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\nBagus sekali, anda memang hebat!",
+      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
       "title": "One thing today",
       "_translations": {
         "title": {}
@@ -20,6 +22,7 @@
           "eng": "One thing today"
         }
       },
+      "in_library": "yes",
       "category_id": "relax",
       "nested": false,
       "completed": false

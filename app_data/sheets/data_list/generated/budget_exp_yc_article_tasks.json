@@ -4,27 +4,21 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_6",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_6.mp3",
-      "media_type": "audio",
-      "transcript_1": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
-      "transcript_2": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau menyeronokkan yang anda lakukan.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.",
-      "title": "Think about today",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Think about today"
-        }
-      },
-      "category_id": "relax",
-      "nested": false,
-      "completed": false
-    },
-    {
       "id": "check_in_14",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment to notice how you are doing.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Take a moment to notice how you are doing."
@@ -51,22 +45,6 @@
           "eng": "Sad"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to notice how you are doing.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
       "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
@@ -74,6 +52,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "category_id": "check_in",
+      "nested": false,
       "completed": false
     },
     {
@@ -98,7 +78,6 @@
     },
     {
       "id": "explore_1",
-      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's get started with an activity!"
@@ -110,6 +89,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
@@ -211,8 +191,6 @@
           "eng": "That’s OK. Try to make some time to do this soon. You can do this! 🌷"
         }
       },
-      "category_id": "home_activity",
-      "nested": false,
       "quiz_1_feedback_1": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -225,6 +203,8 @@
       "quiz_1_question": "Are you ready for today’s home activity? ⭐ It’s time to add up your monthly expenses.",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
+      "category_id": "home_activity",
+      "nested": false,
       "completed": false
     }
   ],

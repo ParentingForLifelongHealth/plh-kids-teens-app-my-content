@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "id": "relax_17",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_en_m": "audio/relax/english/relax_17__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_17__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_17_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_17_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda perlahan-lahan.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
-      "title": "Quick pause",
+      "transcript_1": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
+      "transcript_2": "Memuji diri sendiri sangat membantu kita, terutama sekali apabila kita mengalami hari-hari yang mencabar.\n\nFikirkan tentang minggu anda dan sambungkan ayat ini: \n“Minggu ini, saya bangga dengan diri saya kerana …” \nIa boleh jadi apa sahaja, bukan hanya tentang menjadi ibu bapa.\n\nSekarang fikirkan satu perkara yang anda lakukan dengan baik hari ini. Kemudian berikan diri and pelukan yang besar dan ERAT!",
+      "title": "Praise yourself",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Quick pause"
+          "eng": "Praise yourself"
         }
       },
       "category_id": "relax",

@@ -39,13 +39,13 @@
       "core": false,
       "image_asset": "images/homescreen/develop.svg",
       "completed": false,
-      "title": "Child Development",
+      "title": "How Children Grow",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Child Development"
+          "eng": "How Children Grow"
         }
       }
     },

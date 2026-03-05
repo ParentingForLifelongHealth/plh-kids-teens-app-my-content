@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 82
+        "count": 85
       },
       {
         "type": "combo_box",
-        "count": 13
+        "count": 19
       },
       {
         "type": "data_items",
-        "count": 164
+        "count": 116
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 91
+        "count": 94
       },
       {
         "type": "google_sign_in_button",
@@ -103,7 +103,7 @@
       },
       {
         "type": "round_button",
-        "count": 12
+        "count": 15
       },
       {
         "type": "select_text",
@@ -115,7 +115,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2804
+        "count": 2983
       },
       {
         "type": "simple_checkbox",
@@ -131,11 +131,11 @@
       },
       {
         "type": "template",
-        "count": 980
+        "count": 948
       },
       {
         "type": "text",
-        "count": 149
+        "count": 155
       },
       {
         "type": "text_area",
@@ -143,11 +143,11 @@
       },
       {
         "type": "text_box",
-        "count": 12
+        "count": 16
       },
       {
         "type": "text_bubble",
-        "count": 7
+        "count": 11
       },
       {
         "type": "title",
@@ -183,7 +183,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 768
+        "count": 787
       },
       {
         "type": "emit: force_reload",
@@ -207,7 +207,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 762
+        "count": 781
       },
       {
         "type": "feedback",
@@ -239,7 +239,7 @@
       },
       {
         "type": "set_field",
-        "count": 84
+        "count": 89
       },
       {
         "type": "set_item",
@@ -263,13 +263,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "89133 KB",
-        "MB": "89.1 MB"
+        "KB": "134183 KB",
+        "MB": "134.2 MB"
       },
       {
         "assets": "unused",
-        "KB": "42425 KB",
-        "MB": "42.4 MB"
+        "KB": "50683 KB",
+        "MB": "50.7 MB"
       }
     ]
   },
@@ -292,100 +292,84 @@
         "size_kb": 239
       },
       {
-        "path": "audio/relax/uncompressed/relax_1.mp3",
-        "size_kb": 492.2
+        "path": "audio/relax/english/relax_10_m.mp3",
+        "size_kb": 587.6
       },
       {
-        "path": "audio/relax/uncompressed/relax_10.mp3",
-        "size_kb": 749
+        "path": "audio/relax/english/relax_11_m.mp3",
+        "size_kb": 349.4
       },
       {
-        "path": "audio/relax/uncompressed/relax_11.mp3",
-        "size_kb": 806.5
+        "path": "audio/relax/english/relax_12_m.mp3",
+        "size_kb": 771.7
       },
       {
-        "path": "audio/relax/uncompressed/relax_12.mp3",
-        "size_kb": 999.6
+        "path": "audio/relax/english/relax_13_m.mp3",
+        "size_kb": 842.9
       },
       {
-        "path": "audio/relax/uncompressed/relax_13.mp3",
-        "size_kb": 721.6
+        "path": "audio/relax/english/relax_14_m.mp3",
+        "size_kb": 391
       },
       {
-        "path": "audio/relax/uncompressed/relax_14.mp3",
-        "size_kb": 493.1
+        "path": "audio/relax/english/relax_15_m.mp3",
+        "size_kb": 472.8
       },
       {
-        "path": "audio/relax/uncompressed/relax_15.mp3",
-        "size_kb": 516.7
+        "path": "audio/relax/english/relax_16_m.mp3",
+        "size_kb": 508.2
       },
       {
-        "path": "audio/relax/uncompressed/relax_16.mp3",
-        "size_kb": 564.5
+        "path": "audio/relax/english/relax_17_m.mp3",
+        "size_kb": 657.1
       },
       {
-        "path": "audio/relax/uncompressed/relax_17.mp3",
-        "size_kb": 544.1
+        "path": "audio/relax/english/relax_18_m.mp3",
+        "size_kb": 1030.3
       },
       {
-        "path": "audio/relax/uncompressed/relax_18.mp3",
-        "size_kb": 1228.6
+        "path": "audio/relax/english/relax_19_m.mp3",
+        "size_kb": 2232.2
       },
       {
-        "path": "audio/relax/uncompressed/relax_19.mp3",
-        "size_kb": 1746.5
+        "path": "audio/relax/malay/relax_10_m.mp3",
+        "size_kb": 1392.2
       },
       {
-        "path": "audio/relax/uncompressed/relax_2.mp3",
-        "size_kb": 712.7
+        "path": "audio/relax/malay/relax_11_m.mp3",
+        "size_kb": 566.5
       },
       {
-        "path": "audio/relax/uncompressed/relax_20.mp3",
-        "size_kb": 1901.6
+        "path": "audio/relax/malay/relax_12_m.mp3",
+        "size_kb": 1502.4
       },
       {
-        "path": "audio/relax/uncompressed/relax_21.mp3",
-        "size_kb": 759.6
+        "path": "audio/relax/malay/relax_13_m.mp3",
+        "size_kb": 997.6
       },
       {
-        "path": "audio/relax/uncompressed/relax_22.mp3",
-        "size_kb": 429.8
+        "path": "audio/relax/malay/relax_14_m.mp3",
+        "size_kb": 524.1
       },
       {
-        "path": "audio/relax/uncompressed/relax_23.mp3",
-        "size_kb": 500.4
+        "path": "audio/relax/malay/relax_15_m.mp3",
+        "size_kb": 700
       },
       {
-        "path": "audio/relax/uncompressed/relax_24.mp3",
-        "size_kb": 453.9
+        "path": "audio/relax/malay/relax_16_m.mp3",
+        "size_kb": 560.8
       },
       {
-        "path": "audio/relax/uncompressed/relax_3.mp3",
-        "size_kb": 453.9
+        "path": "audio/relax/malay/relax_17_m.mp3",
+        "size_kb": 765.3
       },
       {
-        "path": "audio/relax/uncompressed/relax_4.mp3",
-        "size_kb": 998
+        "path": "audio/relax/malay/relax_18_m.mp3",
+        "size_kb": 1578
       },
       {
-        "path": "audio/relax/uncompressed/relax_5.mp3",
-        "size_kb": 359.2
-      },
-      {
-        "path": "audio/relax/uncompressed/relax_6.mp3",
-        "size_kb": 526.5
-      },
-      {
-        "path": "audio/relax/uncompressed/relax_7.mp3",
-        "size_kb": 504.9
-      },
-      {
-        "path": "audio/relax/uncompressed/relax_8.mp3",
-        "size_kb": 549
-      },
-      {
-        "path": "audio/relax/uncompressed/relax_9.mp3",
-        "size_kb": 1057.1
+        "path": "audio/relax/malay/relax_19_m.mp3",
+        "size_kb": 2553.5
       },
       {
         "path": "audio/yc/1on1_audio_1.mp3",
@@ -460,184 +444,20 @@
         "size_kb": 187.6
       },
       {
-        "path": "audio/yc/uncompressed/1on1_audio_1.mp3",
-        "size_kb": 891.7
+        "path": "images/backgrounds/library_top_right.svg",
+        "size_kb": 9.5
       },
       {
-        "path": "audio/yc/uncompressed/1on1_audio_2 2.mp3",
-        "size_kb": 619.1
+        "path": "images/backgrounds/mountain_trees.svg",
+        "size_kb": 338.5
       },
       {
-        "path": "audio/yc/uncompressed/care_audio_1.mp3",
-        "size_kb": 527.5
-      },
-      {
-        "path": "audio/yc/uncompressed/care_audio_2 2.mp3",
-        "size_kb": 1166.3
-      },
-      {
-        "path": "audio/yc/uncompressed/consequences_audio_1.mp3",
-        "size_kb": 800.2
-      },
-      {
-        "path": "audio/yc/uncompressed/consequences_audio_2 2.mp3",
-        "size_kb": 1206.6
-      },
-      {
-        "path": "audio/yc/uncompressed/feelings_audio_1.mp3",
-        "size_kb": 336
-      },
-      {
-        "path": "audio/yc/uncompressed/feelings_audio_2.mp3",
-        "size_kb": 635.8
-      },
-      {
-        "path": "audio/yc/uncompressed/instructions_audio_1.mp3",
-        "size_kb": 613.7
-      },
-      {
-        "path": "audio/yc/uncompressed/instructions_audio_2.mp3",
-        "size_kb": 784.2
-      },
-      {
-        "path": "audio/yc/uncompressed/learn_audio_1.mp3",
-        "size_kb": 563.1
-      },
-      {
-        "path": "audio/yc/uncompressed/learn_audio_2 2.mp3",
-        "size_kb": 254.5
-      },
-      {
-        "path": "audio/yc/uncompressed/praise_audio_1.mp3",
-        "size_kb": 344
-      },
-      {
-        "path": "audio/yc/uncompressed/praise_audio_2.mp3",
-        "size_kb": 1042.6
-      },
-      {
-        "path": "audio/yc/uncompressed/rules_audio_1.mp3",
-        "size_kb": 427.6
-      },
-      {
-        "path": "audio/yc/uncompressed/rules_audio_2.mp3",
-        "size_kb": 742.7
-      },
-      {
-        "path": "audio/yc/uncompressed/solve_audio_1.mp3",
-        "size_kb": 983.4
-      },
-      {
-        "path": "audio/yc/uncompressed/solve_audio_2.mp3",
-        "size_kb": 468.1
-      },
-      {
-        "path": "images/backgrounds/homescreen_pattern.svg",
-        "size_kb": 156.3
+        "path": "images/backgrounds/progress_arc.svg",
+        "size_kb": 3755.1
       },
       {
         "path": "images/flags/gb.svg",
         "size_kb": 0.5
-      },
-      {
-        "path": "images/homescreen/listview/celebrate_t.svg",
-        "size_kb": 31.1
-      },
-      {
-        "path": "images/homescreen/listview/consequence_t.svg",
-        "size_kb": 29.3
-      },
-      {
-        "path": "images/homescreen/listview/consequences.svg",
-        "size_kb": 37.5
-      },
-      {
-        "path": "images/homescreen/listview/crisis_t.svg",
-        "size_kb": 44
-      },
-      {
-        "path": "images/homescreen/listview/developmentplay.svg",
-        "size_kb": 65.4
-      },
-      {
-        "path": "images/homescreen/listview/feelings.svg",
-        "size_kb": 53.4
-      },
-      {
-        "path": "images/homescreen/listview/grief_t.svg",
-        "size_kb": 26.8
-      },
-      {
-        "path": "images/homescreen/listview/instruct_t.svg",
-        "size_kb": 37.9
-      },
-      {
-        "path": "images/homescreen/listview/instructions.svg",
-        "size_kb": 31.7
-      },
-      {
-        "path": "images/homescreen/listview/learn_t.svg",
-        "size_kb": 25.4
-      },
-      {
-        "path": "images/homescreen/listview/money_t.svg",
-        "size_kb": 31.7
-      },
-      {
-        "path": "images/homescreen/listview/one_on_one_t.svg",
-        "size_kb": 39.8
-      },
-      {
-        "path": "images/homescreen/listview/one_on_one_time.svg",
-        "size_kb": 43.7
-      },
-      {
-        "path": "images/homescreen/listview/onlinesafety_t.svg",
-        "size_kb": 30.6
-      },
-      {
-        "path": "images/homescreen/listview/praise.svg",
-        "size_kb": 72.2
-      },
-      {
-        "path": "images/homescreen/listview/praise_t.svg",
-        "size_kb": 33.7
-      },
-      {
-        "path": "images/homescreen/listview/problemsolving.svg",
-        "size_kb": 28.6
-      },
-      {
-        "path": "images/homescreen/listview/rules_t.svg",
-        "size_kb": 35.8
-      },
-      {
-        "path": "images/homescreen/listview/rulesroutines.svg",
-        "size_kb": 51.8
-      },
-      {
-        "path": "images/homescreen/listview/safe_t.svg",
-        "size_kb": 20.6
-      },
-      {
-        "path": "images/homescreen/listview/self_care.svg",
-        "size_kb": 52.6
-      },
-      {
-        "path": "images/homescreen/listview/solve_t.svg",
-        "size_kb": 33.5
-      },
-      {
-        "path": "images/homescreen/listview/srh_t.svg",
-        "size_kb": 40.9
-      },
-      {
-        "path": "images/homescreen/listview/stress_t.svg",
-        "size_kb": 15.5
-      },
-      {
-        "path": "images/homescreen/listview/svp_t.svg",
-        "size_kb": 20.3
       },
       {
         "path": "images/icons/balance_blue.png",
@@ -662,6 +482,10 @@
       {
         "path": "images/icons/clock_blue.png",
         "size_kb": 4.5
+      },
+      {
+        "path": "images/icons/document.svg",
+        "size_kb": 7.3
       },
       {
         "path": "images/icons/expand_circle_right.png",
@@ -716,6 +540,10 @@
         "size_kb": 2.4
       },
       {
+        "path": "images/icons/feather.svg",
+        "size_kb": 3.5
+      },
+      {
         "path": "images/icons/fire.png",
         "size_kb": 0.9
       },
@@ -740,6 +568,14 @@
         "size_kb": 1.1
       },
       {
+        "path": "images/icons/key.svg",
+        "size_kb": 5.5
+      },
+      {
+        "path": "images/icons/magnify_glass.svg",
+        "size_kb": 1.9
+      },
+      {
         "path": "images/icons/parent_child.svg",
         "size_kb": 2
       },
@@ -754,6 +590,10 @@
       {
         "path": "images/icons/play_white.svg",
         "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/profile_card.svg",
+        "size_kb": 7.4
       },
       {
         "path": "images/icons/question_blue.png",
@@ -792,6 +632,10 @@
         "size_kb": 3.9
       },
       {
+        "path": "images/icons/world.svg",
+        "size_kb": 6.2
+      },
+      {
         "path": "images/logos/IDEMS.png",
         "size_kb": 84.6
       },
@@ -814,18 +658,6 @@
       {
         "path": "images/onboarding/facilitator_male_onboarding_icon.svg",
         "size_kb": 459.5
-      },
-      {
-        "path": "images/yc_modules/Copy of ipv_sharing-01.svg",
-        "size_kb": 634.2
-      },
-      {
-        "path": "images/yc_modules/Copy of ipv_sharing-02.svg",
-        "size_kb": 637.4
-      },
-      {
-        "path": "images/yc_modules/Copy of ipv_sharing-03.svg",
-        "size_kb": 640
       },
       {
         "path": "images/yc_modules/budget_savings_yc_5.svg",
@@ -864,6 +696,30 @@
         "size_kb": 44.5
       },
       {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_1.jpg",
+        "size_kb": 2522
+      },
+      {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_1.svg",
+        "size_kb": 1013.3
+      },
+      {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_2.jpg",
+        "size_kb": 288.1
+      },
+      {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_2.svg",
+        "size_kb": 1213.5
+      },
+      {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_3.jpg",
+        "size_kb": 2787.5
+      },
+      {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_3.svg",
+        "size_kb": 1204.4
+      },
+      {
         "path": "images/yc_modules/safe_touch_2to5_yc_f_5.svg",
         "size_kb": 42.3
       },
@@ -892,6 +748,30 @@
         "size_kb": 15.3
       },
       {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_1.jpg",
+        "size_kb": 2150.1
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_1.svg",
+        "size_kb": 972.7
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_2.jpg",
+        "size_kb": 2224.2
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_2.svg",
+        "size_kb": 982.9
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_3.jpg",
+        "size_kb": 2272.7
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
+        "size_kb": 986.3
+      },
+      {
         "path": "images/yc_modules/teach_consequences_yc_5.svg",
         "size_kb": 67.5
       },
@@ -908,43 +788,123 @@
   "assets_missing": {
     "data": [
       {
-        "path": "audio/relax/relax_11.mp3",
+        "path": "audio/relax/english/relax_10__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_11__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_12__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_13__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_14__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_15__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_16__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_17__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_18__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/english/relax_19__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_10__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_11__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_12__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_13__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_14__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_15__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_16__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_17__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_18__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "audio/relax/malay/relax_19__.mp3",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/backgrounds/library_top_right.png",
+        "count": 3,
+        "missing": true
+      },
+      {
+        "path": "images/backgrounds/map_view_bg.jpg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "audio/relax/relax_17.mp3",
+        "path": "images/backgrounds/mountains_trees.svg",
         "count": 1,
         "missing": true
       },
       {
-        "path": "audio/relax/relax_18.mp3",
+        "path": "images/backgrounds/progress_arc.png",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_21.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_22.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_23.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_24.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "audio/relax/relax_6.mp3",
-        "count": 6,
         "missing": true
       },
       {
@@ -1003,6 +963,36 @@
         "missing": true
       },
       {
+        "path": "images/icons/document-lock-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/document-text-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/globe-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/information-circle-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/log-in-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/icons/person-circle-outline.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "images/logos/plh_logomark.png",
         "count": 1,
         "missing": true
@@ -1027,84 +1017,284 @@
   "asset_summary": {
     "data": [
       {
-        "path": "audio/relax/relax_1.mp3",
-        "count": 7,
-        "size_kb": 265.1
+        "path": "audio/relax/english/relax_10_f.mp3",
+        "count": 3,
+        "size_kb": 613.1
       },
       {
-        "path": "audio/relax/relax_10.mp3",
-        "count": 5,
-        "size_kb": 404.9
+        "path": "audio/relax/english/relax_11_f.mp3",
+        "count": 3,
+        "size_kb": 412.7
       },
       {
-        "path": "audio/relax/relax_12.mp3",
-        "count": 1,
-        "size_kb": 539.7
+        "path": "audio/relax/english/relax_12_f.mp3",
+        "count": 3,
+        "size_kb": 911.8
       },
       {
-        "path": "audio/relax/relax_13.mp3",
-        "count": 1,
-        "size_kb": 398.4
+        "path": "audio/relax/english/relax_13_f.mp3",
+        "count": 3,
+        "size_kb": 671.4
       },
       {
-        "path": "audio/relax/relax_14.mp3",
-        "count": 1,
-        "size_kb": 256.9
+        "path": "audio/relax/english/relax_14_f.mp3",
+        "count": 3,
+        "size_kb": 405.7
       },
       {
-        "path": "audio/relax/relax_15.mp3",
-        "count": 1,
-        "size_kb": 125
+        "path": "audio/relax/english/relax_15_f.mp3",
+        "count": 3,
+        "size_kb": 451
       },
       {
-        "path": "audio/relax/relax_16.mp3",
-        "count": 1,
-        "size_kb": 150.9
+        "path": "audio/relax/english/relax_16_f.mp3",
+        "count": 3,
+        "size_kb": 378.8
       },
       {
-        "path": "audio/relax/relax_19.mp3",
-        "count": 1,
-        "size_kb": 454
+        "path": "audio/relax/english/relax_17_f.mp3",
+        "count": 3,
+        "size_kb": 512.7
       },
       {
-        "path": "audio/relax/relax_2.mp3",
-        "count": 7,
-        "size_kb": 404.4
+        "path": "audio/relax/english/relax_18_f.mp3",
+        "count": 3,
+        "size_kb": 1253.1
       },
       {
-        "path": "audio/relax/relax_20.mp3",
-        "count": 1,
-        "size_kb": 539.8
+        "path": "audio/relax/english/relax_19_f.mp3",
+        "count": 3,
+        "size_kb": 1763.3
       },
       {
-        "path": "audio/relax/relax_3.mp3",
-        "count": 7,
-        "size_kb": 235.1
+        "path": "audio/relax/english/relax_1_f.mp3",
+        "count": 3,
+        "size_kb": 1857.1
       },
       {
-        "path": "audio/relax/relax_4.mp3",
-        "count": 7,
-        "size_kb": 514.5
+        "path": "audio/relax/english/relax_1_m.mp3",
+        "count": 3,
+        "size_kb": 1516.5
       },
       {
-        "path": "audio/relax/relax_5.mp3",
-        "count": 7,
-        "size_kb": 195.7
+        "path": "audio/relax/english/relax_2_f.mp3",
+        "count": 3,
+        "size_kb": 707.3
       },
       {
-        "path": "audio/relax/relax_7.mp3",
-        "count": 6,
-        "size_kb": 285.3
+        "path": "audio/relax/english/relax_2_m.mp3",
+        "count": 3,
+        "size_kb": 591.7
       },
       {
-        "path": "audio/relax/relax_8.mp3",
-        "count": 6,
-        "size_kb": 302
+        "path": "audio/relax/english/relax_3_f.mp3",
+        "count": 4,
+        "size_kb": 346.5
       },
       {
-        "path": "audio/relax/relax_9.mp3",
-        "count": 6,
-        "size_kb": 576.6
+        "path": "audio/relax/english/relax_3_m.mp3",
+        "count": 4,
+        "size_kb": 361.6
+      },
+      {
+        "path": "audio/relax/english/relax_4_f.mp3",
+        "count": 3,
+        "size_kb": 338.4
+      },
+      {
+        "path": "audio/relax/english/relax_4_m.mp3",
+        "count": 3,
+        "size_kb": 426.1
+      },
+      {
+        "path": "audio/relax/english/relax_5_f.mp3",
+        "count": 4,
+        "size_kb": 286.5
+      },
+      {
+        "path": "audio/relax/english/relax_5_m.mp3",
+        "count": 4,
+        "size_kb": 312.4
+      },
+      {
+        "path": "audio/relax/english/relax_6_f.mp3",
+        "count": 3,
+        "size_kb": 576.3
+      },
+      {
+        "path": "audio/relax/english/relax_6_m.mp3",
+        "count": 3,
+        "size_kb": 487.8
+      },
+      {
+        "path": "audio/relax/english/relax_7_f.mp3",
+        "count": 3,
+        "size_kb": 549
+      },
+      {
+        "path": "audio/relax/english/relax_7_m.mp3",
+        "count": 3,
+        "size_kb": 437
+      },
+      {
+        "path": "audio/relax/english/relax_8_f.mp3",
+        "count": 3,
+        "size_kb": 626.1
+      },
+      {
+        "path": "audio/relax/english/relax_8_m.mp3",
+        "count": 3,
+        "size_kb": 500.9
+      },
+      {
+        "path": "audio/relax/english/relax_9_f.mp3",
+        "count": 4,
+        "size_kb": 951
+      },
+      {
+        "path": "audio/relax/english/relax_9_m.mp3",
+        "count": 4,
+        "size_kb": 1082
+      },
+      {
+        "path": "audio/relax/malay/relax_10_f.mp3",
+        "count": 3,
+        "size_kb": 1197.1
+      },
+      {
+        "path": "audio/relax/malay/relax_11_f.mp3",
+        "count": 3,
+        "size_kb": 449.4
+      },
+      {
+        "path": "audio/relax/malay/relax_12_f.mp3",
+        "count": 3,
+        "size_kb": 1224.1
+      },
+      {
+        "path": "audio/relax/malay/relax_13_f.mp3",
+        "count": 3,
+        "size_kb": 829.8
+      },
+      {
+        "path": "audio/relax/malay/relax_14_f.mp3",
+        "count": 3,
+        "size_kb": 438.4
+      },
+      {
+        "path": "audio/relax/malay/relax_15_f.mp3",
+        "count": 3,
+        "size_kb": 612.7
+      },
+      {
+        "path": "audio/relax/malay/relax_16_f.mp3",
+        "count": 3,
+        "size_kb": 475.9
+      },
+      {
+        "path": "audio/relax/malay/relax_17_f.mp3",
+        "count": 3,
+        "size_kb": 693.1
+      },
+      {
+        "path": "audio/relax/malay/relax_18_f.mp3",
+        "count": 3,
+        "size_kb": 1481.2
+      },
+      {
+        "path": "audio/relax/malay/relax_19_f.mp3",
+        "count": 3,
+        "size_kb": 2101.6
+      },
+      {
+        "path": "audio/relax/malay/relax_1_f.mp3",
+        "count": 3,
+        "size_kb": 2313.1
+      },
+      {
+        "path": "audio/relax/malay/relax_1_m.mp3",
+        "count": 3,
+        "size_kb": 2431
+      },
+      {
+        "path": "audio/relax/malay/relax_2_f.mp3",
+        "count": 3,
+        "size_kb": 628.6
+      },
+      {
+        "path": "audio/relax/malay/relax_2_m.mp3",
+        "count": 3,
+        "size_kb": 913.5
+      },
+      {
+        "path": "audio/relax/malay/relax_3_f.mp3",
+        "count": 4,
+        "size_kb": 504.1
+      },
+      {
+        "path": "audio/relax/malay/relax_3_m.mp3",
+        "count": 4,
+        "size_kb": 605.3
+      },
+      {
+        "path": "audio/relax/malay/relax_4_f.mp3",
+        "count": 3,
+        "size_kb": 493.9
+      },
+      {
+        "path": "audio/relax/malay/relax_4_m.mp3",
+        "count": 3,
+        "size_kb": 554.7
+      },
+      {
+        "path": "audio/relax/malay/relax_5_f.mp3",
+        "count": 4,
+        "size_kb": 750.6
+      },
+      {
+        "path": "audio/relax/malay/relax_5_m.mp3",
+        "count": 4,
+        "size_kb": 684.5
+      },
+      {
+        "path": "audio/relax/malay/relax_6_f.mp3",
+        "count": 3,
+        "size_kb": 782.4
+      },
+      {
+        "path": "audio/relax/malay/relax_6_m.mp3",
+        "count": 3,
+        "size_kb": 807.3
+      },
+      {
+        "path": "audio/relax/malay/relax_7_f.mp3",
+        "count": 3,
+        "size_kb": 994.7
+      },
+      {
+        "path": "audio/relax/malay/relax_7_m.mp3",
+        "count": 3,
+        "size_kb": 989.8
+      },
+      {
+        "path": "audio/relax/malay/relax_8_f.mp3",
+        "count": 3,
+        "size_kb": 788.2
+      },
+      {
+        "path": "audio/relax/malay/relax_8_m.mp3",
+        "count": 3,
+        "size_kb": 900.8
+      },
+      {
+        "path": "audio/relax/malay/relax_9_f.mp3",
+        "count": 4,
+        "size_kb": 1492.2
+      },
+      {
+        "path": "audio/relax/malay/relax_9_m.mp3",
+        "count": 4,
+        "size_kb": 1726.9
       },
       {
         "path": "images/activities/a_friendly_chat.svg",
@@ -1244,27 +1434,12 @@
       {
         "path": "images/backgrounds/bottom_banner.svg",
         "count": 1,
-        "size_kb": 23.2
+        "size_kb": 338.5
       },
       {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
-        "size_kb": 37.3
-      },
-      {
-        "path": "images/backgrounds/library_top_right.png",
-        "count": 3,
-        "size_kb": 1358.6
-      },
-      {
-        "path": "images/backgrounds/mountains_trees.svg",
-        "count": 1,
-        "size_kb": 23.2
-      },
-      {
-        "path": "images/backgrounds/progress_arc.png",
-        "count": 1,
-        "size_kb": 255.4
+        "size_kb": 4897.1
       },
       {
         "path": "images/character_icons/f1_daughter_2.svg",
@@ -1412,11 +1587,6 @@
         "size_kb": 4.7
       },
       {
-        "path": "images/icons/document.svg",
-        "count": 1,
-        "size_kb": 7.3
-      },
-      {
         "path": "images/icons/expand_circle_right.svg",
         "count": 1,
         "size_kb": 0.5
@@ -1440,11 +1610,6 @@
         "path": "images/icons/faces/sad_face_new.svg",
         "count": 64,
         "size_kb": 1.5
-      },
-      {
-        "path": "images/icons/feather.svg",
-        "count": 1,
-        "size_kb": 3.5
       },
       {
         "path": "images/icons/heart.png",
@@ -1487,11 +1652,6 @@
         "size_kb": 1.1
       },
       {
-        "path": "images/icons/key.svg",
-        "count": 1,
-        "size_kb": 5.5
-      },
-      {
         "path": "images/icons/lightbulb_blue.png",
         "count": 56,
         "size_kb": 3.6
@@ -1515,11 +1675,6 @@
         "path": "images/icons/locked.png",
         "count": 6,
         "size_kb": 0.7
-      },
-      {
-        "path": "images/icons/magnify_glass.svg",
-        "count": 1,
-        "size_kb": 1.9
       },
       {
         "path": "images/icons/magnifying_glass.svg",
@@ -1550,11 +1705,6 @@
         "path": "images/icons/picture_book.svg",
         "count": 49,
         "size_kb": 1.8
-      },
-      {
-        "path": "images/icons/profile_card.svg",
-        "count": 1,
-        "size_kb": 7.4
       },
       {
         "path": "images/icons/question_mark_blue.svg",
@@ -1625,11 +1775,6 @@
         "path": "images/icons/verified.svg",
         "count": 1,
         "size_kb": 0.5
-      },
-      {
-        "path": "images/icons/world.svg",
-        "count": 1,
-        "size_kb": 6.2
       },
       {
         "path": "images/logos/app_logo.png",
@@ -2433,27 +2578,27 @@
       },
       {
         "path": "lottie/relax/blue_dots.json",
-        "count": 10,
+        "count": 13,
         "size_kb": 14.7
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 10,
+        "count": 9,
         "size_kb": 46.7
       },
       {
         "path": "lottie/relax/looping_rings.json",
-        "count": 10,
+        "count": 13,
         "size_kb": 10.4
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 10,
+        "count": 3,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 38,
+        "count": 22,
         "size_kb": 5.9
       }
     ]
@@ -2463,7 +2608,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 12
+        "total": 15
       },
       {
         "type": "data_list",
@@ -2788,17 +2933,17 @@
       {
         "type": "global",
         "subtype": "onboarding",
-        "total": 2
+        "total": 9
       },
       {
         "type": "template",
         "subtype": null,
-        "total": 124
+        "total": 127
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 788
+        "total": 804
       },
       {
         "type": "template",

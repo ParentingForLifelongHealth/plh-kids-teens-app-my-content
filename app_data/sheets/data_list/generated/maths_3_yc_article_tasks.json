@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.mp3",
+      "id": "relax_13",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset_en_m": "audio/relax/english/relax_13__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_13__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_13_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_13_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\nBagus sekali, anda memang hebat!",
-      "title": "One thing today",
+      "transcript_1": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
+      "transcript_2": "Berikut adalah sesuatu yang menyeronokkan untuk membantu anda melepaskan tekanan:\n\nPilih sebuah lagu yang sesuai dengan apa yang anda perlukan saat ini. Adakah anda perlukan lagu yang lembut dan perlahan untuk menenangkan jiwa yang letih, atau lagu yang rancak untuk membantu anda rasa bertenaga dan keluarkan rasa tertekan anda?\n\nCari ruang dan gerakkan tubuh anda mengikut irama. Ingat untuk terus bernafas semasa anda bergerak. Biarkan nafas dan pergerakan anda selari.\n\nPergerakan selama beberapa minit pun sudah cukup untuk melepaskan tekanan dan menceriakan mood anda!",
+      "title": "Your song",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "One thing today"
+          "eng": "Your song"
         }
       },
       "category_id": "relax",

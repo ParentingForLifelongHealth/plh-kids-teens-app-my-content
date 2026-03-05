@@ -1,0 +1,52 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_content_package",
+  "status": "released",
+  "data_list_name": "user_content_package",
+  "rows": [
+    {
+      "id": "kemas",
+      "name": "kemas",
+      "text": "KEMAS",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "KEMAS"
+        }
+      }
+    },
+    {
+      "id": "masw",
+      "name": "masw",
+      "text": "NGO/Community Facilitator",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "NGO/Community Facilitator"
+        }
+      }
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text": "None of the above",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "None of the above"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/deployment_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
+  }
+}

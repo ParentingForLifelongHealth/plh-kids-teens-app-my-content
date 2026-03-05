@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_8",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_8.mp3",
+      "id": "relax_14",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset_en_m": "audio/relax/english/relax_14__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_14__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_14_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_14_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
-      "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.",
-      "title": "Small things",
+      "transcript_1": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
+      "transcript_2": "Tutup mata anda.\n\nLuangkan sedikit masa untuk rasa lantai di bawah tapak kaki anda.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.\nTumpukan perhatian pada nafas anda.\nTarik dan hembus nafas perlahan-lahan.\n\nBila anda bersedia, buka mata anda.",
+      "title": "Ground & gratitude",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Small things"
+          "eng": "Ground & gratitude"
         }
       },
       "category_id": "relax",

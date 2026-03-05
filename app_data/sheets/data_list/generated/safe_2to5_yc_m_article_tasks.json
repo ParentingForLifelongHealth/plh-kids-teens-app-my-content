@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_10",
+      "id": "relax_6",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_10.mp3",
+      "media_asset_en_m": "audio/relax/english/relax_6_m.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_6_m.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_6_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_6_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
-      "transcript_2": "Pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. Sama ada di atas lantai atau tanah. \nPerhatikan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nPerhatikan di mana terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
-      "title": "Feel the ground",
+      "transcript_1": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_2": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "title": "Think about today",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Feel the ground"
+          "eng": "Think about today"
         }
       },
       "category_id": "relax",

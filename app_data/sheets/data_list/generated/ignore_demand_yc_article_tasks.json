@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_7",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_7.mp3",
+      "id": "relax_2",
+      "lottie_asset": "lottie/relax/soothing_waves.json",
+      "media_asset_en_m": "audio/relax/english/relax_2_m.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_2_m.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_2_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_2_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT.",
-      "transcript_2": "Tutup mata anda.\n\nAdakah anak-anak anda pernah membuat anda rasa seperti mahu menjerit?\n\nBerhenti seketika selama 10 saat. Tarik dan hembus nafas perlahan-lahan sebanyak 5 kali.\n\nKemudian cuba memberi respon dengan lebih tenang.\n\nJutaan ibu bapa mengatakan cara ini sangat membantu mereka. Macam tak percaya kan? Cubalah buat selalu!",
-      "title": "Pause to respond",
+      "transcript_1": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!",
+      "transcript_2": "Senaraikan aktiviti sihat yang anda suka lakukan. Berikut beberapa idea:\n\n* Mendengar muzik kegemaran\n* Berjalan‑jalan (jika boleh)\n* Melakukan senaman ringan\n* Menikmati secawan teh seorang diri\n* Menelefon rakan\n* Menyanyi, menari, berdoa, atau membaca\n* Duduk di bawah cahaya matahari dengan mata terpejam\n* Menonton rancangan TV kegemaran\n\nPilih satu dan lakukan hari ini!",
+      "title": "List of things",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pause to respond"
+          "eng": "List of things"
         }
       },
       "category_id": "relax",
@@ -24,19 +27,19 @@
       "completed": false
     },
     {
-      "id": "check_in_11",
+      "id": "check_in_10",
       "_translatedFields": {
         "text_1": {
-          "eng": "Taking a moment for YOU makes a big difference for everyone!"
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+          "eng": "So good to hear you are feeling well today. You are incredible!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -56,7 +59,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -67,9 +70,9 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
-      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
-      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
