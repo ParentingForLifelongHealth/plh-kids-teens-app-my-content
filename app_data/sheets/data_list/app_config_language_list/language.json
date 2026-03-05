@@ -8,11 +8,20 @@
     {
       "id": "gb_en",
       "country_code": "gb",
-      "country_label": "Panama",
+      "country_label": "United Kingdom",
       "language_code": "en",
       "language_label": "English",
       "name": "gb_en",
       "text": "English"
+    },
+    {
+      "id": "my_ms",
+      "country_code": "my",
+      "country_label": "Malaysia",
+      "language_code": "ms",
+      "language_label": "Bahasa Melayu",
+      "name": "my_ms",
+      "text": "Bahasa Melayu"
     }
   ],
   "_source": {

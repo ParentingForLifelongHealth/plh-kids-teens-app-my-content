@@ -23,6 +23,21 @@
       "id": "page_4",
       "completed": false,
       "completed_count": 3
+    },
+    {
+      "id": "page_5",
+      "completed": false,
+      "completed_count": 4
+    },
+    {
+      "id": "page_6",
+      "completed": false,
+      "completed_count": 5
+    },
+    {
+      "id": "page_7",
+      "completed": false,
+      "completed_count": 6
     }
   ]
 }

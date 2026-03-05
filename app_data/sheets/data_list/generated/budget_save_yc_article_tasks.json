@@ -4,27 +4,21 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_8",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_8.mp3",
-      "media_type": "audio",
-      "transcript_1": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
-      "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.",
-      "title": "Small things",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Small things"
-        }
-      },
-      "category_id": "relax",
-      "nested": false,
-      "completed": false
-    },
-    {
       "id": "check_in_16",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
@@ -51,22 +45,6 @@
           "eng": "Sad"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
       "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
       "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
@@ -74,6 +52,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "category_id": "check_in",
+      "nested": false,
       "completed": false
     },
     {
@@ -118,8 +98,6 @@
           "eng": "⭐ That’s correct! \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚"
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -133,6 +111,8 @@
       "quiz_1_question": "True or False: It’s OK to think about saving in the future if I don’t have enough now.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
+      "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Let’s consider this.",
       "completed": false
     },
@@ -211,7 +191,6 @@
     },
     {
       "id": "explore_5",
-      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "5️⃣ Here are five tips on how to make a savings plan for you and your child:"
@@ -223,6 +202,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
@@ -311,8 +291,6 @@
           "eng": "That’s OK. Try to do it this week. 💚"
         }
       },
-      "category_id": "home_activity",
-      "nested": false,
       "quiz_1_feedback_1": "That’s great! Congratulations. 💚",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -325,6 +303,8 @@
       "quiz_1_question": "The final home activity of this course is to create your savings plan. ⭐ Do you have time to do it today?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
+      "category_id": "home_activity",
+      "nested": false,
       "completed": false
     }
   ],

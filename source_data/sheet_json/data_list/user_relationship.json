@@ -2,16 +2,37 @@
   "flow_type": "data_list",
   "flow_name": "user_relationship",
   "status": "released",
+  "data_list_name": "user_relationship",
   "rows": [
     {
-      "id": "yes",
-      "name": "yes",
-      "text": "Yes"
+      "id": "single",
+      "name": "single",
+      "text::eng": "Single (not in a relationship)"
     },
     {
-      "id": "no",
-      "name": "no",
-      "text": "No"
+      "id": "married",
+      "name": "married",
+      "text::eng": "Married"
+    },
+    {
+      "id": "partner",
+      "name": "partner",
+      "text::eng": "Partnered but not married"
+    },
+    {
+      "id": "divorced",
+      "name": "divorced",
+      "text::eng": "Divorced or separated"
+    },
+    {
+      "id": "widow",
+      "name": "widow",
+      "text::eng": "Widowed"
+    },
+    {
+      "id": "opt_out",
+      "name": "opt_out",
+      "text::eng": "Prefer not to say"
     }
   ]
 }

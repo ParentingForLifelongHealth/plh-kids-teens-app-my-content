@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.mp3",
+      "id": "relax_19",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset_en_m": "audio/relax/english/relax_19__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_19__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_19_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_19_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\nBagus sekali, anda memang hebat!",
-      "title": "One thing today",
+      "transcript_1": "Here are five steps to Take A Pause: \n\nStep 1. Close your eyes and take a deep breath. \n\nStep 2. Ask yourself, \"What am I thinking?\" Notice if your thoughts are positive or negative.\nNotice how you are feeling emotionally. Notice if your emotions are pleasant or unpleasant. Remind yourself that whatever you feel, it is okay.\nNotice how your body feels. Notice anything that hurts or is tense.\n\nStep 3. Focus on your breath. Feel your breath as it goes in and out. You can put a hand on your stomach and feel it rise and fall with each breath. Do this for about 10 breaths.\n\nStep 4. Expand your awareness to your whole body. Listen to the sounds in the room. \n\nStep 5. Take a moment to reflect on whether you feel any different. When you are ready, open your eyes.\n\nWell done for taking a pause. You can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your children!",
+      "transcript_2": "<span>Ini merupakan 5 langkah untuk berhenti seketika:<br/><br/>Langkah pertama: Pejamkan mata dan tarik nafas dengan dalam.  <br/><br/>Langkah kedua: Tanya diri anda, “Apakah yang sedang saya fikirkan?” Perhatikan sama ada fikiran itu positif atau negatif.  <br/>Perhatikan emosi anda. Adakah ia menyenangkan atau membimbangkan. Ingatkan diri anda bahawa apa pun yang anda rasa, semuanya adalah okey.  <br/>Perhatikan tubuh anda. Adakah ada bahagian yang sakit atau tegang.  <br/><br/>Langkah ketiga: Tumpukan perhatian pada nafas anda dan rasainya. Anda boleh meletakkan tangan di perut dan rasa ia naik dan turun setiap kali anda bernafas. Lakukan langkah ini selama lebih kurang 10 kali.<br/><br/></span><span><i>[Berhenti selama 10 saat] <br/></i></span><span><br/>Langkah keempat: Luaskan perhatian anda kepada seluruh tubuh. Dengar bunyi-bunyi di sekeliling bilik.  <br/><br/>Langkah kelima: Ambil sedikit masa untuk perhatikan sama ada anda rasa sedikit berbeza. Bila sudah bersedia, buka mata perlahan-lahan. <br/><br/>Syabas kerana mengambil masa untuk berhenti seketika. Anda boleh lakukan ini pada bila-bila masa anda rasa tertekan. Ia memberi ruang untuk anda menjadi lebih tenang.<br/>Kadang-kadang, hanya dengan beberapa nafas yang dalam atau kembali berpijak ke bumi yang nyata pun sudah boleh membantu untuk menenangkan diri. Anda juga boleh lakukan berhenti seketika ini bersama anak-anak anda.</span>",
+      "title": "Take a pause",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "One thing today"
+          "eng": "Take a pause"
         }
       },
       "category_id": "relax",

@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_2",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset": "audio/relax/relax_2.mp3",
+      "id": "relax_18",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset_en_m": "audio/relax/english/relax_18__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_18__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_18_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_18_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.\nLet's use the magic power of 3 to stay present and relax. \n\nName 3 sounds you can hear right now.\nName 3 smells you can smell right now.\nName your 3 favourite foods.\nWhat are 3 things you can be gratefful for right now.\n\nAt the end of a touch day, thinking of 3 things to be grateful for can help us find the courage to try again tomorrow.",
-      "transcript_2": "Tutup mata anda.\nMari kita gunakan kuasa ajaib nombor 3 untuk kekal hadir dan bertenang.\n\nSebut 3 bunyi yang anda boleh dengar sekarang.\nSebut 3 bau yang anda boleh hidu sekarang.\nSebut 3 makanan kegemaran anda.\nApakah 3 perkara yang anda berasa bersyukur pada saat ini.\n\nDi penghujung hari yang mencabar, fikirkan 3 perkara yang kita rasa beruntung dan boleh membantu kita untuk mengumpul semula semangat untuk mencuba lagi pada esok hari.",
-      "title": "Power of three",
+      "transcript_1": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
+      "transcript_2": "Duduk dengan selesa dan pejamkan mata.\n\nPerhatikan apa yang sedang berlaku dalam diri anda pada saat ini. Apa yang sedang anda fikirkan? Adakah fikiran itu positif atau negatif. Bagaimana perasaan anda? Adakah ia menyenangkan atau membimbangkan. Bagaimana pula tubuh anda? Adakah anda rasa tegang atau tenang.\n\nAlihkan perhatian anda ke hati anda dengan tenang. Anda boleh meletakkan satu tangan di dada atau di atas jantung anda. Ucapkan kata‑kata ini dengan perlahan di dalam hati:\n\nSemoga saya tenang.\nSemoga saya selamat.\nSemoga saya sihat.\nSemoga saya bahagia.\nSemoga ada kasih sayang dalam keluarga saya.\nSemoga saya sentiasa disayangi.\n\nAmbil sedikit masa untuk merenung pengalaman ini. Perhatikan sama ada anda rasa sedikit perbezaan.\n\nBila anda bersedia, buka mata anda.",
+      "title": "Taking care of yourself",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Power of three"
+          "eng": "Taking care of yourself"
         }
       },
       "category_id": "relax",

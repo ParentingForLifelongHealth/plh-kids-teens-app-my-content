@@ -21,7 +21,7 @@
     {
       "id": "develop",
       "core": false,
-      "title::eng": "Child Development",
+      "title::eng": "How Children Grow",
       "image_asset": "images/homescreen/develop.svg",
       "completed": false
     },

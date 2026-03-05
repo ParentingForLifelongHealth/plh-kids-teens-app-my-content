@@ -4,28 +4,21 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
-      "media_type": "audio",
-      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda perlahan-lahan.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
-      "title": "Quick pause",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Quick pause"
-        }
-      },
-      "category_id": "relax",
-      "nested": false,
-      "completed": false
-    },
-    {
       "id": "check_in_5",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Looking after yourself matters. And how you feel matters too!",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Looking after yourself matters. And how you feel matters too!"
@@ -52,22 +45,6 @@
           "eng": "Sad"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Looking after yourself matters. And how you feel matters too!",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
       "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
@@ -75,6 +52,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "category_id": "check_in",
+      "nested": false,
       "completed": false
     },
     {
@@ -119,8 +98,6 @@
           "eng": "⭐ That’s correct! \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣"
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -134,6 +111,8 @@
       "quiz_1_question": "True or false: It does not matter whether you give an instruction in a positive or negative way.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
+      "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "What do you think about this?",
       "completed": false
     },
@@ -236,7 +215,6 @@
     },
     {
       "id": "explore_5",
-      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three tips on how to help your child follow instructions more often:"
@@ -248,6 +226,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
@@ -314,8 +293,6 @@
           "eng": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
         }
       },
-      "category_id": "home_activity",
-      "nested": false,
       "quiz_1_feedback_1": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -328,6 +305,8 @@
       "quiz_1_question": "Your home activity for today is to try to give specific, realistic, and positive instructions with your child. Do you have time to do this today? ⏰⭐",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
+      "category_id": "home_activity",
+      "nested": false,
       "completed": false
     }
   ],

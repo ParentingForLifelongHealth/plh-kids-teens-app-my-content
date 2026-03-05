@@ -4,27 +4,21 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_10",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_10.mp3",
-      "media_type": "audio",
-      "transcript_1": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
-      "transcript_2": "Pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. Sama ada di atas lantai atau tanah. \nPerhatikan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nPerhatikan di mana terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
-      "title": "Feel the ground",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Feel the ground"
-        }
-      },
-      "category_id": "relax",
-      "nested": false,
-      "completed": false
-    },
-    {
       "id": "check_in_4",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Recognising how you feel helps you care for yourself well. You deserve it.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Recognising how you feel helps you care for yourself well. You deserve it."
@@ -51,22 +45,6 @@
           "eng": "Sad"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel helps you care for yourself well. You deserve it.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
       "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
       "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
@@ -74,6 +52,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "category_id": "check_in",
+      "nested": false,
       "completed": false
     },
     {
@@ -98,7 +78,6 @@
     },
     {
       "id": "explore_5",
-      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three steps to help you manage your stress:"
@@ -110,6 +89,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
@@ -176,8 +156,6 @@
           "eng": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙"
         }
       },
-      "category_id": "home_activity",
-      "nested": false,
       "quiz_1_feedback_1": "That’s great! ⭐ The happier and better you feel, the better parent you will be.",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -190,6 +168,8 @@
       "quiz_1_question": "For today’s home activity, write down a list of activities that you can do for yourself that bring you joy. They can be something simple like going for a walk or chatting with a friend. 💚 \n\nCan you do it today?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
+      "category_id": "home_activity",
+      "nested": false,
       "completed": false
     }
   ],

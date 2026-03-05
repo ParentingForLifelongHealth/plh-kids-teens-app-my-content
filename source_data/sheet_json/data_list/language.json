@@ -8,9 +8,19 @@
     {
       "id": "gb_en",
       "country_code": "gb",
-      "country_label": "Panama",
+      "country_label": "United Kingdom",
       "language_code": "en",
       "language_label": "English",
+      "name": "@row.id",
+      "text": "@row.language_label",
+      "comments": "Country code given by alpha-2\nhttps://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes\nLanguage code given by shortest iso code\nhttps://en.wikipedia.org/wiki/List_of_ISO_639-1_codes\nShould confirm best name for country in local language, e.g.\nhttps://www.worldatlas.com/articles/names-of-countries-in-their-own-languages.html\nFlag icons added app assets, downloaded from\nhttps://flagicons.lipis.dev/"
+    },
+    {
+      "id": "my_ms",
+      "country_code": "my",
+      "country_label": "Malaysia",
+      "language_code": "ms",
+      "language_label": "Bahasa Melayu",
       "name": "@row.id",
       "text": "@row.language_label"
     }

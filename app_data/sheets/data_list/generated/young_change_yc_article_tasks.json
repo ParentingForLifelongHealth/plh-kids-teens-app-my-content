@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_6",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_6.mp3",
+      "id": "relax_18",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset_en_m": "audio/relax/english/relax_18__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_18__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_18_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_18_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
-      "transcript_2": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau menyeronokkan yang anda lakukan.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.",
-      "title": "Think about today",
+      "transcript_1": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
+      "transcript_2": "Duduk dengan selesa dan pejamkan mata.\n\nPerhatikan apa yang sedang berlaku dalam diri anda pada saat ini. Apa yang sedang anda fikirkan? Adakah fikiran itu positif atau negatif. Bagaimana perasaan anda? Adakah ia menyenangkan atau membimbangkan. Bagaimana pula tubuh anda? Adakah anda rasa tegang atau tenang.\n\nAlihkan perhatian anda ke hati anda dengan tenang. Anda boleh meletakkan satu tangan di dada atau di atas jantung anda. Ucapkan kata‑kata ini dengan perlahan di dalam hati:\n\nSemoga saya tenang.\nSemoga saya selamat.\nSemoga saya sihat.\nSemoga saya bahagia.\nSemoga ada kasih sayang dalam keluarga saya.\nSemoga saya sentiasa disayangi.\n\nAmbil sedikit masa untuk merenung pengalaman ini. Perhatikan sama ada anda rasa sedikit perbezaan.\n\nBila anda bersedia, buka mata anda.",
+      "title": "Taking care of yourself",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Think about today"
+          "eng": "Taking care of yourself"
         }
       },
       "category_id": "relax",
@@ -24,19 +27,19 @@
       "completed": false
     },
     {
-      "id": "check_in_16",
+      "id": "check_in_2",
       "_translatedFields": {
         "text_1": {
           "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Amazing, life is the best when you're feeling good."
+          "eng": "Great! So good to hear you are in a positive space."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon."
+          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
         },
         "quiz_1_feedback_3": {
-          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
+          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -67,9 +70,9 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
-      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
-      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
+      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
+      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
+      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",

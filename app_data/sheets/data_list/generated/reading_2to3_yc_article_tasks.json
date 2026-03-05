@@ -4,20 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_1",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_1.mp3",
+      "id": "relax_11",
+      "lottie_asset": "lottie/relax/heart.json",
+      "media_asset_en_m": "audio/relax/english/relax_11__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_11__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_11_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_11_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Sit down, close your eyes, and listen to your breath as it goes in and out.\nNotice how you feel. When you are ready, open your eyes. \nTry this whenever you are feeling stressed and you need a break to reconnect.",
-      "transcript_2": "Duduk dengan selesa, pejamkan mata, dan dengar nafas anda keluar dan masuk. \nPerhatikan apa yang anda rasa. Bila anda sudah bersedia, buka semula mata anda perlahan-lahan.\nCuba lakukan ini setiap kali anda berasa tertekan dan perlukan rehat seketika untuk tenang dan kembali fokus.",
-      "title": "Quick pause",
+      "transcript_1": "Think about what makes you angry. When does it happen? How do you normally react?\n\nPrevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone.",
+      "transcript_2": "Fikirkan apa yang biasa membuat anda marah. Bila ia berlaku? Bagaimana respon anda ketika anda marah?\n\nCuba cegah rasa marah sebelum ia bermula. Dapatkan tidur atau rehat apabila anda letih. \nMakan sesuatu apabila anda lapar. Minta sokongan seseorang apabila anda rasa bersendirian.",
+      "title": "Prevent anger",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Quick pause"
+          "eng": "Prevent anger"
         }
       },
       "category_id": "relax",

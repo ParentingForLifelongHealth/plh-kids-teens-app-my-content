@@ -1,0 +1,234 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_location",
+  "status": "released",
+  "data_list_name": "user_location",
+  "rows": [
+    {
+      "id": "johor",
+      "name": "johor",
+      "text": "Johor",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Johor"
+        }
+      }
+    },
+    {
+      "id": "kedah",
+      "name": "kedah",
+      "text": "Kedah",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Kedah"
+        }
+      }
+    },
+    {
+      "id": "kelantan",
+      "name": "kelantan",
+      "text": "Kelantan",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Kelantan"
+        }
+      }
+    },
+    {
+      "id": "kuala_lumpur",
+      "name": "kuala_lumpur",
+      "text": "Kuala Lumpur",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Kuala Lumpur"
+        }
+      }
+    },
+    {
+      "id": "labuan",
+      "name": "labuan",
+      "text": "Labuan",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Labuan"
+        }
+      }
+    },
+    {
+      "id": "malacca",
+      "name": "malacca",
+      "text": "Malacca",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Malacca"
+        }
+      }
+    },
+    {
+      "id": "negeri_sembilan",
+      "name": "negeri_sembilan",
+      "text": "Negeri Sembilan",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Negeri Sembilan"
+        }
+      }
+    },
+    {
+      "id": "pahang",
+      "name": "pahang",
+      "text": "Pahang",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Pahang"
+        }
+      }
+    },
+    {
+      "id": "penang",
+      "name": "penang",
+      "text": "Penang",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Penang"
+        }
+      }
+    },
+    {
+      "id": "perak",
+      "name": "perak",
+      "text": "Perak",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Perak"
+        }
+      }
+    },
+    {
+      "id": "perlis",
+      "name": "perlis",
+      "text": "Perlis",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Perlis"
+        }
+      }
+    },
+    {
+      "id": "putrajaya",
+      "name": "putrajaya",
+      "text": "Putrajaya",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Putrajaya"
+        }
+      }
+    },
+    {
+      "id": "sabah",
+      "name": "sabah",
+      "text": "Sabah",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Sabah"
+        }
+      }
+    },
+    {
+      "id": "sarawak",
+      "name": "sarawak",
+      "text": "Sarawak",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Sarawak"
+        }
+      }
+    },
+    {
+      "id": "selangor",
+      "name": "selangor",
+      "text": "Selangor",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Selangor"
+        }
+      }
+    },
+    {
+      "id": "terengganu",
+      "name": "terengganu",
+      "text": "Terengganu",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Terengganu"
+        }
+      }
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text": "Other location",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Other location"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/deployment_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
+  }
+}

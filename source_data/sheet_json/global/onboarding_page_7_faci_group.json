@@ -1,0 +1,28 @@
+{
+  "flow_type": "global",
+  "flow_subtype": "onboarding",
+  "flow_name": "onboarding_page_7_faci_group",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_message_faci_group_id",
+      "value": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below to connect to your group."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "question_user_facilitator_group",
+      "value": "What is your facilitator's Group ID?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "placeholder_user_facilitator_group",
+      "value": "Enter your 4 digit Group ID"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "facilitator_input_restriction",
+      "value": "Please enter a valid 4-character ID."
+    }
+  ]
+}

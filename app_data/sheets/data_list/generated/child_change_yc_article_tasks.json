@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_7",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_7.mp3",
+      "id": "relax_19",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset_en_m": "audio/relax/english/relax_19__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_19__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_19_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_19_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT.",
-      "transcript_2": "Tutup mata anda.\n\nAdakah anak-anak anda pernah membuat anda rasa seperti mahu menjerit?\n\nBerhenti seketika selama 10 saat. Tarik dan hembus nafas perlahan-lahan sebanyak 5 kali.\n\nKemudian cuba memberi respon dengan lebih tenang.\n\nJutaan ibu bapa mengatakan cara ini sangat membantu mereka. Macam tak percaya kan? Cubalah buat selalu!",
-      "title": "Pause to respond",
+      "transcript_1": "Here are five steps to Take A Pause: \n\nStep 1. Close your eyes and take a deep breath. \n\nStep 2. Ask yourself, \"What am I thinking?\" Notice if your thoughts are positive or negative.\nNotice how you are feeling emotionally. Notice if your emotions are pleasant or unpleasant. Remind yourself that whatever you feel, it is okay.\nNotice how your body feels. Notice anything that hurts or is tense.\n\nStep 3. Focus on your breath. Feel your breath as it goes in and out. You can put a hand on your stomach and feel it rise and fall with each breath. Do this for about 10 breaths.\n\nStep 4. Expand your awareness to your whole body. Listen to the sounds in the room. \n\nStep 5. Take a moment to reflect on whether you feel any different. When you are ready, open your eyes.\n\nWell done for taking a pause. You can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also take a pause with your children!",
+      "transcript_2": "<span>Ini merupakan 5 langkah untuk berhenti seketika:<br/><br/>Langkah pertama: Pejamkan mata dan tarik nafas dengan dalam.  <br/><br/>Langkah kedua: Tanya diri anda, “Apakah yang sedang saya fikirkan?” Perhatikan sama ada fikiran itu positif atau negatif.  <br/>Perhatikan emosi anda. Adakah ia menyenangkan atau membimbangkan. Ingatkan diri anda bahawa apa pun yang anda rasa, semuanya adalah okey.  <br/>Perhatikan tubuh anda. Adakah ada bahagian yang sakit atau tegang.  <br/><br/>Langkah ketiga: Tumpukan perhatian pada nafas anda dan rasainya. Anda boleh meletakkan tangan di perut dan rasa ia naik dan turun setiap kali anda bernafas. Lakukan langkah ini selama lebih kurang 10 kali.<br/><br/></span><span><i>[Berhenti selama 10 saat] <br/></i></span><span><br/>Langkah keempat: Luaskan perhatian anda kepada seluruh tubuh. Dengar bunyi-bunyi di sekeliling bilik.  <br/><br/>Langkah kelima: Ambil sedikit masa untuk perhatikan sama ada anda rasa sedikit berbeza. Bila sudah bersedia, buka mata perlahan-lahan. <br/><br/>Syabas kerana mengambil masa untuk berhenti seketika. Anda boleh lakukan ini pada bila-bila masa anda rasa tertekan. Ia memberi ruang untuk anda menjadi lebih tenang.<br/>Kadang-kadang, hanya dengan beberapa nafas yang dalam atau kembali berpijak ke bumi yang nyata pun sudah boleh membantu untuk menenangkan diri. Anda juga boleh lakukan berhenti seketika ini bersama anak-anak anda.</span>",
+      "title": "Take a pause",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pause to respond"
+          "eng": "Take a pause"
         }
       },
       "category_id": "relax",
@@ -24,19 +27,19 @@
       "completed": false
     },
     {
-      "id": "check_in_1",
+      "id": "check_in_3",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "You matter! Take a moment to check in with yourself."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -56,7 +59,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "You matter! Take a moment to check in with yourself.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -67,9 +70,9 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",

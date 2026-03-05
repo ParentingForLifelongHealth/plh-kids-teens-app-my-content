@@ -155,8 +155,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "LINK HERE",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "I will also provide you with tips that you can use anytime and anywhere!\n\n3️⃣ Here are three tips to remember when spending one-on-one time with your child: DAY, PLAY, and STAY.",
       "_translations": {

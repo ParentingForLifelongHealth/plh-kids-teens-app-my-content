@@ -1,0 +1,33 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_ethnicity",
+  "status": "released",
+  "data_list_name": "user_ethnicity",
+  "rows": [
+    {
+      "id": "malay",
+      "name": "malay",
+      "text::eng": "Malay"
+    },
+    {
+      "id": "chinese",
+      "name": "chinese",
+      "text::eng": "Chinese"
+    },
+    {
+      "id": "indian",
+      "name": "indian",
+      "text::eng": "Indian"
+    },
+    {
+      "id": "asli",
+      "name": "asli",
+      "text::eng": "Orang Asal/Asli"
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text::eng": "Other"
+    }
+  ]
+}

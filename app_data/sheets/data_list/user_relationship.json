@@ -2,21 +2,90 @@
   "flow_type": "data_list",
   "flow_name": "user_relationship",
   "status": "released",
+  "data_list_name": "user_relationship",
   "rows": [
     {
-      "id": "yes",
-      "name": "yes",
-      "text": "Yes"
+      "id": "single",
+      "name": "single",
+      "text": "Single (not in a relationship)",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Single (not in a relationship)"
+        }
+      }
     },
     {
-      "id": "no",
-      "name": "no",
-      "text": "No"
+      "id": "married",
+      "name": "married",
+      "text": "Married",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Married"
+        }
+      }
+    },
+    {
+      "id": "partner",
+      "name": "partner",
+      "text": "Partnered but not married",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Partnered but not married"
+        }
+      }
+    },
+    {
+      "id": "divorced",
+      "name": "divorced",
+      "text": "Divorced or separated",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Divorced or separated"
+        }
+      }
+    },
+    {
+      "id": "widow",
+      "name": "widow",
+      "text": "Widowed",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Widowed"
+        }
+      }
+    },
+    {
+      "id": "opt_out",
+      "name": "opt_out",
+      "text": "Prefer not to say",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Prefer not to say"
+        }
+      }
     }
   ],
   "_source": {
     "name": "kids_teens_my",
-    "path": "templates/MY onboarding templates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1aUwbR38bDjfGwoFG1DaHaRejyoCbFGhyFOZ0lVJmOks"
+    "path": "data/deployment_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
   }
 }

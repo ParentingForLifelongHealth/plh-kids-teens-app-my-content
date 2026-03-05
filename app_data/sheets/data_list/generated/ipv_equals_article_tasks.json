@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_10",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_10.mp3",
+      "id": "relax_16",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "media_asset_en_m": "audio/relax/english/relax_16__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_16__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_16_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_16_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes.\n\nNotice your connection with the ground beneath you. \nWhat parts of your body touch the ground? What parts of your body do not?  \nNotice where it feels warm and where it feels cool. \nFeel the ground underneath you supporting you. Let your body sink into the support of the ground.\n\nTry this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
-      "transcript_2": "Pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. Sama ada di atas lantai atau tanah. \nPerhatikan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nPerhatikan di mana terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
-      "title": "Feel the ground",
+      "transcript_1": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
+      "transcript_2": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
+      "title": "Angry? Take a break",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Feel the ground"
+          "eng": "Angry? Take a break"
         }
       },
       "category_id": "relax",

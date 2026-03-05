@@ -4,22 +4,25 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset": "audio/relax/relax_3.mp3",
+      "id": "relax_9",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "media_asset_en_m": "audio/relax/english/relax_9_m.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_9_m.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_9_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_9_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\nBagus sekali, anda memang hebat!",
-      "title": "One thing today",
+      "transcript_1": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
+      "transcript_2": "Cubalah untuk ambil masa untuk merehatkan tubuh badan anda setiap hari.\n\nBerikut ialah satu aktiviti untuk merehatkan tubuh badan anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh badan anda. Adakah ada bahagian yang terasa tegang? Kebas? Atau sakit?\nFokus pada bahagian itu seketika. Tarik nafas dan hembus nafas perlahan sambil menggerakkan sedikit tubuh badan anda yang berasa tegang, kebas atau sakit secara perlahan-lahan. \nUlang dan tarik nafas beberapa kali.\n\nSatu.....Dua.....Tiga....\n\nBuka mata anda perlahan-lahan. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
+      "title": "Body scan",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "One thing today"
+          "eng": "Body scan"
         }
       },
+      "in_library": "yes",
       "category_id": "relax",
       "nested": false,
       "completed": false

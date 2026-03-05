@@ -4,19 +4,22 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_6",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset": "audio/relax/relax_6.mp3",
+      "id": "relax_12",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "media_asset_en_m": "audio/relax/english/relax_12__.mp3",
+      "media_asset_my_m": "audio/relax/malay/relax_12__.mp3",
+      "media_asset_en_f": "audio/relax/english/relax_12_f.mp3",
+      "media_asset_my_f": "audio/relax/malay/relax_12_f.mp3",
       "media_type": "audio",
-      "transcript_1": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
-      "transcript_2": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau menyeronokkan yang anda lakukan.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.",
-      "title": "Think about today",
+      "transcript_1": "Close your eyes.\n\nDo you ever feel something so strongly that you want to run away from it?\n\nInstead of moving away from the feeling, let’s move towards it for a moment.\nIt is ok. Close your eyes if you feel comfortable. Take a deep breath.\n\nBecome curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?\nAsk yourself some questions. What is it telling me? What does it need? How can I be kind to myself right now?",
+      "transcript_2": "Pernah tak anda rasa sesuatu perasaan yang begitu kuat sampai anda mahu lari daripadanya?\n\nDaripada cuba menjauhkan diri daripada perasaan itu, mari kita mendekatinya sekejap.\nTak apa, saya faham bahawa tak mudah untuk mendekati perasaan itu. Sekarang ini, pejamkan mata jika anda selesa. Tarik nafas dengan dalam dan hembuskan nafas anda perlahan-lahan.\n\nTidakkah anda pernah tertanya-tanya tentang perasaan itu? Di mana anda rasa perasaan itu di tubuh badan anda? Adakah ia terasa panas atau sejuk? Keras atau lembut? Rasa lega atau rasa tegang?\n\nTanya diri anda beberapa soalan ini:\nApa yang perasaan ini cuba beritahu diri anda saya? \nApa yang ia perlukan? \nBagaimana saya boleh bersikap baik dengan diri sendiri saat ini?\n\nBila anda bersedia, buka mata anda.",
+      "title": "Feel your feelings",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Think about today"
+          "eng": "Feel your feelings"
         }
       },
       "category_id": "relax",

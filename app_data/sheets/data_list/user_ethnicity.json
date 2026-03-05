@@ -1,0 +1,78 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "user_ethnicity",
+  "status": "released",
+  "data_list_name": "user_ethnicity",
+  "rows": [
+    {
+      "id": "malay",
+      "name": "malay",
+      "text": "Malay",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Malay"
+        }
+      }
+    },
+    {
+      "id": "chinese",
+      "name": "chinese",
+      "text": "Chinese",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Chinese"
+        }
+      }
+    },
+    {
+      "id": "indian",
+      "name": "indian",
+      "text": "Indian",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Indian"
+        }
+      }
+    },
+    {
+      "id": "asli",
+      "name": "asli",
+      "text": "Orang Asal/Asli",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Orang Asal/Asli"
+        }
+      }
+    },
+    {
+      "id": "other",
+      "name": "other",
+      "text": "Other",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Other"
+        }
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/deployment_data_my.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
+  }
+}

@@ -4,29 +4,21 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_4",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/heart.json",
-      "media_asset": "audio/relax/relax_4.mp3",
-      "media_type": "audio",
-      "transcript_1": "Close your eyes. \n\nUse the magic power of three to stay connected and relax.\n\nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3. \nBreathe in to the count of three. 1, 2, 3. \nBreathe out to the count of three. 1, 2, 3.\n\nDo you feel any different? Deep breathing helps our whole body and mind to calm down. \n\nYou are a star!",
-      "transcript_2": "Tutup mata anda.\n\n\nGunakan kuasa ajaib nombor tiga untuk kekal tenang dan berhubung dengan diri sendiri.\n\nTarik nafas perlahan sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas perlahan sambil mengira hingga tiga. 1, 2, 3.\nTarik nafas sekali lagi sambil mengira hingga tiga. 1, 2, 3.\nHembus nafas sambil mengira hingga tiga. 1, 2, 3.\n\nAdakah anda rasa sedikit berbeza? \"Teknik Pernafasan Dalam\" ini membantu seluruh tubuh dan minda kita menjadi lebih tenang.\n\nAnda memang hebat!",
-      "title": "Breathe to three",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Breathe to three"
-        }
-      },
-      "attached_single_doc": "lepaskan dalam kiraan 3. open eyes.",
-      "category_id": "relax",
-      "nested": false,
-      "completed": false
-    },
-    {
       "id": "check_in_12",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Looking after yourself well starts with noticing how you feel.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Looking after yourself well starts with noticing how you feel."
@@ -53,22 +45,6 @@
           "eng": "Sad"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Looking after yourself well starts with noticing how you feel.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
       "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
       "quiz_1_feedback_3": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
@@ -76,6 +52,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "category_id": "check_in",
+      "nested": false,
       "completed": false
     },
     {
@@ -120,8 +98,6 @@
           "eng": "❌ That’s incorrect. \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂"
         }
       },
-      "category_id": "intro",
-      "nested": false,
       "quiz_1_feedback_1": "That’s correct! \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -135,6 +111,8 @@
       "quiz_1_question": "True or False: Talking to and listening to your spouse can help prevent conflict.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
+      "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Ready to reflect on this?",
       "completed": false
     },
@@ -214,7 +192,6 @@
     },
     {
       "id": "explore_4",
-      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four tips on how you and your spouse can listen and talk with each other in a supportive and loving way:"
@@ -226,6 +203,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
@@ -303,8 +281,6 @@
           "eng": "That’s okay. Talking about our feelings and challenges we’re facing can help others understand and support you better. 🎈 \n\nEmotions and challenges are a part of life, and learning how to handle these, can help make life less stressful. ⭐"
         }
       },
-      "category_id": "home_activity",
-      "nested": false,
       "quiz_1_feedback_1": "That’s great to hear! Talking about challenges and our emotions can be hard, but it gets easier over time. You are doing great! 🎉",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -317,6 +293,8 @@
       "quiz_1_question": "For today’s home activity, try setting aside some time to talk to your spouse about your feelings and any difficulties you’re facing. ⭐ Do you have time to do it today?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
+      "category_id": "home_activity",
+      "nested": false,
       "completed": false
     }
   ],

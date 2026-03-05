@@ -18,11 +18,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -59,11 +64,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -100,11 +110,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -141,11 +156,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -182,11 +202,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -221,11 +246,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -258,11 +288,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -295,11 +330,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -332,11 +372,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -369,11 +414,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -404,11 +454,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -416,7 +471,7 @@
       "number": 12,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_1",
+      "relax_id": "relax_11",
       "check_in_id": "check_in_11",
       "title": "Reading",
       "_translations": {
@@ -438,11 +493,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -450,7 +510,7 @@
       "number": 13,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_2",
+      "relax_id": "relax_12",
       "check_in_id": "check_in_12",
       "title": "Maths",
       "_translations": {
@@ -472,11 +532,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -484,7 +549,7 @@
       "number": 14,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_3",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_13",
       "title": "Maths",
       "_translations": {
@@ -510,11 +575,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -522,7 +592,7 @@
       "number": 15,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_4",
+      "relax_id": "relax_14",
       "check_in_id": "check_in_14",
       "title": "Talk to Teachers",
       "_translations": {
@@ -551,11 +621,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -563,8 +638,8 @@
       "number": 16,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_8",
-      "check_in_id": "check_in_2",
+      "relax_id": "relax_15",
+      "check_in_id": "check_in_15",
       "title": "Play & Learn",
       "_translations": {
         "title": {}
@@ -592,11 +667,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -604,8 +684,8 @@
       "number": 17,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_9",
-      "check_in_id": "check_in_3",
+      "relax_id": "relax_16",
+      "check_in_id": "check_in_16",
       "title": "Life Lessons",
       "_translations": {
         "title": {}
@@ -627,11 +707,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -639,8 +724,8 @@
       "number": 18,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_15",
+      "relax_id": "relax_17",
+      "check_in_id": "check_in_1",
       "title": "Child Development",
       "_translations": {
         "title": {}
@@ -663,11 +748,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -675,8 +765,8 @@
       "number": 19,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_6",
-      "check_in_id": "check_in_16",
+      "relax_id": "relax_18",
+      "check_in_id": "check_in_2",
       "title": "Child Development",
       "_translations": {
         "title": {}
@@ -699,11 +789,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -711,8 +806,8 @@
       "number": 20,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_7",
-      "check_in_id": "check_in_1",
+      "relax_id": "relax_19",
+      "check_in_id": "check_in_3",
       "title": "Child Development",
       "_translations": {
         "title": {}
@@ -740,11 +835,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -752,7 +852,7 @@
       "number": 21,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_10",
+      "relax_id": "relax_20",
       "check_in_id": "check_in_4",
       "title": "Manage Stress",
       "_translations": {
@@ -781,11 +881,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -793,7 +898,7 @@
       "number": 22,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_1",
+      "relax_id": "relax_21",
       "check_in_id": "check_in_5",
       "title": "Keep it Positive",
       "_translations": {
@@ -822,11 +927,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -834,7 +944,7 @@
       "number": 23,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_2",
+      "relax_id": "relax_22",
       "check_in_id": "check_in_6",
       "title": "Daily Routines",
       "_translations": {
@@ -863,11 +973,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -875,7 +990,7 @@
       "number": 24,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_3",
+      "relax_id": "relax_23",
       "check_in_id": "check_in_7",
       "title": "Family Rules",
       "_translations": {
@@ -904,11 +1019,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -916,7 +1036,7 @@
       "number": 25,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_4",
+      "relax_id": "relax_24",
       "check_in_id": "check_in_8",
       "title": "Roles at Home",
       "_translations": {
@@ -945,11 +1065,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -957,8 +1082,8 @@
       "number": 26,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_6",
-      "check_in_id": "check_in_10",
+      "relax_id": "relax_1",
+      "check_in_id": "check_in_9",
       "title": "Misbehaviour",
       "_translations": {
         "title": {}
@@ -986,11 +1111,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -998,8 +1128,8 @@
       "number": 27,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_7",
-      "check_in_id": "check_in_11",
+      "relax_id": "relax_2",
+      "check_in_id": "check_in_10",
       "title": "Manage Demands",
       "_translations": {
         "title": {}
@@ -1027,11 +1157,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1039,8 +1174,8 @@
       "number": 28,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_5",
-      "check_in_id": "check_in_9",
+      "relax_id": "relax_3",
+      "check_in_id": "check_in_11",
       "title": "Manage Anger",
       "_translations": {
         "title": {}
@@ -1068,11 +1203,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1080,7 +1220,7 @@
       "number": 29,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_8",
+      "relax_id": "relax_4",
       "check_in_id": "check_in_12",
       "title": "Consequences",
       "_translations": {
@@ -1109,11 +1249,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1121,7 +1266,7 @@
       "number": 30,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_9",
+      "relax_id": "relax_5",
       "check_in_id": "check_in_13",
       "title": "Problem Solving",
       "_translations": {
@@ -1148,8 +1293,12 @@
         "male"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1157,7 +1306,7 @@
       "number": 31,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_10",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_14",
       "title": "Safe Touch",
       "_translations": {
@@ -1181,11 +1330,16 @@
         "5"
       ],
       "child_gender_list": [
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1193,7 +1347,7 @@
       "number": 32,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_1",
+      "relax_id": "relax_7",
       "check_in_id": "check_in_15",
       "title": "Safe Touch",
       "_translations": {
@@ -1218,11 +1372,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1230,7 +1389,7 @@
       "number": 33,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_2",
+      "relax_id": "relax_8",
       "check_in_id": "check_in_16",
       "title": "Safe Touch",
       "_translations": {
@@ -1254,11 +1413,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1266,7 +1430,7 @@
       "number": 34,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_3",
+      "relax_id": "relax_9",
       "check_in_id": "check_in_1",
       "title": "Stay Safe",
       "_translations": {
@@ -1292,11 +1456,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1304,7 +1473,7 @@
       "number": 35,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_4",
+      "relax_id": "relax_10",
       "check_in_id": "check_in_2",
       "title": "Stay Safe",
       "_translations": {
@@ -1330,11 +1499,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1342,7 +1516,7 @@
       "number": 36,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_5",
+      "relax_id": "relax_11",
       "check_in_id": "check_in_3",
       "title": "Stay Safe",
       "_translations": {
@@ -1366,11 +1540,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1378,7 +1557,7 @@
       "number": 37,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_6",
+      "relax_id": "relax_12",
       "check_in_id": "check_in_4",
       "title": "Crises",
       "_translations": {
@@ -1407,11 +1586,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1419,7 +1603,7 @@
       "number": 38,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_7",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_5",
       "title": "Online Safety",
       "_translations": {
@@ -1448,11 +1632,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1460,7 +1649,7 @@
       "number": 39,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_8",
+      "relax_id": "relax_14",
       "check_in_id": "check_in_6",
       "title": "Online Habits",
       "_translations": {
@@ -1489,11 +1678,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1501,7 +1695,7 @@
       "number": 40,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_9",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_7",
       "title": "Nutrition and Health",
       "_translations": {
@@ -1530,10 +1724,13 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes"
+        "married",
+        "partner",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1541,7 +1738,7 @@
       "number": 41,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_10",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_8",
       "title": "Respect Each Other",
       "_translations": {
@@ -1570,10 +1767,13 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes"
+        "married",
+        "partner",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1581,7 +1781,7 @@
       "number": 42,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_1",
+      "relax_id": "relax_17",
       "check_in_id": "check_in_9",
       "title": "Team Parenting",
       "_translations": {
@@ -1610,10 +1810,13 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes"
+        "married",
+        "partner",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1621,7 +1824,7 @@
       "number": 43,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_2",
+      "relax_id": "relax_18",
       "check_in_id": "check_in_10",
       "title": "Teamwork",
       "_translations": {
@@ -1650,10 +1853,13 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes"
+        "married",
+        "partner",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1661,7 +1867,7 @@
       "number": 44,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_3",
+      "relax_id": "relax_19",
       "check_in_id": "check_in_11",
       "title": "Resolve Conflicts",
       "_translations": {
@@ -1690,10 +1896,13 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes"
+        "married",
+        "partner",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1701,7 +1910,7 @@
       "number": 45,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_4",
+      "relax_id": "relax_20",
       "check_in_id": "check_in_12",
       "title": "Talk and Listen",
       "_translations": {
@@ -1730,11 +1939,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1742,7 +1956,7 @@
       "number": 46,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_5",
+      "relax_id": "relax_21",
       "check_in_id": "check_in_13",
       "title": "Needs and Wants",
       "_translations": {
@@ -1771,11 +1985,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1783,7 +2002,7 @@
       "number": 47,
       "unlock": 45,
       "core": false,
-      "relax_id": "relax_6",
+      "relax_id": "relax_22",
       "check_in_id": "check_in_14",
       "title": "Expenses",
       "_translations": {
@@ -1812,11 +2031,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1824,7 +2048,7 @@
       "number": 48,
       "unlock": 45,
       "core": false,
-      "relax_id": "relax_7",
+      "relax_id": "relax_23",
       "check_in_id": "check_in_15",
       "title": "Budgeting",
       "_translations": {
@@ -1853,11 +2077,16 @@
       ],
       "child_gender_list": [
         "male",
-        "female"
+        "female",
+        "opt_out"
       ],
       "caregiver_relationship_list": [
-        "yes",
-        "no"
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "tag_list": [
         "child"
@@ -1865,7 +2094,7 @@
       "number": 49,
       "unlock": 45,
       "core": false,
-      "relax_id": "relax_8",
+      "relax_id": "relax_24",
       "check_in_id": "check_in_16",
       "title": "Savings",
       "_translations": {

@@ -4,29 +4,21 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_5",
-      "in_library": "yes",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset": "audio/relax/relax_5.mp3",
-      "media_type": "audio",
-      "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
-      "transcript_2": "Tutup mata anda.\n\nDengar nafas anda keluar dan masuk sebanyak lima kali.\n\nPerhatikan apa yang anda rasa.\n\nBila anda sudah bersedia, buka semula mata anda. Anda memang mampu mengawalnya!",
-      "title": "In and out",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "In and out"
-        }
-      },
-      "attached_single_doc": "dengar bunyi pernafasan anda semasa menarik dam hembus nafas sebanyak Lima kali",
-      "category_id": "relax",
-      "nested": false,
-      "completed": false
-    },
-    {
       "id": "check_in_13",
+      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
+      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
+      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
+      "text_1": "Take a moment for yourself first.",
+      "_translations": {
+        "text_1": {},
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_3": {},
+        "quiz_1_question": {},
+        "quiz_1_option_1_text": {},
+        "quiz_1_option_2_text": {},
+        "quiz_1_option_3_text": {}
+      },
       "_translatedFields": {
         "text_1": {
           "eng": "Take a moment for yourself first."
@@ -53,22 +45,6 @@
           "eng": "Sad"
         }
       },
-      "category_id": "check_in",
-      "nested": false,
-      "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
-      "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
-      "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment for yourself first.",
-      "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
-      },
       "quiz_1_feedback_1": "It is great to hear you are feeling positive today. You make a real difference for your family!",
       "quiz_1_feedback_2": "Life has its great and hard moments – that is okay. You are on the right track.",
       "quiz_1_feedback_3": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
@@ -76,6 +52,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
+      "category_id": "check_in",
+      "nested": false,
       "completed": false
     },
     {
@@ -100,7 +78,6 @@
     },
     {
       "id": "explore_1",
-      "media_type": "video",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are the three steps to start your family budget!"
@@ -112,6 +89,7 @@
       "_translations": {
         "text_1_facilitator": {}
       },
+      "media_type": "video",
       "youtube_gb_en": "LINK HERE",
       "youtube_my": "LINK HERE",
       "completed": false
@@ -178,8 +156,6 @@
           "eng": "That’s OK! The best place to start is by thinking about your own wants and needs before speaking with other members of your family. 📝\n\nOnce you feel comfortable, you can take the next step and complete step two of setting a family budget. ✨"
         }
       },
-      "category_id": "home_activity",
-      "nested": false,
       "quiz_1_feedback_1": "That’s great! Discussing Needs and Wants is very important and the first step to creating a successful budget plan. 💚",
       "_translations": {
         "quiz_1_feedback_1": {},
@@ -192,6 +168,8 @@
       "quiz_1_question": "Today’s home activity is to discuss your wants and needs with your family. ⭐Do you have time to do it today?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
+      "category_id": "home_activity",
+      "nested": false,
       "completed": false
     }
   ],
