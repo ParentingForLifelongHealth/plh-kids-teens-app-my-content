@@ -149,8 +149,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/p96Yfc9iqlI?si=sK9aghrYJD03KFRX",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:",
       "_translations": {

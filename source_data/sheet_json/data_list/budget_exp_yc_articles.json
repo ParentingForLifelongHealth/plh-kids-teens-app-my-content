@@ -21,8 +21,10 @@
       "category_id": "explore",
       "text_1_facilitator::eng": "Let's get started with an activity!",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE"
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/eHCvY4SK_Dg?si=Tw0_yIR_foM4HMeL",
+      "youtube_my_m": "LINK HERE"
     },
     {
       "id": "explore_2",

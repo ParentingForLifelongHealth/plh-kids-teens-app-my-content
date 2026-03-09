@@ -149,8 +149,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "LINK HERE",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
       "_translations": {

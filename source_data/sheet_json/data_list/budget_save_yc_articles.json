@@ -60,8 +60,10 @@
       "category_id": "explore",
       "text_1_facilitator::eng": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE"
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/F1IOZdZauZU?si=aigr2_2Ivlfcu2Nb",
+      "youtube_my_m": "LINK HERE"
     },
     {
       "id": "tips_1",

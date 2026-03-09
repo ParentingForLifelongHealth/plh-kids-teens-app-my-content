@@ -165,8 +165,10 @@
       "id": "explore_6",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/H_LUe4FNuvs?si=6aTXGVPsRIqj0FrF",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three tips on how to create routines with your child.",
       "_translations": {

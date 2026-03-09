@@ -155,8 +155,10 @@
       "id": "explore_4",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/iLAIlEqX5KY?si=Xn4QOnXl4LAGfxs5",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:",
       "_translations": {

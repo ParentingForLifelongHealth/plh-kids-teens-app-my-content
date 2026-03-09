@@ -55,14 +55,20 @@
       "type": "begin_display_group",
       "name": "dg_row",
       "exclude_from_translation": true,
-      "style_list": "justify-content: space-between"
+      "style_list": "justify-content: space-between;\npadding: 12px 24px;"
+    },
+    {
+      "type": "title",
+      "name": "hello_name",
+      "value": "@global.greeting @fields.user_name",
+      "style_list": "margin-top: 24px;\nmargin-left: -24px;"
     },
     {
       "type": "image",
       "name": "image",
       "value": "@local.home_screen_logo",
       "exclude_from_translation": true,
-      "style_list": "height: @local.home_screen_logo_height;\nmargin-top: 8px;\nmargin-bottom: -8px;\nmargin-inline-start: 24px;",
+      "style_list": "height: @local.home_screen_logo_height;\nmargin-top: 8px;\nmargin-bottom: -8px;\nmargin-right: -34px;",
       "comment": "Need to make up for 1em extra margin added on the component below this. \n\nHacky workaround to have margin-bottom: -1em + 8px = -8px"
     },
     {
@@ -77,18 +83,14 @@
       "value": "@fields.homescreen_quickstart_click_history;  @local.now"
     },
     {
-      "type": "begin_display_group",
-      "name": "dg_blue",
-      "style_list": "background-color: var(--ion-color-primary-500);\nbackground-image: linear-gradient(to right, var(--ion-color-primary-700), var(--ion-color-primary-400));"
-    },
-    {
       "type": "begin_template",
       "name": "home_screen_header",
       "value": "home_screen_header",
       "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.now",
       "condition": "!@local.has_been_clicked_previously",
       "exclude_from_translation": true,
-      "style_list": "margin-top: -1em"
+      "style_list": "padding: 0px 24px 0px;\nmargin-top: -12px;",
+      "comment": "margin-top: -1em"
     },
     {
       "type": "end_template",
@@ -101,14 +103,12 @@
       "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.updated_value",
       "condition": "@local.has_been_clicked_previously",
       "exclude_from_translation": true,
-      "style_list": "margin-top: -1em"
+      "style_list": "padding: 0px 24px 0px;\nmargin-top: -12px;",
+      "comment": "margin-top: -1em"
     },
     {
       "type": "end_template",
       "exclude_from_translation": true
-    },
-    {
-      "type": "end_display_group"
     },
     {
       "type": "end_display_group",
@@ -119,7 +119,7 @@
       "name": "module_list",
       "value": "module_list",
       "exclude_from_translation": true,
-      "style_list": "padding: 24px 24px 0px 24px;\nmargin-top: -1em"
+      "style_list": "padding: 4px 24px 0px 24px;\nmargin-top: -1em"
     },
     {
       "type": "end_template",

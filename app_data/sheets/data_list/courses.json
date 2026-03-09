@@ -7,6 +7,10 @@
     {
       "id": "relation",
       "core": true,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/relation.svg",
       "completed": false,
       "title": "Relationship with My Child",
@@ -22,6 +26,10 @@
     {
       "id": "learning",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/learning.svg",
       "completed": false,
       "title": "Success in School",
@@ -37,6 +45,10 @@
     {
       "id": "develop",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/develop.svg",
       "completed": false,
       "title": "How Children Grow",
@@ -52,6 +64,10 @@
     {
       "id": "structure",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/structure.svg",
       "completed": false,
       "title": "Give Structure",
@@ -67,6 +83,10 @@
     {
       "id": "behave",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/behave.svg",
       "completed": false,
       "title": "Positive Behaviour",
@@ -82,6 +102,10 @@
     {
       "id": "safety",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/safety.svg",
       "completed": false,
       "title": "Safety and Health",
@@ -97,6 +121,10 @@
     {
       "id": "ipv",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/ipv.svg",
       "completed": false,
       "title": "Relationship with My Spouse",
@@ -112,6 +140,10 @@
     {
       "id": "budget",
       "core": false,
+      "tag_list": [
+        "child",
+        "teen"
+      ],
       "image_asset": "images/homescreen/budget.svg",
       "completed": false,
       "title": "Budget and Savings",

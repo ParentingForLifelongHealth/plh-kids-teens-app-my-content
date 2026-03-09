@@ -139,8 +139,10 @@
       "id": "explore_4",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/LQLa0ByOVzQ?si=ZGqb43p0LkqpbOlp",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are 4 tips to help you instil values in your child that you want them to have: IDENTIFY, TEACH, REPEAT, SHARE. \n\n💡 It’s easiest to start with one parenting value before moving on to others.",
       "_translations": {

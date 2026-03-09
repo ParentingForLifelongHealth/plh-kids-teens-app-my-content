@@ -7,6 +7,7 @@
     {
       "id": "relation",
       "core": true,
+      "tag_list": "child; teen;",
       "title::eng": "Relationship with My Child",
       "image_asset": "images/homescreen/relation.svg",
       "completed": false
@@ -14,6 +15,7 @@
     {
       "id": "learning",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "Success in School",
       "image_asset": "images/homescreen/learning.svg",
       "completed": false
@@ -21,6 +23,7 @@
     {
       "id": "develop",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "How Children Grow",
       "image_asset": "images/homescreen/develop.svg",
       "completed": false
@@ -28,6 +31,7 @@
     {
       "id": "structure",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "Give Structure",
       "image_asset": "images/homescreen/structure.svg",
       "completed": false
@@ -35,6 +39,7 @@
     {
       "id": "behave",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "Positive Behaviour",
       "image_asset": "images/homescreen/behave.svg",
       "completed": false
@@ -42,6 +47,7 @@
     {
       "id": "safety",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "Safety and Health",
       "image_asset": "images/homescreen/safety.svg",
       "completed": false
@@ -49,6 +55,7 @@
     {
       "id": "ipv",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "Relationship with My Spouse",
       "image_asset": "images/homescreen/ipv.svg",
       "completed": false
@@ -56,6 +63,7 @@
     {
       "id": "budget",
       "core": false,
+      "tag_list": "child; teen;",
       "title::eng": "Budget and Savings",
       "image_asset": "images/homescreen/budget.svg",
       "completed": false

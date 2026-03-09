@@ -161,8 +161,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/x441Zcz19O0?si=-DE_67orIAERZ09U",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "2️⃣ Here are 2 tips on how you can make learning playful and fun with your child.",
       "_translations": {

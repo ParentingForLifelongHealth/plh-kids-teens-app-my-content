@@ -41,8 +41,10 @@
       "category_id": "explore",
       "text_1_facilitator::eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE"
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/lxhMrVTn1H8?si=hi16UdpnP2RF1LLv",
+      "youtube_my_m": "LINK HERE"
     },
     {
       "id": "tips_1",

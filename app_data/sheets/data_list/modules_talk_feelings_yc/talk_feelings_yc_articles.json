@@ -193,8 +193,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/NmDrWjFO1WE?si=esKHp8Ffb5A2nNtp",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE.",
       "_translations": {

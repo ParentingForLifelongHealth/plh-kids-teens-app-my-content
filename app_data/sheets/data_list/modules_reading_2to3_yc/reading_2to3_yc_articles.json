@@ -173,8 +173,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/SIi5encmnfc?si=RdiFled1Wj-aOhzV",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
       "_translations": {
