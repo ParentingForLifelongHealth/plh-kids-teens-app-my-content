@@ -179,8 +179,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/XGSNvlG2uxU?si=zNMj_B54juBUYLIh",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE.",
       "_translations": {

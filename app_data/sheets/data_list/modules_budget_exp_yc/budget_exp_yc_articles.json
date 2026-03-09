@@ -29,8 +29,10 @@
       "id": "explore_1",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/eHCvY4SK_Dg?si=Tw0_yIR_foM4HMeL",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "Let's get started with an activity!",
       "_translations": {

@@ -82,94 +82,459 @@
       "exclude_from_translation": true
     },
     {
-      "type": "begin_display_group",
-      "name": "dg_row",
-      "condition": "!!@local.hp_id",
-      "style_list": "padding-inline: 12px"
+      "type": "begin_template",
+      "value": "header_button",
+      "condition": "!!@local.hp_id"
     },
     {
-      "type": "text",
-      "name": "button_text",
-      "value": "**@local.hp_check_in_notification_text**",
-      "exclude_from_translation": true,
-      "style_list": "flex: 1; \ncolor: white; "
-    },
-    {
-      "type": "round_button",
-      "name": "round_button",
-      "value": "@local.button_text",
-      "action_list": "click | emit: completed;\nclick | nav_stack: open | template: @local.hp_review_template;",
-      "parameter_list": "icon_src: images/icons/expand_circle_right_blue.svg;\nvariant: no-background;",
+      "name": "title",
+      "value": "@local.hp_check_in_notification_text",
       "exclude_from_translation": true
     },
     {
-      "type": "end_display_group"
+      "name": "pop_up",
+      "value": true
+    },
+    {
+      "name": "template",
+      "value": "@local.hp_review_template",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "action_text",
+      "value": "@global.review_action_text"
+    },
+    {
+      "name": "badge_text",
+      "value": "@global.review_badge_text"
+    },
+    {
+      "type": "end_template"
     },
     {
       "type": "begin_display_group",
-      "condition": "!@local.hp_id"
+      "parameter_list": "style: column",
+      "condition": "!@local.hp_id",
+      "exclude_from_translation": true,
+      "style_list": "width: 100%;"
     },
     {
-      "name": "module_id"
+      "name": "module_id",
+      "exclude_from_translation": true
     },
     {
-      "name": "module_title"
+      "name": "module_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_title",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_module_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_date",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_started_course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_started_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_started_module_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_finished_date",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_module_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "first_course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.first_module_id",
+      "condition": "!@local.started_module_id && !@local.course_started_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_title",
+      "value": "@local.first_module_title",
+      "condition": "!@local.started_module_id && !@local.course_started_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "value": "@local.first_course_id",
+      "condition": "!@local.started_module_id && !@local.course_started_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.started_module_id",
+      "condition": "!!@local.started_module_id && ((@local.started_date > @local.course_finished_date) || !@local.course_finished_date)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_title",
+      "value": "@local.started_module_title",
+      "condition": "!!@local.started_module_id && ((@local.started_date > @local.course_finished_date) || !@local.course_finished_date)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "value": "@local.started_course_id",
+      "condition": "!!@local.started_module_id && ((@local.started_date > @local.course_finished_date) || !@local.course_finished_date)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.course_started_module_id",
+      "condition": "!!@local.course_started_module_id && ((@local.course_finished_date > @local.started_date) || !@local.started_date)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_title",
+      "value": "@local.course_started_module_title",
+      "condition": "!!@local.course_started_module_id && ((@local.course_finished_date > @local.started_date) || !@local.started_date)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "value": "@local.course_started_course_id",
+      "condition": "!!@local.course_started_module_id && ((@local.course_finished_date > @local.started_date) || !@local.started_date)",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "name": "stop_flick",
+      "value": 50,
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_module_id_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_module_title_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_course_id_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_date_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_started_course_id_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_finished_date_map",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@calc(@local.started_module_id_map[@local.started_module_id_map.length - 1])",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@calc(@local.started_module_title_map[@local.started_module_title_map.length - 1])",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@calc(@local.started_course_id_map[@local.started_course_id_map.length - 1])",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@calc(@local.started_date_map[@local.started_date_map.length - 1])",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@calc(@local.course_started_course_id_map[@local.course_started_course_id_map.length - 1])",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "@calc(@local.course_finished_date_map[@local.course_finished_date_map.length - 1])",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_module_id",
+      "value": "@calc(@local.started_module_id_map[@local.started_module_id_map.length - 1])",
+      "condition": "!!@local.started_module_id_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_module_title",
+      "value": "@calc(@local.started_module_title_map[@local.started_module_title_map.length - 1])",
+      "condition": "!!@local.started_module_title_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_course_id",
+      "value": "@calc(@local.started_course_id_map[@local.started_course_id_map.length - 1])",
+      "condition": "!!@local.started_course_id_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "started_date",
+      "value": "@calc(@local.started_date_map[@local.started_date_map.length - 1])",
+      "condition": "!!@local.started_date_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_started_course_id",
+      "value": "@calc(@local.course_started_course_id_map[@local.course_started_course_id_map.length - 1])",
+      "condition": "!!@local.course_started_course_id_map",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "course_finished_date",
+      "value": "@calc(@local.course_finished_date_map[@local.course_finished_date_map.length - 1])",
+      "condition": "!!@local.course_finished_date_map",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
     },
     {
       "type": "data_items",
+      "name": "get_last_in_progress",
       "value": "@data.module_tasks",
-      "action_list": "data_changed | set_local : module_id : @items[0]?.id;\ndata_changed | set_local : module_title : @items[0]?.title;",
-      "parameter_list": "filter: !@item.completed_ts &&  (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nlimit: 1;"
+      "action_list": "data_changed | set_local : started_module_id_map : @items.map(item => item.id);\ndata_changed | set_local : started_module_title_map : @items.map(item => item.title);\ndata_changed | set_local : started_course_id_map :@items.map(item => item.tag_course);\ndata_changed | set_local : started_date_map : @items.map(item => item.started_ts);",
+      "parameter_list": "filter: !!@item.started_ts && !@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: started_ts;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_last_completed",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : course_started_course_id_map: @items.map(item => item.tag_course);\ndata_changed | set_local : course_finished_date_map: @items.map(item => item.completed_ts);",
+      "parameter_list": "filter: !!@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: completed_ts;",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_last_in_progress",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : started_module_id : @items[0]?.id;\ndata_changed | set_local : started_module_title : @items[0]?.title;\ndata_changed | set_local : started_course_id : @items[0]?.tag_course;\ndata_changed | set_local : started_date : @items[0]?.started_ts;",
+      "parameter_list": "filter: !!@item.started_ts && !@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: @item.started_ts DESC;\nlimit: 1;",
+      "condition": false,
+      "exclude_from_translation": true,
+      "comment": "filter: !@item.completed_ts &&  (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag));\nsort: number;\nlimit: 1;"
+    },
+    {
+      "type": "data_items",
+      "name": "get_last_completed",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : course_started_course_id: @items[0]?.tag_course;\ndata_changed | set_local : course_finished_date: @items[0]?.completed_ts;",
+      "parameter_list": "filter: !!@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: completed_ts DESC;\nlimit: 1;",
+      "condition": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_next_in_module",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : course_started_module_id : @items[0]?.id;\ndata_changed | set_local : course_started_module_title : @items[0]?.title;",
+      "parameter_list": "filter: !@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: number;\nlimit: 1;",
+      "condition": "!!@local.course_started_course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_first_item",
+      "value": "@data.module_tasks",
+      "action_list": "data_changed | set_local : first_module_id : @items[0]?.id;\ndata_changed | set_local : first_module_title : @items[0]?.title;\ndata_changed | set_local : first_course_id : @items[0]?.tag_course;\ndata_changed | set_local : stop_flick : @items.length;",
+      "parameter_list": "filter: !@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: number;\nlimit: 1;",
+      "condition": "!@local.started_module_id && !@local.course_started_module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "exclude_from_translation": true
+    },
+    {
+      "type": "data_items",
+      "name": "get_course_title",
+      "value": "@data.courses",
+      "action_list": "data_changed | set_local : course_title : @items[0]?.title;",
+      "parameter_list": "filter:  @item.id == @local.course_id;\nlimit: 1;",
+      "condition": "!!@local.course_id",
+      "exclude_from_translation": true
     },
     {
       "name": "target_template",
-      "value": "module_landing_@local.module_id"
+      "value": "module_landing_@local.module_id",
+      "exclude_from_translation": true
     },
     {
-      "type": "begin_display_group",
+      "type": "begin_template",
+      "value": "header_button",
       "condition": "!!@local.module_id",
-      "style_list": "padding-inline: 12px"
-    },
-    {
-      "type": "text",
-      "name": "button_text",
-      "value": "**@local.module_title**",
       "exclude_from_translation": true
     },
     {
-      "type": "round_button",
-      "name": "round_button",
-      "value": "@local.button_text",
-      "action_list": "click | go_to: @local.target_template",
-      "parameter_list": "icon_src: images/icons/expand_circle_right_blue.svg;\nvariant: no-background;",
+      "name": "title",
+      "value": "@local.module_title",
       "exclude_from_translation": true
     },
     {
-      "type": "end_display_group"
+      "name": "course_id",
+      "value": "@local.course_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "subtitle",
+      "value": "@local.course_title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "template",
+      "value": "@local.target_template",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "action_text",
+      "value": "@global.course_action_text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "badge_text",
+      "value": "@global.course_badge_text",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "module_id",
+      "value": "@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
     },
     {
       "type": "begin_display_group",
-      "condition": "!@local.module_id",
-      "style_list": "padding-inline: 12px"
+      "name": "all_completed",
+      "parameter_list": "style: column;",
+      "condition": "(@local.stop_flick == 0) && !@local.module_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "title",
+      "value": "@global.all_complete_title",
+      "condition": "!!@global.all_complete_title",
+      "exclude_from_translation": true,
+      "style_list": "margin-top: -8px;"
     },
     {
       "type": "text",
-      "value": "ALL COMPLETE"
+      "value": "@global.all_complete_text",
+      "condition": "!!@global.all_complete_text",
+      "exclude_from_translation": true,
+      "style_list": "margin-top: -6px;\nmargin-bottom: -8px;"
     },
     {
-      "type": "end_display_group"
+      "type": "begin_display_group",
+      "parameter_list": "style: column",
+      "exclude_from_translation": true,
+      "style_list": "background-color: #669F4B40;"
     },
     {
-      "type": "end_display_group"
-    },
-    {
-      "type": "button",
-      "name": "button_start",
-      "value": "@local.button_text",
-      "action_list": "click | emit: completed;\nclick | nav_stack: open | template: @local.hp_review_template;",
-      "parameter_list": "style: information; \ntext_align: center",
-      "condition": false,
+      "type": "text",
       "exclude_from_translation": true
+    },
+    {
+      "type": "image",
+      "value": "@global.all_complete_image",
+      "exclude_from_translation": true,
+      "style_list": "width: 145px;\nheight: 110px;"
+    },
+    {
+      "type": "text"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
     }
   ]
 }

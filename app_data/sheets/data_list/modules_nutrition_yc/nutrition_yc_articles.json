@@ -155,8 +155,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/ABs6S2YpKBs?si=GDe-kkKgE_zEmE5t",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "Teaching your child healthy eating habits from a young age will help them make healthy choices as they grow older. 💙😃🍚\n\n4️⃣ Here are four tips you can use to support your child with healthy eating:",
       "_translations": {

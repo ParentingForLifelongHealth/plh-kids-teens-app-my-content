@@ -186,8 +186,10 @@
       "id": "explore_5",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_gb_en": "LINK HERE",
-      "youtube_my": "LINK HERE",
+      "youtube_en_f": "LINK HERE",
+      "youtube_my_f": "LINK HERE",
+      "youtube_en_m": "https://youtu.be/o2d6C_WWMVc?si=k3omeg-rXlZB4Neg",
+      "youtube_my_m": "LINK HERE",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:",
       "_translations": {
