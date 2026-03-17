@@ -16,7 +16,9 @@
       "transcript_2": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
       "title": "Angry? Take a break",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_16",
       "_translatedFields": {
         "text_1": {
-          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+          "eng": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "Amazing, life is the best when you're feeling good."
+          "eng": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon."
+          "eng": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi."
         },
         "quiz_1_feedback_3": {
-          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
+          "eng": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "text_1": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
-      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
-      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik.",
+      "quiz_1_feedback_2": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi.",
+      "quiz_1_feedback_3": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Learning from our mistakes can help us avoid them in the future. 🌷\n\nIt can also help us be more supportive to ourselves and less harsh when things do not go well. 😃",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🌷 That’s correct! \n\n✨ Your child probably feels very bad about making a mistake. Praise them for apologising and show that you are proud of them for realising and saying sorry. 💙\n\n😔 Your child may be tempted to hide mistakes from you out of fear if they feel unsupported.",
       "quiz_1_question": "True or False: If my child understands their mistake and says sorry, that means I can bring up other mistakes they have made so that they learn.",
@@ -157,9 +175,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name is getting a bit too active indoors, today. Let’s see how her uncle, @data.characters.f3_uncle.name, reacts:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/learn_experience_yc_1.svg",
       "character_1_id": "f3_uncle",
@@ -179,7 +203,9 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/learn_experience_yc_2.svg",
       "completed": false
@@ -201,8 +227,12 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "Are you hurt??",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "No, uncle. I’m so, so sorry for breaking the vase… I didn’t see it.",
       "completed": false
@@ -224,8 +254,12 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Yes, I should have listened. I continued running even after you said so.",
       "completed": false
@@ -242,7 +276,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBvfcPmgp4k",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=JrILSs2Hs0k",
@@ -286,14 +322,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "TALK",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "👂 Create space and time for your child to talk with you about their life. \n💙 If their day was challenging, give space to let them share and listen.\n💛 Give them support and show you care. Tell them, \"that sounds difficult.”",
       "section_2_title": "PRAISE EFFORT",
@@ -327,11 +379,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Use the tips you have learnt today to help your child learn from their mistakes.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow.",
       "quiz_1_question": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰",

@@ -724,7 +724,9 @@
       "name": "resources_title",
       "value": "What you need",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "resources_title"
@@ -733,7 +735,9 @@
       "name": "steps_title",
       "value": "Steps",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "steps_title"
@@ -742,7 +746,9 @@
       "name": "tips_title",
       "value": "More tips",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "tips_title"
@@ -751,7 +757,9 @@
       "name": "extension_title",
       "value": "Try also",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "extension_title"

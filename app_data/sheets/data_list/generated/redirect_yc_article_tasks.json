@@ -16,7 +16,9 @@
       "transcript_2": "<span>Sekarang, sila berdiri dengan selesa.<br/><br/>Berdiri dan regangkan tangan anda tinggi ke atas, seolah‑olah menyentuh langit. Tolak jauh “awan‑awan” yang ada dan bayangkan cahaya matahari menyinari anda. Regangkan ke kiri dan kanan, ke depan dan ke belakang.  <br/><br/>Biarkan tangan jatuh di sisi tubuh anda. Angkat bahu anda rapat ke telinga sambil menarik nafas, kerutkan mata anda sedikit, dan tahan sekejap. Lepaskan bahu perlahan‑lahan dan rasa tubuh anda mula tenang.  <br/><br/>Longgarkan tangan dan biarkan ia berayun ke kiri dan kanan sambil anda memusingkan badan. Biarkan lengan anda menyentuh belakang dengan lembut setiap kali anda berpusing.  <br/><br/>Seterusnya, letakkan satu kaki di hadapan kaki yang lain. Angkat sedikit kaki tersebut dan gerakkan pergelangan kaki membentuk bulatan kecil. Pusing ke arah jam dan lawan arah jam. Ulang empat kali untuk setiap kaki.<br/><br/></span><span><i>[Berhenti seketika selama 5 saat]</i></span><span><br/><br/>Sekarang goncangkan seluruh tubuh anda sekuat yang anda mahu. Goncang ke atas! Goncang ke bawah! Goncang ke semua arah!  <br/><br/>Pejamkan mata dan angkat tangan perlahan‑lahan ke atas sambil menarik nafas. Turunkan tangan perlahan‑lahan ke sisi sambil menghembus nafas.  <br/><br/>Luangkan masa seketika untuk rasa apa yang berubah dalam tubuh anda.  <br/><br/>Syabas! Aktiviti ini anda boleh lakukan pada bila‑bila masa sahaja untuk melepaskan tekanan atau mahu menyegarkan tubuh dan minda.</span>",
       "title": "Physical activity",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_9",
       "_translatedFields": {
         "text_1": {
-          "eng": "Recognising how you feel is key to handling life well. Be real and kind to yourself."
+          "eng": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri."
         },
         "quiz_1_feedback_1": {
-          "eng": "You are a star. And you are making a real difference. You can be proud of yourself."
+          "eng": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!"
+          "eng": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!"
+          "eng": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
+      "text_1": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
-      "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
-      "quiz_1_feedback_3": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri.",
+      "quiz_1_feedback_2": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!",
+      "quiz_1_feedback_3": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Today is about learning what to do when our children misbehave. 🚩 \n\nIt is normal for children to misbehave when they are tired, scared, hungry, learning independence, wanting something, or avoiding a task. 😒😔😣\n\nOne thing you can do is to stop it before it starts. This is called redirecting behaviours.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Redirecting behaviours can help focus your child’s attention from negative to positive behaviours. 😣➡️😃\n\nFor example, when your child begins to whine, you can redirect their attention towards something positive like helping out with an activity. 🌱🎨",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ Incorrect. \n\n➡️ Redirecting your child’s behaviour only works either before the behaviour begins or at the beginning of the behaviour (before it gets worse).\n\n🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉 You are right! \n\n➡️ Redirecting your child’s behaviour only works either before the behaviour begins or at the beginning of the behaviour (before it gets worse).\n\n🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills.",
       "quiz_1_question": "True or False: You can use redirect at any time, even when your child is already behaving badly like having a tantrum.",
@@ -157,9 +175,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f2_grandfather.name is working in the garden while his granddaughter and grandson are playing with a ball.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/redirect_yc_1.svg",
       "character_1_id": "f2_daughter_8",
@@ -188,9 +212,15 @@
       "character_2_id": "f2_daughter_8",
       "character_1_text": "@data.characters.f2_daughter_8.name and @data.characters.f2_son_3.name, come and help me plant these vegetables together.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "But he’s not giving it back!",
       "character_3_id": "f2_son_3",
@@ -217,9 +247,15 @@
       "character_2_id": "f2_daughter_8",
       "character_1_text": "@data.characters.f2_grandfather.name: We can play with the ball later. Right now, I’d really love your help.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Fine, okay...",
       "character_3_id": "f2_son_3",
@@ -246,9 +282,15 @@
       "character_2_id": "f2_daughter_8",
       "character_1_text": "Thank you, @data.characters.f2_daughter_8.name and @data.characters.f2_son_3.name. We are going to grow some vegetables together. It’ll be fun!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "What kind of vegetables?",
       "character_3_id": "f2_son_3",
@@ -267,7 +309,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=TmP8z4FkcSA",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=loeYsLsEHnc",
@@ -311,14 +355,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "BE CALM",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "✅ Take a few breaths before asking your child to do something else.\n✅ Speak with a calm voice.",
       "section_2_title": "BE QUICK",
@@ -352,11 +412,21 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s great! ✨Sharing will allow us to learn together!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! Sometimes it takes time to share a new parenting skill.",
       "quiz_1_question": "Today’s home activity is to share these four steps with another member of your family. Sharing these skills will help everyone learn and feel more connected and supported. ➡️\n\nCan you share these tips today?",

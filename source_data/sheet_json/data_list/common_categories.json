@@ -41,6 +41,11 @@
       "icon_asset": "images/icons/parent_child_heart.svg"
     },
     {
+      "id": "teen_test",
+      "title::eng": "Teen Testimonial ",
+      "icon_asset": "images/icons/star_outline_blue.svg"
+    },
+    {
       "id": "notice",
       "title::eng": "Content Notice",
       "icon_asset": "images/icons/pause.svg"

@@ -16,7 +16,9 @@
       "transcript_2": "Duduk dengan selesa dan pejamkan mata.\n\nPerhatikan apa yang sedang berlaku dalam diri anda pada saat ini. Apa yang sedang anda fikirkan? Adakah fikiran itu positif atau negatif. Bagaimana perasaan anda? Adakah ia menyenangkan atau membimbangkan. Bagaimana pula tubuh anda? Adakah anda rasa tegang atau tenang.\n\nAlihkan perhatian anda ke hati anda dengan tenang. Anda boleh meletakkan satu tangan di dada atau di atas jantung anda. Ucapkan kata‑kata ini dengan perlahan di dalam hati:\n\nSemoga saya tenang.\nSemoga saya selamat.\nSemoga saya sihat.\nSemoga saya bahagia.\nSemoga ada kasih sayang dalam keluarga saya.\nSemoga saya sentiasa disayangi.\n\nAmbil sedikit masa untuk merenung pengalaman ini. Perhatikan sama ada anda rasa sedikit perbezaan.\n\nBila anda bersedia, buka mata anda.",
       "title": "Taking care of yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_2",
       "_translatedFields": {
         "text_1": {
-          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+          "eng": "Jom kita ambil sedikit masa untuk ANDA. Menjaga diri sendiri bermula dengan memerhatikan apa yang anda sedang rasakan."
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear you are in a positive space."
+          "eng": "Bagus sekali! Seronok dengar anda berada dalam keadaan yang positif."
         },
         "quiz_1_feedback_2": {
-          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
+          "eng": "Kadang‑kadang hari kita tak mudah. Itu normal. Dari situlah kita belajar dan berkembang sedikit demi sedikit."
         },
         "quiz_1_feedback_3": {
-          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
+          "eng": "Hidup memang boleh mencabar. Apa pun perasaan anda sekarang, anda boleh bangga dengan diri sendiri kerana tetap kuat dan teruskan sehingga ke hari ini."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "text_1": "Jom kita ambil sedikit masa untuk ANDA. Menjaga diri sendiri bermula dengan memerhatikan apa yang anda sedang rasakan.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
-      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
-      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus sekali! Seronok dengar anda berada dalam keadaan yang positif.",
+      "quiz_1_feedback_2": "Kadang‑kadang hari kita tak mudah. Itu normal. Dari situlah kita belajar dan berkembang sedikit demi sedikit.",
+      "quiz_1_feedback_3": "Hidup memang boleh mencabar. Apa pun perasaan anda sekarang, anda boleh bangga dengan diri sendiri kerana tetap kuat dan teruskan sehingga ke hari ini.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s parenting skill is about how you can support your child’s healthy development as they grow and change. ✨",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Children have different abilities at different stages of their development. 🌱\n\nIt is important to know what your child can do at their current stage. ⚽\n\nThis way, you can help plan activities that match their abilities and you can have realistic courses for them. ✨",
       "completed": false
@@ -141,17 +147,39 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
       "quiz_1_question": "True or False: All children develop at the same speed as each other.",
@@ -185,10 +213,18 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_son_5.name is trying to put on his socks.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/young_child_change_yc_1.svg",
       "character_1_id": "f1_father",
@@ -216,8 +252,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "I can’t do it!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Yes you can! How about I help you with one, and you do it with the other?",
       "completed": false
@@ -239,8 +279,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "Okay.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Hold your sock in both your hands. Now, put your foot in. Almost there! Wiggle your toes and make sure your heel is all the way in. Good job! Now, you try with your other sock.",
       "completed": false
@@ -262,8 +306,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "I did it!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Great job, @data.characters.f1_son_5.name! You are really such a big boy!",
       "completed": false
@@ -280,7 +328,9 @@
       "nested": false,
       "text_1_facilitator": "At this age, children love playing and learning through actions. 🚲 \n\nThey learn social values through these activities, and will start asking a lot of questions. ✨\n\n2️⃣ Here are two tips to support the healthy development of your child at this age.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=6uumqy1iJCU",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=qHXVU318kik",
@@ -310,10 +360,18 @@
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_1_title": "LEARN BY PLAYING",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "⚽ Play, play, play! Play helps your child develop relationships with other children and understand social rules.\n🚲 They may not like to lose, share, or take turns, but play helps them learn how!\n🏆 Praise your child when they follow the rules or accept defeat.",
       "section_2_title": "SUPPORT CURIOSITY",
@@ -343,11 +401,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱",
       "quiz_1_question": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐",

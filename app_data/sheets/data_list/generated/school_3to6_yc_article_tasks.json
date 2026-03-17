@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda.\n\nLuangkan sedikit masa untuk rasa lantai di bawah tapak kaki anda.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.\nTumpukan perhatian pada nafas anda.\nTarik dan hembus nafas perlahan-lahan.\n\nBila anda bersedia, buka mata anda.",
       "title": "Ground & gratitude",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_14",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to notice how you are doing."
+          "eng": "Ambil sekejap masa untuk perasan bagaimana perasaan anda sekarang."
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+          "eng": "Bagus sangat! Seronok dengar anda rasa baik hari ini. Memang rasa yang menyenangkan!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Setiap individu pasti akan ada hari yang mencabar, dan itu sangat normal. Anda berada di jalan yang betul!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Memang normal untuk rasa susah kadang-kadang. Ingat, anda tidak keseorangan!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to notice how you are doing.",
+      "text_1": "Ambil sekejap masa untuk perasan bagaimana perasaan anda sekarang.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus sangat! Seronok dengar anda rasa baik hari ini. Memang rasa yang menyenangkan!",
+      "quiz_1_feedback_2": "Setiap individu pasti akan ada hari yang mencabar, dan itu sangat normal. Anda berada di jalan yang betul!",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Memang normal untuk rasa susah kadang-kadang. Ingat, anda tidak keseorangan!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "The final skill of this course is about connecting with your child’s school and their teacher(s). 📖✨",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Talking to your child’s teacher(s) will help you understand what your child is doing in school. ⭐\n\nYou will also know what kinds of things your child can do at home to learn better, and how you can help them! 🎓",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!",
       "quiz_1_question": "True or False: Knowing what my child is doing in school won’t help them learn.",
@@ -152,7 +170,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=UY35NY1Tg9c",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jIwp-6OnaAY",
@@ -196,14 +216,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "CONNECT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "👋 Get to know your child’s teacher and have their phone number.\n👂 When you speak to your child’s teacher, ask them what your child is doing in school, and how you can help them.\n🔔 Let the teacher know that you are available to receive messages about anything related to the school and your child’s learning.",
       "section_2_title": "ASK",
@@ -237,11 +273,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Excellent! See if you can practise what they learned in school at home! 😃",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃",
       "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨",

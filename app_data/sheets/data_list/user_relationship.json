@@ -9,7 +9,9 @@
       "name": "single",
       "text": "Single (not in a relationship)",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -22,7 +24,9 @@
       "name": "married",
       "text": "Married",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -35,7 +39,9 @@
       "name": "partner",
       "text": "Partnered but not married",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -48,7 +54,9 @@
       "name": "divorced",
       "text": "Divorced or separated",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -61,7 +69,9 @@
       "name": "widow",
       "text": "Widowed",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -74,7 +84,9 @@
       "name": "opt_out",
       "text": "Prefer not to say",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {

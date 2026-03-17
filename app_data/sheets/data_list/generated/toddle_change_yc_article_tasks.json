@@ -16,7 +16,9 @@
       "transcript_2": "Memuji diri sendiri sangat membantu kita, terutama sekali apabila kita mengalami hari-hari yang mencabar.\n\nFikirkan tentang minggu anda dan sambungkan ayat ini: \n“Minggu ini, saya bangga dengan diri saya kerana …” \nIa boleh jadi apa sahaja, bukan hanya tentang menjadi ibu bapa.\n\nSekarang fikirkan satu perkara yang anda lakukan dengan baik hari ini. Kemudian berikan diri and pelukan yang besar dan ERAT!",
       "title": "Praise yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_1",
       "_translatedFields": {
         "text_1": {
-          "eng": "Take a moment to check in with yourself."
+          "eng": "Luangkan sedikit masa untuk periksa keadaan diri anda."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well."
+          "eng": "Bagus, saya gembira semuanya berjalan dengan baik."
         },
         "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+          "eng": "Tak apa. Kadang-kadang kita akan ada hari yang mencabar. Anda sedang berada di jalan yang betul!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Kadang-kadang adalah normal untuk berasa susah. Ingat, anda tidak bersendirian."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Take a moment to check in with yourself.",
+      "text_1": "Luangkan sedikit masa untuk periksa keadaan diri anda.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well.",
-      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus, saya gembira semuanya berjalan dengan baik.",
+      "quiz_1_feedback_2": "Tak apa. Kadang-kadang kita akan ada hari yang mencabar. Anda sedang berada di jalan yang betul!",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Kadang-kadang adalah normal untuk berasa susah. Ingat, anda tidak bersendirian.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about helping you support your child’s healthy development as they grow and change. ✨",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Children have different abilities at different stages of their development. 🌱\n\nIt is important to know what your child can do at their current stage. ⚽\n\nThis way, you can plan activities that match their abilities and helps you have realistic goals for them. ✨",
       "completed": false
@@ -141,17 +147,39 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
       "quiz_1_question": "True or False: All children develop at the same speed as each other.",
@@ -182,9 +210,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_daughter_2.name and her father, @data.characters.f1_father.name are spending time together. Let’s see how @data.characters.f1_father.name encourages his daughter to keep on trying:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/toddler_change_yc_1.svg",
       "character_1_id": "f1_father",
@@ -210,8 +244,12 @@
       "character_2_id": "f1_father",
       "character_1_text": "I’m not good at this…",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "I can see that you are upset, @data.characters.f1_daughter_2.name. It’s not easy but let’s practise a little bit more. I know you can do it! Come, let’s try again.",
       "completed": false
@@ -233,8 +271,12 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Five catches in a row! You seem really proud to have made it to five, @data.characters.f1_daughter_2.name!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "I did it! Let’s try 10!",
       "completed": false
@@ -252,7 +294,9 @@
       "character_1_id": "f1_father",
       "character_1_text": "You did so well, @data.characters.f1_daughter_2.name! I am very happy to spend this special time with you.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -268,7 +312,9 @@
       "nested": false,
       "text_1_facilitator": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=RuVI5gr_7YM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=VpZqWnowxxw",
@@ -305,12 +351,24 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "BE PATIENT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "⏰ Learning new things takes time. your child may struggle at first - and that’s OK! With time and practise, they will succeed. \n⭐ You can also help by breaking large tasks into smaller ones, and with words of encouragement.\n🌷 your child may have big emotions. This is OK! In time, your child will learn to manage their emotions.",
       "section_2_title": "EXPLORE SAFELY",
@@ -342,11 +400,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱",
       "quiz_1_question": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐",

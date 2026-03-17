@@ -16,7 +16,9 @@
       "transcript_2": "Senaraikan aktiviti sihat yang anda suka lakukan. Berikut beberapa idea:\n\n* Mendengar muzik kegemaran\n* Berjalan‑jalan (jika boleh)\n* Melakukan senaman ringan\n* Menikmati secawan teh seorang diri\n* Menelefon rakan\n* Menyanyi, menari, berdoa, atau membaca\n* Duduk di bawah cahaya matahari dengan mata terpejam\n* Menonton rancangan TV kegemaran\n\nPilih satu dan lakukan hari ini!",
       "title": "List of things",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_10",
       "_translatedFields": {
         "text_1": {
-          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
+          "eng": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "So good to hear you are feeling well today. You are incredible!"
+          "eng": "Seronok dengar anda rasa baik hari ini. Anda memang luar biasa!"
         },
         "quiz_1_feedback_2": {
-          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
+          "eng": "Kita semua ada hari yang kita sendiri pun tak pasti. Tak apa. Yang penting, anda tetap hadir di sini."
         },
         "quiz_1_feedback_3": {
-          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
+          "eng": "Menjadi ibu bapa memang mencabar. Tetapi anda tetap di sini, dan itu menunjukkan anda mahu terus memperbaiki keadaan. Itu pun dah pencapaian besar!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+      "text_1": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
-      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
-      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Seronok dengar anda rasa baik hari ini. Anda memang luar biasa!",
+      "quiz_1_feedback_2": "Kita semua ada hari yang kita sendiri pun tak pasti. Tak apa. Yang penting, anda tetap hadir di sini.",
+      "quiz_1_feedback_3": "Menjadi ibu bapa memang mencabar. Tetapi anda tetap di sini, dan itu menunjukkan anda mahu terus memperbaiki keadaan. Itu pun dah pencapaian besar!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about what to do when children are seeking attention with demanding and negative behaviours. 🚩",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Children need attention from a very early age. 💛 \n\nPositive attention is very important for children, especially when they are young.\n\nIt’s a great way to help them feel good about themselves. They are more likely to do as they are asked! 🔄",
       "completed": false
@@ -141,17 +147,39 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n⚠️ Giving into your child when they are demanding something, whining, or having a tantrum will only make it worse. \n\n🎯 your child will learn that they get their way when they misbehave.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "⭐ That’s correct! \n\n⚠️ Giving into your child when they are demanding something, whining, or having a tantrum will only make it worse. \n\n🎯 your child will learn that they get their way when they misbehave.",
       "quiz_1_question": "True or False: It is okay to give into your child if they continue to whine or have a tantrum.",
@@ -182,9 +210,15 @@
       "nested": false,
       "text_1_facilitator": "Dinner time isn’t going the way that @data.characters.f3_daughter_4.name wants. Let’s see how her mother, @data.characters.f3_mother.name, handles her behaviour:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/ignore_demanding_yc_1.svg",
       "character_1_id": "f3_daughter_4",
@@ -210,8 +244,12 @@
       "character_2_id": "f3_mother",
       "character_1_text": "But I WANT it! Give me!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "@data.characters.f3_son_7.name, you are eating your dinner so nicely.",
       "completed": false
@@ -233,8 +271,12 @@
       "character_2_id": "f3_mother",
       "character_1_text": "Waaaaaa! Waaaaaa! WAAAAAA!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "@data.characters.f3_son_7.name, can you please take the pudding from the counter?",
       "completed": false
@@ -256,8 +298,12 @@
       "character_2_id": "f3_mother",
       "character_1_text": "Waaaaaa! Waaaaaa! WAAAAAA!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Take a deep breath. I can do this…",
       "completed": false
@@ -274,7 +320,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=P0BeHuBYUBg",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=97rjYfHTQdM",
@@ -325,16 +373,36 @@
       "section_5_icon_asset": "images/icons/trophy_blue.png",
       "section_1_title": "REDIRECT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🎨 Try to redirect your child's attention to a positive behaviour or activity. \n🌷 Praise them for this positive behaviour!",
       "section_2_title": "STAY CALM",
@@ -370,11 +438,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it!",
       "quiz_1_question": "Here is today’s home activity! ⭐ Find one positive thing your child does today and praise them for it. If your child starts whining about something or having a tantrum, try to use the tips from this lesson to redirect, stay calm, observe, and nurture. It may not be easy to do at first, but you can do it!\n\nCan you find something to praise your child for today? ⏰",

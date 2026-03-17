@@ -16,7 +16,9 @@
       "transcript_2": "Memuji diri sendiri sangat membantu kita, terutama sekali apabila kita mengalami hari-hari yang mencabar.\n\nFikirkan tentang minggu anda dan sambungkan ayat ini: \n“Minggu ini, saya bangga dengan diri saya kerana …” \nIa boleh jadi apa sahaja, bukan hanya tentang menjadi ibu bapa.\n\nSekarang fikirkan satu perkara yang anda lakukan dengan baik hari ini. Kemudian berikan diri and pelukan yang besar dan ERAT!",
       "title": "Praise yourself",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_9",
       "_translatedFields": {
         "text_1": {
-          "eng": "Recognising how you feel is key to handling life well. Be real and kind to yourself."
+          "eng": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri."
         },
         "quiz_1_feedback_1": {
-          "eng": "You are a star. And you are making a real difference. You can be proud of yourself."
+          "eng": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!"
+          "eng": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!"
+          "eng": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
+      "text_1": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
-      "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
-      "quiz_1_feedback_3": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri.",
+      "quiz_1_feedback_2": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!",
+      "quiz_1_feedback_3": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about becoming a confident and supportive spouse as a parent. 💚",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "When mothers and fathers are both engaged in parenting their children, everyone benefits, including the children. 😃💙",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ Incorrect. \n\n😃 Parenting is not only the role of a mother - fathers play an important part too! \n\n💛 When both mothers and fathers are involved in parenting their children everyone benefits!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "✨ You are right! \n\n😃 Parenting is not only the role of a mother - fathers play an important part too! \n\n💛 When both mothers and fathers are involved in parenting their children everyone benefits!",
       "quiz_1_question": "True or False: It is only the role of the mother and not the father to parent a child.",
@@ -154,8 +172,12 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_father.name really knows what it means to be a supportive husband and parent. Notice how he cares for his wife, @data.characters.f1_mother.name:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/ipv_supportive_1.svg",
       "character_1_id": "f1_father",
@@ -175,7 +197,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Yes, he has improved a lot. Good job, son! I'm sure our daily practices have paid off.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -192,7 +216,9 @@
       "character_1_id": "f1_father",
       "character_1_text": "Indeed. You look tired, dear. Why don't you go take a rest for a moment? I can continue helping the children with their homework while you rest.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -212,8 +238,12 @@
       "character_1_id": "f1_mother",
       "character_1_text": "That would be wonderful, my love! Thank you for being so supportive.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_father",
       "character_2_text": "Of course! You need a break. I am more than happy to support both you and our children.",
@@ -231,7 +261,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four simple ways you can become a more confident and supportive spouse AND parent.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MWl4tOjnfts",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=XkOX8kzTd68",
@@ -275,14 +307,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "SHOW APPRECIATION",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "⚽ Show your spouse that you appreciate it when they spend quality time with your children.",
       "section_2_title": "WORK TOGETHER",
@@ -316,11 +364,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Fantastic! 🎉",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "Sometimes it can be hard to find time during the day. Can you think of a time when you’re less busy? 🌷\n\nFor example, maybe it is easier to do housework together later in the evening when some of the children have gone to sleep. Try to see what works for you! ⭐",
       "quiz_1_question": "Home activity! ⭐ Try doing childcare or housework together with your spouse. Do you have time to do it today?",

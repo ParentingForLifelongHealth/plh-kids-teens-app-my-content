@@ -16,7 +16,9 @@
       "transcript_2": "Berikut adalah sesuatu yang menyeronokkan untuk membantu anda melepaskan tekanan:\n\nPilih sebuah lagu yang sesuai dengan apa yang anda perlukan saat ini. Adakah anda perlukan lagu yang lembut dan perlahan untuk menenangkan jiwa yang letih, atau lagu yang rancak untuk membantu anda rasa bertenaga dan keluarkan rasa tertekan anda?\n\nCari ruang dan gerakkan tubuh anda mengikut irama. Ingat untuk terus bernafas semasa anda bergerak. Biarkan nafas dan pergerakan anda selari.\n\nPergerakan selama beberapa minit pun sudah cukup untuk melepaskan tekanan dan menceriakan mood anda!",
       "title": "Your song",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_5",
       "_translatedFields": {
         "text_1": {
-          "eng": "Looking after yourself matters. And how you feel matters too!"
+          "eng": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+          "eng": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
+          "eng": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Looking after yourself matters. And how you feel matters too!",
+      "text_1": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
-      "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
-      "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!",
+      "quiz_1_feedback_2": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian.",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Children spend a lot of time online – for learning, playing, and staying connected. 🌍 Today’s skill is about how to keep your child safe online. 📱\n\nThere is so much to share. Online safety will be covered across two lessons. 2️⃣",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Being online and connected helps children stay positive and learn more! 🔑\n\nBut it also comes with some risks and dangers. 🚩",
       "completed": false
@@ -156,22 +162,54 @@
       "nested": false,
       "quiz_1_feedback_1": "🎉 Correct! \n\n⏰ Setting time limits can help balance online activities with other important tasks, such as homework, chores, and physical activities.\n\n📝 You can create rules together with your child about when they can play with devices and how to keep them safe online.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_3_question": {
+          "my_ms": true
+        },
+        "quiz_3_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_3_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "❌ Incorrect. \n\n⏰ Setting time limits can help balance online activities with other important tasks, such as homework, chores, and physical activities.\n\n📝 You can create rules together with your child about when they can play with devices and how to keep them safe online.",
       "quiz_1_question": "True or False: Parents should set time limits on how long their child can use the internet each day.",
@@ -207,9 +245,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name wants to play games on the handphone. Her mother, @data.characters.f3_mother.name, uses this opportunity to teach @data.characters.f3_daughter_4.name about how to stay safe online:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/online_safety_yc_1.svg",
       "character_1_id": "f3_daughter_4",
@@ -231,7 +275,9 @@
       "character_1_id": "f3_mother",
       "character_1_text": "Also, always ask Mummy for permission before using any device. You should also only play games or watch videos that we have approved, okay?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -252,8 +298,12 @@
       "character_2_id": "f3_mother",
       "character_1_text": "Can I create my own account for pictures and videos, Mummy? My friend has an account for herself.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Not just yet, @data.characters.f3_daughter_4.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.",
       "completed": false
@@ -275,8 +325,12 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "And remember, never click on a pop-up or picture if it appears. Also, if anything ever upsets you, let us know right away. We're here to keep you safe!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "That’s a lot, Mummy!",
       "completed": false
@@ -293,7 +347,9 @@
       "nested": false,
       "text_1_facilitator": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=2z9OKV3sciE",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=PEc30-fQC9Q",
@@ -323,10 +379,18 @@
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_1_title": "LEARN the dangers of being online",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🚩 CONTENT: Your child might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries.\n🚩 CONTACT: Adults might pretend to be children and ask for sexual pictures or to meet with your child through an online platform.\n🚩 CONDUCT: Sometimes, children or strangers can say or do hurtful things online.",
       "section_2_title": "PROTECT and keep your child safe online",
@@ -356,11 +420,21 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
       "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nAsk your child what they do to stay safe online. 👂 You may find that they are already thinking about online safety. 💡\n\nPraise your child for any efforts they make. Can you talk with your child today? 🔔",

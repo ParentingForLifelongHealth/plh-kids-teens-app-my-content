@@ -8,7 +8,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Looking after yourself matters. And how you feel matters too!",
+      "text_1": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -21,37 +21,37 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Looking after yourself matters. And how you feel matters too!"
+          "eng": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+          "eng": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
+          "eng": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
-      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
-      "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
-      "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!",
+      "quiz_1_feedback_2": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian.",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "category_id": "check_in",
       "nested": false,
       "completed": false
@@ -70,8 +70,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s skill is all about how to help your child follow instructions. 😃",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Even the best behaved children only follow instructions about 50% of the time. ⏰\n\nBeing more effective about how you give instructions can make things more peaceful and calm at home. 🌱",
       "completed": false
@@ -100,12 +104,24 @@
       },
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "⭐ That’s correct! \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣",
       "quiz_1_question": "True or false: It does not matter whether you give an instruction in a positive or negative way.",
@@ -133,9 +149,13 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name is playing with the handphone on the floor.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "character_1_text": {},
-        "character_2_text": {}
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/keeping_it_positive_yc_1.svg",
       "character_1_id": "f3_mother",
@@ -161,8 +181,12 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "[After 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "No!! I’m not done!!",
       "completed": false
@@ -184,8 +208,12 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "I know it’s hard to stop when you’re having fun. But we agreed on 3 minutes. Come @data.characters.f3_daughter_4.name, let’s go read a bit.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Okay…",
       "completed": false
@@ -207,8 +235,12 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "Thank you for handing the handphone back to me, @data.characters.f3_daughter_4.name. Did you like the story we read?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Yes, mummy.",
       "completed": false
@@ -224,7 +256,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three tips on how to help your child follow instructions more often:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=jRzMcicGdH0",
@@ -262,12 +296,24 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "BE SPECIFIC",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",
       "section_2_title": "BE REALISTIC",
@@ -297,11 +343,21 @@
       },
       "quiz_1_feedback_1": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄",
       "quiz_1_question": "Your home activity for today is to try to give specific, realistic, and positive instructions with your child. Do you have time to do this today? ⏰⭐",

@@ -61,7 +61,9 @@
               "name": "title",
               "value": "Check-in",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "article.header.title"

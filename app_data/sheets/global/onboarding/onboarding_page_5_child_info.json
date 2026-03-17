@@ -9,7 +9,9 @@
       "name": "facilitator_message_one_child",
       "value": "**Thanks @fields.user_name.**\n\nCan you tell me more about your child?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -17,7 +19,9 @@
       "name": "facilitator_message_multiple_children",
       "value": "**Thanks @fields.user_name.**\n\nTo get started, let's focus on the child you have the most challenges with so I can give you the right guidance for their age.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -25,7 +29,9 @@
       "name": "question_child_name",
       "value": "What is your child's name?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -33,7 +39,9 @@
       "name": "placeholder_child_name",
       "value": "Enter name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -41,7 +49,9 @@
       "name": "question_child_gender",
       "value": "Is your child a girl or a boy?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -49,7 +59,9 @@
       "name": "placeholder_child_gender",
       "value": "Select gender",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -57,7 +69,9 @@
       "name": "question_child_age",
       "value": "How old is your child?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -65,7 +79,9 @@
       "name": "placeholder_child_age",
       "value": "Enter age",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -73,7 +89,9 @@
       "name": "child_age_input_restriction",
       "value": "@global.app_name only supports parents of children between 2 and 7.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

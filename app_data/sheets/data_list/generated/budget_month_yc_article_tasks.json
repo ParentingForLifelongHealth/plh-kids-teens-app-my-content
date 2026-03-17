@@ -8,7 +8,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "There is no right or wrong way to feel. However you are feeling, it is okay.",
+      "text_1": "Tiada perasaan yang betul atau salah. Apa sahaja yang anda rasa sekarang, itu semua okey.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -21,37 +21,37 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
+          "eng": "Tiada perasaan yang betul atau salah. Apa sahaja yang anda rasa sekarang, itu semua okey."
         },
         "quiz_1_feedback_1": {
-          "eng": "Well done for recognising how you feel. Good to hear that you are feeling well today!"
+          "eng": "Bagus kerana anda sedar dengan perasaan sendiri. Seronok dengar anda berasa baik hari ini!"
         },
         "quiz_1_feedback_2": {
-          "eng": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!"
+          "eng": "Semua orang ada hari yang baik dan hari yang sukar. Ingat, anda ialah ibu bapa terbaik untuk anak remaja anda dan anda layak dipuji!"
         },
         "quiz_1_feedback_3": {
-          "eng": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!"
+          "eng": "Kadang-kadang memang susah nak hadapi semua yang berlaku dalam hidup. Ingat, anda lebih kuat daripada yang anda sangkakan!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
-      "quiz_1_feedback_1": "Well done for recognising how you feel. Good to hear that you are feeling well today!",
-      "quiz_1_feedback_2": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!",
-      "quiz_1_feedback_3": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus kerana anda sedar dengan perasaan sendiri. Seronok dengar anda berasa baik hari ini!",
+      "quiz_1_feedback_2": "Semua orang ada hari yang baik dan hari yang sukar. Ingat, anda ialah ibu bapa terbaik untuk anak remaja anda dan anda layak dipuji!",
+      "quiz_1_feedback_3": "Kadang-kadang memang susah nak hadapi semua yang berlaku dalam hidup. Ingat, anda lebih kuat daripada yang anda sangkakan!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "category_id": "check_in",
       "nested": false,
       "completed": false
@@ -70,8 +70,12 @@
       "nested": false,
       "text_1_facilitator": "There are four steps to building a family budget. 💰You have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n\n3️⃣ Today, you will learn Step 3: making a monthly budget.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Balancing the money you earn with the money you need to spend is an important step in making a monthly budget. 📝",
       "completed": false
@@ -97,11 +101,21 @@
       },
       "quiz_1_option_1_text": "True",
       "_translations": {
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_option_2_text": {}
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_option_2_text": "False",
       "category_id": "explore",
@@ -122,7 +136,9 @@
       "nested": false,
       "text_1_facilitator": "🎨 Take the piece of paper from the monthly expenses activity that shows all the things you spend money on during a month.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "image_asset": "talk_monthly_expenses_yc_3",
       "completed": false
@@ -138,7 +154,9 @@
       "nested": false,
       "text_1_facilitator": "💰 Add up all the money your family has available each month. This can be from a job, welfare grants, or even money sent to the family by other relatives.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "image_asset": "make_a_monthly_budget_yc_1",
       "completed": false
@@ -154,7 +172,9 @@
       "nested": false,
       "text_1_facilitator": "📱🚲 Decide which of the expenses are things that you NEED and which are things that you WANT. 📺🍞🚗",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -169,7 +189,9 @@
       "nested": false,
       "text_1_facilitator": "⭐ Draw a star next to everything that you NEED. Add up all the things that have a star next to it.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "image_asset": "make_a_monthly_budget_yc_2",
       "completed": false
@@ -185,7 +207,9 @@
       "nested": false,
       "text_1_facilitator": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "image_asset": "make_a_monthly_budget_yc_3",
       "media_type": "youtube",
@@ -216,11 +240,21 @@
       },
       "quiz_1_feedback_1": "That’s great! Consider involving your family: it’s a great skill for everyone to learn. 💚",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s OK. Try to do it this week. 💚",
       "quiz_1_question": "⭐ It’s time to get out your paper and build your monthly budget. Do you have time to do it today?",

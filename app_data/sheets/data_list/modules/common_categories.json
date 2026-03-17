@@ -10,7 +10,9 @@
       "icon_asset": "images/icons/smile_eyes_down.svg",
       "title": "Relax",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -23,7 +25,9 @@
       "icon_asset": "images/icons/smile_eyes_up.svg",
       "title": "Check-in",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -36,7 +40,9 @@
       "icon_asset": "images/icons/picture_book.svg",
       "title": "Today's Topic",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -49,7 +55,9 @@
       "icon_asset": "images/icons/magnifying_glass.svg",
       "title": "Explore",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -62,7 +70,9 @@
       "icon_asset": "images/icons/thought_bubble.svg",
       "title": "Review",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -75,7 +85,9 @@
       "icon_asset": "images/icons/pencil.svg",
       "title": "Practise",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -88,7 +100,9 @@
       "icon_asset": "images/icons/parent_child_heart.svg",
       "title": "Home Activity",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -97,11 +111,26 @@
       }
     },
     {
+      "id": "teen_test",
+      "icon_asset": "images/icons/star_outline_blue.svg",
+      "title": "Teen Testimonial",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Teen Testimonial"
+        }
+      }
+    },
+    {
       "id": "notice",
       "icon_asset": "images/icons/pause.svg",
       "title": "Content Notice",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -112,7 +141,7 @@
   ],
   "_source": {
     "name": "kids_teens_my",
-    "path": "data/MY modules.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
+    "path": "data/Malay Docs/Malay_MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1MrWFVRvMg_LkAJPIawfU_5eAgWgiJQUU"
   }
 }

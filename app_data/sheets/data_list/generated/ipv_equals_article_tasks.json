@@ -16,7 +16,9 @@
       "transcript_2": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
       "title": "Angry? Take a break",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_8",
       "_translatedFields": {
         "text_1": {
-          "eng": "Self-care is a key parenting tool. It starts with recognising how we feel."
+          "eng": "Penjagaan diri ialah salah satu alat penting dalam keibubapaan. Ia bermula dengan mengenali apa yang kita rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing."
+          "eng": "Syabas. Hebatlah kerana anda menggunakan aplikasi ini. Ia menunjukkan komitmen anda sebagai ibu bapa. Beri diri anda pujian atas usaha yang anda lakukan."
         },
         "quiz_1_feedback_2": {
-          "eng": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward."
+          "eng": "Setiap hari ada naik dan turunnya. Puji diri anda kerana hadir dan terus mencuba. Anda sedang bergerak ke hadapan!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult right now. Take a deep breath and know that you are valued."
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Tarik nafas dalam‑dalam dan ingat bahawa anda dihargai."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
+      "text_1": "Penjagaan diri ialah salah satu alat penting dalam keibubapaan. Ia bermula dengan mengenali apa yang kita rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
-      "quiz_1_feedback_2": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward.",
-      "quiz_1_feedback_3": "Sorry that things are difficult right now. Take a deep breath and know that you are valued.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Syabas. Hebatlah kerana anda menggunakan aplikasi ini. Ia menunjukkan komitmen anda sebagai ibu bapa. Beri diri anda pujian atas usaha yang anda lakukan.",
+      "quiz_1_feedback_2": "Setiap hari ada naik dan turunnya. Puji diri anda kerana hadir dan terus mencuba. Anda sedang bergerak ke hadapan!",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Tarik nafas dalam‑dalam dan ingat bahawa anda dihargai.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Welcome back! Today’s skill is about how you and your spouse can set an example for your children by creating respect at home. 💙 \n\nFamily and friends might have their own ideas about how you should act as a spouse or a parent.❗\n\nBut what matters most is how both husband and wife choose to talk to and support each other, and make decisions together and respectfully. 🔄",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Treating each other with respect and making decisions together can have a big impact on how you feel and can help keep your child feel safe. 💚😃",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ Incorrect. \n\n🔑 When making big decisions that impact the whole family or relationship, it is important for spouses to practise making decisions together.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉 You are right! \n\n🔑 Communicating and making big decisions together with our spouse is an important part of having a respectful relationship.",
       "quiz_1_question": "True or False: Important decisions that impact the whole family or the relationship should only be made by one spouse.",
@@ -154,8 +172,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s observe how couples can value each other’s opinions and make decisions together:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/ipv_equals_1.svg",
       "character_1_id": "f1_father",
@@ -178,8 +200,12 @@
       "character_1_id": "f1_mother",
       "character_1_text": "The stove has not been working very well recently. I think the stove might be broken.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_father",
       "character_2_text": "I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?",
@@ -201,8 +227,12 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Buying a new one would be really expensive. How about we talk about it after dinner, and we can make a decision together?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_father",
       "character_2_text": "That sounds great. Thank you for cooking dinner, my dear!",
@@ -224,8 +254,12 @@
       "character_1_id": "f1_father",
       "character_1_text": "I am grateful we can talk about this and make this decision together. It makes a lot more sense to try to get it repaired first.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_mother",
       "character_2_text": "Me too. I feel a lot better now that we have talked about it together.",
@@ -243,7 +277,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=HL6tfeJXY7A",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jpjCOMCH2u4",
@@ -287,14 +323,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "SHARE DECISION MAKING",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "💡 Involve your spouse in decision making processes.\n💙 Try this the next time you are making a decision.",
       "section_2_title": "ASK THEM WHAT THEY THINK",
@@ -328,11 +380,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Well done! Communicating and working together with your spouse makes a difference! 🎉",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "It can take time to get used to making decisions together. Give yourself time to adjust. ⏰\n\nRemember that by communicating with your spouse and involving them in decision-making, they will start to feel more comfortable doing so too. ⭐",
       "quiz_1_question": "Your home activity for today is to involve your spouse in a decision you are making today. Can you do it? ⏰⭐",

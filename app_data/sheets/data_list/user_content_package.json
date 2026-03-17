@@ -9,7 +9,9 @@
       "name": "kemas",
       "text": "KEMAS",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -22,7 +24,9 @@
       "name": "masw",
       "text": "NGO/Community Facilitator",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -35,7 +39,9 @@
       "name": "other",
       "text": "None of the above",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {

@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nFikirkan di dalam hati:\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda hari ini.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu sesuatu yang besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
       "title": "Small things",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_16",
       "_translatedFields": {
         "text_1": {
-          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+          "eng": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "Amazing, life is the best when you're feeling good."
+          "eng": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon."
+          "eng": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi."
         },
         "quiz_1_feedback_3": {
-          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
+          "eng": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "text_1": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
-      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
-      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik.",
+      "quiz_1_feedback_2": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi.",
+      "quiz_1_feedback_3": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s skill is about teaching your child about ✅ safe and ❌ unsafe touch.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "😔 It is normal to feel uncomfortable about talking to children about abuse. \n\n💡 But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. \n\n🔑 It lets them know that they are in control of who can touch their body and in what way. \n\n🌷 This prepares them to keep themselves safe throughout their lives!",
       "completed": false
@@ -132,14 +138,30 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "⭐ That’s right. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
       "quiz_1_feedback_3": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
@@ -161,7 +183,9 @@
       "nested": false,
       "text_1_facilitator": "Here’s a story about a time @data.characters.f2_daughter_8.name felt unsafe about someone touching her.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/safe_touch_6to9_yc_1.svg",
       "completed": false
@@ -183,8 +207,12 @@
       "character_2_id": "f2_grandmother",
       "character_1_text": "@data.characters.f2_daughter_8.name: (Tearing up) Paati, Uncle gives very long hugs! I don’t like them.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Oh dear, @data.characters.f2_daughter_8.name, that is not OK. Thank you for telling me about it, that is not okay.",
       "completed": false
@@ -206,8 +234,12 @@
       "character_2_id": "f2_daughter_8",
       "character_1_text": "If he ever tries to give you a hug again, you can tell him, “No, let’s rather shake hands,” and tell me straight away. Shall we practise?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "(Practising) No, let’s rather shake hands, please.",
       "completed": false
@@ -229,8 +261,12 @@
       "character_2_id": "f2_daughter_8",
       "character_1_text": "Well done, @data.characters.f2_daughter_8.name. I love you very much and I’m so glad you spoke to me about it. If Uncle makes you feel uncomfortable again, you must tell me immediately. You should always feel safe and comfortable with the people around you.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Thank you, Paati. I’m glad I can tell you about these things.",
       "completed": false
@@ -247,7 +283,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=XybshQXQ9dw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=kriW6HO5u2k",
@@ -298,16 +336,36 @@
       "section_5_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "BE HONEST",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "✅ If your child knows how their body works and where people should and should not touch them, they can make safer choices throughout their lives.\n🔑 Answer any questions your child has honestly. These could be about any part of their own body or that of the other sex - even private parts!\n💚 This teaches them it is safe to ask about the body, which means they will learn more and stay safer.\n👀 Teaching your child about their whole body, even when young, means they will know how to talk about it if anything happens that they feel is unsafe.",
       "section_2_title": "“NO” IS OK!",
@@ -343,11 +401,21 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!",
       "quiz_1_question": "For today’s home activity, talk to your child about saying no to unwanted or unsafe touch. ❌ Help them practise saying, “No, don’t do that!” and remind them to tell an adult if it happens. \n\nCan you do this with your child today? ⏰",

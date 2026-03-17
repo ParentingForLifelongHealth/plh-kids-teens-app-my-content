@@ -16,7 +16,9 @@
       "transcript_2": "Ambil masa untuk berdiri dan pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. \nSama ada anda sedang berada di atas lantai atau tanah. \nRasakan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nRasakan di mana yang terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu seperti melepaskan suatu beban yang besar.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
       "title": "Feel the ground",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_2",
       "_translatedFields": {
         "text_1": {
-          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+          "eng": "Jom kita ambil sedikit masa untuk ANDA. Menjaga diri sendiri bermula dengan memerhatikan apa yang anda sedang rasakan."
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear you are in a positive space."
+          "eng": "Bagus sekali! Seronok dengar anda berada dalam keadaan yang positif."
         },
         "quiz_1_feedback_2": {
-          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
+          "eng": "Kadang‑kadang hari kita tak mudah. Itu normal. Dari situlah kita belajar dan berkembang sedikit demi sedikit."
         },
         "quiz_1_feedback_3": {
-          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
+          "eng": "Hidup memang boleh mencabar. Apa pun perasaan anda sekarang, anda boleh bangga dengan diri sendiri kerana tetap kuat dan teruskan sehingga ke hari ini."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "text_1": "Jom kita ambil sedikit masa untuk ANDA. Menjaga diri sendiri bermula dengan memerhatikan apa yang anda sedang rasakan.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
-      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
-      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus sekali! Seronok dengar anda berada dalam keadaan yang positif.",
+      "quiz_1_feedback_2": "Kadang‑kadang hari kita tak mudah. Itu normal. Dari situlah kita belajar dan berkembang sedikit demi sedikit.",
+      "quiz_1_feedback_3": "Hidup memang boleh mencabar. Apa pun perasaan anda sekarang, anda boleh bangga dengan diri sendiri kerana tetap kuat dan teruskan sehingga ke hari ini.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "It is important to know how to keep your children safe in your community. 🚩",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!",
       "completed": false
@@ -156,22 +162,54 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {},
-        "quiz_2_question": {},
-        "quiz_2_feedback_1": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_option_4_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_4": {
+          "my_ms": true
+        },
+        "quiz_1_option_5_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_5": {
+          "my_ms": true
+        },
+        "quiz_1_option_6_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_6": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_feedback_3": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
@@ -209,9 +247,15 @@
       "nested": false,
       "text_1_facilitator": "Let’s check in on @data.characters.f3_son_7.name and his mother, @data.characters.f3_mother.name after @data.characters.f3_son_7.name finds himself in an uncomfortable situation:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/com_safety_5to9_yc_1.svg",
       "character_1_id": "f3_son_7",
@@ -244,9 +288,15 @@
       "character_1_text": "Hi boy. You have such a nice smile and lovely straight hair. What’s your name?",
       "_translations": {
         "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {},
-        "character_4_text": {}
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        },
+        "character_4_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "My name is @data.characters.f3_son_7.name.",
       "character_3_id": "man_in_car",
@@ -272,8 +322,12 @@
       "character_2_id": "f3_son_7",
       "character_1_text": "@data.characters.f3_son_7.name, I have chips and some toys for you in my car. If you come in, you can eat chips and play with all the toys, I promise…",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "No, thank you.",
       "completed": false
@@ -291,7 +345,9 @@
       "character_1_id": "f3_son_7",
       "character_1_text": "Mummyyyyyy!!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -308,7 +364,9 @@
       "character_1_id": "f3_mother",
       "character_1_text": "@data.characters.f3_son_7.name, I’m so proud of you for not getting out of our house gate and getting into the car. You remembered the rules we created about safety in this community. That was a dangerous situation. You are so brave. Thank you for telling me. I will report it so it doesn’t happen again.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -324,7 +382,9 @@
       "nested": false,
       "text_1_facilitator": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=LnZGRktb2jI",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=CEKFAYFA9Z0",
@@ -368,14 +428,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "DRAW",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "📝 Draw a map of your community.\n🚩 Include the main places: streets, your house, school, shops, and places your child visits.\n👋Draw and identify pictures of trusted people who your child can go to when they feel unsafe. These can be you and your spouse, other family members, or teachers.",
       "section_2_title": "TALK",
@@ -409,11 +485,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 You are helping your child be aware of their surroundings to keep themselves safe.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow to talk to your child about safe and unsafe places. You can do this! 🌷",
       "quiz_1_question": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\n✨ Give space for your child to share their thoughts, too. They may think a place is unsafe that you thought was safe. Allow them to explain their reasons. Do you have time to do it today? ⏰",

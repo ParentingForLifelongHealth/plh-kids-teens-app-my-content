@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
       "title": "One thing today",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,28 +34,28 @@
       "id": "check_in_3",
       "_translatedFields": {
         "text_1": {
-          "eng": "You matter! Take a moment to check in with yourself."
+          "eng": "Anda penting! Luangkan sedikit masa untuk periksa keadaan diri anda."
         },
         "quiz_1_feedback_1": {
-          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
+          "eng": "Seronok dengar anda sedang berada dalam keadaan yang baik. Anda memang ibu bapa yang hebat!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
+          "eng": "Maaf kerana hari anda tidak begitu baik. Terima kasih kerana tetap berusaha dan cuba sedaya upaya. Tidak ada siapa yang ada jawapan untuk semua perkara, tetapi anda benar‑benar dah buat yang terbaik!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
+          "eng": "Maaf sebab hari anda agak sukar hari ini. Tahniah kerana anda tetap bangun setiap pagi dan terus mencuba, walaupun penat. Itu adalah keberanian dan ketabahan yang sebenar!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -61,7 +63,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "You matter! Take a moment to check in with yourself.",
+      "text_1": "Anda penting! Luangkan sedikit masa untuk periksa keadaan diri anda.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -72,13 +74,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
-      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
-      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Seronok dengar anda sedang berada dalam keadaan yang baik. Anda memang ibu bapa yang hebat!",
+      "quiz_1_feedback_2": "Maaf kerana hari anda tidak begitu baik. Terima kasih kerana tetap berusaha dan cuba sedaya upaya. Tidak ada siapa yang ada jawapan untuk semua perkara, tetapi anda benar‑benar dah buat yang terbaik!",
+      "quiz_1_feedback_3": "Maaf sebab hari anda agak sukar hari ini. Tahniah kerana anda tetap bangun setiap pagi dan terus mencuba, walaupun penat. Itu adalah keberanian dan ketabahan yang sebenar!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -95,8 +97,12 @@
       "nested": false,
       "text_1_facilitator": "✨ You’re doing a great job at helping your child live a good life. I know you really care! 💙\n\n😃 How did the message above make you feel?\n🌷 We all feel better when we are praised!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "🏆 Likewise, it’s important to learn to give praise to children!\n\n🔄 Praising your child when they behave in a good way will make them want to behave that way more often. \n\n⭐ It also creates a positive and loving relationship between you and your child.",
       "completed": false
@@ -127,12 +133,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ Incorrect.\n\n✨ How you praise your child is important. Praise should be specific, immediate, and genuine. \n\n🌱 You can begin by praising your child for the smallest things, such as playing by themselves quietly for 2 minutes.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉 You are right! \n\n✨ How you praise your child is important. Praise should be specific, immediate, and genuine. \n\n🌱 You can begin by praising your child for the smallest things, such as playing by themselves quietly for 2 minutes.",
       "quiz_1_question": "True or False: The way you praise your child does not matter because any kind of praise is effective.",
@@ -155,8 +173,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s check in on @data.characters.f1_mother.name and her son, @data.characters.f1_son_5.name, to see how giving praise can work at home.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/give_praise_yc_1.svg",
       "character_1_id": "f1_mother",
@@ -176,7 +198,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Another sock! This one is white. It’s not easy finding a matching pair. It can be frustrating.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -193,7 +217,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "You’re doing a good job, @data.characters.f1_son_5.name. You are looking very hard and being very patient.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -210,7 +236,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "You found the other striped sock! Well done for looking, @data.characters.f1_son_5.name!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -226,7 +254,9 @@
       "nested": false,
       "text_1_facilitator": "⭐ Children who are praised for good behaviour will want to keep behaving well and keep receiving praise. \n\n4️⃣ Here are 4 simple tips for praising your child.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBOgkUkNj_U",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=lO655bJJBBU",
@@ -270,14 +300,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "SEE IT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "👀 Look for anything good or helpful your child does.",
       "section_2_title": "SAY IT",
@@ -311,11 +357,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Amazing! 🎉\n3️⃣ Look for three things that you can praise your child for every day. \n💡You can praise other adults in your household, too. Notice how they respond.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "💚 That's OK! Sometimes things take time.",
       "quiz_1_question": "Your home activity today is to praise your child. Can you try it today?",

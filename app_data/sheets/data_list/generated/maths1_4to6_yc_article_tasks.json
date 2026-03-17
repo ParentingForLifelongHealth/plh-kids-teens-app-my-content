@@ -16,7 +16,9 @@
       "transcript_2": "Cubalah untuk ambil masa untuk merehatkan tubuh badan anda setiap hari.\n\nBerikut ialah satu aktiviti untuk merehatkan tubuh badan anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh badan anda. Adakah ada bahagian yang terasa tegang? Kebas? Atau sakit?\nFokus pada bahagian itu seketika. Tarik nafas dan hembus nafas perlahan sambil menggerakkan sedikit tubuh badan anda yang berasa tegang, kebas atau sakit secara perlahan-lahan. \nUlang dan tarik nafas beberapa kali.\n\nSatu.....Dua.....Tiga....\n\nBuka mata anda perlahan-lahan. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
       "title": "Body scan",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,28 +34,28 @@
       "id": "check_in_9",
       "_translatedFields": {
         "text_1": {
-          "eng": "Recognising how you feel is key to handling life well. Be real and kind to yourself."
+          "eng": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri."
         },
         "quiz_1_feedback_1": {
-          "eng": "You are a star. And you are making a real difference. You can be proud of yourself."
+          "eng": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!"
+          "eng": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!"
+          "eng": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -61,7 +63,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
+      "text_1": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -72,13 +74,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
-      "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
-      "quiz_1_feedback_3": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri.",
+      "quiz_1_feedback_2": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!",
+      "quiz_1_feedback_3": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -95,8 +97,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about introducing your child to numbers and maths. 1️⃣2️⃣3️⃣",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "⭐ Learning about numbers, shapes, and groups will help your child understand basic maths. \n\n🎓 This will give them a great head start for school!",
       "completed": false
@@ -145,18 +151,42 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_option_4_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_4": {
+          "my_ms": true
+        },
+        "quiz_1_option_5_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_5": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
       "quiz_1_feedback_3": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
@@ -183,7 +213,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Nzac4YiwGNw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=RGqRpeHQVdg",
@@ -220,12 +252,24 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "COUNT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🔴 Counting is a skill your child can start to learn early. 1️⃣2️⃣3️⃣\n\n🚗 Ask your child to count things around you: cars, people, houses, and their fingers and toes! 👋\n\n🍅 Ask your child to count things in daily activities: like potatoes while cooking, or socks while sorting out clothes\n\n🎵 Sing songs that include numbers with your child.\n\n🎨 Encourage your child to draw things, or ask them how many things there are in the pictures.",
       "section_2_title": "LOOK FOR NUMBERS",
@@ -257,11 +301,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Involving your child in activities like this and talking about numbers and amounts of things will help them learn!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, try to involve your child tomorrow. Activities that use numbers and talking about amounts of things will help your child learn!",
       "quiz_1_question": "Here’s a home activity for today! ⭐ Try to involve your child in an activity with numbers. For example, counting the amount of ingredients when you are cooking. Do you have time today?",
