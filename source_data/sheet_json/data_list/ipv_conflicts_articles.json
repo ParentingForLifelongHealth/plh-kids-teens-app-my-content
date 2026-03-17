@@ -67,11 +67,11 @@
       "id": "explore_5",
       "category_id": "explore",
       "text_1_facilitator::eng": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way.",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/QncPn2LA1bo?si=v31Xzwn1a0OCGH-J",
-      "youtube_my_f": "https://youtu.be/hljNe7YGO74?si=9R_0e6cR0FULpHi2",
-      "youtube_en_m": "https://youtu.be/RU6WK7Udqy8?si=jCH1RnmU_eh94S9-",
-      "youtube_my_m": "https://youtu.be/VtG00lyRhBc?si=1MNMEGiPu5qR7t1o"
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=QncPn2LA1bo?si=v31Xzwn1a0OCGH-J",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=hljNe7YGO74?si=9R_0e6cR0FULpHi2",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=RU6WK7Udqy8?si=jCH1RnmU_eh94S9-",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=VtG00lyRhBc?si=1MNMEGiPu5qR7t1o"
     },
     {
       "id": "tips_1",

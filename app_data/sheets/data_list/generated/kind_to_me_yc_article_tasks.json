@@ -209,7 +209,7 @@
     },
     {
       "id": "explore_4",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three steps to help you be kind to yourself: NOTICE, SAY IT’S OKAY, BE KIND."
@@ -221,10 +221,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "https://youtu.be/_WAfO4GbI0Y?si=nBUj-lnxRMSwUN4j",
-      "youtube_my_f": "https://youtu.be/IA0-hA3syqI?si=DMv6eFnqz_-C_jnl",
-      "youtube_en_m": "https://youtu.be/H36Z50DiVo0?si=LbGh2fIUevIgD5kV",
-      "youtube_my_m": "https://youtu.be/HXPATOxztV4?si=I6Lk5SV_n0b4T-e5",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=_WAfO4GbI0Y?si=nBUj-lnxRMSwUN4j",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=IA0-hA3syqI?si=DMv6eFnqz_-C_jnl",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=H36Z50DiVo0?si=LbGh2fIUevIgD5kV",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=HXPATOxztV4?si=I6Lk5SV_n0b4T-e5",
       "completed": false
     },
     {

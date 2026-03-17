@@ -173,11 +173,11 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/MRgWI-PAmr4?si=K2PhrCrXPVZZKYGH",
-      "youtube_my_f": "https://youtu.be/MZ4jRBXl8mk?si=Lb-eKUkdC0YgrKjS",
-      "youtube_en_m": "https://youtu.be/X0eYy0wHSYM?si=LcVsXN1c8KCvnigH",
-      "youtube_my_m": "https://youtu.be/EgncrXcysVQ?si=-IYBvPbcmL3Uv-p3",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRgWI-PAmr4?si=K2PhrCrXPVZZKYGH",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=MZ4jRBXl8mk?si=Lb-eKUkdC0YgrKjS",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=X0eYy0wHSYM?si=LcVsXN1c8KCvnigH",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=EgncrXcysVQ?si=-IYBvPbcmL3Uv-p3",
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say.",
       "_translations": {

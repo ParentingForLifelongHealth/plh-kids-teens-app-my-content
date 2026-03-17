@@ -215,7 +215,7 @@
     },
     {
       "id": "explore_5",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "⭐ Children who are praised for good behaviour will want to keep behaving well and keep receiving praise. \n\n4️⃣ Here are 4 simple tips for praising your child."
@@ -227,10 +227,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "https://youtu.be/CBOgkUkNj_U?si=nQXB3No8klmBPggZ",
-      "youtube_my_f": "https://youtu.be/lO655bJJBBU?si=6gLSgSHVJiAFm9u2",
-      "youtube_en_m": "https://youtu.be/Cxafy5TZbjs?si=UYhtuFJ6b23Y9MGM",
-      "youtube_my_m": "https://youtu.be/D_CuF6VCfmg?si=Tkzot2hgSL1KRDC2",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBOgkUkNj_U?si=nQXB3No8klmBPggZ",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=lO655bJJBBU?si=6gLSgSHVJiAFm9u2",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Cxafy5TZbjs?si=UYhtuFJ6b23Y9MGM",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=D_CuF6VCfmg?si=Tkzot2hgSL1KRDC2",
       "completed": false
     },
     {

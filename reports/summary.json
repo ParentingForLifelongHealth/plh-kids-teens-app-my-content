@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 119
+        "count": 120
       },
       {
         "type": "debug_toggle",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3042
+        "count": 3048
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 950
+        "count": 951
       },
       {
         "type": "text",
@@ -3020,7 +3020,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 127
+        "total": 128
       },
       {
         "type": "template",

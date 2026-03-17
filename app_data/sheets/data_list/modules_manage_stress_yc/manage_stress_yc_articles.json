@@ -28,11 +28,11 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/zR_SAGGgjbw?si=SzMdzVTUKnP15upS",
-      "youtube_my_f": "https://youtu.be/3lCZtz-ypkw?si=b3E1j0ZxQR6jSU1F",
-      "youtube_en_m": "https://youtu.be/Fy3Yp8EdYtg?si=1RgfX9K_C2VZIVCN",
-      "youtube_my_m": "https://youtu.be/7o5Aa_KSHeE?si=hKAFkXZP98m1oVtR",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zR_SAGGgjbw?si=SzMdzVTUKnP15upS",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=3lCZtz-ypkw?si=b3E1j0ZxQR6jSU1F",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Fy3Yp8EdYtg?si=1RgfX9K_C2VZIVCN",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=7o5Aa_KSHeE?si=hKAFkXZP98m1oVtR",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three steps to help you manage your stress:",
       "_translations": {

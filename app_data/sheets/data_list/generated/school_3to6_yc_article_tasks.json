@@ -141,7 +141,7 @@
     },
     {
       "id": "explore_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about."
@@ -153,10 +153,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "https://youtu.be/UY35NY1Tg9c?si=0oD-blyBoKLrhwYq",
-      "youtube_my_f": "https://youtu.be/jIwp-6OnaAY?si=0n5ytbB6yGZaHG7w",
-      "youtube_en_m": "https://youtu.be/61IuyN3VkFk?si=eApqdGnzJCKullXf",
-      "youtube_my_m": "https://youtu.be/ShxiytzVSvA?si=DxUuOn3IUDMXNGmf",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=UY35NY1Tg9c?si=0oD-blyBoKLrhwYq",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=jIwp-6OnaAY?si=0n5ytbB6yGZaHG7w",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=61IuyN3VkFk?si=eApqdGnzJCKullXf",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=ShxiytzVSvA?si=DxUuOn3IUDMXNGmf",
       "completed": false
     },
     {
