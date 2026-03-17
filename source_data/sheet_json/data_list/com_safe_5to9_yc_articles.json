@@ -53,7 +53,7 @@
       "category_id": "explore",
       "image_asset": "images/yc_modules/com_safety_5to9_yc_2.svg",
       "character_1_id": "man_in_car",
-      "character_1_text::eng": "@data.characters.man_in_car.name: Hi boy. You have such a nice smile and lovely straight hair. What’s your name?",
+      "character_1_text::eng": "Hi boy. You have such a nice smile and lovely straight hair. What’s your name?",
       "character_2_id": "f3_son_7",
       "character_2_text::eng": "My name is @data.characters.f3_son_7.name.",
       "character_3_id": "man_in_car",
@@ -89,10 +89,10 @@
       "category_id": "explore",
       "text_1_facilitator::eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "media_type": "video",
-      "youtube_en_f": "LINK HERE",
-      "youtube_my_f": "LINK HERE",
+      "youtube_en_f": "https://youtu.be/LnZGRktb2jI?si=in-orEP-mpbegbcC",
+      "youtube_my_f": "https://youtu.be/CEKFAYFA9Z0?si=EvS9XM9CqdztesOl",
       "youtube_en_m": "https://youtu.be/qkjfDAR_DYI?si=lPFFfhoWE90RZDCX",
-      "youtube_my_m": "LINK HERE"
+      "youtube_my_m": "https://youtu.be/wR3huIpZzPk?si=ZRJ6kAOCb6YikR4Z"
     },
     {
       "id": "tips_1",

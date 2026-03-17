@@ -441,7 +441,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 51 |
 | images/icons/smile_eyes_up.svg | 1 | 98 |
 | images/icons/star_filled_blue.png | 5.1 | 92 |
-| images/icons/star_outline_blue.svg | 1 | 50 |
+| images/icons/star_outline_blue.svg | 1 | 1 |
 | images/icons/thought_bubble.svg | 2.1 | 49 |
 | images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |
@@ -621,9 +621,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 15 |
+| data_list |  | 16 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
+| data_list | campaign_rows | 3 |
+| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 100 |
 | data_list | hp_review | 2 |

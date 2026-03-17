@@ -135,12 +135,12 @@
     {
       "type": "declare_global_constant",
       "name": "unlock_course_title",
-      "value": "Parenting Skills"
+      "value": "Courses"
     },
     {
       "type": "declare_global_constant",
       "name": "unlock_course_text",
-      "value": "Finish these skills to unlock more"
+      "value": "Finish the first course to unlock more"
     },
     {
       "type": "declare_global_constant",
@@ -149,12 +149,12 @@
     {
       "type": "declare_global_constant",
       "name": "lock_course_text",
-      "value": "Bonus skills will be available once you complete all available Parenting Skills"
+      "value": "Additional courses will be available once you complete all available courses"
     },
     {
       "type": "declare_global_constant",
       "name": "complete_course_title",
-      "value": "Completed Skills"
+      "value": "Completed courses"
     },
     {
       "type": "declare_global_constant",
@@ -163,7 +163,7 @@
     {
       "type": "declare_global_constant",
       "name": "all_unlock_course_title",
-      "value": "Explore Skills"
+      "value": "Explore Courses"
     },
     {
       "type": "declare_global_constant",
