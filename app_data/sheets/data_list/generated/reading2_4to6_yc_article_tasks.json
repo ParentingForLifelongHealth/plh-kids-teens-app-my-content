@@ -6,10 +6,11 @@
     {
       "id": "relax_8",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_en_m": "audio/relax/english/relax_8_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_8_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_8_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_8_f.mp3",
+      "to_delete": "relax_8_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_8_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_8_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_8_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_8_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
       "transcript_2": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nFikirkan di dalam hati:\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda hari ini.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu sesuatu yang besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
@@ -153,10 +154,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=_qN3bUYmR44?si=PmBtc9yEKAkTUPLO",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=WWWVybNe6vY?si=P0RFaYZzznt2wNHD",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=qYIaE_XI19k?si=lLDyGHdT75YCh9PL",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=iUqbgOJ-Ce0?si=NgmI9_ME_skbxQSu",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=_qN3bUYmR44",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=WWWVybNe6vY",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=qYIaE_XI19k",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=iUqbgOJ-Ce0",
       "completed": false
     },
     {

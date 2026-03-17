@@ -6,10 +6,11 @@
     {
       "id": "relax_18",
       "lottie_asset": "lottie/relax/heart.json",
-      "media_asset_en_m": "audio/relax/english/relax_18__.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_18__.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_18_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_18_f.mp3",
+      "to_delete": "relax_18__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_18__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_18__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_18_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_18_f.mp3",
       "media_type": "audio",
       "transcript_1": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
       "transcript_2": "Duduk dengan selesa dan pejamkan mata.\n\nPerhatikan apa yang sedang berlaku dalam diri anda pada saat ini. Apa yang sedang anda fikirkan? Adakah fikiran itu positif atau negatif. Bagaimana perasaan anda? Adakah ia menyenangkan atau membimbangkan. Bagaimana pula tubuh anda? Adakah anda rasa tegang atau tenang.\n\nAlihkan perhatian anda ke hati anda dengan tenang. Anda boleh meletakkan satu tangan di dada atau di atas jantung anda. Ucapkan kata‑kata ini dengan perlahan di dalam hati:\n\nSemoga saya tenang.\nSemoga saya selamat.\nSemoga saya sihat.\nSemoga saya bahagia.\nSemoga ada kasih sayang dalam keluarga saya.\nSemoga saya sentiasa disayangi.\n\nAmbil sedikit masa untuk merenung pengalaman ini. Perhatikan sama ada anda rasa sedikit perbezaan.\n\nBila anda bersedia, buka mata anda.",
@@ -243,10 +244,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=eKL_xbxqox8?si=bVP78FiDNe7hStTE",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=ObBSPvEbe7g?si=TqCUN7yAu9_0u02c",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=iLAIlEqX5KY?si=Xn4QOnXl4LAGfxs5",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=2b8Ow3QW6z4?si=CAZKZj0ZYqT3vMNU",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=eKL_xbxqox8",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ObBSPvEbe7g",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=iLAIlEqX5KY",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=2b8Ow3QW6z4",
       "completed": false
     },
     {

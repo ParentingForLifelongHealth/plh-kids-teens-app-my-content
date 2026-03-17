@@ -6,10 +6,11 @@
     {
       "id": "relax_4",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset_en_m": "audio/relax/english/relax_4_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_4_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_4_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_4_f.mp3",
+      "to_delete": "relax_4_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_4_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_4_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_4_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_4_f.mp3",
       "media_type": "audio",
       "transcript_1": "When you take care of yourself, you take care of your children. We all need to connect. Try to talk to friends, family, and other support networks every day. If it has been a while since you reached out to someone, do it now!",
       "transcript_2": "Bila anda menjaga diri sendiri, anda juga sedang menjaga anak‑anak anda. Kita semua perlukan hubungan dengan orang lain. Cuba berhubung dengan rakan, keluarga, atau sesiapa yang menyokong anda setiap hari.\n\nKalau sudah lama anda tidak menghubungi seseorang, cuba hubungi mereka sekarang! Siapa yang anda nak hubungi sekarang?",
@@ -282,10 +283,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=mWPZ7vU5fjs?si=e-jzfTlBL43BrIgf",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=be49VkJU8gI?si=sPYCShdnLQawbHfb",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=NmDrWjFO1WE?si=esKHp8Ffb5A2nNtp",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=qhI4hvrUhEc?si=GUyD38Qsqjtvl9v0",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=mWPZ7vU5fjs",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=be49VkJU8gI",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=NmDrWjFO1WE",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=be49VkJU8gI",
       "completed": false
     },
     {

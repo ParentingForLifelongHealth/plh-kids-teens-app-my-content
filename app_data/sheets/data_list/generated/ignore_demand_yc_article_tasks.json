@@ -6,10 +6,11 @@
     {
       "id": "relax_2",
       "lottie_asset": "lottie/relax/soothing_waves.json",
-      "media_asset_en_m": "audio/relax/english/relax_2_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_2_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_2_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_2_f.mp3",
+      "to_delete": "relax_2_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_2_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_2_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_2_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_2_f.mp3",
       "media_type": "audio",
       "transcript_1": "Make a list of healthy activities that you like to do. Here are some suggestions:\n* Listening to your favourite music\n* Going for a walk (if possible)\n* Doing some exercise\n* Drinking a cup of tea by yourself\n* Calling up a friend\n* Singing, dancing, praying, or reading\n* Sitting in the sun with your eyes closed\n* Watching your favourite TV show\n\nPick one and do it today!",
       "transcript_2": "Senaraikan aktiviti sihat yang anda suka lakukan. Berikut beberapa idea:\n\n* Mendengar muzik kegemaran\n* Berjalan‑jalan (jika boleh)\n* Melakukan senaman ringan\n* Menikmati secawan teh seorang diri\n* Menelefon rakan\n* Menyanyi, menari, berdoa, atau membaca\n* Duduk di bawah cahaya matahari dengan mata terpejam\n* Menonton rancangan TV kegemaran\n\nPilih satu dan lakukan hari ini!",
@@ -275,10 +276,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=P0BeHuBYUBg?si=A4jdda1zXBsT9apF",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=97rjYfHTQdM?si=KS2XKQrI7eZSE4vr",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=o2d6C_WWMVc?si=k3omeg-rXlZB4Neg",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=UyHCc2bbP7Q?si=xuTSg1o_ePpyW9oD",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=P0BeHuBYUBg",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=97rjYfHTQdM",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=o2d6C_WWMVc",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=UyHCc2bbP7Q",
       "completed": false
     },
     {
