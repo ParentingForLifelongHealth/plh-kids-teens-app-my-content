@@ -286,7 +286,7 @@
     },
     {
       "id": "explore_5",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚"
@@ -298,10 +298,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "https://youtu.be/5i0WNL6W9a4?si=W9MJK5HcuKOI3JSq",
-      "youtube_my_f": "https://youtu.be/Ex-ePqii8-o?si=JbEEjAeOMApMwkIA",
-      "youtube_en_m": "https://youtu.be/tm4AwAJNMQ8?si=OGDhIHfz8oWEdAB_",
-      "youtube_my_m": "https://youtu.be/QwNwRcv1DYg?si=qMGWWASwuW6S88He",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=5i0WNL6W9a4?si=W9MJK5HcuKOI3JSq",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=Ex-ePqii8-o?si=JbEEjAeOMApMwkIA",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=tm4AwAJNMQ8?si=OGDhIHfz8oWEdAB_",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=QwNwRcv1DYg?si=qMGWWASwuW6S88He",
       "completed": false
     },
     {

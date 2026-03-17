@@ -171,7 +171,7 @@
     },
     {
       "id": "explore_1",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐"
@@ -183,10 +183,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "https://youtu.be/6yhfDw3ODAE?si=IeE_9GE3VqM6gC3x",
-      "youtube_my_f": "https://youtu.be/TYBsMacMjpw?si=iYm8k71feTO-txzD",
-      "youtube_en_m": "https://youtu.be/leYIG1MVrV4?si=vWGVjKjmRvtNsjXd",
-      "youtube_my_m": "https://youtu.be/Ke_HTjXMHJI?si=ph9XJGs-HF8Mobh5",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=6yhfDw3ODAE?si=IeE_9GE3VqM6gC3x",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=TYBsMacMjpw?si=iYm8k71feTO-txzD",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=leYIG1MVrV4?si=vWGVjKjmRvtNsjXd",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=Ke_HTjXMHJI?si=ph9XJGs-HF8Mobh5",
       "completed": false
     },
     {

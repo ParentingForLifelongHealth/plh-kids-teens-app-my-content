@@ -63,11 +63,11 @@
       "id": "explore_5",
       "category_id": "explore",
       "text_1_facilitator::eng": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/1gg90zVHyLM?si=qQhaQcmewS9V30SS",
-      "youtube_my_f": "https://youtu.be/BaKEW4u82ok?si=B64UucQg8DeL8U8v",
-      "youtube_en_m": "https://www.youtube.com/watch?v=AOiiZFCC7MA",
-      "youtube_my_m": "https://youtu.be/l7OxZvDqwLY?si=oZi-qLMKvTAQnUjp"
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=1gg90zVHyLM?si=qQhaQcmewS9V30SS",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=BaKEW4u82ok?si=B64UucQg8DeL8U8v",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=AOiiZFCC7MA",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=l7OxZvDqwLY?si=oZi-qLMKvTAQnUjp"
     },
     {
       "id": "tips_1",

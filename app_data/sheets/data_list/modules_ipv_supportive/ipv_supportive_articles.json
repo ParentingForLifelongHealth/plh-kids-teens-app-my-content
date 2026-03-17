@@ -142,11 +142,11 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/MWl4tOjnfts?si=8uccU7jxBUjKBP2V",
-      "youtube_my_f": "https://youtu.be/XkOX8kzTd68?si=mpKzuhL1DAFF5nM9",
-      "youtube_en_m": "https://youtu.be/R9LSfSd1OQY?si=KGyHLcicoHDxZMEg",
-      "youtube_my_m": "https://youtu.be/2RFp5Ev4lEM?si=8V6zVW04LJkphYcm",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MWl4tOjnfts?si=8uccU7jxBUjKBP2V",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=XkOX8kzTd68?si=mpKzuhL1DAFF5nM9",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=R9LSfSd1OQY?si=KGyHLcicoHDxZMEg",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=2RFp5Ev4lEM?si=8V6zVW04LJkphYcm",
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four simple ways you can become a more confident and supportive spouse AND parent.",
       "_translations": {

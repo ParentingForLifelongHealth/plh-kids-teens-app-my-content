@@ -65,11 +65,11 @@
       "id": "explore_5",
       "category_id": "explore",
       "text_1_facilitator::eng": "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/XybshQXQ9dw?si=cW06-0g8zfAKlB0G",
-      "youtube_my_f": "https://youtu.be/kriW6HO5u2k?si=KEozAAyR-2OLVuDx",
-      "youtube_en_m": "https://youtu.be/wyCpJI138RA?si=zh65IWm7j4srCM4S",
-      "youtube_my_m": "https://youtu.be/k1vhY4G4YZY?si=h8q1hp5g9o2j6ovL"
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=XybshQXQ9dw?si=cW06-0g8zfAKlB0G",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=kriW6HO5u2k?si=KEozAAyR-2OLVuDx",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=wyCpJI138RA?si=zh65IWm7j4srCM4S",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=k1vhY4G4YZY?si=h8q1hp5g9o2j6ovL"
     },
     {
       "id": "tips_1",

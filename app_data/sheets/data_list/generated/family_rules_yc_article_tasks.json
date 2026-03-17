@@ -251,11 +251,11 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/SZ0YjLm-ka0?si=dnZ_5IpfgWmmbFxZ",
-      "youtube_my_f": "https://youtu.be/DBvnp8K_fB4?si=bj4QV5d8YpWL56no",
-      "youtube_en_m": "https://youtu.be/lvzyXJUed68?si=PFcE5_pe5h40Kvt9",
-      "youtube_my_m": "https://youtu.be/6VYlRMoPtoY?si=I3DUNnl71VD0e1jz",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=SZ0YjLm-ka0?si=dnZ_5IpfgWmmbFxZ",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=DBvnp8K_fB4?si=bj4QV5d8YpWL56no",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=lvzyXJUed68?si=PFcE5_pe5h40Kvt9",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=6VYlRMoPtoY?si=I3DUNnl71VD0e1jz",
       "completed": false
     },
     {
