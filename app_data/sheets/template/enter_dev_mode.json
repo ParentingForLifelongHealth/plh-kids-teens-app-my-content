@@ -7,7 +7,9 @@
       "name": "submit",
       "value": "Submit",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "submit"
@@ -16,7 +18,9 @@
       "name": "text_box_placeholder",
       "value": "Tap and type",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "text_box_placeholder"
@@ -32,7 +36,9 @@
       "name": "title",
       "value": "Enter developer mode",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "title"
     },
@@ -41,7 +47,9 @@
       "name": "text_1",
       "value": "To launch the app in developer mode, enter your developer code in the box below and press @local.submit.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "_nested_name": "text_1",
       "_dynamicFields": {
@@ -132,7 +140,9 @@
           "name": "incorrect",
           "value": "You have entered an incorrect code.",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "condition": "!(@local.text_box == @global.dev_mode_code || @local.text_box == @global.test_mode_code)",
           "_nested_name": "dg_reply_entered.incorrect",
@@ -190,7 +200,9 @@
               "name": "text_2",
               "value": "This code is correct.",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "_nested_name": "dg_reply_entered.correct.text_2"
             },
@@ -199,7 +211,9 @@
               "name": "button_enter_dev",
               "value": "Enter developer mode",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "action_list": [
                 {

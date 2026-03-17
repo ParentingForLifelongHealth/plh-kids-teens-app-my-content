@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about helping you support your child’s healthy development as they grow and change. ✨",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,17 +35,39 @@
       "nested": false,
       "text_1_facilitator": "Let's do a quick quiz!",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -98,9 +124,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_daughter_2.name and her father, @data.characters.f1_father.name are spending time together. Let’s see how @data.characters.f1_father.name encourages his daughter to keep on trying:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -125,8 +157,12 @@
       "nested": false,
       "character_1_text": "I’m not good at this…",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -147,8 +183,12 @@
       "nested": false,
       "character_1_text": "Five catches in a row! You seem really proud to have made it to five, @data.characters.f1_daughter_2.name!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -168,7 +208,9 @@
       "nested": false,
       "character_1_text": "You did so well, @data.characters.f1_daughter_2.name! I am very happy to spend this special time with you.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -187,7 +229,9 @@
       "nested": false,
       "text_1_facilitator": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -204,12 +248,24 @@
       "nested": false,
       "section_1_title": "BE PATIENT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -243,11 +299,21 @@
       "nested": false,
       "quiz_1_question": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

@@ -16,7 +16,9 @@
       "transcript_2": "Bila anda menjaga diri sendiri, anda juga sedang menjaga anak‑anak anda. Kita semua perlukan hubungan dengan orang lain. Cuba berhubung dengan rakan, keluarga, atau sesiapa yang menyokong anda setiap hari.\n\nKalau sudah lama anda tidak menghubungi seseorang, cuba hubungi mereka sekarang! Siapa yang anda nak hubungi sekarang?",
       "title": "Connect",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_4",
       "_translatedFields": {
         "text_1": {
-          "eng": "Recognising how you feel helps you care for yourself well. You deserve it."
+          "eng": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy! Keep up the good work."
+          "eng": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda."
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
+          "eng": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda"
         },
         "quiz_1_feedback_3": {
-          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
+          "eng": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel helps you care for yourself well. You deserve it.",
+      "text_1": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
-      "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
-      "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda.",
+      "quiz_1_feedback_2": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda",
+      "quiz_1_feedback_3": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "😃😣😔This skill is about talking with your child about their feelings.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "How does this help your child grow?\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌They will learn that all feelings are okay - even the negative ones.\n \nDo you wonder how we can do so?\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too.",
       "completed": false
@@ -156,22 +162,54 @@
       "nested": false,
       "quiz_1_feedback_1": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_3_question": {
+          "my_ms": true
+        },
+        "quiz_3_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_3_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
       "quiz_1_question": "True or False: Talking about positive feelings is not as important as sharing negative feelings.",
@@ -204,8 +242,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s see how @data.characters.f2_grandfather.name handles his granddaughter, @data.characters.f2_daughter_8.name, when she feels jealous.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/talk_feelings_yc_1.svg",
       "character_1_id": "f2_daughter_8",
@@ -225,7 +267,9 @@
       "character_1_id": "f2_grandfather",
       "character_1_text": "I see that you are upset, @data.characters.f2_daughter_8.name. It is hard when your friends have things that we can’t have.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -245,8 +289,12 @@
       "character_1_id": "f2_daughter_8",
       "character_1_text": "What do you mean, Thaatha? I really want a huge TV.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f2_grandfather",
       "character_2_text": "I understand, @data.characters.f2_daughter_8.name. We work hard, but TVs are expensive. We can still have fun and play as a family.",
@@ -265,7 +313,9 @@
       "character_1_id": "f2_daughter_8",
       "character_1_text": "Okay, Thaatha…",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -281,7 +331,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=mWPZ7vU5fjs",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=be49VkJU8gI",
@@ -332,16 +384,36 @@
       "section_5_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "LEARN",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "💡 Learn about different emotions. \n😃 The 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid.\n👀 You can use facial expressions and physical movements to help your child learn different emotions. Make it a game!\n🎨 As children grow, they learn to identify more emotions, like excitement, frustration, pride, loneliness, calm, guilt and confusion.",
       "section_2_title": "NOTICE",
@@ -377,11 +449,21 @@
       "nested": false,
       "quiz_1_feedback_1": "This will make such a big difference. Great job! ⭐",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s okay. Try to make time this week.",
       "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",

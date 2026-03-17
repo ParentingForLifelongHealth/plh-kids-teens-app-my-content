@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "This is part 2 of the skill “Help your child get ready for maths.” ✨\n\nToday’s focus is on some more challenging activities that you can do with your child once they are ready 💡",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -35,10 +39,18 @@
       "nested": false,
       "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name is practising numbers with her son, @data.characters.f1_son_5.name in the kitchen:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -67,8 +79,12 @@
       "nested": false,
       "character_1_text": "I have… Five!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -88,7 +104,9 @@
       "nested": false,
       "character_1_text": "Can you give me two potatoes?\nThat’s right! One… two…! \nHow many potatoes are left?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -105,8 +123,12 @@
       "nested": false,
       "character_1_text": "Is it difficult? Don’t worry, let’s count together! Let’s see… we had five, and you gave me two, now there are one… two… three remaining! There are three potatoes left!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -129,7 +151,9 @@
       "nested": false,
       "text_1_facilitator": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -147,14 +171,30 @@
       "nested": false,
       "section_1_title": "SORTING AND ORGANISING",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -196,11 +236,21 @@
       "nested": false,
       "quiz_1_question": "For today’s home activity, can you do an activity with adding and taking away with your child? You can do that while cooking with them again, or with other objects - like playing outside with stones!",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

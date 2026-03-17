@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Welcome back! In this course, you will learn about the four steps to building a family budget. 💰\n\n1️⃣ The first step is identifying needs and wants. 🍞🚗📱",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -36,7 +40,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -53,12 +59,24 @@
       "nested": false,
       "section_1_title": "IDENTIFY NEEDS",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -92,11 +110,21 @@
       "nested": false,
       "quiz_1_question": "Today’s home activity is to discuss your wants and needs with your family. ⭐Do you have time to do it today?",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

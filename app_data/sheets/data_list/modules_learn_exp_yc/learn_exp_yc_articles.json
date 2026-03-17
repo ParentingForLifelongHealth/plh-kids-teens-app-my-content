@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,12 +35,24 @@
       "nested": false,
       "text_1_facilitator": "What do you think about this?",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -73,9 +89,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name is getting a bit too active indoors, today. Let’s see how her uncle, @data.characters.f3_uncle.name, reacts:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -98,7 +120,9 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_daughter_4.name runs into a table and breaks a vase. @data.characters.f3_uncle.name sees and is concerned.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -115,8 +139,12 @@
       "nested": false,
       "character_1_text": "Are you hurt??",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -137,8 +165,12 @@
       "nested": false,
       "character_1_text": "Thank you for realising your mistake and apologising. Do you know how you could have prevented that from happening?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -161,7 +193,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -179,14 +213,30 @@
       "nested": false,
       "section_1_title": "TALK",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -228,11 +278,21 @@
       "nested": false,
       "quiz_1_question": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

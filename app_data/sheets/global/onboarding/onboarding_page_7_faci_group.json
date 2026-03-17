@@ -9,7 +9,9 @@
       "name": "facilitator_message_faci_group_id",
       "value": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below to connect to your group.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -17,7 +19,9 @@
       "name": "question_user_facilitator_group",
       "value": "What is your facilitator's Group ID?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -25,7 +29,9 @@
       "name": "placeholder_user_facilitator_group",
       "value": "Enter your 4 digit Group ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -33,7 +39,9 @@
       "name": "facilitator_input_restriction",
       "value": "Please enter a valid 4-character ID.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

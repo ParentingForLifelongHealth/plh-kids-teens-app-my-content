@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
       "title": "One thing today",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -38,7 +40,9 @@
       "transcript_2": "Tutup mata anda.\n\nDengar bunyi pernafasan anda semasa anda menarik nafas dan menghembus nafas sebanyak lima kali.\n\nSatu..., dua..., tiga..., empat, lima...\n\nApakah yang anda rasakan sekarang?\n\nBila anda sudah bersedia, buka semula mata anda. Dengan melakukan aktiviti ini, anda mampu mengawal emosi dan perasaan anda!",
       "title": "In and out",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -60,7 +64,9 @@
       "transcript_2": "Cubalah untuk ambil masa untuk merehatkan tubuh badan anda setiap hari.\n\nBerikut ialah satu aktiviti untuk merehatkan tubuh badan anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh badan anda. Adakah ada bahagian yang terasa tegang? Kebas? Atau sakit?\nFokus pada bahagian itu seketika. Tarik nafas dan hembus nafas perlahan sambil menggerakkan sedikit tubuh badan anda yang berasa tegang, kebas atau sakit secara perlahan-lahan. \nUlang dan tarik nafas beberapa kali.\n\nSatu.....Dua.....Tiga....\n\nBuka mata anda perlahan-lahan. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
       "title": "Body scan",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

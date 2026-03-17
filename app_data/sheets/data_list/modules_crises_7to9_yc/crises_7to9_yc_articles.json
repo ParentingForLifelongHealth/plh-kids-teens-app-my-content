@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "It’s important to be prepared and know how to respond when our children are in crisis.❗",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,12 +35,24 @@
       "nested": false,
       "text_1_facilitator": "When my children are upset, I sometimes feel like I shouldn’t be near them.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -72,8 +88,12 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f2_daughter_8.name is in trouble. Let’s see how her grandmother, @data.characters.f2_grandmother.name responds:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -94,8 +114,12 @@
       "nested": false,
       "character_1_text": "It’s my Uncle, he… he… he touched me.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -116,8 +140,12 @@
       "nested": false,
       "character_1_text": "It’s true, he… he… made me very uncomfortable… he touched my body and told me I’d be in trouble if I told anybody! I didn’t want to do anything with him, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -138,8 +166,12 @@
       "nested": false,
       "character_1_text": "Yesterday, when you went to see your friend, he just came here and that’s when it happened.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -159,7 +191,9 @@
       "nested": false,
       "character_1_text": "Yes… Okay… where will we go?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -175,7 +209,9 @@
       "nested": false,
       "character_1_text": "Let us go to the clinic. And @data.characters.f2_daughter_8.name remember this is not your fault. I love you and will always be here with you. We will get through this.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -194,7 +230,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -212,14 +250,30 @@
       "nested": false,
       "section_1_title": "BREATHE: Take a pause",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -261,11 +315,21 @@
       "nested": false,
       "quiz_1_question": "Home activity! ⭐ \n\nFind a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡\n\nDo you have time to do this today? ⏰",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

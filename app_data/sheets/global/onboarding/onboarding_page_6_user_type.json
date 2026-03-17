@@ -9,7 +9,9 @@
       "name": "facilitator_message_user_type",
       "value": "**Almost done!**\n\nThe last questions help us set up the App for you.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -17,7 +19,9 @@
       "name": "question_user_type",
       "value": "What is your role?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -25,7 +29,9 @@
       "name": "placeholder_user_type",
       "value": "Select role",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -33,7 +39,9 @@
       "name": "question_content_package",
       "value": "How did you hear about this app?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -41,7 +49,9 @@
       "name": "placeholder_content_package",
       "value": "Select one",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

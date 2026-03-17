@@ -460,7 +460,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 51 |
 | images/icons/smile_eyes_up.svg | 1 | 98 |
 | images/icons/star_filled_blue.png | 5.1 | 92 |
-| images/icons/star_outline_blue.svg | 1 | 1 |
+| images/icons/star_outline_blue.svg | 1 | 50 |
 | images/icons/thought_bubble.svg | 2.1 | 49 |
 | images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |

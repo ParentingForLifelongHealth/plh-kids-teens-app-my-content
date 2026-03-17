@@ -8,7 +8,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Remember that YOU matter! Let’s check in with our emotions first.",
+      "text_1": "Ingat bahawa diri ANDA penting! Mari kita periksa perasaan kita dahulu.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -21,37 +21,37 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
+          "eng": "Ingat bahawa diri ANDA penting! Mari kita periksa perasaan kita dahulu."
         },
         "quiz_1_feedback_1": {
-          "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
+          "eng": "Tahniah kerana perasan perasaan yang positif. Seronok bila dengar anda rasa baik hari ini!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
+          "eng": "Tahniah kerana perasan bahawa anda tidak berasa begitu baik. Jaga diri dan berbuat baiklah pada diri sendiri, anda layak untuk itu."
         },
         "quiz_1_feedback_3": {
-          "eng": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
+          "eng": "Tahniah kerana perasan perasaan yang mencabar itu. Kadang-kadang, tak apa untuk rasa tak okey. Ingat, @global.app_name sentiasa ada untuk menyokong anda."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
-      "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
-      "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
-      "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Tahniah kerana perasan perasaan yang positif. Seronok bila dengar anda rasa baik hari ini!",
+      "quiz_1_feedback_2": "Tahniah kerana perasan bahawa anda tidak berasa begitu baik. Jaga diri dan berbuat baiklah pada diri sendiri, anda layak untuk itu.",
+      "quiz_1_feedback_3": "Tahniah kerana perasan perasaan yang mencabar itu. Kadang-kadang, tak apa untuk rasa tak okey. Ingat, @global.app_name sentiasa ada untuk menyokong anda.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "category_id": "check_in",
       "nested": false,
       "completed": false
@@ -70,8 +70,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s skill is about creating family rules and guidelines with your child.⏰⭐",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Having rules in the family can help our children stay safe from danger, both at home and in the community.🌷\n\nInvolving your child in making these rules will make it more likely for them to follow. ⭐",
       "completed": false
@@ -115,17 +119,39 @@
       },
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "⭐ That’s correct! \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule.",
       "quiz_1_question": "True or false: Family rules should be set by the parents because our children are too young to decide for themselves.",
@@ -158,9 +184,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_son_5.name is spending too much time watching TV before his homework is finished. Let’s see how his mother, @data.characters.f1_mother.name, helps him create a family rule about this:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/create_family_rules_yc_1.svg",
       "character_1_id": "f1_mother",
@@ -186,8 +218,12 @@
       "character_2_id": "f1_son_5",
       "character_1_text": "I know it’s hard, but what do you think would be a fair rule?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Ummm… maybe I can watch TV as much as I want, but only after I do my homework.",
       "completed": false
@@ -209,8 +245,12 @@
       "character_2_id": "f1_son_5",
       "character_1_text": "I like that idea, but let’s limit it to 1 hour per day. How does that sound?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Only one hour? That’s not much. Fine…",
       "completed": false
@@ -232,8 +272,12 @@
       "character_2_id": "f1_son_5",
       "character_1_text": "Thank you for doing your homework before watching TV, @data.characters.f1_son_5.name. Your marks have improved, too! I am proud of you! We can increase your time to an hour and a half each day… as long as you still do your homework first!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Really?? Thank you, Ibu!!",
       "completed": false
@@ -249,7 +293,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four easy tips to help you make family rules with your child:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=SZ0YjLm-ka0",
@@ -294,14 +340,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "BE A TEAM",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "📝 Create rules with your child. You can write these down or use pictures when needed to help your Child understand.\n⏸ Make one rule at a time.\n🔑 Talk about why the rule is important.\n👂 Listen to what your child thinks too.",
       "section_2_title": "KEEP IT REAL",
@@ -333,11 +395,21 @@
       },
       "quiz_1_feedback_1": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂",
       "quiz_1_question": "For today’s home activity, can you create at least one family rule with your child? 📝",

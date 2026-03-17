@@ -9,7 +9,9 @@
       "name": "facilitator_message_user_family",
       "value": "**Thank you @fields.user_name.**\n \nCan you tell us a bit about your family? This helps us share the right tips for you.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -17,7 +19,9 @@
       "name": "question_user_relationship",
       "value": "What is your relationship status?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -25,7 +29,9 @@
       "name": "placeholder_user_relationship",
       "value": "Select relationship status",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -33,7 +39,9 @@
       "name": "question_user_ethnicity",
       "value": "What is your ethnicity?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -41,7 +49,9 @@
       "name": "placeholder_user_ethnicity",
       "value": "Select ethnicity",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -49,7 +59,9 @@
       "name": "question_household_children",
       "value": "How many children do you care for in your home?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -57,7 +69,9 @@
       "name": "placeholder_household_children",
       "value": "Enter number of children",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -65,7 +79,9 @@
       "name": "household_children_input_restriction",
       "value": "Please enter a number between 1 and 20.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

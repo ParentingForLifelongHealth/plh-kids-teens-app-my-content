@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Welcome back! 📖 Today’s skill is about helping your child learn skills to prepare them for reading when they are older. ⭐",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,12 +35,24 @@
       "nested": false,
       "text_1_facilitator": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you:",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -72,8 +88,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s watch @data.characters.f1_father.name read with his daughter, @data.characters.f1_daughter_2.name. Notice how he asks the child lots of questions and describes things.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -96,10 +116,18 @@
       "nested": false,
       "character_1_text": "Wow, what is happening here? What is the tiger holding?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {},
-        "character_4_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        },
+        "character_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -129,9 +157,15 @@
       "nested": false,
       "character_1_text": "Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -156,8 +190,12 @@
       "nested": false,
       "character_1_text": "Do you remember when we attended your cousin’s birthday? What colour balloons did he have?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -180,7 +218,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -199,16 +239,36 @@
       "nested": false,
       "section_1_title": "SHARE BOOKS",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -258,11 +318,21 @@
       "nested": false,
       "quiz_1_question": "Home activity! Do you have time to read with your child today? ⭐",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

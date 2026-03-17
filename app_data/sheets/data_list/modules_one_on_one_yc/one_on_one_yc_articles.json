@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s skill is about spending one-on-one time with your child 😃",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,12 +35,24 @@
       "nested": false,
       "text_1_facilitator": "Today, you will learn how one-on-one time works. Let’s begin with a question for our learning.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -73,9 +89,15 @@
       "nested": false,
       "text_1_facilitator": "Throughout this programme, you will also learn through some stories.\n\nHere is our first one: @data.characters.f1_daughter_6.name and her mother, @data.characters.f1_mother.name, are playing dress up during one-on-one time. Let’s see how they have fun together.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -99,7 +121,9 @@
       "nested": false,
       "character_1_text": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -117,9 +141,15 @@
       "nested": false,
       "character_1_text": "Ibu, it’s for you.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -143,7 +173,9 @@
       "nested": false,
       "character_1_text": "What a big girl you are, @data.characters.f1_daughter_6.name to get dressed by yourself!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -162,7 +194,9 @@
       "nested": false,
       "text_1_facilitator": "I will also provide you with tips that you can use anytime and anywhere!\n\n3️⃣ Here are three tips to remember when spending one-on-one time with your child: DAY, PLAY, and STAY.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -180,12 +214,24 @@
       "nested": false,
       "section_1_title": "DAY",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -219,14 +265,28 @@
       "nested": false,
       "text_1_facilitator": "At the end of each skill, I will have a home activity for you that you can try in your own time.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
         "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

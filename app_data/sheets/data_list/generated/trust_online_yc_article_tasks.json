@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda.\n\nLuangkan sedikit masa untuk rasa lantai di bawah tapak kaki anda.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.\nTumpukan perhatian pada nafas anda.\nTarik dan hembus nafas perlahan-lahan.\n\nBila anda bersedia, buka mata anda.",
       "title": "Ground & gratitude",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_6",
       "_translatedFields": {
         "text_1": {
-          "eng": "Caring for yourself is so essential. When you know how you feel, you can see what you need."
+          "eng": "Menjaga diri sendiri itu sangat penting. Bila anda tahu apa yang anda rasa, lebih mudah untuk tahu apa yang anda perlukan."
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy things are going well. Keep up the good work."
+          "eng": "Hebat, saya gembira semuanya berjalan dengan baik. Teruskan usaha baik anda."
         },
         "quiz_1_feedback_2": {
-          "eng": "We all have better and worse days. The fact that you are here shows courage and commitment!"
+          "eng": "Kita semua ada hari yang baik dan hari yang kurang baik. Kehadiran anda di sini membuktikan keberanian dan komitmen anda!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Adalah normal untuk berasa susah kadang‑kadang. Ingat, anda tidak bersendirian."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Caring for yourself is so essential. When you know how you feel, you can see what you need.",
+      "text_1": "Menjaga diri sendiri itu sangat penting. Bila anda tahu apa yang anda rasa, lebih mudah untuk tahu apa yang anda perlukan.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy things are going well. Keep up the good work.",
-      "quiz_1_feedback_2": "We all have better and worse days. The fact that you are here shows courage and commitment!",
-      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat, saya gembira semuanya berjalan dengan baik. Teruskan usaha baik anda.",
+      "quiz_1_feedback_2": "Kita semua ada hari yang baik dan hari yang kurang baik. Kehadiran anda di sini membuktikan keberanian dan komitmen anda!",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Adalah normal untuk berasa susah kadang‑kadang. Ingat, anda tidak bersendirian.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Today, you will continue learning about how to keep your child safe online. 📱",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "🌐 Knowing so will help you guide them to be confident, safe and responsible as they take part in the digital world.",
       "completed": false
@@ -156,22 +162,54 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect.\n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_3_question": {
+          "my_ms": true
+        },
+        "quiz_3_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_3_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_2": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉 That’s correct. \n\n📱 Even in an app where images are temporary, your friend can capture their screen and save your image. \n\n🚩 Pictures are always stored online and can be accessed by hackers. \n\n❗ What goes online, stays online!",
       "quiz_1_question": "True or False: If I send a picture to a friend, it will only be visible to them.",
@@ -202,7 +240,9 @@
       "nested": false,
       "text_1_facilitator": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MZ6IU3GxCbw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jZYSdBIyi6o",
@@ -240,12 +280,24 @@
       "section_4_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "BUILD HABITS to set up safe online habits",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_4_title": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        }
       },
       "section_1_text": "❌📱 Plan phone-free times in your house, like during meals, homework, or in bed.\n⭐ Only let your child chat online with people they already know. They should never share personal information in a chat room or with strangers.\n👀 Check that web addresses begin with https://. Websites that begin with http:// may not be secure.\n📝 For older children, help them create strong passwords for their accounts. They should be long, contain both upper and lower case letters, numbers and symbols, and should not include obvious personal information. \n❗ Tell your child not to click on pop-ups that ask them to download or pay for anything.",
       "section_2_title": "BUILD TRUST",
@@ -277,11 +329,21 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
       "quiz_1_question": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔",

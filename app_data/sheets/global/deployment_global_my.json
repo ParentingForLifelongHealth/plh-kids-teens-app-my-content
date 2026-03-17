@@ -10,7 +10,9 @@
       "name": "app_name",
       "value": "Naungan Kasih",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -18,7 +20,9 @@
       "name": "app_name_full",
       "value": "Naungan Kasih",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -75,7 +79,9 @@
       "name": "deployment_terms_text",
       "value": "5 December 2024",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -100,7 +106,9 @@
       "name": "combo_box_placeholder",
       "value": "Tap and choose",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -234,7 +242,9 @@
       "name": "all_unlock_course_title",
       "value": "Explore Courses",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -262,7 +272,9 @@
       "name": "sub_items_name",
       "value": "skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -270,7 +282,9 @@
       "name": "course_action_text",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -278,7 +292,9 @@
       "name": "course_badge_text",
       "value": "Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -286,7 +302,9 @@
       "name": "review_action_text",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -294,7 +312,9 @@
       "name": "review_badge_text",
       "value": "Review",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

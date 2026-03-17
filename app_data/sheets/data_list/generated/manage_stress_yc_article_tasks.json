@@ -8,7 +8,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel helps you care for yourself well. You deserve it.",
+      "text_1": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -21,37 +21,37 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Recognising how you feel helps you care for yourself well. You deserve it."
+          "eng": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy! Keep up the good work."
+          "eng": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda."
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
+          "eng": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda"
         },
         "quiz_1_feedback_3": {
-          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
+          "eng": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
-      "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
-      "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda.",
+      "quiz_1_feedback_2": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda",
+      "quiz_1_feedback_3": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "category_id": "check_in",
       "nested": false,
       "completed": false
@@ -70,8 +70,12 @@
       "nested": false,
       "text_1_facilitator": "Before you can care for your child, you must first care for yourself. 🌷\n\nToday’s skill is learning about why it is important to manage stress and how to do it. 💚",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Managing your stress is really important for your health and mental well-being. ⭐\n\nWhen you feel calmer, it is easier to connect with your child in a positive way. 🔑",
       "completed": false
@@ -87,7 +91,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three steps to help you manage your stress:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=zR_SAGGgjbw",
@@ -125,12 +131,24 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "REFLECT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "📝 Grab a pen and piece of paper. \n⏸ Take a moment to check in with yourself - how stressed are you right now? \n⭐ Write a number from 0 to 100 on how stressed you are. \n❓ How does stress feel for you? Do you feel tense? Do you have low energy? Do you have trouble sleeping or focusing? Write these down. \n🌱 Understanding how stress shows up in your body can help you better manage it.",
       "section_2_title": "IDENTIFY",
@@ -160,11 +178,21 @@
       },
       "quiz_1_feedback_1": "That’s great! ⭐ The happier and better you feel, the better parent you will be.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙",
       "quiz_1_question": "For today’s home activity, write down a list of activities that you can do for yourself that bring you joy. They can be something simple like going for a walk or chatting with a friend. 💚 \n\nCan you do it today?",

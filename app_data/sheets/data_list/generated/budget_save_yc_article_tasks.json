@@ -8,7 +8,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
+      "text_1": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -21,37 +21,37 @@
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
+          "eng": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "Amazing, life is the best when you're feeling good."
+          "eng": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik."
         },
         "quiz_1_feedback_2": {
-          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon."
+          "eng": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi."
         },
         "quiz_1_feedback_3": {
-          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
+          "eng": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
-      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
-      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
-      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik.",
+      "quiz_1_feedback_2": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi.",
+      "quiz_1_feedback_3": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "category_id": "check_in",
       "nested": false,
       "completed": false
@@ -70,8 +70,12 @@
       "nested": false,
       "text_1_facilitator": "Congratulations! You have reached the final step to family budgeting. 💰\n\nRemember, you have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n3️⃣ Step 3: making a monthly budget.\n\n4️⃣ Today, the final step is: make a saving plan!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "🌷 Making a saving plan can help you prepare for crises while also having funds for your child’s education and other things that you may need in the future. \n\n✨ Even a small amount each month can make a big difference over time.",
       "completed": false
@@ -100,12 +104,24 @@
       },
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "⭐ That’s correct! \n\nIt may seem hard 😔 but it’s good to save some money, even if it’s not much, for an emergency or big family expenditure in the future. You are a super parent! 💚",
       "quiz_1_question": "True or False: It’s OK to think about saving in the future if I don’t have enough now.",
@@ -130,8 +146,12 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/budget_savings_yc_1.svg",
       "character_1_id": "f3_mother",
@@ -151,7 +171,9 @@
       "character_1_id": "f3_mother",
       "character_1_text": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -168,7 +190,9 @@
       "character_1_id": "f3_mother",
       "character_1_text": "Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -185,7 +209,9 @@
       "character_1_id": "f3_mother",
       "character_1_text": "I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -200,7 +226,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=6qUlb4DADSw",
@@ -252,16 +280,36 @@
       "section_5_icon_asset": "images/icons/trophy_blue.png",
       "section_1_title": "WHY SAVE",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "Decide why you want to save money. These could include:\n😔 Preparing for emergencies\n🎁 Buying something nice for you or your child or do something fun as a family\n📖 Planning for future big expenses like improvements on your home or for your child’s education",
       "section_2_title": "HOW TO SAVE",
@@ -295,11 +343,21 @@
       },
       "quiz_1_feedback_1": "That’s great! Congratulations. 💚",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s OK. Try to do it this week. 💚",
       "quiz_1_question": "The final home activity of this course is to create your savings plan. ⭐ Do you have time to do it today?",

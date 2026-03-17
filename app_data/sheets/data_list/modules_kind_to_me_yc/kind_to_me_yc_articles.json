@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how self-kindness can help improve your relationship with your child. ☀️ \n\nImagine your friend is feeling bad about making a big mistake. 😣 How would you talk to them?",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,12 +35,24 @@
       "nested": false,
       "text_1_facilitator": "Sometimes we experience a lot of emotions and feelings, especially when caring for others. How should we manage them?",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -73,9 +89,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_mother.name is a single mother of young children. She often feels that between work, parenting, and managing the home, she does not have enough time for her children. She wants to spend more time with @data.characters.f3_son_7.name, her middle child.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -99,7 +121,9 @@
       "nested": false,
       "character_1_text": "(Thinking...)\n\n- I’m trying my best.\n- Trying to make ends meet and raise three children alone is very difficult.\n- Other parents find this hard too. I’m not alone.\n- This is not the last school performance. There will be other opportunities to show up for @data.characters.f3_son_7.name.\n- Things have been very difficult lately, and I need to take some time out to look after myself.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -116,8 +140,12 @@
       "nested": false,
       "character_1_text": "My @data.characters.f3_son_7.name, you practised so hard for this performance. I am sorry I could not get out of work. Can you give me my own performance after dinner? I want to see how brilliant you are!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -140,7 +168,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three steps to help you be kind to yourself: NOTICE, SAY IT’S OKAY, BE KIND.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -157,12 +187,24 @@
       "nested": false,
       "section_1_title": "NOTICE",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -196,11 +238,21 @@
       "nested": false,
       "quiz_1_question": "⏰ Take a moment to practise taking a pause today. \n🏅 The more you practise, the easier it will become. \nCan you do it today?",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

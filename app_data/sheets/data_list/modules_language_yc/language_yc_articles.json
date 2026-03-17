@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Welcome to your next course! ✨This course is about preparing your child for success in school by helping them learn. \n\nThese skills are a guide: use them as your child is ready for them. 💡\n\nThis first skill is about helping your child learn new words and improve their language skills! 👂",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,17 +35,39 @@
       "nested": false,
       "text_1_facilitator": "Here’s something to think about.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -97,8 +123,12 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_father.name is a dad committed to positive parenting. Let’s see how he approaches time with his son, @data.characters.f1_son_5.name:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -119,8 +149,12 @@
       "nested": false,
       "character_1_text": "Wow! You are building such a tall and strong wall with those blocks.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -141,8 +175,12 @@
       "nested": false,
       "character_1_text": "It will keep the cows safe!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -162,7 +200,9 @@
       "nested": false,
       "character_1_text": "Happy to help, @data.characters.f1_son_5.name. This house is going to keep our family warm and dry. You are such a good builder!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -181,7 +221,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -200,16 +242,36 @@
       "nested": false,
       "section_1_title": "EXPLAIN",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -259,11 +321,21 @@
       "nested": false,
       "quiz_1_question": "Here is today’s home activity! Try to use words and gestures to describe your activities when spending time together. Make sure you communicate in a way that your child can understand. Can you do it today? ⭐",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

@@ -16,7 +16,9 @@
       "transcript_2": "Fikirkan apa yang biasa membuat anda marah. Bila ia berlaku? Bagaimana respon anda ketika anda marah?\n\nCuba cegah rasa marah sebelum ia bermula. Dapatkan tidur atau rehat apabila anda letih. \nMakan sesuatu apabila anda lapar. Minta sokongan seseorang apabila anda rasa bersendirian.",
       "title": "Prevent anger",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_11",
       "_translatedFields": {
         "text_1": {
-          "eng": "Taking a moment for YOU makes a big difference for everyone!"
+          "eng": "Meluangkan sedikit masa untuk DIRI ANDA SENDIRI memberi kesan besar kepada semua orang di sekeliling anda!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+          "eng": "Bagus kerana hari ini berjalan dengan baik. Apa satu perkara yang telah berjalan lancar hari ini? Jangan lupa puji diri anda untuk itu."
         },
         "quiz_1_feedback_2": {
-          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
+          "eng": "Setiap hari ada bahagian yang mudah dan bahagian yang sukar. Puji diri anda atas semua yang telah anda lakukan setakat ini. Anda memang hebat!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+          "eng": "Maaf dengar anda sedang melalui perasaan yang sukar hari ini. Tahniah kerana anda sedar perasaan itu dan cuba untuk bertenang serta berbuat baik pada diri sendiri. Anda sedang tunjukkan contoh yang baik kepada keluarga anda."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
+      "text_1": "Meluangkan sedikit masa untuk DIRI ANDA SENDIRI memberi kesan besar kepada semua orang di sekeliling anda!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
-      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
-      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus kerana hari ini berjalan dengan baik. Apa satu perkara yang telah berjalan lancar hari ini? Jangan lupa puji diri anda untuk itu.",
+      "quiz_1_feedback_2": "Setiap hari ada bahagian yang mudah dan bahagian yang sukar. Puji diri anda atas semua yang telah anda lakukan setakat ini. Anda memang hebat!",
+      "quiz_1_feedback_3": "Maaf dengar anda sedang melalui perasaan yang sukar hari ini. Tahniah kerana anda sedar perasaan itu dan cuba untuk bertenang serta berbuat baik pada diri sendiri. Anda sedang tunjukkan contoh yang baik kepada keluarga anda.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "Welcome back! 📖 Today’s skill is about helping your child learn skills to prepare them for reading when they are older. ⭐",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Reading together is the best way to help your child learn to read. 🔑\n\nIt helps them learn to read themselves and develop well. 🎉\n\nWhen they’re little, they learn new words, and it helps with attention and language! 💡",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
       "quiz_1_question": "True or False: Reading with your child means reading the words in the book aloud.",
@@ -154,8 +172,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s watch @data.characters.f1_father.name read with his daughter, @data.characters.f1_daughter_2.name. Notice how he asks the child lots of questions and describes things.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/reading_2to3_yc_1.svg",
       "character_1_id": "f1_father",
@@ -184,10 +206,18 @@
       "character_1_id": "f1_father",
       "character_1_text": "Wow, what is happening here? What is the tiger holding?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {},
-        "character_4_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        },
+        "character_4_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_daughter_2",
       "character_3_id": "f1_father",
@@ -216,9 +246,15 @@
       "character_1_id": "f1_father",
       "character_1_text": "Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_daughter_2",
       "character_3_id": "f1_father",
@@ -242,8 +278,12 @@
       "character_1_id": "f1_father",
       "character_1_text": "Do you remember when we attended your cousin’s birthday? What colour balloons did he have?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f1_daughter_2",
       "character_2_text": "Blue, pink, and yellow!",
@@ -261,7 +301,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=OQvMrEhBrPo",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jYLnBe-kqBk",
@@ -312,16 +354,36 @@
       "section_5_icon_asset": "images/icons/trophy_blue.png",
       "section_1_title": "SHARE BOOKS",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. Try to communicate in a way that your child can understand. \n⭐ Books with words help to understand letters and sounds!\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”",
       "section_2_title": "MAKE ROUTINES",
@@ -357,11 +419,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Excellent! Reading with your child is a great way to help them learn!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s okay! Remember to try to find a little bit of time every day because it will help your child learn.",
       "quiz_1_question": "Home activity! Do you have time to read with your child today? ⭐",

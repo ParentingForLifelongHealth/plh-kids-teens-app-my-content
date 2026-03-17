@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "It is important to know how to keep your children safe in your community. 🚩",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,29 +35,75 @@
       "nested": false,
       "text_1_facilitator": "Let’s test your knowledge about children’s safety.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {},
-        "quiz_1_option_6_text": {},
-        "quiz_1_feedback_6": {},
-        "quiz_1_option_7_text": {},
-        "quiz_1_feedback_7": {},
-        "quiz_1_option_8_text": {},
-        "quiz_1_feedback_8": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_option_4_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_4": {
+          "my_ms": true
+        },
+        "quiz_1_option_5_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_5": {
+          "my_ms": true
+        },
+        "quiz_1_option_6_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_6": {
+          "my_ms": true
+        },
+        "quiz_1_option_7_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_7": {
+          "my_ms": true
+        },
+        "quiz_1_option_8_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_8": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -157,8 +207,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s check in on @data.characters.f3_daughter_4.name and her uncle, @data.characters.f3_uncle.name who are playing together outside:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -178,7 +232,9 @@
       "nested": false,
       "character_1_text": "Oh no! My ball!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -195,8 +251,12 @@
       "nested": false,
       "character_1_text": "Remember what we talked about, @data.characters.f3_daughter_4.name. What should we do if the ball goes on the street?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -216,7 +276,9 @@
       "nested": false,
       "character_1_text": "That’s right! I am so proud of you for remembering. Roads are for cars and bikes, and it is safer for an adult to get your ball for you.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -235,7 +297,9 @@
       "nested": false,
       "text_1_facilitator": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -253,14 +317,30 @@
       "nested": false,
       "section_1_title": "DRAW",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -302,11 +382,21 @@
       "nested": false,
       "quiz_1_question": "Here is today’s home activity! ⭐\n \n📝 Have a conversation with your child about which places are safe or unsafe for children in your community.\n\nDo you have time to do it today? ⏰",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

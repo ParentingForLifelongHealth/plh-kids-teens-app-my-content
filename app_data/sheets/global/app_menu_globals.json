@@ -47,7 +47,9 @@
       "name": "about_this_app",
       "value": "About @global.app_name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -55,7 +57,9 @@
       "name": "language",
       "value": "Language",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -75,7 +79,9 @@
       "name": "user_id_text",
       "value": "User ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -83,7 +89,9 @@
       "name": "skip",
       "value": "Skip",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -91,7 +99,9 @@
       "name": "continue",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

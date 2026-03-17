@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "😃😣😔This skill is about talking with your child about their feelings.",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,22 +35,54 @@
       "nested": false,
       "text_1_facilitator": "It is normal to experience a lot of different feelings.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_3_question": {
+          "my_ms": true
+        },
+        "quiz_3_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_3_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -122,8 +158,12 @@
       "nested": false,
       "text_1_facilitator": "Let’s see how @data.characters.f2_grandfather.name handles his granddaughter, @data.characters.f2_daughter_8.name, when she feels jealous.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -143,7 +183,9 @@
       "nested": false,
       "character_1_text": "I see that you are upset, @data.characters.f2_daughter_8.name. It is hard when your friends have things that we can’t have.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -160,8 +202,12 @@
       "nested": false,
       "character_1_text": "What do you mean, Thaatha? I really want a huge TV.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -181,7 +227,9 @@
       "nested": false,
       "character_1_text": "Okay, Thaatha…",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -200,7 +248,9 @@
       "nested": false,
       "text_1_facilitator": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -219,16 +269,36 @@
       "nested": false,
       "section_1_title": "LEARN",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {},
-        "section_5_title": {},
-        "section_5_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        },
+        "section_5_title": {
+          "my_ms": true
+        },
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -278,11 +348,21 @@
       "nested": false,
       "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

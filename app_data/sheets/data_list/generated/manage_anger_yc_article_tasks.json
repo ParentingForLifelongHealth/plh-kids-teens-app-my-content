@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
       "title": "One thing today",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,28 +34,28 @@
       "id": "check_in_11",
       "_translatedFields": {
         "text_1": {
-          "eng": "Taking a moment for YOU makes a big difference for everyone!"
+          "eng": "Meluangkan sedikit masa untuk DIRI ANDA SENDIRI memberi kesan besar kepada semua orang di sekeliling anda!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+          "eng": "Bagus kerana hari ini berjalan dengan baik. Apa satu perkara yang telah berjalan lancar hari ini? Jangan lupa puji diri anda untuk itu."
         },
         "quiz_1_feedback_2": {
-          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
+          "eng": "Setiap hari ada bahagian yang mudah dan bahagian yang sukar. Puji diri anda atas semua yang telah anda lakukan setakat ini. Anda memang hebat!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+          "eng": "Maaf dengar anda sedang melalui perasaan yang sukar hari ini. Tahniah kerana anda sedar perasaan itu dan cuba untuk bertenang serta berbuat baik pada diri sendiri. Anda sedang tunjukkan contoh yang baik kepada keluarga anda."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -61,7 +63,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
+      "text_1": "Meluangkan sedikit masa untuk DIRI ANDA SENDIRI memberi kesan besar kepada semua orang di sekeliling anda!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -72,13 +74,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
-      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
-      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus kerana hari ini berjalan dengan baik. Apa satu perkara yang telah berjalan lancar hari ini? Jangan lupa puji diri anda untuk itu.",
+      "quiz_1_feedback_2": "Setiap hari ada bahagian yang mudah dan bahagian yang sukar. Puji diri anda atas semua yang telah anda lakukan setakat ini. Anda memang hebat!",
+      "quiz_1_feedback_3": "Maaf dengar anda sedang melalui perasaan yang sukar hari ini. Tahniah kerana anda sedar perasaan itu dan cuba untuk bertenang serta berbuat baik pada diri sendiri. Anda sedang tunjukkan contoh yang baik kepada keluarga anda.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -95,8 +97,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s skill is about how you can keep control and manage your anger when dealing with stressful moments. 💚",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
       "completed": false
@@ -127,12 +133,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n💛 Misbehaviour can be difficult, but try to manage your own stress and control your own anger before doing anything. \n\n🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.\n\n➡️ You can also redirect or ignore negative behaviour without ignoring your child when they are making you angry.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🎉 That’s correct! \n\n💛 Misbehaviour can be difficult, but try to manage your own stress and control your own anger before doing anything. \n\n🌱 Taking deep breaths will help. Being angry may cause you to say or do things you will later regret.\n\n➡️ You can also redirect or ignore negative behaviour without ignoring your child when they are making you angry.",
       "quiz_1_question": "True or False: When I am angry at my child, I should show that I am angry so that they stop misbehaving.",
@@ -158,9 +176,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_mother.name has her hands full and having two of her children fighting over a phone isn’t helping. Let’s see how she’s managing her anger:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/managing_anger_yc_1.svg",
       "character_1_id": "f1_son_5",
@@ -182,7 +206,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "(Thinking): Take a deep breath…",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -199,7 +225,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "@data.characters.f1_son_5.name and @data.characters.f1_daughter_6.name, come and help me prepare dinner. We are making your favourite dish!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -216,7 +244,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Thank you for helping me get these veggies clean for our dinner tonight!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -232,7 +262,9 @@
       "nested": false,
       "text_1_facilitator": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=PBYX7-ajR34",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=7rggnzwyaAk",
@@ -269,12 +301,24 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "TAKE A PAUSE",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🌷 Breathe in and out slowly 5 times before speaking or acting. \n☀️ Step away for 10 minutes to regain control of your emotions. A safe outdoor space is a good option!",
       "section_2_title": "ADDRESS THE SOURCE",
@@ -306,11 +350,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Be proud of yourself when you manage to control your anger!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, practise controlling any anger you feel tomorrow. You can practise this skill any time you start feeling angry. You are a super parent! 😃",
       "quiz_1_question": "Here’s a home activity! ⭐ If you start feeling angry today, breathe in and out slowly 5 times before you do anything and notice how you feel. Can you do this today? ⏰",

@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -35,10 +39,18 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f3_son_7.name’s mother, @data.characters.f3_mother.name is concerned that @data.characters.f3_son_7.name is sleeping late everyday because of unfinished homework. Let’s see how they try to solve the problem together:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -69,10 +81,18 @@
       "nested": false,
       "character_1_text": "How can we make sure you get all your work done and still get to bed on time?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {},
-        "character_4_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        },
+        "character_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -102,9 +122,15 @@
       "nested": false,
       "character_1_text": "@data.characters.f3_son_7.name, have you started your homework yet?",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -130,7 +156,9 @@
       "nested": false,
       "character_1_text": "Look, Mummy, I'm ready for bed so early tonight!",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {
@@ -149,7 +177,9 @@
       "nested": false,
       "text_1_facilitator": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -167,14 +197,30 @@
       "nested": false,
       "section_1_title": "KNOW IT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -216,11 +262,21 @@
       "nested": false,
       "quiz_1_question": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

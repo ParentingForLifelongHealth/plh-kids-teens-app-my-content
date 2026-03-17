@@ -16,7 +16,9 @@
       "transcript_2": "Ambil masa untuk berdiri dan pejamkan mata anda.\n\nAmbil sedikit masa untuk benar‑benar rasa kehadiran tubuh anda di tempat anda berada atau berdiri. \nSama ada anda sedang berada di atas lantai atau tanah. \nRasakan bahagian tubuh mana yang menyentuh lantai? Bahagian mana yang tidak?\nRasakan di mana yang terasa hangat dan di mana terasa sejuk.\nRasakan lantai di bawah anda menyokong tubuh anda. Biarkan tubuh anda tenggelam ke dalam sokongan itu seperti melepaskan suatu beban yang besar.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.\n\nCuba lakukan ini semasa anda sendirian atau ketika melakukan aktiviti rutin seperti membasuh pinggan. Ia benar-benar boleh membantu.",
       "title": "Feel the ground",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_10",
       "_translatedFields": {
         "text_1": {
-          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
+          "eng": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "So good to hear you are feeling well today. You are incredible!"
+          "eng": "Seronok dengar anda rasa baik hari ini. Anda memang luar biasa!"
         },
         "quiz_1_feedback_2": {
-          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
+          "eng": "Kita semua ada hari yang kita sendiri pun tak pasti. Tak apa. Yang penting, anda tetap hadir di sini."
         },
         "quiz_1_feedback_3": {
-          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
+          "eng": "Menjadi ibu bapa memang mencabar. Tetapi anda tetap di sini, dan itu menunjukkan anda mahu terus memperbaiki keadaan. Itu pun dah pencapaian besar!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
+      "text_1": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
-      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
-      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Seronok dengar anda rasa baik hari ini. Anda memang luar biasa!",
+      "quiz_1_feedback_2": "Kita semua ada hari yang kita sendiri pun tak pasti. Tak apa. Yang penting, anda tetap hadir di sini.",
+      "quiz_1_feedback_3": "Menjadi ibu bapa memang mencabar. Tetapi anda tetap di sini, dan itu menunjukkan anda mahu terus memperbaiki keadaan. Itu pun dah pencapaian besar!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "This is part 2 of the skill “Help your child get ready for maths.” ✨\n\nToday’s focus is on some more challenging activities that you can do with your child once they are ready 💡",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "Learning about comparing, adding, and subtracting will help your child understand more about maths. This will continue to help them learn number skills. 🔟/🔟 ⭐",
       "completed": false
@@ -120,10 +126,18 @@
       "nested": false,
       "text_1_facilitator": "Let’s see how @data.characters.f1_mother.name is practising numbers with her son, @data.characters.f1_son_5.name in the kitchen:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {},
-        "character_3_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        },
+        "character_3_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/maths2_4to6_yc_1.svg",
       "character_1_id": "f1_mother",
@@ -151,8 +165,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "I have… Five!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "That’s right! One, two, three, four… five! Five potatoes!",
       "completed": false
@@ -170,7 +188,9 @@
       "character_1_id": "f1_mother",
       "character_1_text": "Can you give me two potatoes?\nThat’s right! One… two…! \nHow many potatoes are left?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -191,8 +211,12 @@
       "character_2_id": "f1_son_5",
       "character_1_text": "Is it difficult? Don’t worry, let’s count together! Let’s see… we had five, and you gave me two, now there are one… two… three remaining! There are three potatoes left!",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Three potatoes left!",
       "completed": false
@@ -209,7 +233,9 @@
       "nested": false,
       "text_1_facilitator": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRyApuhMw9k",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=58OPqFzIv2E",
@@ -253,14 +279,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "SORTING AND ORGANISING",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🌱 Ask your child to help sort things into groups, such as putting all the leaves together when cooking. \n😃 Ask your child to find 5 of something, like sticks, and then to order them from smallest to biggest. ⬆️ Then order them a different way, like from lightest to darkest! \n✨ Help your child think about groups! Say: “A potato is a round red vegetable. Can you think of something else that is red like a potato?” Then: “Can you think of something that is also round but bigger than a potato?” ⚽",
       "section_2_title": "ADDING AND TAKING AWAY",
@@ -294,11 +336,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 These activities will help your child learn!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, try to do some adding and taking away activities with your child tomorrow.",
       "quiz_1_question": "For today’s home activity, can you do an activity with adding and taking away with your child? You can do that while cooking with them again, or with other objects - like playing outside with stones!",

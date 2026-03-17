@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "Today, you will continue learning about how to keep your child safe online. 📱",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,22 +35,54 @@
       "nested": false,
       "text_1_facilitator": "💡 Often, our children understand more about life online than we do, but that does not mean they know how to keep safe. \n\n⭐ Let’s build on what you’ve been learning with a few questions.",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_2_question": {},
-        "quiz_2_option_1_text": {},
-        "quiz_2_feedback_1": {},
-        "quiz_2_option_2_text": {},
-        "quiz_2_feedback_2": {},
-        "quiz_3_question": {},
-        "quiz_3_option_1_text": {},
-        "quiz_3_feedback_1": {},
-        "quiz_3_option_2_text": {},
-        "quiz_3_feedback_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_2_question": {
+          "my_ms": true
+        },
+        "quiz_2_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_2_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_3_question": {
+          "my_ms": true
+        },
+        "quiz_3_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_3_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_3_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -125,7 +161,9 @@
       "nested": false,
       "text_1_facilitator": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -143,12 +181,24 @@
       "nested": false,
       "section_1_title": "BUILD HABITS to set up safe online habits",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_4_title": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -182,11 +232,21 @@
       "nested": false,
       "quiz_1_question": "Here are some steps you can take to keep your child safe online today:\n\n 📝 Have a conversation with your child about how they can use the internet and devices in a safe way. \n\n🔴 Talk about which sites or apps might be unsafe. Why?\n\n😃 Praise your child for how good they are at using the web!\n\nCan you and your child complete this task today? 🔔",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

@@ -16,7 +16,9 @@
       "transcript_2": "Pernah tak anda rasa sesuatu perasaan yang begitu kuat sampai anda mahu lari daripadanya?\n\nDaripada cuba menjauhkan diri daripada perasaan itu, mari kita mendekatinya sekejap.\nTak apa, saya faham bahawa tak mudah untuk mendekati perasaan itu. Sekarang ini, pejamkan mata jika anda selesa. Tarik nafas dengan dalam dan hembuskan nafas anda perlahan-lahan.\n\nTidakkah anda pernah tertanya-tanya tentang perasaan itu? Di mana anda rasa perasaan itu di tubuh badan anda? Adakah ia terasa panas atau sejuk? Keras atau lembut? Rasa lega atau rasa tegang?\n\nTanya diri anda beberapa soalan ini:\nApa yang perasaan ini cuba beritahu diri anda saya? \nApa yang ia perlukan? \nBagaimana saya boleh bersikap baik dengan diri sendiri saat ini?\n\nBila anda bersedia, buka mata anda.",
       "title": "Feel your feelings",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_12",
       "_translatedFields": {
         "text_1": {
-          "eng": "Looking after yourself well starts with noticing how you feel."
+          "eng": "Menjaga diri sendiri dengan baik bermula dengan menyedari apa yang anda rasa."
         },
         "quiz_1_feedback_1": {
-          "eng": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot."
+          "eng": "Bagus sangat! Tahniah kerana ambil masa untuk diri sendiri dan keluarga. Banyak perkara yang telah anda capai."
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help."
+          "eng": "Maaf kerana hari anda tidak begitu baik. Tahniah kerana tetap cuba memahami dan mengurus semuanya. @global.app_name ada di sini untuk membantu."
         },
         "quiz_1_feedback_3": {
-          "eng": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!"
+          "eng": "Menjadi ibu bapa memang mencabar. Tarik nafas dalam‑dalam dan hargai semua yang telah anda lakukan untuk keluarga anda. Anda layak dipuji."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Looking after yourself well starts with noticing how you feel.",
+      "text_1": "Menjaga diri sendiri dengan baik bermula dengan menyedari apa yang anda rasa.",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
-      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
-      "quiz_1_feedback_3": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus sangat! Tahniah kerana ambil masa untuk diri sendiri dan keluarga. Banyak perkara yang telah anda capai.",
+      "quiz_1_feedback_2": "Maaf kerana hari anda tidak begitu baik. Tahniah kerana tetap cuba memahami dan mengurus semuanya. @global.app_name ada di sini untuk membantu.",
+      "quiz_1_feedback_3": "Menjadi ibu bapa memang mencabar. Tarik nafas dalam‑dalam dan hargai semua yang telah anda lakukan untuk keluarga anda. Anda layak dipuji.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about introducing your child to numbers and maths. 1️⃣2️⃣3️⃣",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "⭐ Learning about numbers, shapes, and groups will help your child understand basic maths. \n\n🎓 This will give them a great head start for school!",
       "completed": false
@@ -144,18 +150,42 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {},
-        "text_1_facilitator": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_option_4_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_4": {
+          "my_ms": true
+        },
+        "quiz_1_option_5_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_5": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
       "quiz_1_feedback_3": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
@@ -182,7 +212,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=6yhfDw3ODAE",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=TYBsMacMjpw",
@@ -219,12 +251,24 @@
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_1_title": "COUNT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🔴 Counting is a skill your child can start to learn early. 1️⃣2️⃣3️⃣\n🚗 Ask your child to count things around you: cars, people, houses, how many steps between one place and another, and their fingers and toes! 👋\n🍅 Ask your child to count things in daily activities: like potatoes while cooking, or socks while sorting out clothes.\n🎵 Sing songs that include numbers with your child.\n🎨 Encourage your child to draw things, or ask them how many things there are in the pictures.",
       "section_2_title": "LOOK FOR NUMBERS",
@@ -256,11 +300,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Great! 💙 Counting with your child will introduce them to numbers!",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!",
       "quiz_1_question": "For today’s home activity ⭐, can you do some counting with your child today?",

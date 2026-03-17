@@ -16,7 +16,9 @@
       "transcript_2": "Pernah tak anda rasa sesuatu perasaan yang begitu kuat sampai anda mahu lari daripadanya?\n\nDaripada cuba menjauhkan diri daripada perasaan itu, mari kita mendekatinya sekejap.\nTak apa, saya faham bahawa tak mudah untuk mendekati perasaan itu. Sekarang ini, pejamkan mata jika anda selesa. Tarik nafas dengan dalam dan hembuskan nafas anda perlahan-lahan.\n\nTidakkah anda pernah tertanya-tanya tentang perasaan itu? Di mana anda rasa perasaan itu di tubuh badan anda? Adakah ia terasa panas atau sejuk? Keras atau lembut? Rasa lega atau rasa tegang?\n\nTanya diri anda beberapa soalan ini:\nApa yang perasaan ini cuba beritahu diri anda saya? \nApa yang ia perlukan? \nBagaimana saya boleh bersikap baik dengan diri sendiri saat ini?\n\nBila anda bersedia, buka mata anda.",
       "title": "Feel your feelings",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -31,28 +33,28 @@
       "id": "check_in_4",
       "_translatedFields": {
         "text_1": {
-          "eng": "Recognising how you feel helps you care for yourself well. You deserve it."
+          "eng": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Wonderful, I am so happy! Keep up the good work."
+          "eng": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda."
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
+          "eng": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda"
         },
         "quiz_1_feedback_3": {
-          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
+          "eng": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!"
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -60,7 +62,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Recognising how you feel helps you care for yourself well. You deserve it.",
+      "text_1": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -71,13 +73,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
-      "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
-      "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda.",
+      "quiz_1_feedback_2": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda",
+      "quiz_1_feedback_3": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -94,8 +96,12 @@
       "nested": false,
       "text_1_facilitator": "It’s important to be prepared and know how to respond when our children are in crisis.❗",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "When children share something that is very hard or upsetting to them 😔😣, remember to stay calm, listen, and be open, so that they feel supported. 💛",
       "completed": false
@@ -126,12 +132,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ Incorrect.\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🌷 That’s right!\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask our child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
       "quiz_1_question": "True or False: When my child is upset, I should wait for them to come to me. I don’t want to upset them further by asking what is troubling them.",
@@ -154,8 +172,12 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f2_daughter_8.name is in trouble. Let’s see how her grandmother, @data.characters.f2_grandmother.name responds:",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/crises_7to9_yc_1.svg",
       "character_1_id": "f2_grandmother",
@@ -178,8 +200,12 @@
       "character_1_id": "f2_daughter_8",
       "character_1_text": "It’s my Uncle, he… he… he touched me.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f2_grandmother",
       "character_2_text": "(Thinking): Take a deep breath... What does my child need? She needs me to be calm and listen. Come and sit down next to me. Take your time, I’m listening.",
@@ -201,8 +227,12 @@
       "character_1_id": "f2_daughter_8",
       "character_1_text": "It’s true, he… he… made me very uncomfortable… he touched my body and told me I’d be in trouble if I told anybody! I didn’t want to do anything with him, and I even said NO, but he told me I would be in trouble.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f2_grandmother",
       "character_2_text": "You are so brave for sharing this with me. You are not in trouble. This is not your fault. Thank you for telling me.",
@@ -224,8 +254,12 @@
       "character_1_id": "f2_daughter_8",
       "character_1_text": "Yesterday, when you went to see your friend, he just came here and that’s when it happened.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_id": "f2_grandmother",
       "character_2_text": "It’s okay, I believe you, @data.characters.f2_daughter_8.name. You have done the right thing telling me. What’s happened is not OK, but I am here for you to help you and support you. We will need to talk to someone who will help keep you safe. Would that be okay, @data.characters.f2_daughter_8.name? I will be with you at all times.",
@@ -244,7 +278,9 @@
       "character_1_id": "f2_daughter_8",
       "character_1_text": "Yes… Okay… where will we go?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -261,7 +297,9 @@
       "character_1_id": "f2_grandmother",
       "character_1_text": "Let us go to the clinic. And @data.characters.f2_daughter_8.name remember this is not your fault. I love you and will always be here with you. We will get through this.",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "completed": false
     },
@@ -277,7 +315,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=bWXVD9qeKbY",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=eme_hm_V_lY",
@@ -321,14 +361,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "BREATHE: Take a pause",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "🌱 Take a deep breath so you can respond calmly.\n💛 Ask yourself, “What does my child need right now?”",
       "section_2_title": "LISTEN: Ask your child what is going on",
@@ -362,11 +418,21 @@
       "nested": false,
       "quiz_1_feedback_1": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place.",
       "quiz_1_question": "Home activity! ⭐ \n\nFind a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡\n\nDo you have time to do this today? ⏰",

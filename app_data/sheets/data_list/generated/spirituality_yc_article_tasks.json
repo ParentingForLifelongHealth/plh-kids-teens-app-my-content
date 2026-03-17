@@ -16,7 +16,9 @@
       "transcript_2": "Tutup mata anda.\n\nDengar bunyi pernafasan anda semasa anda menarik nafas dan menghembus nafas sebanyak lima kali.\n\nSatu..., dua..., tiga..., empat, lima...\n\nApakah yang anda rasakan sekarang?\n\nBila anda sudah bersedia, buka semula mata anda. Dengan melakukan aktiviti ini, anda mampu mengawal emosi dan perasaan anda!",
       "title": "In and out",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -32,28 +34,28 @@
       "id": "check_in_5",
       "_translatedFields": {
         "text_1": {
-          "eng": "Looking after yourself matters. And how you feel matters too!"
+          "eng": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+          "eng": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
+          "eng": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian."
         },
         "quiz_1_feedback_3": {
-          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
+          "eng": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda."
         },
         "quiz_1_question": {
-          "eng": "How are you feeling today?"
+          "eng": "Macam mana perasaan anda hari ini?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Happy"
+          "eng": "Gembira"
         },
         "quiz_1_option_2_text": {
-          "eng": "Okay"
+          "eng": "Biasa-biasa"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sad"
+          "eng": "Sedih"
         }
       },
       "category_id": "check_in",
@@ -61,7 +63,7 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Looking after yourself matters. And how you feel matters too!",
+      "text_1": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!",
       "_translations": {
         "text_1": {},
         "quiz_1_feedback_1": {},
@@ -72,13 +74,13 @@
         "quiz_1_option_2_text": {},
         "quiz_1_option_3_text": {}
       },
-      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
-      "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
-      "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
-      "quiz_1_question": "How are you feeling today?",
-      "quiz_1_option_1_text": "Happy",
-      "quiz_1_option_2_text": "Okay",
-      "quiz_1_option_3_text": "Sad",
+      "quiz_1_feedback_1": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!",
+      "quiz_1_feedback_2": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian.",
+      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda.",
+      "quiz_1_question": "Macam mana perasaan anda hari ini?",
+      "quiz_1_option_1_text": "Gembira",
+      "quiz_1_option_2_text": "Biasa-biasa",
+      "quiz_1_option_3_text": "Sedih",
       "completed": false
     },
     {
@@ -95,8 +97,12 @@
       "nested": false,
       "text_1_facilitator": "Today’s skill is about how your parenting values can connect to your cultural, religious, and spiritual values. ✨",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "In Malaysia, cultural, religious, and spiritual values have a strong impact on how we raise our families. ✨\n\nYour individual cultural, religious or spiritual values will influence the values you instil in your child. 🌱",
       "completed": false
@@ -127,12 +133,24 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n✨ There are many positive parenting beliefs and practices in our communities. Some are helpful but some may have a negative impact on our children. \n\n💙 It is important to make sure that our parenting habits ensure healthy development and provide the best care for our children.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "text_1_facilitator": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "🌷 That’s correct! \n\n✨ There are many positive parenting beliefs and practices in our communities. Some are helpful, but some may have a negative impact on our children. \n\n💙 It is important to make sure that our parenting habits ensure healthy development and provide the best care for our children.",
       "quiz_1_question": "True or False: It is important that we raise our children exactly the same way that we were raised by our own parents.",
@@ -158,9 +176,15 @@
       "nested": false,
       "text_1_facilitator": "@data.characters.f1_father.name wants his young children to learn about respect for their elders. His parents taught him to respect his elders and he wants his children to do the same. Let’s see how @data.characters.f1_father.name and his wife, @data.characters.f1_mother.name discuss their parenting values.",
       "_translations": {
-        "text_1_facilitator": {},
-        "character_1_text": {},
-        "character_2_text": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "image_asset": "images/yc_modules/spirituality_yc_1.svg",
       "character_1_id": "f1_father",
@@ -186,8 +210,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Hmm, maybe. When I was young, my parents never allowed me to speak loudly to them. It is a sign of respect for elders.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "I think that respect for elders is very important and a good tradition to pass down to our kids. We also want our kids to be open with their feelings.",
       "completed": false
@@ -209,8 +237,12 @@
       "character_2_id": "f1_mother",
       "character_1_text": "That’s true. We can help our kids to express themselves while still being respectful.",
       "_translations": {
-        "character_1_text": {},
-        "character_2_text": {}
+        "character_1_text": {
+          "my_ms": true
+        },
+        "character_2_text": {
+          "my_ms": true
+        }
       },
       "character_2_text": "Exactly!",
       "completed": false
@@ -227,7 +259,9 @@
       "nested": false,
       "text_1_facilitator": "4️⃣ Here are 4 tips to help you instil values in your child that you want them to have: IDENTIFY, TEACH, REPEAT, SHARE. \n\n💡 It’s easiest to start with one parenting value before moving on to others.",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=vcVtK5DDMbg",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=lLmZwKxL4hY",
@@ -271,14 +305,30 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_1_title": "IDENTIFY",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {},
-        "section_4_title": {},
-        "section_4_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        },
+        "section_4_title": {
+          "my_ms": true
+        },
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "section_1_text": "💡 Identify the most important value you want your child to have. \n👂 Work together with other caregivers of your child too! This helps identify your shared values. \n🔑 Choose one value to start with.\n📝 List out ideas for how you want to introduce this value to them.",
       "section_2_title": "TEACH",
@@ -312,11 +362,21 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s great! It’s important to practise self care so we are able to deal with hard things that happen.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {}
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        }
       },
       "quiz_1_feedback_2": "That’s OK, it can be hard to set aside time. 😣",
       "quiz_1_question": "⏰ Take a moment to practise taking a pause today. \n🏅 The more you practise, the easier it will become. \nCan you do it today?",

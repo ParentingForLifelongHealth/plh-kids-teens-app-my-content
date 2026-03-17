@@ -12,8 +12,12 @@
       "nested": false,
       "text_1_facilitator": "This skill is about introducing your child to numbers and maths. 1️⃣2️⃣3️⃣",
       "_translations": {
-        "text_1_facilitator": {},
-        "text_2": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "text_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -31,18 +35,42 @@
       "nested": false,
       "text_1_facilitator": "Here’s a fun question for you - what do you think?",
       "_translations": {
-        "text_1_facilitator": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
-        "quiz_1_option_5_text": {},
-        "quiz_1_feedback_5": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_option_4_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_4": {
+          "my_ms": true
+        },
+        "quiz_1_option_5_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_5": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -105,7 +133,9 @@
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -122,12 +152,24 @@
       "nested": false,
       "section_1_title": "COUNT",
       "_translations": {
-        "section_1_title": {},
-        "section_1_text": {},
-        "section_2_title": {},
-        "section_2_text": {},
-        "section_3_title": {},
-        "section_3_text": {}
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "section_1_title": {
@@ -161,11 +203,21 @@
       "nested": false,
       "quiz_1_question": "For today’s home activity ⭐, can you do some counting with your child today?",
       "_translations": {
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {}
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {

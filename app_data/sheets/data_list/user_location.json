@@ -9,7 +9,9 @@
       "name": "johor",
       "text": "Johor",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -22,7 +24,9 @@
       "name": "kedah",
       "text": "Kedah",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -35,7 +39,9 @@
       "name": "kelantan",
       "text": "Kelantan",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -48,7 +54,9 @@
       "name": "kuala_lumpur",
       "text": "Kuala Lumpur",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -61,7 +69,9 @@
       "name": "labuan",
       "text": "Labuan",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -74,7 +84,9 @@
       "name": "malacca",
       "text": "Malacca",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -87,7 +99,9 @@
       "name": "negeri_sembilan",
       "text": "Negeri Sembilan",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -100,7 +114,9 @@
       "name": "pahang",
       "text": "Pahang",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -113,7 +129,9 @@
       "name": "penang",
       "text": "Penang",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -126,7 +144,9 @@
       "name": "perak",
       "text": "Perak",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -139,7 +159,9 @@
       "name": "perlis",
       "text": "Perlis",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -152,7 +174,9 @@
       "name": "putrajaya",
       "text": "Putrajaya",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -165,7 +189,9 @@
       "name": "sabah",
       "text": "Sabah",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -178,7 +204,9 @@
       "name": "sarawak",
       "text": "Sarawak",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -191,7 +219,9 @@
       "name": "selangor",
       "text": "Selangor",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -204,7 +234,9 @@
       "name": "terengganu",
       "text": "Terengganu",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -217,7 +249,9 @@
       "name": "other",
       "text": "Other location",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {

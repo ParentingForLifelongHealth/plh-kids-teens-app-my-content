@@ -185,7 +185,9 @@
       "name": "button_completed",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {
