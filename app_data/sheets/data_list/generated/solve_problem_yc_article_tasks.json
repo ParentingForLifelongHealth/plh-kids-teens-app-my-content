@@ -6,10 +6,11 @@
     {
       "id": "relax_5",
       "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset_en_m": "audio/relax/english/relax_5_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_5_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_5_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_5_f.mp3",
+      "to_delete": "relax_5_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_5_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_5_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_5_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_5_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes.\n\nListen to your breath as it goes in and out five times.\n\nNotice how you feel.\n\nWhen you are ready, open your eyes again. You are in control!",
       "transcript_2": "Tutup mata anda.\n\nDengar bunyi pernafasan anda semasa anda menarik nafas dan menghembus nafas sebanyak lima kali.\n\nSatu..., dua..., tiga..., empat, lima...\n\nApakah yang anda rasakan sekarang?\n\nBila anda sudah bersedia, buka semula mata anda. Dengan melakukan aktiviti ini, anda mampu mengawal emosi dan perasaan anda!",
@@ -231,10 +232,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dwJ6dVpjovw?si=Pkaia0lHEWvcs3F4",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=3PdmQPtp9i0?si=ObUq01gCKCEHBbca",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=IIIYvG82sjY?si=0pTCj4HE81YCvz9m",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=T0tBQ675lM0?si=1T3WGG6FPsLh0OJc",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dwJ6dVpjovw",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=3PdmQPtp9i0",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=IIIYvG82sjY",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=T0tBQ675lM0",
       "completed": false
     },
     {

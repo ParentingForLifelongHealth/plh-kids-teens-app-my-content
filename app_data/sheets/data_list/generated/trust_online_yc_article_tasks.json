@@ -6,10 +6,11 @@
     {
       "id": "relax_14",
       "lottie_asset": "lottie/relax/blue_dots.json",
-      "media_asset_en_m": "audio/relax/english/relax_14__.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_14__.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_14_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_14_f.mp3",
+      "to_delete": "relax_14__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_14__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_14__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_14_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_14_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
       "transcript_2": "Tutup mata anda.\n\nLuangkan sedikit masa untuk rasa lantai di bawah tapak kaki anda.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.\nTumpukan perhatian pada nafas anda.\nTarik dan hembus nafas perlahan-lahan.\n\nBila anda bersedia, buka mata anda.",
@@ -203,10 +204,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MZ6IU3GxCbw?si=cn9YZ-YQWjA4GJ_U",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=jZYSdBIyi6o?si=__Emyuz7N3yF7gp2",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=lxhMrVTn1H8?si=hi16UdpnP2RF1LLv",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=Q6ZfYLMNJts?si=vLdz02yf9i5RXxGP",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MZ6IU3GxCbw",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=jZYSdBIyi6o",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=lxhMrVTn1H8",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Q6ZfYLMNJts",
       "completed": false
     },
     {

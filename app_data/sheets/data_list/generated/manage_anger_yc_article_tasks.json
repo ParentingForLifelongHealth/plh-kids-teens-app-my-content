@@ -6,10 +6,11 @@
     {
       "id": "relax_3",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset_en_m": "audio/relax/english/relax_3_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_3_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_3_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_3_f.mp3",
+      "to_delete": "relax_3_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_3_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_3_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_3_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_3_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
       "transcript_2": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
@@ -233,10 +234,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=PBYX7-ajR34?si=tHEoeqoHDieC0Pei",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=7rggnzwyaAk?si=p6sC7g7-35HgZ-5_",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=LA645fLnEe4?si=DDgQeGtXRavgriDE",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=DQmox0wS_CA?si=Ukir7G0ugUkGhbs2",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=PBYX7-ajR34",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=7rggnzwyaAk",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=LA645fLnEe4",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=DQmox0wS_CA",
       "completed": false
     },
     {

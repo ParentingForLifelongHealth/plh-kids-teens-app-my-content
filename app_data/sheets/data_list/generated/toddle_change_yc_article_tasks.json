@@ -6,10 +6,11 @@
     {
       "id": "relax_17",
       "lottie_asset": "lottie/relax/looping_rings.json",
-      "media_asset_en_m": "audio/relax/english/relax_17__.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_17__.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_17_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_17_f.mp3",
+      "to_delete": "relax_17__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_17__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_17__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_17_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_17_f.mp3",
       "media_type": "audio",
       "transcript_1": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
       "transcript_2": "Memuji diri sendiri sangat membantu kita, terutama sekali apabila kita mengalami hari-hari yang mencabar.\n\nFikirkan tentang minggu anda dan sambungkan ayat ini: \n“Minggu ini, saya bangga dengan diri saya kerana …” \nIa boleh jadi apa sahaja, bukan hanya tentang menjadi ibu bapa.\n\nSekarang fikirkan satu perkara yang anda lakukan dengan baik hari ini. Kemudian berikan diri and pelukan yang besar dan ERAT!",
@@ -269,10 +270,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=RuVI5gr_7YM?si=-0FiJaT86sDPDbS4",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=VpZqWnowxxw?si=8Y-IRKgOAEJ-PBiu",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=YaPYisfLOBQ?si=nBHBv_oRy_cRtg1i",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=JPWfycYnAhA?si=pXwv5b0L6HbnZlUk",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=RuVI5gr_7YM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=VpZqWnowxxw",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=YaPYisfLOBQ",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=JPWfycYnAhA",
       "completed": false
     },
     {

@@ -6,10 +6,11 @@
     {
       "id": "relax_15",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_en_m": "audio/relax/english/relax_15__.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_15__.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_15_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_15_f.mp3",
+      "to_delete": "relax_15__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
       "media_type": "audio",
       "transcript_1": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
       "transcript_2": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
@@ -244,10 +245,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=C9h4hLbkLGo?si=kimnvr17sg3TFlQF",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=J_xRe9uLgSk?si=6hpdvtSrR7HFtHLl",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=ABs6S2YpKBs?si=GDe-kkKgE_zEmE5t",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=5H64o-gOL2M?si=zP1dHmlDAid8hvJA",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=C9h4hLbkLGo",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=J_xRe9uLgSk",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=ABs6S2YpKBs",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=5H64o-gOL2M",
       "completed": false
     },
     {

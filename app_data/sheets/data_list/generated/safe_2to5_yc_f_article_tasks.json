@@ -6,10 +6,11 @@
     {
       "id": "relax_7",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_en_m": "audio/relax/english/relax_7_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_7_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_7_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_7_f.mp3",
+      "to_delete": "relax_7_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_7_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_7_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_7_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_7_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes. \n\nDo your children ever make you feel like screaming? \n\nGive yourself a 10-second pause. Breathe in and out slowly 5 times. \n\nThen try responding in a calmer way.\n\nMillions of parents say this helps – A LOT.",
       "transcript_2": "Tutup mata anda.\n\nAdakah anak-anak anda pernah membuat anda rasa seperti mahu menjerit?\n\nBerhentilah seketika selama 10 saat dengan melakukan aktiviti ini. Tarik dan hembus nafas perlahan-lahan sebanyak 5 kali.\n\nSatu..., dua..., tiga..., empat, lima...\n\nBuka semula mata anda perlahan-lahan.\n\nKemudian cuba memberi respon dengan lebih tenang.\n\nJutaan ibu bapa mengatakan cara ini sangat membantu mereka. Macam tak percaya kan? Cubalah buat selalu!",
@@ -320,10 +321,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM?si=kC1HDyH8hjna2q6r",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y?si=yszpX1JoczIzKiqn",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA?si=wzuUHkTDfSXfsyWd",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8?si=jtv1pQ1rTwewUPxu",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8",
       "completed": false
     },
     {

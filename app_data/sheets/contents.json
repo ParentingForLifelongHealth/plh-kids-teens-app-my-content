@@ -9191,7 +9191,7 @@
       "flow_name": "article",
       "_source": {
         "name": "kids_teens_my",
-        "path": "templates/articles.xlsx",
+        "path": "templates/MY articles.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1c9Kl1wQZOV3WnwaKKszxqorREoDeZF3WXSIi7AMlAmM"
       }
     },
@@ -14662,9 +14662,9 @@
       "flow_type": "template",
       "flow_name": "relax",
       "_source": {
-        "name": "kids_global",
-        "path": "templates/relax_activities.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1nCQAjjE-dWhwaK9Xu4AXnoR_yMppug88_BbSE4IEg9k"
+        "name": "kids_teens_my",
+        "path": "templates/MY relax.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1XpvNLOZfTsCRq7k0uqMN5vkl498Phy9Uhd7o5n9OmCY"
       }
     },
     "relax_activities": {

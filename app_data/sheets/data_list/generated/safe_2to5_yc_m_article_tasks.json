@@ -6,10 +6,11 @@
     {
       "id": "relax_6",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "media_asset_en_m": "audio/relax/english/relax_6_m.mp3",
-      "media_asset_my_m": "audio/relax/malay/relax_6_m.mp3",
-      "media_asset_en_f": "audio/relax/english/relax_6_f.mp3",
-      "media_asset_my_f": "audio/relax/malay/relax_6_f.mp3",
+      "to_delete": "relax_6_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_6_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_6_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_6_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_6_f.mp3",
       "media_type": "audio",
       "transcript_1": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
       "transcript_2": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
@@ -320,10 +321,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM?si=kC1HDyH8hjna2q6r",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y?si=yszpX1JoczIzKiqn",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA?si=wzuUHkTDfSXfsyWd",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8?si=jtv1pQ1rTwewUPxu",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8",
       "completed": false
     },
     {

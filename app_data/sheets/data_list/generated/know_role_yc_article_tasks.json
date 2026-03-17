@@ -130,10 +130,10 @@
         "text_1_facilitator": {}
       },
       "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=NGYsO8sgqNc?si=jV7ISx-_If343uTN",
-      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=k7k_g0XNOnY?si=JEA0hI04g6--hmk0",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=n3HveeqovHY?si=LBtJ9QRG-0_kGxEx",
-      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=xF4TZRO5i1w?si=WqBq--V_2zoPxGgJ",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=NGYsO8sgqNc",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=k7k_g0XNOnY",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=n3HveeqovHY",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=xF4TZRO5i1w",
       "completed": false
     },
     {
