@@ -70,11 +70,11 @@
       "id": "explore_6",
       "category_id": "explore",
       "text_1_facilitator::eng": "3️⃣ Here are three tips on how to create routines with your child.",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/8x8igGS7bkE?si=4dwNRMzAORhOGe3M",
-      "youtube_my_f": "https://youtu.be/71tP14SQbLQ?si=9IQpIruzQqJmmTxu",
-      "youtube_en_m": "https://youtu.be/H_LUe4FNuvs?si=6aTXGVPsRIqj0FrF",
-      "youtube_my_m": "https://youtu.be/OjmCGFsR3Ng?si=1DBuf2Cf4bgQ_ZxO"
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=8x8igGS7bkE?si=4dwNRMzAORhOGe3M",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=71tP14SQbLQ?si=9IQpIruzQqJmmTxu",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=H_LUe4FNuvs?si=6aTXGVPsRIqj0FrF",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=OjmCGFsR3Ng?si=1DBuf2Cf4bgQ_ZxO"
     },
     {
       "id": "tips_1",

@@ -67,11 +67,11 @@
       "id": "explore_5",
       "category_id": "explore",
       "text_1_facilitator::eng": "3️⃣ Here are three tips on how to help your child follow instructions more often:",
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/jRzMcicGdH0?si=sLdnnTvPHuNr0Glp",
-      "youtube_my_f": "https://youtu.be/nvus9O28N60?si=RLkcqjwzdi0QG6_I",
-      "youtube_en_m": "https://youtu.be/70sV9bX_ex8?si=Xm7jcxrWuatR-uVv",
-      "youtube_my_m": "https://youtu.be/86c9HK5IYVs?si=yYzbPMEEEG6ElxYS"
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=jRzMcicGdH0?si=sLdnnTvPHuNr0Glp",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=nvus9O28N60?si=RLkcqjwzdi0QG6_I",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=70sV9bX_ex8?si=Xm7jcxrWuatR-uVv",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=86c9HK5IYVs?si=yYzbPMEEEG6ElxYS"
     },
     {
       "id": "tips_1",

@@ -1359,8 +1359,42 @@
       "_nested_name": "default_language"
     },
     {
+      "name": "gender",
+      "value": "_f",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "gender"
+    },
+    {
+      "name": "gender",
+      "value": "_m",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields.user_gender == \"man\"",
+      "type": "set_variable",
+      "_nested_name": "gender",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@fields.user_gender == \"man\"",
+            "matchedExpression": "@fields.user_gender",
+            "type": "fields",
+            "fieldName": "user_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.user_gender": [
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "youtube_column",
-      "value": "@local.youtube@local.language",
+      "value": "@local.youtube@local.language@local.gender",
       "_translations": {
         "value": {}
       },
@@ -1370,16 +1404,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.youtube@local.language",
+            "fullExpression": "@local.youtube@local.language@local.gender",
             "matchedExpression": "@local.youtube",
             "type": "local",
             "fieldName": "youtube"
           },
           {
-            "fullExpression": "@local.youtube@local.language",
+            "fullExpression": "@local.youtube@local.language@local.gender",
             "matchedExpression": "@local.language",
             "type": "local",
             "fieldName": "language"
+          },
+          {
+            "fullExpression": "@local.youtube@local.language@local.gender",
+            "matchedExpression": "@local.gender",
+            "type": "local",
+            "fieldName": "gender"
           }
         ]
       },
@@ -1388,6 +1428,9 @@
           "value"
         ],
         "@local.language": [
+          "value"
+        ],
+        "@local.gender": [
           "value"
         ]
       }
@@ -1419,7 +1462,7 @@
     },
     {
       "name": "youtube_column_missing",
-      "value": "@local.youtube@local.default_language",
+      "value": "@local.youtube@local.default_language@local.gender",
       "_translations": {
         "value": {}
       },
@@ -1429,16 +1472,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.youtube@local.default_language",
+            "fullExpression": "@local.youtube@local.default_language@local.gender",
             "matchedExpression": "@local.youtube",
             "type": "local",
             "fieldName": "youtube"
           },
           {
-            "fullExpression": "@local.youtube@local.default_language",
+            "fullExpression": "@local.youtube@local.default_language@local.gender",
             "matchedExpression": "@local.default_language",
             "type": "local",
             "fieldName": "default_language"
+          },
+          {
+            "fullExpression": "@local.youtube@local.default_language@local.gender",
+            "matchedExpression": "@local.gender",
+            "type": "local",
+            "fieldName": "gender"
           }
         ]
       },
@@ -1447,6 +1496,9 @@
           "value"
         ],
         "@local.default_language": [
+          "value"
+        ],
+        "@local.gender": [
           "value"
         ]
       }
@@ -2467,8 +2519,8 @@
     }
   ],
   "_source": {
-    "name": "kids_global",
-    "path": "templates/modules/articles.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+    "name": "kids_teens_my",
+    "path": "templates/articles.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1c9Kl1wQZOV3WnwaKKszxqorREoDeZF3WXSIi7AMlAmM"
   }
 }

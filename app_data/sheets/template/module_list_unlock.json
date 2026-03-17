@@ -1,0 +1,100 @@
+{
+  "flow_type": "template",
+  "flow_name": "module_list_unlock",
+  "status": "released",
+  "rows": [
+    {
+      "type": "template",
+      "value": "module_group",
+      "exclude_from_translation": true,
+      "rows": [
+        {
+          "name": "course",
+          "value": "@item.id",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "module_group.course",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "course_title",
+          "value": "@item.title",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_group.course_title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
+                "type": "item",
+                "fieldName": "title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "course_image",
+          "value": "@item.image_asset",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module_group.course_image",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.image_asset",
+                "matchedExpression": "@item.image_asset",
+                "type": "item",
+                "fieldName": "image_asset"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.image_asset": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "completed_course",
+          "value": false,
+          "type": "set_variable",
+          "_nested_name": "module_group.completed_course"
+        }
+      ],
+      "name": "module_group",
+      "_nested_name": "module_group"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global V2",
+    "path": "templates/PLH app_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
+  }
+}

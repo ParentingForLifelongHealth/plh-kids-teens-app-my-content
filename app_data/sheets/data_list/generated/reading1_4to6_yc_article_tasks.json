@@ -232,7 +232,7 @@
     },
     {
       "id": "explore_5",
-      "media_type": "video",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙"
@@ -244,10 +244,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "https://youtu.be/WUdUm4tjdUg?si=n6zhQRwa68pKPBP6",
-      "youtube_my_f": "https://youtu.be/9HZErFXO3i4?si=lCJUma3rol0yIJmN",
-      "youtube_en_m": "https://youtu.be/eqv4srsu8nM?si=Cf8plNN6-BcRGSJz",
-      "youtube_my_m": "https://youtu.be/tp-ZJWifUNc?si=M0Yy8zaSjRxrAkzm",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=WUdUm4tjdUg?si=n6zhQRwa68pKPBP6",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=9HZErFXO3i4?si=lCJUma3rol0yIJmN",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eqv4srsu8nM?si=Cf8plNN6-BcRGSJz",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=tp-ZJWifUNc?si=M0Yy8zaSjRxrAkzm",
       "completed": false
     },
     {

@@ -33,11 +33,11 @@
 | round_button | 13 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3042 |
+| set_variable | 3048 |
 | simple_checkbox | 1 |
 | task_card | 7 |
 | task_progress_bar | 5 |
-| template | 950 |
+| template | 951 |
 | text | 158 |
 | text_area | 2 |
 | text_box | 16 |
@@ -689,7 +689,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 127 |
+| template |  | 128 |
 | template | generated | 804 |
 | template | legal_terms | 4 |
 </details>

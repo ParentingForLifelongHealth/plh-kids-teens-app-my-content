@@ -362,7 +362,8 @@
     {
       "name": "youtube",
       "value": "youtube_",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comments": "THIS IS THE ONLY DIFFERENCE"
     },
     {
       "name": "language",
@@ -375,8 +376,18 @@
       "exclude_from_translation": true
     },
     {
+      "name": "gender",
+      "value": "_f",
+      "comments": "defaults to _f"
+    },
+    {
+      "name": "gender",
+      "value": "_m",
+      "condition": "@fields.user_gender == \"man\""
+    },
+    {
       "name": "youtube_column",
-      "value": "@local.youtube@local.language",
+      "value": "@local.youtube@local.language@local.gender",
       "exclude_from_translation": true
     },
     {
@@ -386,7 +397,7 @@
     },
     {
       "name": "youtube_column_missing",
-      "value": "@local.youtube@local.default_language",
+      "value": "@local.youtube@local.default_language@local.gender",
       "exclude_from_translation": true
     },
     {

@@ -129,11 +129,11 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "media_type": "video",
-      "youtube_en_f": "https://youtu.be/NGYsO8sgqNc?si=jV7ISx-_If343uTN",
-      "youtube_my_f": "https://youtu.be/k7k_g0XNOnY?si=JEA0hI04g6--hmk0",
-      "youtube_en_m": "https://youtu.be/n3HveeqovHY?si=LBtJ9QRG-0_kGxEx",
-      "youtube_my_m": "https://youtu.be/xF4TZRO5i1w?si=WqBq--V_2zoPxGgJ",
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=NGYsO8sgqNc?si=jV7ISx-_If343uTN",
+      "youtube_my_ms_ms_ms_f": "https://www.youtube.com/watch?v=k7k_g0XNOnY?si=JEA0hI04g6--hmk0",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=n3HveeqovHY?si=LBtJ9QRG-0_kGxEx",
+      "youtube_my_ms_ms_m": "https://www.youtube.com/watch?v=xF4TZRO5i1w?si=WqBq--V_2zoPxGgJ",
       "completed": false
     },
     {
