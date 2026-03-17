@@ -82,13 +82,13 @@
           "eng": "@data.characters.f1_mother.name is helping to create a bedtime routine with her daughter, @data.characters.f1_daughter_2.name. Let’s see how they do it together!"
         },
         "character_1_text": {
-          "eng": "@data.characters.f1_mother.name: Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?"
+          "eng": "Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?"
         },
         "character_2_text": {
           "eng": "Okay!"
         }
       },
-      "character_1_text": "@data.characters.f1_mother.name: Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?",
+      "character_1_text": "Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?",
       "character_2_text": "Okay!"
     },
     {
@@ -165,10 +165,10 @@
       "id": "explore_6",
       "category_id": "explore",
       "media_type": "video",
-      "youtube_en_f": "LINK HERE",
-      "youtube_my_f": "LINK HERE",
+      "youtube_en_f": "https://youtu.be/8x8igGS7bkE?si=4dwNRMzAORhOGe3M",
+      "youtube_my_f": "https://youtu.be/71tP14SQbLQ?si=9IQpIruzQqJmmTxu",
       "youtube_en_m": "https://youtu.be/H_LUe4FNuvs?si=6aTXGVPsRIqj0FrF",
-      "youtube_my_m": "LINK HERE",
+      "youtube_my_m": "https://youtu.be/OjmCGFsR3Ng?si=1DBuf2Cf4bgQ_ZxO",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three tips on how to create routines with your child.",
       "_translations": {

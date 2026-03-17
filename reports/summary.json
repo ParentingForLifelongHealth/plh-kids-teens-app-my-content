@@ -1810,7 +1810,7 @@
       },
       {
         "path": "images/icons/star_outline_blue.svg",
-        "count": 50,
+        "count": 1,
         "size_kb": 1
       },
       {
@@ -2680,7 +2680,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 15
+        "total": 16
       },
       {
         "type": "data_list",
@@ -2690,6 +2690,16 @@
       {
         "type": "data_list",
         "subtype": "app_config_language_list",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_rows",
+        "total": 3
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_schedule",
         "total": 1
       },
       {

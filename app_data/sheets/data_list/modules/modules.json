@@ -1452,13 +1452,13 @@
       "core": false,
       "relax_id": "relax_11",
       "check_in_id": "check_in_3",
-      "title": "Stay Safe",
+      "title": "Crises",
       "_translations": {
         "title": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "Stay Safe"
+          "eng": "Crises"
         }
       }
     },

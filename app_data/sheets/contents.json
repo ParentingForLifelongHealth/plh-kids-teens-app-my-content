@@ -44,6 +44,69 @@
         "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
       }
     },
+    "nf_inactive_day": {
+      "flow_type": "data_list",
+      "flow_subtype": "campaign_rows",
+      "flow_name": "nf_inactive_day",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "data/MY notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+      },
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
+    },
+    "nf_inactive_progress": {
+      "flow_type": "data_list",
+      "flow_subtype": "campaign_rows",
+      "flow_name": "nf_inactive_progress",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "data/MY notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+      },
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
+    },
+    "nf_inactive_week_month": {
+      "flow_type": "data_list",
+      "flow_subtype": "campaign_rows",
+      "flow_name": "nf_inactive_week_month",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "data/MY notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+      },
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
+    },
+    "nf_schedule_inactive": {
+      "flow_type": "data_list",
+      "flow_subtype": "campaign_schedule",
+      "flow_name": "nf_schedule_inactive",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "data/MY notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+      },
+      "_metadata": {
+        "time": {
+          "type": "object"
+        },
+        "delay": {
+          "type": "object"
+        }
+      }
+    },
     "characters": {
       "flow_type": "data_list",
       "flow_name": "characters",
@@ -109,6 +172,15 @@
         "completed": {
           "type": "boolean"
         }
+      }
+    },
+    "encouraging_messages": {
+      "flow_type": "data_list",
+      "flow_name": "encouraging_messages",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "data/MY notifications.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
       }
     },
     "activity_tasks": {

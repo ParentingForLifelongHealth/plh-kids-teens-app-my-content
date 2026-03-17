@@ -1,0 +1,152 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "campaign_rows",
+  "flow_name": "nf_inactive_progress",
+  "status": "released",
+  "rows": [
+    {
+      "id": "nf_inactive_w_self_care",
+      "workshop": "w_self_care",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Care for yourself with @global.parent_app",
+      "text::eng": "@fields.user_name, it is so good to have you on this parenting journey. Tap the @data.workshop.{@row.workshop}.in_text_title and learn more on how you can care for yourself. A happy family starts with a happy YOU!"
+    },
+    {
+      "id": "nf_inactive_w_1on1",
+      "workshop": "w_1on1",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Connect well through @global.parent_app",
+      "text::eng": "Spending time with your teen helps build trust between you. Continue your @global.parent_app journey now by completing the @data.workshop.{@row.workshop}.in_text_title. You and your family will see great results."
+    },
+    {
+      "id": "nf_inactive_w_praise",
+      "workshop": "w_praise",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Praise each other with @global.parent_app",
+      "text::eng": "Praising makes all the difference. Complete the @data.workshop.{@row.workshop}.in_text_title to see how praise can change YOUR family."
+    },
+    {
+      "id": "nf_inactive_w_instruct",
+      "workshop": "w_instruct",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Instruct well through @global.parent_app",
+      "text::eng": "Positive instructions help to see more and more good behaviour! Learn how this could work in your family, by completing the @data.workshop.{@row.workshop}.in_text_title."
+    },
+    {
+      "id": "nf_inactive_w_stress",
+      "workshop": "w_stress",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Stay calm with @global.parent_app",
+      "text::eng": "We all feel overwhelmed sometimes. Taking a deep breath helps! Complete the @data.workshop.{@row.workshop}.in_text_title to get some useful tools to deal with stress."
+    },
+    {
+      "id": "nf_inactive_w_money",
+      "workshop": "w_money",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Manage money with @global.parent_app",
+      "text::eng": "@fields.user_name, do you feel stressed about money? Does your teen keep asking for things you can’t afford? Tap the @data.workshop.{@row.workshop}.in_text_title to get great tips on money and budgeting."
+    },
+    {
+      "id": "nf_inactive_w_rules",
+      "workshop": "w_rules",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Rules that work with @global.parent_app",
+      "text::eng": "Well done for using @global.parent_app and for committing to your parenting journey. The @data.workshop.{@row.workshop}.in_text_title shows you how to set rules in a way that helps your teen to understand and follow them better. Try it out today!"
+    },
+    {
+      "id": "nf_inactive_w_consequence",
+      "workshop": "w_consequence",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Motivate your teen with @global.parent_app",
+      "text::eng": "You have build many great parenting skills already! Tap the @data.workshop.{@row.workshop}.in_text_title to learn how to set one positive and one negative consequence of a behaviour together. You and your family will benefits!"
+    },
+    {
+      "id": "nf_inactive_w_solve",
+      "workshop": "w_solve",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Solve problems with @global.parent_app",
+      "text::eng": "With teenagers, and in life, unexpected problems come up. Tap the @data.workshop.{@row.workshop}.in_text_title to learn how to resolve any challenge together with your teen."
+    },
+    {
+      "id": "nf_inactive_w_safe",
+      "workshop": "w_safe",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Stay safe through @global.parent_app",
+      "text::eng": "To keep your teen safe, it helps to chat together about your community and their online experiences. Complete the @data.workshop.{@row.workshop}.in_text_title and see how you can do this!"
+    },
+    {
+      "id": "nf_inactive_w_crisis",
+      "workshop": "w_crisis",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Be ready with @global.parent_app",
+      "text::eng": "We never know when a crisis may happen, but we CAN be prepared! Tap the @data.workshop.{@row.workshop}.in_text_title to explore how you can do this together with your teen."
+    },
+    {
+      "id": "nf_inactive_w_celebrate",
+      "workshop": "w_celebrate",
+      "message_type": "inactive",
+      "action_list": "sent | set_field: {@row.id}_sent : true;",
+      "priority": 1,
+      "activation_condition_list": "@fields._task_highlighted_group_id == \"@row.workshop\"",
+      "deactivation_condition_list": "@fields.{@row.id}_sent",
+      "campaign_list": "nf_inactive_progress",
+      "title::eng": "Celebrate with @global.parent_app",
+      "text::eng": "@fields.user_name, you deserve to celebrate and be celebrated! Tap the @data.workshop.{@row.workshop}.in_text_title to reflect on your journey and get ideas for how you can continue to invest in yourself and your family."
+    }
+  ]
+}

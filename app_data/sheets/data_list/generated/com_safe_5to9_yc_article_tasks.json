@@ -223,7 +223,7 @@
       "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.man_in_car.name: Hi boy. You have such a nice smile and lovely straight hair. What’s your name?"
+          "eng": "Hi boy. You have such a nice smile and lovely straight hair. What’s your name?"
         },
         "character_2_text": {
           "eng": "My name is @data.characters.f3_son_7.name."
@@ -240,7 +240,7 @@
       "image_asset": "images/yc_modules/com_safety_5to9_yc_2.svg",
       "character_1_id": "man_in_car",
       "character_2_id": "f3_son_7",
-      "character_1_text": "@data.characters.man_in_car.name: Hi boy. You have such a nice smile and lovely straight hair. What’s your name?",
+      "character_1_text": "Hi boy. You have such a nice smile and lovely straight hair. What’s your name?",
       "_translations": {
         "character_1_text": {},
         "character_2_text": {},
@@ -325,10 +325,10 @@
       "_translations": {
         "text_1_facilitator": {}
       },
-      "youtube_en_f": "LINK HERE",
-      "youtube_my_f": "LINK HERE",
+      "youtube_en_f": "https://youtu.be/LnZGRktb2jI?si=in-orEP-mpbegbcC",
+      "youtube_my_f": "https://youtu.be/CEKFAYFA9Z0?si=EvS9XM9CqdztesOl",
       "youtube_en_m": "https://youtu.be/qkjfDAR_DYI?si=lPFFfhoWE90RZDCX",
-      "youtube_my_m": "LINK HERE",
+      "youtube_my_m": "https://youtu.be/wR3huIpZzPk?si=ZRJ6kAOCb6YikR4Z",
       "completed": false
     },
     {

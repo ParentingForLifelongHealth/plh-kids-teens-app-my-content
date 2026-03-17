@@ -206,6 +206,15 @@
   },
   {
     "flow_type": "data_list",
+    "flow_name": "encouraging_messages",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_subtype": "modules_family_rules_yc",
     "flow_name": "family_rules_yc_articles",
     "_source": {
@@ -501,6 +510,46 @@
       "name": "kids_teens_my",
       "path": "data/MY modules.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "campaign_rows",
+    "flow_name": "nf_inactive_day",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "campaign_rows",
+    "flow_name": "nf_inactive_progress",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "campaign_rows",
+    "flow_name": "nf_inactive_week_month",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "campaign_schedule",
+    "flow_name": "nf_schedule_inactive",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
     }
   },
   {

@@ -1,0 +1,36 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "campaign_schedule",
+  "flow_name": "nf_schedule_inactive",
+  "status": "released",
+  "rows": [
+    {
+      "id": "nf_inactive_day",
+      "time.hour": 19,
+      "time.minute": 30,
+      "delay.days": 0,
+      "comment": "campaign notifications will be scheduled on each app start for 19:30pm the next day"
+    },
+    {
+      "id": "nf_inactive_progress",
+      "time.hour": 16,
+      "time.minute": 0,
+      "delay.days": 3,
+      "comment": "campaign notifications will be scheduled on each app start for 16:00pm three days later"
+    },
+    {
+      "id": "nf_inactive_week",
+      "time.hour": 19,
+      "time.minute": 30,
+      "delay.days": 6,
+      "comment": "campaign notifications will be scheduled on each app start for 19:30pm one week later"
+    },
+    {
+      "id": "nf_inactive_month",
+      "time.hour": 19,
+      "time.minute": 30,
+      "delay.days": 30,
+      "comment": "campaign notifications will be scheduled on each app start for 19:30pm one month later"
+    }
+  ]
+}

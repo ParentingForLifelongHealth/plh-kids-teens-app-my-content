@@ -123,7 +123,7 @@
           "eng": "@data.characters.f3_daughter_4.name is playing with the handphone on the floor."
         },
         "character_1_text": {
-          "eng": "@data.characters.f3_mother.name: It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me."
+          "eng": "It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me."
         },
         "character_2_text": {
           "eng": "Okay…"
@@ -140,7 +140,7 @@
       "image_asset": "images/yc_modules/keeping_it_positive_yc_1.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_4",
-      "character_1_text": "@data.characters.f3_mother.name: It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me.",
+      "character_1_text": "It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me.",
       "character_2_text": "Okay…",
       "completed": false
     },
@@ -227,10 +227,10 @@
         "text_1_facilitator": {}
       },
       "media_type": "video",
-      "youtube_en_f": "LINK HERE",
-      "youtube_my_f": "LINK HERE",
+      "youtube_en_f": "https://youtu.be/jRzMcicGdH0?si=sLdnnTvPHuNr0Glp",
+      "youtube_my_f": "https://youtu.be/nvus9O28N60?si=RLkcqjwzdi0QG6_I",
       "youtube_en_m": "https://youtu.be/70sV9bX_ex8?si=Xm7jcxrWuatR-uVv",
-      "youtube_my_m": "LINK HERE",
+      "youtube_my_m": "https://youtu.be/86c9HK5IYVs?si=yYzbPMEEEG6ElxYS",
       "completed": false
     },
     {
