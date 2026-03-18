@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 85
+        "count": 87
       },
       {
         "type": "combo_box",
@@ -43,11 +43,15 @@
       },
       {
         "type": "display_grid",
-        "count": 3
+        "count": 4
       },
       {
         "type": "display_group",
-        "count": 90
+        "count": 93
+      },
+      {
+        "type": "drawer",
+        "count": 1
       },
       {
         "type": "google_sign_in_button",
@@ -59,7 +63,7 @@
       },
       {
         "type": "items",
-        "count": 10
+        "count": 17
       },
       {
         "type": "lottie_animation",
@@ -111,7 +115,7 @@
       },
       {
         "type": "round_button",
-        "count": 13
+        "count": 14
       },
       {
         "type": "select_text",
@@ -123,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3053
+        "count": 3174
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +143,11 @@
       },
       {
         "type": "template",
-        "count": 951
+        "count": 974
       },
       {
         "type": "text",
-        "count": 158
+        "count": 163
       },
       {
         "type": "text_area",
@@ -151,15 +155,19 @@
       },
       {
         "type": "text_box",
-        "count": 16
+        "count": 18
       },
       {
         "type": "text_bubble",
         "count": 11
       },
       {
+        "type": "tile_component",
+        "count": 1
+      },
+      {
         "type": "title",
-        "count": 47
+        "count": 50
       },
       {
         "type": "toggle_bar",
@@ -215,7 +223,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 781
+        "count": 793
       },
       {
         "type": "feedback",
@@ -223,11 +231,11 @@
       },
       {
         "type": "go_to",
-        "count": 15
+        "count": 16
       },
       {
         "type": "nav_stack",
-        "count": 239
+        "count": 247
       },
       {
         "type": "pop_up",
@@ -247,7 +255,7 @@
       },
       {
         "type": "set_field",
-        "count": 91
+        "count": 92
       },
       {
         "type": "set_item",
@@ -1905,7 +1913,7 @@
       },
       {
         "path": "images/icons/star_outline_blue.svg",
-        "count": 50,
+        "count": 1,
         "size_kb": 1
       },
       {
@@ -3095,7 +3103,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 60
+        "total": 62
       },
       {
         "type": "global",
@@ -3115,12 +3123,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 128
+        "total": 133
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 804
+        "total": 814
       },
       {
         "type": "template",

@@ -9,15 +9,16 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 85 |
+| button | 87 |
 | combo_box | 19 |
 | data_items | 120 |
 | debug_toggle | 1 |
-| display_grid | 3 |
-| display_group | 90 |
+| display_grid | 4 |
+| display_group | 93 |
+| drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 20 |
-| items | 10 |
+| items | 17 |
 | lottie_animation | 4 |
 | nested_properties | 293 |
 | number_selector | 1 |
@@ -30,19 +31,20 @@
 | progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 13 |
+| round_button | 14 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3053 |
+| set_variable | 3174 |
 | simple_checkbox | 1 |
 | task_card | 7 |
 | task_progress_bar | 5 |
-| template | 951 |
-| text | 158 |
+| template | 974 |
+| text | 163 |
 | text_area | 2 |
-| text_box | 16 |
+| text_box | 18 |
 | text_bubble | 11 |
-| title | 47 |
+| tile_component | 1 |
+| title | 50 |
 | toggle_bar | 5 |
 | update_action_list | 2 |
 | video | 3 |
@@ -62,15 +64,15 @@
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 781 |
+| emit: uncompleted | 793 |
 | feedback | 13 |
-| go_to | 15 |
-| nav_stack | 239 |
+| go_to | 16 |
+| nav_stack | 247 |
 | pop_up | 71 |
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 79 |
-| set_field | 91 |
+| set_field | 92 |
 | set_item | 70 |
 | set_local | 60 |
 | task | 2 |
@@ -460,7 +462,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/smile_eyes_down.svg | 0.9 | 51 |
 | images/icons/smile_eyes_up.svg | 1 | 98 |
 | images/icons/star_filled_blue.png | 5.1 | 92 |
-| images/icons/star_outline_blue.svg | 1 | 50 |
+| images/icons/star_outline_blue.svg | 1 | 1 |
 | images/icons/thought_bubble.svg | 2.1 | 49 |
 | images/icons/tick.svg | 0.3 | 1 |
 | images/icons/tick_white.svg | 0.3 | 1 |
@@ -704,11 +706,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 96 |
-| generator |  | 60 |
+| generator |  | 62 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 128 |
-| template | generated | 804 |
+| template |  | 133 |
+| template | generated | 814 |
 | template | legal_terms | 4 |
 </details>

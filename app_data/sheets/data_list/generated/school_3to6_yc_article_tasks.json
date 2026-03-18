@@ -33,28 +33,28 @@
       "id": "check_in_14",
       "_translatedFields": {
         "text_1": {
-          "eng": "Ambil sekejap masa untuk perasan bagaimana perasaan anda sekarang."
+          "eng": "Take a moment to notice how you are doing."
         },
         "quiz_1_feedback_1": {
-          "eng": "Bagus sangat! Seronok dengar anda rasa baik hari ini. Memang rasa yang menyenangkan!"
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Setiap individu pasti akan ada hari yang mencabar, dan itu sangat normal. Anda berada di jalan yang betul!"
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Maaf kerana keadaan terasa sukar sekarang. Memang normal untuk rasa susah kadang-kadang. Ingat, anda tidak keseorangan!"
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Ambil sekejap masa untuk perasan bagaimana perasaan anda sekarang.",
+      "text_1": "Take a moment to notice how you are doing.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Bagus sangat! Seronok dengar anda rasa baik hari ini. Memang rasa yang menyenangkan!",
-      "quiz_1_feedback_2": "Setiap individu pasti akan ada hari yang mencabar, dan itu sangat normal. Anda berada di jalan yang betul!",
-      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Memang normal untuk rasa susah kadang-kadang. Ingat, anda tidak keseorangan!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
+      "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
+      "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

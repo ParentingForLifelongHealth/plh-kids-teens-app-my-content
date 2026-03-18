@@ -32,11 +32,19 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_faciid_input_question",
+      "value": "My facilitator's Group ID is...",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {
-    "name": "kids_global",
-    "path": "templates/kids app_launch.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1c9jlsy-uXdX9nxrhjXO4tXPvRfQPTjI89yZS6pf87Dc"
+    "name": "kids_teens_my",
+    "path": "templates/MY kids app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1VxndxlFpGCidupf-b3XMyZ2ltdDHDJ3cSKNtv743zH0"
   }
 }

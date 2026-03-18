@@ -33,28 +33,28 @@
       "id": "check_in_4",
       "_translatedFields": {
         "text_1": {
-          "eng": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!"
+          "eng": "Recognising how you feel helps you care for yourself well. You deserve it."
         },
         "quiz_1_feedback_1": {
-          "eng": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda."
+          "eng": "Wonderful, I am so happy! Keep up the good work."
         },
         "quiz_1_feedback_2": {
-          "eng": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda"
+          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!"
+          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapatnya!",
+      "text_1": "Recognising how you feel helps you care for yourself well. You deserve it.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Hebat, saya gembira mendengarnya! Teruskan usaha baik anda.",
-      "quiz_1_feedback_2": "Maaf kerana keadaan terasa sukar. Semua keluarga melalui cabaran yang lebih kurang sama. @global.app_name ada di sini untuk membantu anda",
-      "quiz_1_feedback_3": "Tak apa. Apa sahaja yang ‘tak menjadi’ hari ini, lepaskan dan cuba lagi esok okey!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
+      "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
+      "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

@@ -17,6 +17,11 @@
       "type": "declare_global_constant",
       "name": "user_type_select_question",
       "value": "I am a..."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "user_faciid_input_question",
+      "value": "My facilitator's Group ID is..."
     }
   ]
 }
