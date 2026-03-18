@@ -33,28 +33,28 @@
       "id": "check_in_16",
       "_translatedFields": {
         "text_1": {
-          "eng": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa."
+          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik."
+          "eng": "Amazing, life is the best when you're feeling good."
         },
         "quiz_1_feedback_2": {
-          "eng": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi."
+          "eng": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon."
         },
         "quiz_1_feedback_3": {
-          "eng": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!"
+          "eng": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Jom ambil sedikit masa untuk diri anda. Menjaga diri bermula dengan sedar apa yang anda rasa.",
+      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Hebat! Hidup memang rasa lebih indah bila kita rasa baik.",
-      "quiz_1_feedback_2": "Semua orang ada masa mereka rasa tak okey. Itu perkara biasa. Harap anda akan rasa lebih baik tak lama lagi.",
-      "quiz_1_feedback_3": "Menempuhi hari yang sukar memang sebahagian daripada hidup. Ingat, masa sukar tidak kekal, dan esok ialah permulaan hari yang baru!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Amazing, life is the best when you're feeling good.",
+      "quiz_1_feedback_2": "Everyone has times when they are not feeling good. This is completely normal. Hopefully you feel better soon.",
+      "quiz_1_feedback_3": "It is part of life to have bad days. Always remember, tough times never last and tomorrow is another day!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

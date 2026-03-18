@@ -33,28 +33,28 @@
       "id": "check_in_2",
       "_translatedFields": {
         "text_1": {
-          "eng": "Jom kita ambil sedikit masa untuk ANDA. Menjaga diri sendiri bermula dengan memerhatikan apa yang anda sedang rasakan."
+          "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Bagus sekali! Seronok dengar anda berada dalam keadaan yang positif."
+          "eng": "Great! So good to hear you are in a positive space."
         },
         "quiz_1_feedback_2": {
-          "eng": "Kadang‑kadang hari kita tak mudah. Itu normal. Dari situlah kita belajar dan berkembang sedikit demi sedikit."
+          "eng": "Things are not always easy. But that is how we can grow and learn every day!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Hidup memang boleh mencabar. Apa pun perasaan anda sekarang, anda boleh bangga dengan diri sendiri kerana tetap kuat dan teruskan sehingga ke hari ini."
+          "eng": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Jom kita ambil sedikit masa untuk ANDA. Menjaga diri sendiri bermula dengan memerhatikan apa yang anda sedang rasakan.",
+      "text_1": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Bagus sekali! Seronok dengar anda berada dalam keadaan yang positif.",
-      "quiz_1_feedback_2": "Kadang‑kadang hari kita tak mudah. Itu normal. Dari situlah kita belajar dan berkembang sedikit demi sedikit.",
-      "quiz_1_feedback_3": "Hidup memang boleh mencabar. Apa pun perasaan anda sekarang, anda boleh bangga dengan diri sendiri kerana tetap kuat dan teruskan sehingga ke hari ini.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Great! So good to hear you are in a positive space.",
+      "quiz_1_feedback_2": "Things are not always easy. But that is how we can grow and learn every day!",
+      "quiz_1_feedback_3": "Life can be hard. Whatever you are feeling, you can be proud of yourself for being here!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

@@ -33,28 +33,28 @@
       "id": "check_in_10",
       "_translatedFields": {
         "text_1": {
-          "eng": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa."
+          "eng": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Seronok dengar anda rasa baik hari ini. Anda memang luar biasa!"
+          "eng": "So good to hear you are feeling well today. You are incredible!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Kita semua ada hari yang kita sendiri pun tak pasti. Tak apa. Yang penting, anda tetap hadir di sini."
+          "eng": "We all have days where we just don’t know. That is okay! You are here and that is what matters."
         },
         "quiz_1_feedback_3": {
-          "eng": "Menjadi ibu bapa memang mencabar. Tetapi anda tetap di sini, dan itu menunjukkan anda mahu terus memperbaiki keadaan. Itu pun dah pencapaian besar!"
+          "eng": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa.",
+      "text_1": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Seronok dengar anda rasa baik hari ini. Anda memang luar biasa!",
-      "quiz_1_feedback_2": "Kita semua ada hari yang kita sendiri pun tak pasti. Tak apa. Yang penting, anda tetap hadir di sini.",
-      "quiz_1_feedback_3": "Menjadi ibu bapa memang mencabar. Tetapi anda tetap di sini, dan itu menunjukkan anda mahu terus memperbaiki keadaan. Itu pun dah pencapaian besar!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "So good to hear you are feeling well today. You are incredible!",
+      "quiz_1_feedback_2": "We all have days where we just don’t know. That is okay! You are here and that is what matters.",
+      "quiz_1_feedback_3": "Being a parent can be hard. But you are here and that shows you want to keep improving things. That is a big accomplishment already!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

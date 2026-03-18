@@ -33,28 +33,28 @@
       "id": "check_in_5",
       "_translatedFields": {
         "text_1": {
-          "eng": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!"
+          "eng": "Looking after yourself matters. And how you feel matters too!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!"
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian."
+          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
         },
         "quiz_1_feedback_3": {
-          "eng": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda."
+          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Menjaga diri sendiri itu penting. Dan perasaan anda juga penting!",
+      "text_1": "Looking after yourself matters. And how you feel matters too!",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Bagus! Seronok dengar anda berada dalam keadaan yang baik hari ini. Itu satu perasaan yang sangat menyenangkan!",
-      "quiz_1_feedback_2": "Kadang‑kadang semuanya berjalan lancar. Kadang‑kadang tidak. Dan ada masa kita sendiri pun tak pasti apa yang kita rasa… dan itu memang normal. Ingat, anda tidak bersendirian.",
-      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Anda layak mendapat perkara yang baik, dan @global.app_name ada di sini untuk menyokong dalam setiap langkah anda.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
+      "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
+      "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

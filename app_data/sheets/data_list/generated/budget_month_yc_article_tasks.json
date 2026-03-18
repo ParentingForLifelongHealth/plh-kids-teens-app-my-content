@@ -8,50 +8,66 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Tiada perasaan yang betul atau salah. Apa sahaja yang anda rasa sekarang, itu semua okey.",
+      "text_1": "There is no right or wrong way to feel. However you are feeling, it is okay.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Tiada perasaan yang betul atau salah. Apa sahaja yang anda rasa sekarang, itu semua okey."
+          "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
         },
         "quiz_1_feedback_1": {
-          "eng": "Bagus kerana anda sedar dengan perasaan sendiri. Seronok dengar anda berasa baik hari ini!"
+          "eng": "Well done for recognising how you feel. Good to hear that you are feeling well today!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Semua orang ada hari yang baik dan hari yang sukar. Ingat, anda ialah ibu bapa terbaik untuk anak remaja anda dan anda layak dipuji!"
+          "eng": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Kadang-kadang memang susah nak hadapi semua yang berlaku dalam hidup. Ingat, anda lebih kuat daripada yang anda sangkakan!"
+          "eng": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
-      "quiz_1_feedback_1": "Bagus kerana anda sedar dengan perasaan sendiri. Seronok dengar anda berasa baik hari ini!",
-      "quiz_1_feedback_2": "Semua orang ada hari yang baik dan hari yang sukar. Ingat, anda ialah ibu bapa terbaik untuk anak remaja anda dan anda layak dipuji!",
-      "quiz_1_feedback_3": "Kadang-kadang memang susah nak hadapi semua yang berlaku dalam hidup. Ingat, anda lebih kuat daripada yang anda sangkakan!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Well done for recognising how you feel. Good to hear that you are feeling well today!",
+      "quiz_1_feedback_2": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!",
+      "quiz_1_feedback_3": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "category_id": "check_in",
       "nested": false,
       "completed": false

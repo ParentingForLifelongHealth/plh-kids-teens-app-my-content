@@ -8,50 +8,66 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Penjagaan diri ialah salah satu alat penting dalam keibubapaan. Ia bermula dengan mengenali apa yang kita rasa.",
+      "text_1": "Self-care is a key parenting tool. It starts with recognising how we feel.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Penjagaan diri ialah salah satu alat penting dalam keibubapaan. Ia bermula dengan mengenali apa yang kita rasa."
+          "eng": "Self-care is a key parenting tool. It starts with recognising how we feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Syabas. Hebatlah kerana anda menggunakan aplikasi ini. Ia menunjukkan komitmen anda sebagai ibu bapa. Beri diri anda pujian atas usaha yang anda lakukan."
+          "eng": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing."
         },
         "quiz_1_feedback_2": {
-          "eng": "Setiap hari ada naik dan turunnya. Puji diri anda kerana hadir dan terus mencuba. Anda sedang bergerak ke hadapan!"
+          "eng": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward."
         },
         "quiz_1_feedback_3": {
-          "eng": "Maaf kerana keadaan terasa sukar sekarang. Tarik nafas dalam‑dalam dan ingat bahawa anda dihargai."
+          "eng": "Sorry that things are difficult right now. Take a deep breath and know that you are valued."
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
-      "quiz_1_feedback_1": "Syabas. Hebatlah kerana anda menggunakan aplikasi ini. Ia menunjukkan komitmen anda sebagai ibu bapa. Beri diri anda pujian atas usaha yang anda lakukan.",
-      "quiz_1_feedback_2": "Setiap hari ada naik dan turunnya. Puji diri anda kerana hadir dan terus mencuba. Anda sedang bergerak ke hadapan!",
-      "quiz_1_feedback_3": "Maaf kerana keadaan terasa sukar sekarang. Tarik nafas dalam‑dalam dan ingat bahawa anda dihargai.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Great. And amazing that you are using this app – it shows your commitment as a parent. Make sure you give yourself credit and praise for what you are doing.",
+      "quiz_1_feedback_2": "Every day has its highs and lows. Praise yourself for being here and trying – you are moving forward.",
+      "quiz_1_feedback_3": "Sorry that things are difficult right now. Take a deep breath and know that you are valued.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "category_id": "check_in",
       "nested": false,
       "completed": false

@@ -109,19 +109,6 @@
       }
     },
     {
-      "id": "teen_test",
-      "icon_asset": "images/icons/star_outline_blue.svg",
-      "title": "Teen Testimonial",
-      "_translations": {
-        "title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Teen Testimonial"
-        }
-      }
-    },
-    {
       "id": "notice",
       "icon_asset": "images/icons/pause.svg",
       "title": "Content Notice",

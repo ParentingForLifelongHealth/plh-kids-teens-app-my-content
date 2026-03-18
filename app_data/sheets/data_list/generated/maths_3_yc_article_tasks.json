@@ -33,28 +33,28 @@
       "id": "check_in_13",
       "_translatedFields": {
         "text_1": {
-          "eng": "Luangkan sedikit masa untuk diri anda dahulu."
+          "eng": "Take a moment for yourself first."
         },
         "quiz_1_feedback_1": {
-          "eng": "Seronok dengar anda berasa positif hari ini. Anda benar‑benar membawa perubahan untuk keluarga anda!"
+          "eng": "It is great to hear you are feeling positive today. You make a real difference for your family!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Dalam hidup ni, ada masa yang indah dan masa yang sukar. Itu sangat normal. Anda sedang berada di jalan yang benar."
+          "eng": "Life has its great and hard moments – that is okay. You are on the right track."
         },
         "quiz_1_feedback_3": {
-          "eng": "Memang normal untuk ada hari yang mencabar sebagai ibu bapa. Tarik nafas dalam‑dalam dan ingat bahawa anda tidak bersendirian."
+          "eng": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -62,24 +62,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Luangkan sedikit masa untuk diri anda dahulu.",
+      "text_1": "Take a moment for yourself first.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Seronok dengar anda berasa positif hari ini. Anda benar‑benar membawa perubahan untuk keluarga anda!",
-      "quiz_1_feedback_2": "Dalam hidup ni, ada masa yang indah dan masa yang sukar. Itu sangat normal. Anda sedang berada di jalan yang benar.",
-      "quiz_1_feedback_3": "Memang normal untuk ada hari yang mencabar sebagai ibu bapa. Tarik nafas dalam‑dalam dan ingat bahawa anda tidak bersendirian.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "It is great to hear you are feeling positive today. You make a real difference for your family!",
+      "quiz_1_feedback_2": "Life has its great and hard moments – that is okay. You are on the right track.",
+      "quiz_1_feedback_3": "It is normal to have hard days as a parent. Take a deep breath and know you are not alone!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

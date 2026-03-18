@@ -8,50 +8,66 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Ingat bahawa diri ANDA penting! Mari kita periksa perasaan kita dahulu.",
+      "text_1": "Remember that YOU matter! Let’s check in with our emotions first.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Ingat bahawa diri ANDA penting! Mari kita periksa perasaan kita dahulu."
+          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
         },
         "quiz_1_feedback_1": {
-          "eng": "Tahniah kerana perasan perasaan yang positif. Seronok bila dengar anda rasa baik hari ini!"
+          "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Tahniah kerana perasan bahawa anda tidak berasa begitu baik. Jaga diri dan berbuat baiklah pada diri sendiri, anda layak untuk itu."
+          "eng": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
         },
         "quiz_1_feedback_3": {
-          "eng": "Tahniah kerana perasan perasaan yang mencabar itu. Kadang-kadang, tak apa untuk rasa tak okey. Ingat, @global.app_name sentiasa ada untuk menyokong anda."
+          "eng": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
-      "quiz_1_feedback_1": "Tahniah kerana perasan perasaan yang positif. Seronok bila dengar anda rasa baik hari ini!",
-      "quiz_1_feedback_2": "Tahniah kerana perasan bahawa anda tidak berasa begitu baik. Jaga diri dan berbuat baiklah pada diri sendiri, anda layak untuk itu.",
-      "quiz_1_feedback_3": "Tahniah kerana perasan perasaan yang mencabar itu. Kadang-kadang, tak apa untuk rasa tak okey. Ingat, @global.app_name sentiasa ada untuk menyokong anda.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
+      "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
+      "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "category_id": "check_in",
       "nested": false,
       "completed": false

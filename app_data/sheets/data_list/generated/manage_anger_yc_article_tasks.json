@@ -34,28 +34,28 @@
       "id": "check_in_11",
       "_translatedFields": {
         "text_1": {
-          "eng": "Meluangkan sedikit masa untuk DIRI ANDA SENDIRI memberi kesan besar kepada semua orang di sekeliling anda!"
+          "eng": "Taking a moment for YOU makes a big difference for everyone!"
         },
         "quiz_1_feedback_1": {
-          "eng": "Bagus kerana hari ini berjalan dengan baik. Apa satu perkara yang telah berjalan lancar hari ini? Jangan lupa puji diri anda untuk itu."
+          "eng": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
         },
         "quiz_1_feedback_2": {
-          "eng": "Setiap hari ada bahagian yang mudah dan bahagian yang sukar. Puji diri anda atas semua yang telah anda lakukan setakat ini. Anda memang hebat!"
+          "eng": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing."
         },
         "quiz_1_feedback_3": {
-          "eng": "Maaf dengar anda sedang melalui perasaan yang sukar hari ini. Tahniah kerana anda sedar perasaan itu dan cuba untuk bertenang serta berbuat baik pada diri sendiri. Anda sedang tunjukkan contoh yang baik kepada keluarga anda."
+          "eng": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -63,24 +63,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Meluangkan sedikit masa untuk DIRI ANDA SENDIRI memberi kesan besar kepada semua orang di sekeliling anda!",
+      "text_1": "Taking a moment for YOU makes a big difference for everyone!",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Bagus kerana hari ini berjalan dengan baik. Apa satu perkara yang telah berjalan lancar hari ini? Jangan lupa puji diri anda untuk itu.",
-      "quiz_1_feedback_2": "Setiap hari ada bahagian yang mudah dan bahagian yang sukar. Puji diri anda atas semua yang telah anda lakukan setakat ini. Anda memang hebat!",
-      "quiz_1_feedback_3": "Maaf dengar anda sedang melalui perasaan yang sukar hari ini. Tahniah kerana anda sedar perasaan itu dan cuba untuk bertenang serta berbuat baik pada diri sendiri. Anda sedang tunjukkan contoh yang baik kepada keluarga anda.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it.",
+      "quiz_1_feedback_2": "Every day has its good and hard parts. Praise yourself for everything you have done so far – you are amazing.",
+      "quiz_1_feedback_3": "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family.",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

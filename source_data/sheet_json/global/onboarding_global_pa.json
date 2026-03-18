@@ -37,7 +37,7 @@
     {
       "type": "declare_global_constant",
       "name": "onboarding_header_background_colour",
-      "value": "var(--ion-color-primary-800)",
+      "value": "var(--ion-color-gray-100)",
       "exclude_from_translation": true
     },
     {

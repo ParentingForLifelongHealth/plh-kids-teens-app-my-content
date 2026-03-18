@@ -9,6 +9,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "valid_faci_group_id_input",
+      "value": true
+    },
+    {
       "type": "title",
       "name": "title",
       "value": "@global.user_data_title",
@@ -52,8 +56,42 @@
       "exclude_from_translation": true
     },
     {
+      "type": "text",
+      "name": "question_faci_group_id",
+      "value": "@global.user_faciid_input_question",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "faci_group_id_input",
+      "value": "@fields.faci_group_id",
+      "condition": "!!@fields.faci_group_id",
+      "parameter_list": "placeholder: @global.placeholder_faci_group_id",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "faci_group_id_input",
+      "condition": "!@fields.faci_group_id",
+      "parameter_list": "placeholder: @global.placeholder_faci_group_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "valid_faci_group_id_input",
+      "value": "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "warning_faci_group_id_input",
+      "value": "@global.facilitator_input_restriction",
+      "style_list": "color: #FF0000;\nfont-size: 14px",
+      "condition": "!@local.valid_faci_group_id_input",
+      "exclude_from_translation": true
+    },
+    {
       "name": "completed_enabled",
-      "value": "!!@local.user_gender_select && !!@local.user_type_select",
+      "value": "!!@local.user_gender_select && !!@local.user_type_select && @local.valid_faci_group_id_input",
       "exclude_from_translation": true
     },
     {
@@ -69,7 +107,7 @@
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
-      "action_list": "click | set_field: user_gender: @local.user_gender_select;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: countdown_days: 7;\nclick | set_field: user_data_completed: true;\nclick | emit: server_sync;\nclick | emit: completed",
+      "action_list": "click | set_field: user_gender: @local.user_gender_select;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: faci_group_id: @local.faci_group_id_input;\nclick | set_field: countdown_days: 7;\nclick | set_field: user_data_completed: true;\nclick | emit: server_sync;\nclick | emit: completed",
       "condition": "@local.user_type_select != \"facilitator\"",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "exclude_from_translation": true

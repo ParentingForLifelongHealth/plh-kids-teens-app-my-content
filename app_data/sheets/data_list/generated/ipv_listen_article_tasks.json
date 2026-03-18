@@ -8,50 +8,66 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Menjaga diri sendiri dengan baik bermula dengan menyedari apa yang anda rasa.",
+      "text_1": "Looking after yourself well starts with noticing how you feel.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1": {
-          "eng": "Menjaga diri sendiri dengan baik bermula dengan menyedari apa yang anda rasa."
+          "eng": "Looking after yourself well starts with noticing how you feel."
         },
         "quiz_1_feedback_1": {
-          "eng": "Bagus sangat! Tahniah kerana ambil masa untuk diri sendiri dan keluarga. Banyak perkara yang telah anda capai."
+          "eng": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot."
         },
         "quiz_1_feedback_2": {
-          "eng": "Maaf kerana hari anda tidak begitu baik. Tahniah kerana tetap cuba memahami dan mengurus semuanya. @global.app_name ada di sini untuk membantu."
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help."
         },
         "quiz_1_feedback_3": {
-          "eng": "Menjadi ibu bapa memang mencabar. Tarik nafas dalam‑dalam dan hargai semua yang telah anda lakukan untuk keluarga anda. Anda layak dipuji."
+          "eng": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
-      "quiz_1_feedback_1": "Bagus sangat! Tahniah kerana ambil masa untuk diri sendiri dan keluarga. Banyak perkara yang telah anda capai.",
-      "quiz_1_feedback_2": "Maaf kerana hari anda tidak begitu baik. Tahniah kerana tetap cuba memahami dan mengurus semuanya. @global.app_name ada di sini untuk membantu.",
-      "quiz_1_feedback_3": "Menjadi ibu bapa memang mencabar. Tarik nafas dalam‑dalam dan hargai semua yang telah anda lakukan untuk keluarga anda. Anda layak dipuji.",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
+      "quiz_1_feedback_3": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "category_id": "check_in",
       "nested": false,
       "completed": false

@@ -34,28 +34,28 @@
       "id": "check_in_9",
       "_translatedFields": {
         "text_1": {
-          "eng": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri."
+          "eng": "Recognising how you feel is key to handling life well. Be real and kind to yourself."
         },
         "quiz_1_feedback_1": {
-          "eng": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri."
+          "eng": "You are a star. And you are making a real difference. You can be proud of yourself."
         },
         "quiz_1_feedback_2": {
-          "eng": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!"
+          "eng": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!"
+          "eng": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -63,24 +63,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan berbuat baiklah dengan diri sendiri.",
+      "text_1": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Anda memang hebat. Dan apa yang anda lakukan benar-benar memberi makna. Anda patut berbangga dengan diri sendiri.",
-      "quiz_1_feedback_2": "Setiap orang ada hari yang baik dan hari yang kurang baik. Tahniah kerana menggunakan aplikasi ini. Ia menunjukkan anda seorang ibu bapa yang bertanggungjawab. Jangan lupa puji diri sendiri!",
-      "quiz_1_feedback_3": "Maaf kerana hari ini terasa sukar. Semua ibu bapa pun melalui hari seperti ini. Anda sedang berusaha dan terus melangkah ke hadapan!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "You are a star. And you are making a real difference. You can be proud of yourself.",
+      "quiz_1_feedback_2": "Everyone has good and bad days. Well done for using this app. It shows you are a committed parent. Remember to praise yourself for it!",
+      "quiz_1_feedback_3": "Sorry that things are not easy today. All parents have these days. You are trying and moving forward!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {

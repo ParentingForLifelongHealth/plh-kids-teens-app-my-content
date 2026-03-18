@@ -34,28 +34,28 @@
       "id": "check_in_3",
       "_translatedFields": {
         "text_1": {
-          "eng": "Anda penting! Luangkan sedikit masa untuk periksa keadaan diri anda."
+          "eng": "You matter! Take a moment to check in with yourself."
         },
         "quiz_1_feedback_1": {
-          "eng": "Seronok dengar anda sedang berada dalam keadaan yang baik. Anda memang ibu bapa yang hebat!"
+          "eng": "Great to hear that you are doing well. You are a wonderful parent!"
         },
         "quiz_1_feedback_2": {
-          "eng": "Maaf kerana hari anda tidak begitu baik. Terima kasih kerana tetap berusaha dan cuba sedaya upaya. Tidak ada siapa yang ada jawapan untuk semua perkara, tetapi anda benar‑benar dah buat yang terbaik!"
+          "eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Maaf sebab hari anda agak sukar hari ini. Tahniah kerana anda tetap bangun setiap pagi dan terus mencuba, walaupun penat. Itu adalah keberanian dan ketabahan yang sebenar!"
+          "eng": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!"
         },
         "quiz_1_question": {
-          "eng": "Macam mana perasaan anda hari ini?"
+          "eng": "How are you feeling today?"
         },
         "quiz_1_option_1_text": {
-          "eng": "Gembira"
+          "eng": "Happy"
         },
         "quiz_1_option_2_text": {
-          "eng": "Biasa-biasa"
+          "eng": "Okay"
         },
         "quiz_1_option_3_text": {
-          "eng": "Sedih"
+          "eng": "Sad"
         }
       },
       "category_id": "check_in",
@@ -63,24 +63,40 @@
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
-      "text_1": "Anda penting! Luangkan sedikit masa untuk periksa keadaan diri anda.",
+      "text_1": "You matter! Take a moment to check in with yourself.",
       "_translations": {
-        "text_1": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_option_3_text": {}
+        "text_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
+        "quiz_1_option_1_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_2_text": {
+          "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        }
       },
-      "quiz_1_feedback_1": "Seronok dengar anda sedang berada dalam keadaan yang baik. Anda memang ibu bapa yang hebat!",
-      "quiz_1_feedback_2": "Maaf kerana hari anda tidak begitu baik. Terima kasih kerana tetap berusaha dan cuba sedaya upaya. Tidak ada siapa yang ada jawapan untuk semua perkara, tetapi anda benar‑benar dah buat yang terbaik!",
-      "quiz_1_feedback_3": "Maaf sebab hari anda agak sukar hari ini. Tahniah kerana anda tetap bangun setiap pagi dan terus mencuba, walaupun penat. Itu adalah keberanian dan ketabahan yang sebenar!",
-      "quiz_1_question": "Macam mana perasaan anda hari ini?",
-      "quiz_1_option_1_text": "Gembira",
-      "quiz_1_option_2_text": "Biasa-biasa",
-      "quiz_1_option_3_text": "Sedih",
+      "quiz_1_feedback_1": "Great to hear that you are doing well. You are a wonderful parent!",
+      "quiz_1_feedback_2": "Sorry that you are not having the best day. Well done for trying to figure everything out. Nobody has all the answers but you really do your best!",
+      "quiz_1_feedback_3": "Sorry to hear that you are not having a good day. Well done for getting up every morning and trying again, even when you are tired. That is real courage and dedication!",
+      "quiz_1_question": "How are you feeling today?",
+      "quiz_1_option_1_text": "Happy",
+      "quiz_1_option_2_text": "Okay",
+      "quiz_1_option_3_text": "Sad",
       "completed": false
     },
     {
