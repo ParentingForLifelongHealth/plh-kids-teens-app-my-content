@@ -3,11 +3,11 @@
     "data": [
       {
         "type": "accordion",
-        "count": 2
+        "count": 3
       },
       {
         "type": "accordion_section",
-        "count": 5
+        "count": 6
       },
       {
         "type": "animated_section",
@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 87
+        "count": 90
       },
       {
         "type": "combo_box",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 93
+        "count": 97
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 20
+        "count": 22
       },
       {
         "type": "items",
@@ -71,7 +71,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 293
+        "count": 294
       },
       {
         "type": "number_selector",
@@ -127,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3174
+        "count": 3242
       },
       {
         "type": "simple_checkbox",
@@ -143,11 +143,11 @@
       },
       {
         "type": "template",
-        "count": 974
+        "count": 1024
       },
       {
         "type": "text",
-        "count": 163
+        "count": 172
       },
       {
         "type": "text_area",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 785
+        "count": 787
       },
       {
         "type": "emit: force_reload",
@@ -223,7 +223,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 793
+        "count": 795
       },
       {
         "type": "feedback",
@@ -231,11 +231,11 @@
       },
       {
         "type": "go_to",
-        "count": 16
+        "count": 17
       },
       {
         "type": "nav_stack",
-        "count": 247
+        "count": 343
       },
       {
         "type": "pop_up",
@@ -264,6 +264,10 @@
       {
         "type": "set_local",
         "count": 60
+      },
+      {
+        "type": "share",
+        "count": 2
       },
       {
         "type": "task",
@@ -983,6 +987,11 @@
         "missing": true
       },
       {
+        "path": "images/icons/share.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
         "path": "images/logos/plh_logomark.png",
         "count": 1,
         "missing": true
@@ -1698,7 +1707,7 @@
       },
       {
         "path": "images/icons/diamond_blue.png",
-        "count": 94,
+        "count": 96,
         "size_kb": 4.7
       },
       {
@@ -1763,7 +1772,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 92,
+        "count": 94,
         "size_kb": 4.9
       },
       {
@@ -1908,7 +1917,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 92,
+        "count": 94,
         "size_kb": 5.1
       },
       {
@@ -2783,7 +2792,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 16
+        "total": 15
       },
       {
         "type": "data_list",
@@ -2793,16 +2802,6 @@
       {
         "type": "data_list",
         "subtype": "app_config_language_list",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "campaign_rows",
-        "total": 3
-      },
-      {
-        "type": "data_list",
-        "subtype": "campaign_schedule",
         "total": 1
       },
       {
@@ -3103,7 +3102,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 62
+        "total": 63
       },
       {
         "type": "global",
@@ -3123,12 +3122,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 133
+        "total": 138
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 814
+        "total": 863
       },
       {
         "type": "template",

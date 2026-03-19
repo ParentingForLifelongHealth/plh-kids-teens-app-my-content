@@ -206,18 +206,15 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "research_id_placeholder",
-      "value": "Research ID"
+      "name": "research_id_placeholder"
     },
     {
       "type": "declare_global_constant",
-      "name": "research_id_question",
-      "value": "Enter your research ID"
+      "name": "research_id_question"
     },
     {
       "type": "declare_global_constant",
-      "name": "research_id_invalid",
-      "value": "Incorrect Research ID. Try again."
+      "name": "research_id_invalid"
     },
     {
       "type": "declare_global_constant",

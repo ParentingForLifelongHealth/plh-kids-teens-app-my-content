@@ -60,6 +60,10 @@
       "value": "!@local.article_data.nested"
     },
     {
+      "name": "is_tips",
+      "value": false
+    },
+    {
       "type": "begin_display_group",
       "name": "dg_category_header_computations",
       "condition": "!!(@local.perform_category_header_computations)",
@@ -673,7 +677,7 @@
       "name": "nav_buttons",
       "value": "nav_buttons",
       "action_list": "completed | emit: completed; uncompleted | emit: uncompleted;",
-      "condition": "@local.show_nav_buttons",
+      "condition": "@local.show_nav_buttons && !@local.is_tips",
       "exclude_from_translation": true
     },
     {
