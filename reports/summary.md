@@ -11,7 +11,7 @@
 | audio | 3 |
 | button | 90 |
 | combo_box | 19 |
-| data_items | 120 |
+| data_items | 119 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 97 |
@@ -34,12 +34,12 @@
 | round_button | 14 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3242 |
+| set_variable | 3241 |
 | simple_checkbox | 1 |
 | task_card | 7 |
 | task_progress_bar | 5 |
 | template | 1024 |
-| text | 172 |
+| text | 170 |
 | text_area | 2 |
 | text_box | 18 |
 | text_bubble | 11 |
@@ -74,7 +74,7 @@
 | set_data | 79 |
 | set_field | 92 |
 | set_item | 70 |
-| set_local | 60 |
+| set_local | 59 |
 | share | 2 |
 | task | 2 |
 | user | 3 |
