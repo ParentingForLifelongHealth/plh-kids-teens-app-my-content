@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 120
+        "count": 119
       },
       {
         "type": "debug_toggle",
@@ -127,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3242
+        "count": 3241
       },
       {
         "type": "simple_checkbox",
@@ -147,7 +147,7 @@
       },
       {
         "type": "text",
-        "count": 172
+        "count": 170
       },
       {
         "type": "text_area",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 60
+        "count": 59
       },
       {
         "type": "share",
