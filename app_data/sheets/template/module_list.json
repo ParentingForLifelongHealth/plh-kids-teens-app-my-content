@@ -512,6 +512,9 @@
       "type": "data_items",
       "name": "core_courses",
       "value": "@data.courses",
+      "parameter_list": {
+        "filter": "@item.core"
+      },
       "condition": "@local.has_core_course > 0",
       "exclude_from_translation": true,
       "rows": [
@@ -665,6 +668,16 @@
             "fieldName": "courses"
           }
         ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.core",
+              "matchedExpression": "@item.core",
+              "type": "item",
+              "fieldName": "core"
+            }
+          ]
+        },
         "condition": [
           {
             "fullExpression": "@local.has_core_course > 0",
@@ -677,6 +690,9 @@
       "_dynamicDependencies": {
         "@data.courses": [
           "value"
+        ],
+        "@item.core": [
+          "parameter_list.filter"
         ],
         "@local.has_core_course": [
           "condition"
@@ -793,7 +809,7 @@
       "name": "other_courses",
       "value": "@data.courses",
       "parameter_list": {
-        "filter": "[@local.courses_not_done].includes(@item.id)"
+        "filter": "!@item.core && [@local.courses_not_done].includes(@item.id)"
       },
       "exclude_from_translation": true,
       "rows": [
@@ -985,13 +1001,19 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "[@local.courses_not_done].includes(@item.id)",
+              "fullExpression": "!@item.core && [@local.courses_not_done].includes(@item.id)",
+              "matchedExpression": "!@item.core",
+              "type": "item",
+              "fieldName": "core"
+            },
+            {
+              "fullExpression": "!@item.core && [@local.courses_not_done].includes(@item.id)",
               "matchedExpression": "@local.courses_not_done",
               "type": "local",
               "fieldName": "courses_not_done"
             },
             {
-              "fullExpression": "[@local.courses_not_done].includes(@item.id)",
+              "fullExpression": "!@item.core && [@local.courses_not_done].includes(@item.id)",
               "matchedExpression": "@item.id",
               "type": "item",
               "fieldName": "id"
@@ -1002,6 +1024,9 @@
       "_dynamicDependencies": {
         "@data.courses": [
           "value"
+        ],
+        "!@item.core": [
+          "parameter_list.filter"
         ],
         "@local.courses_not_done": [
           "parameter_list.filter"
