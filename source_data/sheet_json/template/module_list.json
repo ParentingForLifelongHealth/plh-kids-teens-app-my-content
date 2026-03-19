@@ -25,7 +25,7 @@
       "type": "data_items",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : has_core_course: @items.length;",
-      "parameter_list": "filter: @item.core &&  (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));"
+      "parameter_list": "filter: @item.core && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));"
     },
     {
       "type": "data_items",
