@@ -319,27 +319,15 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "research_id_placeholder",
-      "value": "Research ID",
-      "_translations": {
-        "value": {}
-      }
+      "name": "research_id_placeholder"
     },
     {
       "type": "declare_global_constant",
-      "name": "research_id_question",
-      "value": "Enter your research ID",
-      "_translations": {
-        "value": {}
-      }
+      "name": "research_id_question"
     },
     {
       "type": "declare_global_constant",
-      "name": "research_id_invalid",
-      "value": "Incorrect Research ID. Try again.",
-      "_translations": {
-        "value": {}
-      }
+      "name": "research_id_invalid"
     },
     {
       "type": "declare_global_constant",

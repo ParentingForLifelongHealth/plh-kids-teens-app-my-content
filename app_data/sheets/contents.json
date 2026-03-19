@@ -44,69 +44,6 @@
         "url": "https://docs.google.com/spreadsheets/d/10lPWemTYriCjsW3OncEBU0rlu9IbT34Q801-_9QPJak"
       }
     },
-    "nf_inactive_day": {
-      "flow_type": "data_list",
-      "flow_subtype": "campaign_rows",
-      "flow_name": "nf_inactive_day",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "data/MY notifications.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
-      },
-      "_metadata": {
-        "priority": {
-          "type": "number"
-        }
-      }
-    },
-    "nf_inactive_progress": {
-      "flow_type": "data_list",
-      "flow_subtype": "campaign_rows",
-      "flow_name": "nf_inactive_progress",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "data/MY notifications.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
-      },
-      "_metadata": {
-        "priority": {
-          "type": "number"
-        }
-      }
-    },
-    "nf_inactive_week_month": {
-      "flow_type": "data_list",
-      "flow_subtype": "campaign_rows",
-      "flow_name": "nf_inactive_week_month",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "data/MY notifications.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
-      },
-      "_metadata": {
-        "priority": {
-          "type": "number"
-        }
-      }
-    },
-    "nf_schedule_inactive": {
-      "flow_type": "data_list",
-      "flow_subtype": "campaign_schedule",
-      "flow_name": "nf_schedule_inactive",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "data/MY notifications.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
-      },
-      "_metadata": {
-        "time": {
-          "type": "object"
-        },
-        "delay": {
-          "type": "object"
-        }
-      }
-    },
     "characters": {
       "flow_type": "data_list",
       "flow_name": "characters",
@@ -172,15 +109,6 @@
         "completed": {
           "type": "boolean"
         }
-      }
-    },
-    "encouraging_messages": {
-      "flow_type": "data_list",
-      "flow_name": "encouraging_messages",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "data/MY notifications.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1C4ptxqEJ5gC_dzPKk_iCthdNMqqW3bE_8flhMUmpiDY"
       }
     },
     "activity_tasks": {
@@ -1139,6 +1067,7 @@
     "library_article": {
       "flow_type": "data_list",
       "flow_name": "library_article",
+      "data_list_name": "library_article",
       "flow_subtype": "library",
       "_source": {
         "name": "kids_teens_my",
@@ -4577,7 +4506,7 @@
       "flow_name": "gen_library_article",
       "parameter_list": {
         "input_data_list": "library_article",
-        "output_flow_name": "library_article_{@gen.id}",
+        "output_flow_name": "library_article_@gen.id",
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
@@ -4619,6 +4548,263 @@
         },
         {
           "flow_name": "library_article_support_7",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
+    },
+    "gen_library_essential_tools": {
+      "flow_type": "generator",
+      "flow_name": "gen_library_essential_tools",
+      "parameter_list": {
+        "input_data_list": "modules",
+        "output_flow_name": "library_article_{@gen.id}_tips_1",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/PLH articles template generators.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1ynKeAsmx46aHGzTbT1BaqRXDPi6cxbUOsovcu5c0rdU"
+      },
+      "_output_flows": [
+        {
+          "flow_name": "library_article_one_on_one_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_kind_to_me_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_give_praise_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_talk_feelings_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_spirituality_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_language_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_reading1_4to6_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_reading2_4to6_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_maths1_4to6_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_maths2_4to6_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_reading_2to3_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_maths_2_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_maths_3_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_school_3to6_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_play_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_learn_exp_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_toddle_change_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_young_change_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_child_change_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_manage_stress_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_keep_positive_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_routine_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_family_rules_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_know_role_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_redirect_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_ignore_demand_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_manage_anger_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_consequences_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_solve_problem_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_safe_2to5_yc_m_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_safe_2to5_yc_f_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_safe_6to9_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_com_safe_2to4_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_com_safe_5to9_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_crises_2to6_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_crises_7to9_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_online_safety_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_trust_online_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_nutrition_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_ipv_equals_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_ipv_supportive_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_ipv_sharing_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_ipv_conflicts_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_ipv_listen_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_budget_needs_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_budget_exp_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_budget_month_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "library_article_budget_save_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -7953,6 +8139,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_one_on_one_yc_tips_2",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_one_on_one_yc_home_activity_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -11205,6 +11396,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_one_on_one_yc_tips_2": {
+      "flow_name": "article_one_on_one_yc_tips_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_online_safety_yc_check_in_5": {
       "flow_name": "article_online_safety_yc_check_in_5",
       "flow_subtype": "generated",
@@ -12180,6 +12376,191 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "library_article_budget_exp_yc_tips_1": {
+      "flow_name": "library_article_budget_exp_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_budget_month_yc_tips_1": {
+      "flow_name": "library_article_budget_month_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_budget_needs_yc_tips_1": {
+      "flow_name": "library_article_budget_needs_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_budget_save_yc_tips_1": {
+      "flow_name": "library_article_budget_save_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_child_change_yc_tips_1": {
+      "flow_name": "library_article_child_change_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_com_safe_2to4_yc_tips_1": {
+      "flow_name": "library_article_com_safe_2to4_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_com_safe_5to9_yc_tips_1": {
+      "flow_name": "library_article_com_safe_5to9_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_consequences_yc_tips_1": {
+      "flow_name": "library_article_consequences_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_crises_2to6_yc_tips_1": {
+      "flow_name": "library_article_crises_2to6_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_crises_7to9_yc_tips_1": {
+      "flow_name": "library_article_crises_7to9_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_family_rules_yc_tips_1": {
+      "flow_name": "library_article_family_rules_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_give_praise_yc_tips_1": {
+      "flow_name": "library_article_give_praise_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_ignore_demand_yc_tips_1": {
+      "flow_name": "library_article_ignore_demand_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_ipv_conflicts_tips_1": {
+      "flow_name": "library_article_ipv_conflicts_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_ipv_equals_tips_1": {
+      "flow_name": "library_article_ipv_equals_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_ipv_listen_tips_1": {
+      "flow_name": "library_article_ipv_listen_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_ipv_sharing_tips_1": {
+      "flow_name": "library_article_ipv_sharing_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_ipv_supportive_tips_1": {
+      "flow_name": "library_article_ipv_supportive_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_keep_positive_yc_tips_1": {
+      "flow_name": "library_article_keep_positive_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_kind_to_me_yc_tips_1": {
+      "flow_name": "library_article_kind_to_me_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_know_role_yc_tips_1": {
+      "flow_name": "library_article_know_role_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_language_yc_tips_1": {
+      "flow_name": "library_article_language_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_learn_exp_yc_tips_1": {
+      "flow_name": "library_article_learn_exp_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_manage_anger_yc_tips_1": {
+      "flow_name": "library_article_manage_anger_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_manage_stress_yc_tips_1": {
+      "flow_name": "library_article_manage_stress_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_maths1_4to6_yc_tips_1": {
+      "flow_name": "library_article_maths1_4to6_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_maths2_4to6_yc_tips_1": {
+      "flow_name": "library_article_maths2_4to6_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_maths_2_yc_tips_1": {
+      "flow_name": "library_article_maths_2_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_maths_3_yc_tips_1": {
+      "flow_name": "library_article_maths_3_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_nutrition_yc_tips_1": {
+      "flow_name": "library_article_nutrition_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_one_on_one_yc_tips_1": {
+      "flow_name": "library_article_one_on_one_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_online_safety_yc_tips_1": {
+      "flow_name": "library_article_online_safety_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_play_yc_tips_1": {
+      "flow_name": "library_article_play_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_reading1_4to6_yc_tips_1": {
+      "flow_name": "library_article_reading1_4to6_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_reading2_4to6_yc_tips_1": {
+      "flow_name": "library_article_reading2_4to6_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_reading_2to3_yc_tips_1": {
+      "flow_name": "library_article_reading_2to3_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_redirect_yc_tips_1": {
+      "flow_name": "library_article_redirect_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "library_article_relax_3": {
       "flow_name": "library_article_relax_3",
       "flow_subtype": "generated",
@@ -12192,6 +12573,41 @@
     },
     "library_article_relax_9": {
       "flow_name": "library_article_relax_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_routine_yc_tips_1": {
+      "flow_name": "library_article_routine_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_safe_2to5_yc_f_tips_1": {
+      "flow_name": "library_article_safe_2to5_yc_f_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_safe_2to5_yc_m_tips_1": {
+      "flow_name": "library_article_safe_2to5_yc_m_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_safe_6to9_yc_tips_1": {
+      "flow_name": "library_article_safe_6to9_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_school_3to6_yc_tips_1": {
+      "flow_name": "library_article_school_3to6_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_solve_problem_yc_tips_1": {
+      "flow_name": "library_article_solve_problem_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_spirituality_yc_tips_1": {
+      "flow_name": "library_article_spirituality_yc_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -12227,6 +12643,26 @@
     },
     "library_article_support_7": {
       "flow_name": "library_article_support_7",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_talk_feelings_yc_tips_1": {
+      "flow_name": "library_article_talk_feelings_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_toddle_change_yc_tips_1": {
+      "flow_name": "library_article_toddle_change_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_trust_online_yc_tips_1": {
+      "flow_name": "library_article_trust_online_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "library_article_young_change_yc_tips_1": {
+      "flow_name": "library_article_young_change_yc_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -13554,6 +13990,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1SqgpcbW5RNRKq6NIKZre5Pc406U4z3VJHcfSNUBmTTs"
       }
     },
+    "intro_element": {
+      "flow_type": "template",
+      "flow_name": "intro_element",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/PLH article_elements.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1w1qIL_x4NSGwYa8Wlyg-iZxfkXKNRjcRq4WsK5OwHXg"
+      }
+    },
     "language_select": {
       "flow_type": "template",
       "flow_name": "language_select",
@@ -13612,13 +14057,22 @@
         "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
       }
     },
-    "library_article": {
+    "library_article_one": {
       "flow_type": "template",
-      "flow_name": "library_article",
+      "flow_name": "library_article_one",
       "_source": {
         "name": "kids_teens_global V2",
         "path": "templates/PLH activity library.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
+      }
+    },
+    "library_essential_tool": {
+      "flow_type": "template",
+      "flow_name": "library_essential_tool",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/PLH articles template generators.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1ynKeAsmx46aHGzTbT1BaqRXDPi6cxbUOsovcu5c0rdU"
       }
     },
     "library_section_essential_tools": {
@@ -13655,6 +14109,15 @@
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+      }
+    },
+    "message_element": {
+      "flow_type": "template",
+      "flow_name": "message_element",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/PLH article_elements.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1w1qIL_x4NSGwYa8Wlyg-iZxfkXKNRjcRq4WsK5OwHXg"
       }
     },
     "module": {
@@ -14828,6 +15291,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
       }
     },
+    "related_element": {
+      "flow_type": "template",
+      "flow_name": "related_element",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/PLH article_elements.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1w1qIL_x4NSGwYa8Wlyg-iZxfkXKNRjcRq4WsK5OwHXg"
+      }
+    },
     "relax": {
       "flow_type": "template",
       "flow_name": "relax",
@@ -14871,6 +15343,15 @@
         "name": "kids_global",
         "path": "templates/modules/articles.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1gfiZARKRfqyvaRg8AP20bi2D4K8NrCxmnW-3cMNhX2I"
+      }
+    },
+    "section_element": {
+      "flow_type": "template",
+      "flow_name": "section_element",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/PLH article_elements.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1w1qIL_x4NSGwYa8Wlyg-iZxfkXKNRjcRq4WsK5OwHXg"
       }
     },
     "section_header": {

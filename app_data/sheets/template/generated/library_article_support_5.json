@@ -6,7 +6,7 @@
     {
       "type": "template",
       "name": "library_article",
-      "value": "library_article",
+      "value": "library_article_one",
       "action_list": [
         {
           "trigger": "uncompleted",

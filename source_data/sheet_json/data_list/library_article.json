@@ -2,6 +2,7 @@
   "flow_type": "data_list",
   "flow_name": "library_article",
   "status": "released",
+  "data_list_name": "library_article",
   "flow_subtype": "library",
   "rows": [
     {

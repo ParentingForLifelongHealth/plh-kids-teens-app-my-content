@@ -27,8 +27,8 @@
     },
     {
       "type": "plh_bottom_nav",
-      "parameter_list": "button_list: @local.button_list;\nvariant: inverted;",
-      "style_list": "background-color: var(--ion-color-primary);"
+      "parameter_list": "button_list: @local.button_list_blue;",
+      "style_list": "background-color: var(--ion-color-primary-50);"
     }
   ]
 }
