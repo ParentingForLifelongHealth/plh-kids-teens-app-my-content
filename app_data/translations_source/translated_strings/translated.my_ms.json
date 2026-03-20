@@ -606,6 +606,12 @@
     "note": ""
   },
   {
+    "SourceText": "Welcome to @global.parent_app. Click here to start your journey!",
+    "text": "Selamat datang ke @global.parent_app. Klik di sini untuk memulakan perjalanan anda!",
+    "type": "data_list",
+    "note": "The string @global.parent_app. should not be translated."
+  },
+  {
     "SourceText": "@data.characters.f1_father.name wants to help his young children learn about safe and unsafe touch. Lets see how he has the conversation with his young son, @data.characters.f1_son_5.name.",
     "text": "@data.characters.f1_father.name mahu membantu anak kecilnya belajar tentang sentuhan selamat dan sentuhan tidak selamat. Mari kita lihat cara dia berkomunikasi dengan anak lelakinya, @data.characters.f1_son_5.name.",
     "type": "data_list",
@@ -3576,6 +3582,12 @@
     "note": ""
   },
   {
+    "SourceText": "I think so",
+    "text": "Boleh rasanya",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "That's OK! If you don't have time today, you can set some time aside tomorrow.",
     "text": "Tak apa! Kalau tak sempat hari ini, luangkan sedikit masa esok ya.",
     "type": "data_list",
@@ -4066,6 +4078,12 @@
     "text": "@data.characters.f1_mother.name sedang membantu untuk membuat jadual tidur bersama anak perempuannya, @data.characters.f1_daughter_2.name. Mari lihat bagaimana mereka membuatnya bersama!",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f1_mother.name\n@data.characters.f1_daughter_2.name."
+  },
+  {
+    "SourceText": "Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?",
+    "text": "Wah, seronoknya kamu main blok itu, @data.characters.f1_daughter_2.name. Lagi 5 minit, kita akan mula bersiap untuk tidur ya?",
+    "type": "data_list",
+    "note": "The string @data.characters.f1_daughter_2.name. should not be translated."
   },
   {
     "SourceText": "Okay!",
@@ -5812,6 +5830,12 @@
     "text": "Apa yang telah terjadi, @data.characters.f3_son_7.name!? Tarik nafas dan beritahu Mummy.",
     "type": "data_list",
     "note": "The string @data.characters.f3_son_7.name!? should not be translated."
+  },
+  {
+    "SourceText": "Hi boy. You have such a nice smile and lovely straight hair. What’s your name?",
+    "text": "Hai adik. Manisnya muka adik, rambut adik pun lurus dan cantik. Siapa nama adik?",
+    "type": "data_list",
+    "note": ""
   },
   {
     "SourceText": "My name is @data.characters.f3_son_7.name.",
@@ -8250,6 +8274,12 @@
     "note": "The string @data.characters.f3_daughter_4.name should not be translated."
   },
   {
+    "SourceText": "It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me.",
+    "text": "Seronok melihat kamu bermain dengan tenang bersama telefon sementara Mummy mengemas meja makan, @data.characters.f3_daughter_4.name. 3 minit lagi sudah waktu tidur, nanti beri semula telefon tersebut kepada Mummy ya.",
+    "type": "data_list",
+    "note": "The string @data.characters.f3_daughter_4.name. should not be translated."
+  },
+  {
     "SourceText": "[After 3 minutes] 3 minutes is up, @data.characters.f3_daughter_4.name. Please give me back the phone.",
     "text": " [Selepas 3 minit] Dah cukup 3 minit ni, @data.characters.f3_daughter_4.name. Tolong pulangkan telefon kepada Mummy ya.",
     "type": "data_list",
@@ -8892,8 +8922,50 @@
     "note": ""
   },
   {
+    "SourceText": "Hello,",
+    "text": "Helo,",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Courses",
+    "text": "Kursus",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Finish the first course to unlock more",
+    "text": "Selesaikan kursus pertama untuk membuka kursus-kursus yang lain",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Additional courses will be available once your first course",
+    "text": "Kursus tambahan akan tersedia selepas anda menyelesaikan kursus pertama",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Completed courses",
+    "text": "Kursus Selesai",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Explore Courses",
     "text": "Terokai Kursus",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "COMPLETED",
+    "text": "SELESAI",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "LOCKED",
+    "text": "DIKUNCI",
     "type": "global",
     "note": ""
   },
@@ -8912,6 +8984,18 @@
   {
     "SourceText": "Review",
     "text": "Imbas Kembali",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Hooray, Congratulations",
+    "text": "Hore, Tahniah",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "You have completed all your parenting skills. Well done!",
+    "text": "Syabas! Anda telah menyelesaikan kesemua kemahiran keibubapaan anda. ",
     "type": "global",
     "note": ""
   },
