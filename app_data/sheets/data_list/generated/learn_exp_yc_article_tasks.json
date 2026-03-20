@@ -281,30 +281,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBvfcPmgp4k",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=JrILSs2Hs0k",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=RTeokD4fhFw",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Om65G8zF-P8",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "TALK"
         },
@@ -332,12 +314,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "TALK",
+      "text_1_facilitator": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -363,6 +344,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBvfcPmgp4k",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=JrILSs2Hs0k",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=RTeokD4fhFw",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Om65G8zF-P8",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "TALK",
       "section_1_text": "👂 Create space and time for your child to talk with you about their life. \n💙 If their day was challenging, give space to let them share and listen.\n💛 Give them support and show you care. Tell them, \"that sounds difficult.”",
       "section_2_title": "PRAISE EFFORT",
       "section_2_text": "💛 Praise your child for the effort they put into their learning even if they did not succeed.\n✨ Effort is more important than mastering a specific skill.",

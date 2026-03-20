@@ -211,37 +211,24 @@
       }
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRgWI-PAmr4",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=MZ4jRBXl8mk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=X0eYy0wHSYM",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=EgncrXcysVQ",
-      "nested": false,
-      "text_1_facilitator": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_5_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
-      "section_1_title": "EXPLAIN",
+      "text_1_facilitator": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -274,6 +261,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say."
+        },
         "section_1_title": {
           "eng": "EXPLAIN"
         },
@@ -305,6 +295,7 @@
           "eng": "🎈 Tell your child stories! They can be real, made up, about your lives, or read to them from books.\n😃 Encourage your child to tell stories too. You could show photos and create a story together!\n🔄 Be patient! It takes lots of practice to listen to stories, and even more to learn the skill of telling them. 💙"
         }
       },
+      "section_1_title": "EXPLAIN",
       "section_1_text": "😃 You can talk by describing and explaining what you are doing. For example, chat with them while shopping at the market. 🍅\n👂 Ask your child questions and listen to their answers!\n⏯️ Give your child learning opportunities at their own pace. When they have tasks that suit their abilities, it will boost their excitement for learning. 😃",
       "section_2_title": "ASK",
       "section_2_text": "💡 Ask questions that don’t have just ‘yes’ or ‘no’ answers.\n✨ Ask questions like, “What would you like to do with your friend later?” or, “What fun thing did you do in school today?”",

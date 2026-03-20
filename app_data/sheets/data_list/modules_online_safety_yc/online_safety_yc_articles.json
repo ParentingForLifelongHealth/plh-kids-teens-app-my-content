@@ -254,34 +254,21 @@
       "character_2_text": "That’s a lot, Mummy!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=2z9OKV3sciE",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=PEc30-fQC9Q",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eOI9y3sCv6g",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=vzvWQwwK3vw",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
       "text_1_facilitator": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST.",
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "nested": false,
-      "section_1_title": "LEARN the dangers of being online",
-      "_translations": {
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -296,6 +283,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST."
+        },
         "section_1_title": {
           "eng": "LEARN the dangers of being online"
         },
@@ -309,6 +299,7 @@
           "eng": "✅ Talk to your child about which apps and websites are safe and which are not. Discuss why!\n✅ Help your child learn how to make strong passwords to protect their devices. \n✅ Tell your child that they should keep personal information private, including photos or videos of themselves. What goes online, stays online!"
         }
       },
+      "section_1_title": "LEARN the dangers of being online",
       "section_1_text": "🚩 CONTENT: Your child might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries.\n🚩 CONTACT: Adults might pretend to be children and ask for sexual pictures or to meet with your child through an online platform.\n🚩 CONDUCT: Sometimes, children or strangers can say or do hurtful things online.",
       "section_2_title": "PROTECT and keep your child safe online",
       "section_2_text": "✅ Talk to your child about which apps and websites are safe and which are not. Discuss why!\n✅ Help your child learn how to make strong passwords to protect their devices. \n✅ Tell your child that they should keep personal information private, including photos or videos of themselves. What goes online, stays online!"

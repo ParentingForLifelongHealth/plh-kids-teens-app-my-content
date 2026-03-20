@@ -259,30 +259,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "⭐ Children who are praised for good behaviour will want to keep behaving well and keep receiving praise. \n\n4️⃣ Here are 4 simple tips for praising your child."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "⭐ Children who are praised for good behaviour will want to keep behaving well and keep receiving praise. \n\n4️⃣ Here are 4 simple tips for praising your child.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBOgkUkNj_U",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=lO655bJJBBU",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Cxafy5TZbjs",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=D_CuF6VCfmg",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "SEE IT"
         },
@@ -310,12 +292,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "SEE IT",
+      "text_1_facilitator": "⭐ Children who are praised for good behaviour will want to keep behaving well and keep receiving praise. \n\n4️⃣ Here are 4 simple tips for praising your child.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -341,6 +322,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBOgkUkNj_U",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=lO655bJJBBU",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Cxafy5TZbjs",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=D_CuF6VCfmg",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "SEE IT",
       "section_1_text": "👀 Look for anything good or helpful your child does.",
       "section_2_title": "SAY IT",
       "section_2_text": "🏆 Praise them and tell them specifically what they have done well.\n🎉 Be enthusiastic and really mean it!\n🔄 This means they are more likely to do it again.",

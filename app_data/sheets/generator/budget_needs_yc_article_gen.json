@@ -57,11 +57,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_budget_needs_yc_explore_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_budget_needs_yc_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"

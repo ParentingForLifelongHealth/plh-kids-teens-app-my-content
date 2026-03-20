@@ -68,18 +68,14 @@
       "character_2_text::eng": "Blue, pink, and yellow!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=OQvMrEhBrPo",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jYLnBe-kqBk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=SIi5encmnfc",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=SuAIBJyXz1M"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=SuAIBJyXz1M",
       "section_1_title::eng": "SHARE BOOKS ",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. Try to communicate in a way that your child can understand. \n⭐ Books with words help to understand letters and sounds!\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”",

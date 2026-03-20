@@ -29,7 +29,7 @@
       "name": "loop_1",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : hp_unlocked_ids : @items.map(item => item.id)",
-      "parameter_list": "filter: !!@item.completed_ts && window.date_fns.differenceInDays(new Date(),new Date(new Date(@item.completed_ts).setHours(0,0,0,0))) >= @local.countdown_days && (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag));\nsort: completed_ts;",
+      "parameter_list": "filter: !!@item.completed_ts && window.date_fns.differenceInDays(new Date(),new Date(new Date(@item.completed_ts).setHours(0,0,0,0))) >= @local.countdown_days;\nsort: completed_ts;",
       "exclude_from_translation": true
     },
     {
@@ -244,7 +244,75 @@
       "exclude_from_translation": true
     },
     {
+      "type": "text",
+      "value": "started_module_id: @local.started_module_id",
+      "condition": false,
       "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "started_module_title: @local.started_module_title",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "started_course_id: @local.started_course_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "started_date: @local.started_date",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "course_started_course_id: @local.course_started_course_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "course_started_module_id: @local.course_started_module_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "course_started_module_title: @local.course_started_module_title",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "course_finished_date: @local.course_finished_date",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "first_module_id: @local.first_module_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "first_module_title: @local.first_module_title",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "first_course_id: @local.first_course_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "module_id: @local.module_id",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "module_title: @local.module_title",
+      "condition": false
+    },
+    {
+      "type": "text",
+      "value": "course_id: @local.course_id",
+      "condition": false
     },
     {
       "name": "started_module_id_map",
@@ -268,42 +336,6 @@
     },
     {
       "name": "course_finished_date_map",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@calc(@local.started_module_id_map[@local.started_module_id_map.length - 1])",
-      "condition": false,
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@calc(@local.started_module_title_map[@local.started_module_title_map.length - 1])",
-      "condition": false,
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@calc(@local.started_course_id_map[@local.started_course_id_map.length - 1])",
-      "condition": false,
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@calc(@local.started_date_map[@local.started_date_map.length - 1])",
-      "condition": false,
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@calc(@local.course_started_course_id_map[@local.course_started_course_id_map.length - 1])",
-      "condition": false,
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@calc(@local.course_finished_date_map[@local.course_finished_date_map.length - 1])",
-      "condition": false,
       "exclude_from_translation": true
     },
     {
@@ -368,43 +400,6 @@
       "exclude_from_translation": true
     },
     {
-      "exclude_from_translation": true
-    },
-    {
-      "exclude_from_translation": true
-    },
-    {
-      "exclude_from_translation": true
-    },
-    {
-      "exclude_from_translation": true
-    },
-    {
-      "exclude_from_translation": true
-    },
-    {
-      "exclude_from_translation": true
-    },
-    {
-      "exclude_from_translation": true
-    },
-    {
-      "type": "data_items",
-      "name": "get_last_in_progress",
-      "value": "@data.module_tasks",
-      "action_list": "data_changed | set_local : started_module_id : @items[0]?.id;\ndata_changed | set_local : started_module_title : @items[0]?.title;\ndata_changed | set_local : started_course_id : @items[0]?.tag_course;\ndata_changed | set_local : started_date : @items[0]?.started_ts;",
-      "parameter_list": "filter: !!@item.started_ts && !@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: @item.started_ts DESC;\nlimit: 1;",
-      "condition": false,
-      "exclude_from_translation": true,
-      "comment": "filter: !@item.completed_ts &&  (!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag));\nsort: number;\nlimit: 1;"
-    },
-    {
-      "type": "data_items",
-      "name": "get_last_completed",
-      "value": "@data.module_tasks",
-      "action_list": "data_changed | set_local : course_started_course_id: @items[0]?.tag_course;\ndata_changed | set_local : course_finished_date: @items[0]?.completed_ts;",
-      "parameter_list": "filter: !!@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: completed_ts DESC;\nlimit: 1;",
-      "condition": false,
       "exclude_from_translation": true
     },
     {

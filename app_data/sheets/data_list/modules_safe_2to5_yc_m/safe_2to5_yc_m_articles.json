@@ -283,36 +283,23 @@
       "character_3_text": "I love you, @data.characters.f1_son_5.name. Now, let's give each other a big hug!"
     },
     {
-      "id": "explore_6",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "LEARN ABOUT PRIVATE PARTS",
+      "text_1_facilitator": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -339,6 +326,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛"
+        },
         "section_1_title": {
           "eng": "LEARN ABOUT PRIVATE PARTS"
         },
@@ -364,6 +354,7 @@
           "eng": "🔴 Tell your child that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust.\n👂 If your child tells you about something that has happened, listen openly and tell them they were right to tell you. Then, take steps to keep them safe."
         }
       },
+      "section_1_title": "LEARN ABOUT PRIVATE PARTS",
       "section_1_text": "✅ The parts of their body that go under people's underwear or a swimsuit are private parts. \n❌ It is not OK for other people to touch or to ask to look at them, or ask them to look at or touch theirs.",
       "section_2_title": "“NO” IS OK!",
       "section_2_text": "❌ Tell your child that they are always allowed to say no to someone touching them. This is true even for things like hugs!\n👑 This teaches your child that they are always in control of who they allow to touch them so they can make safe choices throughout their lives, in any situation.\n🚩 Practise saying “No, please don’t do that” and “No! Stop!” with your child, so they know how to do it if they need to.",

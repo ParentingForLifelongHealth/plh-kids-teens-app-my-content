@@ -220,36 +220,23 @@
       }
     },
     {
-      "id": "explore_7",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=bWXVD9qeKbY",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=eme_hm_V_lY",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=gfRZ3Kc7JxQ",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=KK-QsIhYOiA",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "BREATHE: Take a pause",
+      "text_1_facilitator": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -276,6 +263,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four things you can do to support your child when they share something difficult with you:"
+        },
         "section_1_title": {
           "eng": "BREATHE: Take a pause"
         },
@@ -301,6 +291,7 @@
           "eng": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🎈 Remind your child again that you love them, and thank them for sharing with you."
         }
       },
+      "section_1_title": "BREATHE: Take a pause",
       "section_1_text": "🌱 Take a deep breath so you can respond calmly.\n💛 Ask yourself, “What does my child need right now?”",
       "section_2_title": "LISTEN: Ask your child what is going on",
       "section_2_text": "👂 Let your child share with you what they need.\n👀 Notice what they are feeling and tell them what you notice so they feel heard. \n💙 Tell your child that you are there for them and love them.\n😣 Both girls AND boys could face hard times and crisis situations. Remember to check-in with both.",

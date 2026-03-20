@@ -262,30 +262,11 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three tips on how to help your child follow instructions more often:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are three tips on how to help your child follow instructions more often:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=jRzMcicGdH0",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=nvus9O28N60",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=70sV9bX_ex8",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=86c9HK5IYVs",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "BE SPECIFIC"
         },
@@ -307,11 +288,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "BE SPECIFIC",
+      "text_1_facilitator": "3️⃣ Here are three tips on how to help your child follow instructions more often:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -331,6 +312,15 @@
           "my_ms": true
         }
       },
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=jRzMcicGdH0",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=nvus9O28N60",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=70sV9bX_ex8",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=86c9HK5IYVs",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "BE SPECIFIC",
       "section_1_text": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",
       "section_2_title": "BE REALISTIC",
       "section_2_text": "⭐Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",

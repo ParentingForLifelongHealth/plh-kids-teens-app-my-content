@@ -70,18 +70,14 @@
       "character_3_text::eng": "Can I put the seeds in?"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=TmP8z4FkcSA",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=loeYsLsEHnc",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=XGSNvlG2uxU",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=gYky3nucVZ8"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=gYky3nucVZ8",
       "section_1_title::eng": "BE CALM",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "✅ Take a few breaths before asking your child to do something else.\n✅ Speak with a calm voice.",

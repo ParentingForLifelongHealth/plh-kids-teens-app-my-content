@@ -37,18 +37,14 @@
       "quiz_3_feedback_2::eng": "🎈 That’s right! \n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MZ6IU3GxCbw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jZYSdBIyi6o",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lxhMrVTn1H8",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Q6ZfYLMNJts"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Q6ZfYLMNJts",
       "section_1_title::eng": "BUILD HABITS to set up safe online habits",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "❌📱 Plan phone-free times in your house, like during meals, homework, or in bed.\n⭐ Only let your child chat online with people they already know. They should never share personal information in a chat room or with strangers.\n👀 Check that web addresses begin with https://. Websites that begin with http:// may not be secure.\n📝 For older children, help them create strong passwords for their accounts. They should be long, contain both upper and lower case letters, numbers and symbols, and should not include obvious personal information. \n❗ Tell your child not to click on pop-ups that ask them to download or pay for anything.",

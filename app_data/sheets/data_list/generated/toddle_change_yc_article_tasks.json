@@ -317,30 +317,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=RuVI5gr_7YM",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=VpZqWnowxxw",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=YaPYisfLOBQ",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=JPWfycYnAhA",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "BE PATIENT"
         },
@@ -362,11 +344,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "BE PATIENT",
+      "text_1_facilitator": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -386,6 +368,14 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=RuVI5gr_7YM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=VpZqWnowxxw",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=YaPYisfLOBQ",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=JPWfycYnAhA",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "BE PATIENT",
       "section_1_text": "⏰ Learning new things takes time. your child may struggle at first - and that’s OK! With time and practise, they will succeed. \n⭐ You can also help by breaking large tasks into smaller ones, and with words of encouragement.\n🌷 your child may have big emotions. This is OK! In time, your child will learn to manage their emotions.",
       "section_2_title": "EXPLORE SAFELY",
       "section_2_text": "🚲 As your child grows, they will become more curious. Let them explore while you keep an eye on their safety! 🌱 If your child wants to do tasks on their own, such as tying their own shoelaces or combing their own hair, you can teach them and help them do it safely.",

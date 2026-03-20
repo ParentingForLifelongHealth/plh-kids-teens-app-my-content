@@ -62,18 +62,14 @@
       "character_3_id": "Well done, @data.characters.f3_son_7.name. Thank you for working with me to find a solution that works. Now you can be well-rested for tomorrow!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=dwJ6dVpjovw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=3PdmQPtp9i0",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=IIIYvG82sjY",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=T0tBQ675lM0"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=T0tBQ675lM0",
       "section_1_title::eng": "KNOW IT",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "💡 Put the problem into words.\n👂 Talk to your child about what the problem is.",

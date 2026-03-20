@@ -151,36 +151,23 @@
       "quiz_3_feedback_2": "🎈 That’s right! \n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MZ6IU3GxCbw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jZYSdBIyi6o",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lxhMrVTn1H8",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=Q6ZfYLMNJts",
-      "nested": false,
-      "text_1_facilitator": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
-      "section_1_title": "BUILD HABITS to set up safe online habits",
+      "text_1_facilitator": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -201,6 +188,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "You’ve already learned ways to protect your child online with 1️⃣ LEARN and 2️⃣ PROTECT in the previous lesson.\n\nToday, you will learn how to 3️⃣ BUILD HABITS and 4️⃣ BUILD TRUST."
+        },
         "section_1_title": {
           "eng": "BUILD HABITS to set up safe online habits"
         },
@@ -220,6 +210,7 @@
           "eng": "BE KIND"
         }
       },
+      "section_1_title": "BUILD HABITS to set up safe online habits",
       "section_1_text": "❌📱 Plan phone-free times in your house, like during meals, homework, or in bed.\n⭐ Only let your child chat online with people they already know. They should never share personal information in a chat room or with strangers.\n👀 Check that web addresses begin with https://. Websites that begin with http:// may not be secure.\n📝 For older children, help them create strong passwords for their accounts. They should be long, contain both upper and lower case letters, numbers and symbols, and should not include obvious personal information. \n❗ Tell your child not to click on pop-ups that ask them to download or pay for anything.",
       "section_2_title": "BUILD TRUST",
       "section_2_text": "🌷 Together, look at websites, social media, games, and apps your child uses. \n👂 Ask questions - this helps you learn more about your child’s interests!\n💙 If you come across anything worrying together, talk about it with your child.\n✅ Tell your child that they should tell an adult if they feel scared, unsafe or upset about something online.",

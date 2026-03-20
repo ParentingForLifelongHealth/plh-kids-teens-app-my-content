@@ -62,18 +62,14 @@
       "character_1_text::eng": "What is the first sound of “balloon”? “B”? That’s right, this letter makes the sound “B”! Can you think of any other words that start with “B”? Yes! “Ball also starts with “B”. If you can’t think of any more I can help! What about “basket”?"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=WUdUm4tjdUg",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=9HZErFXO3i4",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eqv4srsu8nM",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tp-ZJWifUNc"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tp-ZJWifUNc",
       "section_1_title::eng": "MAKE ROUTINES",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📖 You can share books with your child anywhere - in the living room or bedroom, for example! \nGet rid of any distractions (like the TV 📺❌). \n⏰ Pick a time every day when you can share books with your child. \n💡 If your child wants to, let them choose a book 😃\n✨ If you don’t have any books - you can use anything with words and pictures, like old magazines or newspapers!",

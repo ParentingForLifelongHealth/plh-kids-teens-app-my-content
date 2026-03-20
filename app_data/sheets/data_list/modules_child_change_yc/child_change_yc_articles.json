@@ -258,35 +258,20 @@
       "character_3_text": "That was fun! Let’s do it again!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=5i0WNL6W9a4",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=Ex-ePqii8-o",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=tm4AwAJNMQ8",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=QwNwRcv1DYg",
-      "nested": false,
-      "text_1_facilitator": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚"
-        }
-      }
-    },
-    {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "image_asset": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=5i0WNL6W9a4",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ex-ePqii8-o",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tm4AwAJNMQ8",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
-      "section_1_title": "FIND FRIENDS",
+      "media_title": "youtube",
       "_translations": {
+        "media_title": {},
+        "quiz_1_question": {},
         "section_1_title": {
           "my_ms": true
         },
@@ -307,6 +292,12 @@
         }
       },
       "_translatedFields": {
+        "media_title": {
+          "eng": "youtube"
+        },
+        "quiz_1_question": {
+          "eng": "https://www.youtube.com/watch?v=QwNwRcv1DYg"
+        },
         "section_1_title": {
           "eng": "FIND FRIENDS"
         },
@@ -326,6 +317,8 @@
           "eng": "📝 your child may begin making their own decisions and will want you to trust them. Listen to what they want and set rules that work for the family. \n🏆 Praise your child when they follow the rules!"
         }
       },
+      "quiz_1_question": "https://www.youtube.com/watch?v=QwNwRcv1DYg",
+      "section_1_title": "FIND FRIENDS",
       "section_1_text": "🎨 your child will want to spend time with other children. \n⚽ Support your child to make friends based on their interests - it’s great for them!\n💚 Help your child learn about sharing and playing with others in a safe and fun way.",
       "section_2_title": "SUPPORT CURIOSITY",
       "section_2_text": "📖 your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",

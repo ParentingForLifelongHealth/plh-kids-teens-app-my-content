@@ -3452,11 +3452,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_budget_needs_yc_explore_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_budget_needs_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3511,11 +3506,6 @@
         },
         {
           "flow_name": "article_budget_save_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_budget_save_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3835,11 +3825,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_child_change_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_child_change_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3894,11 +3879,6 @@
         },
         {
           "flow_name": "article_com_safe_2to4_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_com_safe_2to4_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -3966,11 +3946,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_com_safe_5to9_yc_explore_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_com_safe_5to9_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4029,11 +4004,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_consequences_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_consequences_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4088,11 +4058,6 @@
         },
         {
           "flow_name": "article_crises_2to6_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_crises_2to6_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -4165,11 +4130,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_crises_7to9_yc_explore_7",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_crises_7to9_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4224,11 +4184,6 @@
         },
         {
           "flow_name": "article_family_rules_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_family_rules_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -6800,11 +6755,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_give_praise_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_give_praise_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -6859,11 +6809,6 @@
         },
         {
           "flow_name": "article_ignore_demand_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_ignore_demand_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -6926,11 +6871,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_ipv_conflicts_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_ipv_conflicts_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -6989,11 +6929,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_ipv_equals_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_ipv_equals_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7047,11 +6982,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_ipv_listen_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_ipv_listen_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7101,11 +7031,6 @@
         },
         {
           "flow_name": "article_ipv_sharing_explore_3",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_ipv_sharing_explore_4",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7168,11 +7093,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_ipv_supportive_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_ipv_supportive_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7231,11 +7151,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_keep_positive_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_keep_positive_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7289,11 +7204,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_kind_to_me_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_kind_to_me_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7328,11 +7238,6 @@
         },
         {
           "flow_name": "article_know_role_yc_intro_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_know_role_yc_explore_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7395,11 +7300,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_language_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_language_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7454,11 +7354,6 @@
         },
         {
           "flow_name": "article_learn_exp_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_learn_exp_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7521,11 +7416,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_manage_anger_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_manage_anger_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7555,11 +7445,6 @@
       "_output_flows": [
         {
           "flow_name": "article_manage_stress_yc_intro_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_manage_stress_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7598,11 +7483,6 @@
         },
         {
           "flow_name": "article_maths1_4to6_yc_intro_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_maths1_4to6_yc_explore_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -7660,11 +7540,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_maths2_4to6_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_maths2_4to6_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7703,11 +7578,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_maths_2_yc_explore_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_maths_2_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -7742,11 +7612,6 @@
         },
         {
           "flow_name": "article_maths_3_yc_intro_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_maths_3_yc_explore_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8066,11 +7931,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_nutrition_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_nutrition_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8129,17 +7989,7 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_one_on_one_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_one_on_one_yc_tips_1",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_one_on_one_yc_tips_2",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8193,11 +8043,6 @@
         },
         {
           "flow_name": "article_online_safety_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_online_safety_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8260,11 +8105,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_play_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_play_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8323,11 +8163,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_reading1_4to6_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_reading1_4to6_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8362,11 +8197,6 @@
         },
         {
           "flow_name": "article_reading2_4to6_yc_intro_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_reading2_4to6_yc_explore_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8429,11 +8259,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_reading_2to3_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_reading_2to3_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8488,11 +8313,6 @@
         },
         {
           "flow_name": "article_redirect_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_redirect_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8560,11 +8380,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_routine_yc_explore_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_routine_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8624,11 +8439,6 @@
         },
         {
           "flow_name": "article_safe_2to5_yc_f_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_safe_2to5_yc_f_explore_6",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8696,11 +8506,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_safe_2to5_yc_m_explore_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_safe_2to5_yc_m_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8759,11 +8564,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_safe_6to9_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_safe_6to9_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8798,11 +8598,6 @@
         },
         {
           "flow_name": "article_school_3to6_yc_intro_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_school_3to6_yc_explore_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8860,11 +8655,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_solve_problem_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_solve_problem_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -8914,11 +8704,6 @@
         },
         {
           "flow_name": "article_spirituality_yc_explore_3",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_spirituality_yc_explore_4",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -9043,11 +8828,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_talk_feelings_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_talk_feelings_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -9106,11 +8886,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_toddle_change_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_toddle_change_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -9145,11 +8920,6 @@
         },
         {
           "flow_name": "article_trust_online_yc_intro_2",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_trust_online_yc_explore_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -9208,11 +8978,6 @@
         },
         {
           "flow_name": "article_young_change_yc_explore_4",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "article_young_change_yc_explore_5",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -9941,11 +9706,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_budget_needs_yc_explore_1": {
-      "flow_name": "article_budget_needs_yc_explore_1",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_budget_needs_yc_home_activity_1": {
       "flow_name": "article_budget_needs_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -9988,11 +9748,6 @@
     },
     "article_budget_save_yc_explore_4": {
       "flow_name": "article_budget_save_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_budget_save_yc_explore_5": {
-      "flow_name": "article_budget_save_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10046,11 +9801,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_child_change_yc_explore_5": {
-      "flow_name": "article_child_change_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_child_change_yc_home_activity_1": {
       "flow_name": "article_child_change_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10098,11 +9848,6 @@
     },
     "article_com_safe_2to4_yc_explore_4": {
       "flow_name": "article_com_safe_2to4_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_com_safe_2to4_yc_explore_5": {
-      "flow_name": "article_com_safe_2to4_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10161,11 +9906,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_com_safe_5to9_yc_explore_6": {
-      "flow_name": "article_com_safe_5to9_yc_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_com_safe_5to9_yc_home_activity_1": {
       "flow_name": "article_com_safe_5to9_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10216,11 +9956,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_consequences_yc_explore_5": {
-      "flow_name": "article_consequences_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_consequences_yc_home_activity_1": {
       "flow_name": "article_consequences_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10268,11 +10003,6 @@
     },
     "article_crises_2to6_yc_explore_4": {
       "flow_name": "article_crises_2to6_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_crises_2to6_yc_explore_5": {
-      "flow_name": "article_crises_2to6_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10336,11 +10066,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_crises_7to9_yc_explore_7": {
-      "flow_name": "article_crises_7to9_yc_explore_7",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_crises_7to9_yc_home_activity_1": {
       "flow_name": "article_crises_7to9_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10388,11 +10113,6 @@
     },
     "article_family_rules_yc_explore_4": {
       "flow_name": "article_family_rules_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_family_rules_yc_explore_5": {
-      "flow_name": "article_family_rules_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10446,11 +10166,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_give_praise_yc_explore_5": {
-      "flow_name": "article_give_praise_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_give_praise_yc_home_activity_1": {
       "flow_name": "article_give_praise_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10498,11 +10213,6 @@
     },
     "article_ignore_demand_yc_explore_4": {
       "flow_name": "article_ignore_demand_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_ignore_demand_yc_explore_5": {
-      "flow_name": "article_ignore_demand_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10556,11 +10266,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_ipv_conflicts_explore_5": {
-      "flow_name": "article_ipv_conflicts_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_ipv_conflicts_home_activity_1": {
       "flow_name": "article_ipv_conflicts_home_activity_1",
       "flow_subtype": "generated",
@@ -10611,11 +10316,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_ipv_equals_explore_5": {
-      "flow_name": "article_ipv_equals_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_ipv_equals_home_activity_1": {
       "flow_name": "article_ipv_equals_home_activity_1",
       "flow_subtype": "generated",
@@ -10661,11 +10361,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_ipv_listen_explore_4": {
-      "flow_name": "article_ipv_listen_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_ipv_listen_home_activity_1": {
       "flow_name": "article_ipv_listen_home_activity_1",
       "flow_subtype": "generated",
@@ -10708,11 +10403,6 @@
     },
     "article_ipv_sharing_explore_3": {
       "flow_name": "article_ipv_sharing_explore_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_ipv_sharing_explore_4": {
-      "flow_name": "article_ipv_sharing_explore_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10766,11 +10456,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_ipv_supportive_explore_5": {
-      "flow_name": "article_ipv_supportive_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_ipv_supportive_home_activity_1": {
       "flow_name": "article_ipv_supportive_home_activity_1",
       "flow_subtype": "generated",
@@ -10821,11 +10506,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_keep_positive_yc_explore_5": {
-      "flow_name": "article_keep_positive_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_keep_positive_yc_home_activity_1": {
       "flow_name": "article_keep_positive_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10871,11 +10551,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_kind_to_me_yc_explore_4": {
-      "flow_name": "article_kind_to_me_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_kind_to_me_yc_home_activity_1": {
       "flow_name": "article_kind_to_me_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -10903,11 +10578,6 @@
     },
     "article_know_role_yc_check_in_8": {
       "flow_name": "article_know_role_yc_check_in_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_know_role_yc_explore_1": {
-      "flow_name": "article_know_role_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -10961,11 +10631,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_language_yc_explore_5": {
-      "flow_name": "article_language_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_language_yc_home_activity_1": {
       "flow_name": "article_language_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11013,11 +10678,6 @@
     },
     "article_learn_exp_yc_explore_4": {
       "flow_name": "article_learn_exp_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_learn_exp_yc_explore_5": {
-      "flow_name": "article_learn_exp_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11071,11 +10731,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_manage_anger_yc_explore_5": {
-      "flow_name": "article_manage_anger_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_manage_anger_yc_home_activity_1": {
       "flow_name": "article_manage_anger_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11106,11 +10761,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_manage_stress_yc_explore_5": {
-      "flow_name": "article_manage_stress_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_manage_stress_yc_home_activity_1": {
       "flow_name": "article_manage_stress_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11133,11 +10783,6 @@
     },
     "article_maths1_4to6_yc_check_in_9": {
       "flow_name": "article_maths1_4to6_yc_check_in_9",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_maths1_4to6_yc_explore_1": {
-      "flow_name": "article_maths1_4to6_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11191,11 +10836,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_maths2_4to6_yc_explore_5": {
-      "flow_name": "article_maths2_4to6_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_maths2_4to6_yc_home_activity_1": {
       "flow_name": "article_maths2_4to6_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11218,11 +10858,6 @@
     },
     "article_maths_2_yc_check_in_12": {
       "flow_name": "article_maths_2_yc_check_in_12",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_maths_2_yc_explore_1": {
-      "flow_name": "article_maths_2_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11253,11 +10888,6 @@
     },
     "article_maths_3_yc_check_in_13": {
       "flow_name": "article_maths_3_yc_check_in_13",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_maths_3_yc_explore_1": {
-      "flow_name": "article_maths_3_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11311,11 +10941,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_nutrition_yc_explore_5": {
-      "flow_name": "article_nutrition_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_nutrition_yc_home_activity_1": {
       "flow_name": "article_nutrition_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11366,11 +10991,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_one_on_one_yc_explore_5": {
-      "flow_name": "article_one_on_one_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_one_on_one_yc_home_activity_1": {
       "flow_name": "article_one_on_one_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11396,11 +11016,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_one_on_one_yc_tips_2": {
-      "flow_name": "article_one_on_one_yc_tips_2",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_online_safety_yc_check_in_5": {
       "flow_name": "article_online_safety_yc_check_in_5",
       "flow_subtype": "generated",
@@ -11423,11 +11038,6 @@
     },
     "article_online_safety_yc_explore_4": {
       "flow_name": "article_online_safety_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_online_safety_yc_explore_5": {
-      "flow_name": "article_online_safety_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11481,11 +11091,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_play_yc_explore_5": {
-      "flow_name": "article_play_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_play_yc_home_activity_1": {
       "flow_name": "article_play_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11536,11 +11141,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_reading1_4to6_yc_explore_5": {
-      "flow_name": "article_reading1_4to6_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_reading1_4to6_yc_home_activity_1": {
       "flow_name": "article_reading1_4to6_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11568,11 +11168,6 @@
     },
     "article_reading2_4to6_yc_check_in_8": {
       "flow_name": "article_reading2_4to6_yc_check_in_8",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_reading2_4to6_yc_explore_1": {
-      "flow_name": "article_reading2_4to6_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11626,11 +11221,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_reading_2to3_yc_explore_5": {
-      "flow_name": "article_reading_2to3_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_reading_2to3_yc_home_activity_1": {
       "flow_name": "article_reading_2to3_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11678,11 +11268,6 @@
     },
     "article_redirect_yc_explore_4": {
       "flow_name": "article_redirect_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_redirect_yc_explore_5": {
-      "flow_name": "article_redirect_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11836,11 +11421,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_routine_yc_explore_6": {
-      "flow_name": "article_routine_yc_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_routine_yc_home_activity_1": {
       "flow_name": "article_routine_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -11893,11 +11473,6 @@
     },
     "article_safe_2to5_yc_f_explore_5": {
       "flow_name": "article_safe_2to5_yc_f_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_safe_2to5_yc_f_explore_6": {
-      "flow_name": "article_safe_2to5_yc_f_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -11956,11 +11531,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_safe_2to5_yc_m_explore_6": {
-      "flow_name": "article_safe_2to5_yc_m_explore_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_safe_2to5_yc_m_home_activity_1": {
       "flow_name": "article_safe_2to5_yc_m_home_activity_1",
       "flow_subtype": "generated",
@@ -12011,11 +11581,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_safe_6to9_yc_explore_5": {
-      "flow_name": "article_safe_6to9_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_safe_6to9_yc_home_activity_1": {
       "flow_name": "article_safe_6to9_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -12043,11 +11608,6 @@
     },
     "article_school_3to6_yc_check_in_14": {
       "flow_name": "article_school_3to6_yc_check_in_14",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_school_3to6_yc_explore_1": {
-      "flow_name": "article_school_3to6_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -12101,11 +11661,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_solve_problem_yc_explore_5": {
-      "flow_name": "article_solve_problem_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_solve_problem_yc_home_activity_1": {
       "flow_name": "article_solve_problem_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -12143,11 +11698,6 @@
     },
     "article_spirituality_yc_explore_3": {
       "flow_name": "article_spirituality_yc_explore_3",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_spirituality_yc_explore_4": {
-      "flow_name": "article_spirituality_yc_explore_4",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -12201,11 +11751,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_talk_feelings_yc_explore_5": {
-      "flow_name": "article_talk_feelings_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_talk_feelings_yc_home_activity_1": {
       "flow_name": "article_talk_feelings_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -12256,11 +11801,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_toddle_change_yc_explore_5": {
-      "flow_name": "article_toddle_change_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_toddle_change_yc_home_activity_1": {
       "flow_name": "article_toddle_change_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -12288,11 +11828,6 @@
     },
     "article_trust_online_yc_check_in_6": {
       "flow_name": "article_trust_online_yc_check_in_6",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_trust_online_yc_explore_1": {
-      "flow_name": "article_trust_online_yc_explore_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -12343,11 +11878,6 @@
     },
     "article_young_change_yc_explore_4": {
       "flow_name": "article_young_change_yc_explore_4",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_young_change_yc_explore_5": {
-      "flow_name": "article_young_change_yc_explore_5",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

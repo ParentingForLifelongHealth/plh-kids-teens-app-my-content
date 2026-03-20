@@ -56,18 +56,14 @@
       "character_1_text::eng": "You found the other striped sock! Well done for looking, @data.characters.f1_son_5.name!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "⭐ Children who are praised for good behaviour will want to keep behaving well and keep receiving praise. \n\n4️⃣ Here are 4 simple tips for praising your child.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBOgkUkNj_U",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=lO655bJJBBU",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Cxafy5TZbjs",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=D_CuF6VCfmg"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=D_CuF6VCfmg",
       "section_1_title::eng": "SEE IT",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "👀 Look for anything good or helpful your child does.",

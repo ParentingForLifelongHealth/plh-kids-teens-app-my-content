@@ -64,18 +64,14 @@
       "character_3_text::eng": "Of course, @data.characters.f3_daughter_4.name!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "2️⃣ Here are 2 tips on how you can make learning playful and fun with your child.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=qYY9RhUlIEo",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=clFRVXfo5DE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=x441Zcz19O0",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=ZO1myFxG1yE"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=ZO1myFxG1yE",
       "section_1_title::eng": "GET ACTIVE",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "⚽ Create time and have fun playing games with your child! \n🌱 This has benefits, like improving their physical and mental health, and helping them to learn and remember important facts better! \n⏰ If your child starts to feel overwhelmed, take a pause or play together to help calm them. \n💡 Take note of your child’s interests and use those in your play. This keeps them engaged! ",

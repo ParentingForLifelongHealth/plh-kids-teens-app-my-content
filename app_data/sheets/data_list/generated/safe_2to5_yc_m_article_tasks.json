@@ -382,30 +382,12 @@
       "completed": false
     },
     {
-      "id": "explore_6",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "LEARN ABOUT PRIVATE PARTS"
         },
@@ -433,12 +415,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "LEARN ABOUT PRIVATE PARTS",
+      "text_1_facilitator": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -464,6 +445,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "LEARN ABOUT PRIVATE PARTS",
       "section_1_text": "✅ The parts of their body that go under people's underwear or a swimsuit are private parts. \n❌ It is not OK for other people to touch or to ask to look at them, or ask them to look at or touch theirs.",
       "section_2_title": "“NO” IS OK!",
       "section_2_text": "❌ Tell your child that they are always allowed to say no to someone touching them. This is true even for things like hugs!\n👑 This teaches your child that they are always in control of who they allow to touch them so they can make safe choices throughout their lives, in any situation.\n🚩 Practise saying “No, please don’t do that” and “No! Stop!” with your child, so they know how to do it if they need to.",

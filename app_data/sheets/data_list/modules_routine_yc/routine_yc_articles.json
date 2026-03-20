@@ -192,35 +192,22 @@
       "character_2_text": "Yay!"
     },
     {
-      "id": "explore_6",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=8x8igGS7bkE",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=71tP14SQbLQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=H_LUe4FNuvs",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=OjmCGFsR3Ng",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are three tips on how to create routines with your child.",
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "3️⃣ Here are three tips on how to create routines with your child."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "nested": false,
-      "section_1_title": "BE A TEAM",
-      "_translations": {
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -241,6 +228,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are three tips on how to create routines with your child."
+        },
         "section_1_title": {
           "eng": "BE A TEAM"
         },
@@ -260,6 +250,7 @@
           "eng": "🎈 Praise your child for setting a routine with you.\n⭐ Praise your child when they follow the routine."
         }
       },
+      "section_1_title": "BE A TEAM",
       "section_1_text": "🎈 Talk to your child about how they’d like their routines to look like.\n✨ Did you know? When children help set routines, they’re more likely to stick to them—give it a try! 💚",
       "section_2_title": "BE CONSISTENT",
       "section_2_text": "⏰ Help your child follow their routines every day.\n🌱 Activities become easier to manage when children learn and get used to a routine.\n🔄 Consistent routines help your child learn about daily activities and how to manage their time.",

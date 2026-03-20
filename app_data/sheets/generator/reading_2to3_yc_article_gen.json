@@ -82,11 +82,6 @@
       "flow_type": "template"
     },
     {
-      "flow_name": "article_reading_2to3_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
       "flow_name": "article_reading_2to3_yc_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"

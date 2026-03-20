@@ -266,30 +266,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four simple ways you can become a more confident and supportive spouse AND parent."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four simple ways you can become a more confident and supportive spouse AND parent.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MWl4tOjnfts",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=XkOX8kzTd68",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=R9LSfSd1OQY",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=2RFp5Ev4lEM",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "SHOW APPRECIATION"
         },
@@ -317,12 +299,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "SHOW APPRECIATION",
+      "text_1_facilitator": "4️⃣ Here are four simple ways you can become a more confident and supportive spouse AND parent.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -348,6 +329,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MWl4tOjnfts",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=XkOX8kzTd68",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=R9LSfSd1OQY",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=2RFp5Ev4lEM",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "SHOW APPRECIATION",
       "section_1_text": "⚽ Show your spouse that you appreciate it when they spend quality time with your children.",
       "section_2_title": "WORK TOGETHER",
       "section_2_text": "😃 If you are unsure on how to work together with your spouse, ask them! \n✅ By asking, you show that you care and want to be involved!",

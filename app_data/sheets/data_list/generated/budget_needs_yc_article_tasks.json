@@ -97,30 +97,11 @@
       "completed": false
     },
     {
-      "id": "explore_1",
+      "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are the three steps to start your family budget!"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=R2Zk9WOfcEU",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=7g3qYpFXPwQ",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ko0pVlKRisE",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=eNmGxjAsasI",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "IDENTIFY NEEDS"
         },
@@ -142,11 +123,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "IDENTIFY NEEDS",
+      "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -166,6 +147,15 @@
           "my_ms": true
         }
       },
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=R2Zk9WOfcEU",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=7g3qYpFXPwQ",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ko0pVlKRisE",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=eNmGxjAsasI",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "IDENTIFY NEEDS",
       "section_1_text": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
       "section_2_title": "IDENTIFY WANTS",
       "section_2_text": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",

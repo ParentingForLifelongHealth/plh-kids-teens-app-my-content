@@ -17,18 +17,14 @@
       "text_2::eng": "Managing how money is spent is important to ensure that parents are able to provide for our children. 💛\n\nWhen money is tight, this can create feelings of anxiety, stress and sadness. 😒😔😣\n\nBut even small steps toward budgeting can help you feel more in control and reduce stress. 🌟"
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "3️⃣ Here are the three steps to start your family budget!",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=R2Zk9WOfcEU",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=7g3qYpFXPwQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ko0pVlKRisE",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=eNmGxjAsasI"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=eNmGxjAsasI",
       "section_1_title::eng": "IDENTIFY NEEDS",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",

@@ -84,18 +84,14 @@
       "character_3_text::eng": "I love you, @data.characters.f3_daughter_4.name. Now, let's give each other a big hug!"
     },
     {
-      "id": "explore_6",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Do93ZmMy_BM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=kT5rovvmG9Y",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=XRx-OPsfpvA",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=X_Q64iyXBJ8",
       "section_1_title::eng": "LEARN ABOUT PRIVATE PARTS",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "✅ The parts of their body that go under people's underwear or a swimsuit are private parts. \n❌ It is not OK for other people to touch or to ask to look at them, or ask them to look at or touch theirs.",

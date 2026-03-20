@@ -61,18 +61,14 @@
       "character_2_text::eng": "Yes, I should have listened. I continued running even after you said so."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=CBvfcPmgp4k",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=JrILSs2Hs0k",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=RTeokD4fhFw",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Om65G8zF-P8"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Om65G8zF-P8",
       "section_1_title::eng": "TALK",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "👂 Create space and time for your child to talk with you about their life. \n💙 If their day was challenging, give space to let them share and listen.\n💛 Give them support and show you care. Tell them, \"that sounds difficult.”",

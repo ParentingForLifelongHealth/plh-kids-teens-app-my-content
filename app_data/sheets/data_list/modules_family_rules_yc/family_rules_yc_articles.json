@@ -227,36 +227,23 @@
       "character_2_text": "Really?? Thank you, Ibu!!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=SZ0YjLm-ka0",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=DBvnp8K_fB4",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lvzyXJUed68",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=6VYlRMoPtoY",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four easy tips to help you make family rules with your child:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four easy tips to help you make family rules with your child:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "BE A TEAM",
+      "text_1_facilitator": "4️⃣ Here are four easy tips to help you make family rules with your child:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -283,6 +270,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four easy tips to help you make family rules with your child:"
+        },
         "section_1_title": {
           "eng": "BE A TEAM"
         },
@@ -308,6 +298,7 @@
           "eng": "⭐ Praise your child for helping make the rule. \n😃 Praise your child when they follow the rule, just like you do when they behave well!"
         }
       },
+      "section_1_title": "BE A TEAM",
       "section_1_text": "📝 Create rules with your child. You can write these down or use pictures when needed to help your Child understand.\n⏸ Make one rule at a time.\n🔑 Talk about why the rule is important.\n👂 Listen to what your child thinks too.",
       "section_2_title": "KEEP IT REAL",
       "section_2_text": "⭐ Be realistic: make rules that your child can actually do.\n📖 Be clear and specific about what you want.\n✅ Make sure the rule is fair and explain why it is needed.",

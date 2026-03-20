@@ -255,30 +255,12 @@
       "completed": false
     },
     {
-      "id": "explore_4",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three steps to help you be kind to yourself: NOTICE, SAY IT’S OKAY, BE KIND."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are three steps to help you be kind to yourself: NOTICE, SAY IT’S OKAY, BE KIND.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=_WAfO4GbI0Y",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=IA0-hA3syqI",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=H36Z50DiVo0",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=HXPATOxztV4",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "NOTICE"
         },
@@ -300,11 +282,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "NOTICE",
+      "text_1_facilitator": "3️⃣ Here are three steps to help you be kind to yourself: NOTICE, SAY IT’S OKAY, BE KIND.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -324,6 +306,14 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=_WAfO4GbI0Y",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=IA0-hA3syqI",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=H36Z50DiVo0",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=HXPATOxztV4",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "NOTICE",
       "section_1_text": "😣 Sometimes, it seems easier to ignore negative feelings.\n❗But ignoring them only means they will come up later or get worse!\n🚩 When you feel any negative emotion, notice what you are feeling. \n⭐ It can be helpful to name this feeling for yourself.",
       "section_2_title": "SAY IT'S OK",
       "section_2_text": "🛑 Take a pause or a few deep breaths.\n💛 Say to yourself, “It’s OK,” because it is OK to have negative feelings. Everyone does sometimes!\n😔 These feelings come up for a good reason and can tell us something. It really is OK!",

@@ -56,18 +56,14 @@
       "character_1_text::eng": "I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=6qUlb4DADSw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=B5IuylJKjVQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=F1IOZdZauZU",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=t6pYf5_kpxU"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=t6pYf5_kpxU",
       "section_1_title::eng": "WHY SAVE",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "Decide why you want to save money. These could include:\n😔 Preparing for emergencies\n🎁 Buying something nice for you or your child or do something fun as a family\n📖 Planning for future big expenses like improvements on your home or for your child’s education",

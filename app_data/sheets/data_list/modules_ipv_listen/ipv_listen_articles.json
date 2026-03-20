@@ -166,36 +166,23 @@
       "character_2_text": "Ah, that’s a good idea too. We will get more information on how to help @data.characters.f2_son_3.name. Thank you, dear."
     },
     {
-      "id": "explore_4",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=BvCmFOliAcQ",
       "youtube_my_ms_f": "LINK HERE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=5AMFX515dcc",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=ssJDokO2M8Y",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four tips on how you and your spouse can listen and talk with each other in a supportive and loving way:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four tips on how you and your spouse can listen and talk with each other in a supportive and loving way:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "SHARE HOW YOU FEEL",
+      "text_1_facilitator": "4️⃣ Here are four tips on how you and your spouse can listen and talk with each other in a supportive and loving way:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -222,6 +209,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four tips on how you and your spouse can listen and talk with each other in a supportive and loving way:"
+        },
         "section_1_title": {
           "eng": "SHARE HOW YOU FEEL"
         },
@@ -247,6 +237,7 @@
           "eng": "💚It’s okay if you don't always want to share your emotions. \n🌷 You can choose to share at a later time once you feel calmer or feel ready."
         }
       },
+      "section_1_title": "SHARE HOW YOU FEEL",
       "section_1_text": "🏆Talking about how we feel and the difficulties we’re facing is a sign of strength - it can help make the whole family stronger!\n\n💚 By sharing emotions you can better understand and support each other.",
       "section_2_title": "CHOOSE WHAT YOU SHARE",
       "section_2_text": "😃 Sharing your challenges with your spouse is about making them more aware of how you are feeling. \n⭐Remember, you decide how much you share, and can choose to share more at a later time.",

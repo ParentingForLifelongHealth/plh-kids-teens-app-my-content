@@ -60,18 +60,14 @@
       "character_1_text::eng": "Because you did not listen, @data.characters.f1_daughter_2.name, you cannot play with your toys after dinner. Now come wash hands."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=e1KQSwvtOeQ",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=D3JXGxoh_uc",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=p96Yfc9iqlI",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tkR0vt2ic4s"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tkR0vt2ic4s",
       "section_1_title::eng": "BE CALM",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "❗ Shouting at our children only makes things worse. It also teaches them that it is okay to treat others like this when they are upset.\n🌷 Take some deep breaths or walk away if you need to.\n💚 Then, respond in a calm, clear way.",

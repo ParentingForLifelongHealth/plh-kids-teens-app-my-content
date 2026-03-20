@@ -67,18 +67,14 @@
       "character_1_text::eng": "You did so well, @data.characters.f1_daughter_2.name! I am very happy to spend this special time with you."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "At this stage of development, children are curious about their surroundings and want to learn how to do things on their own. 🌷 \n\nThey will begin to explore the world more and express themselves using emotions and language, too. 😃😒😔😣\n\n3️⃣ To support the healthy development of your child, use these 3 tips:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=RuVI5gr_7YM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=VpZqWnowxxw",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=YaPYisfLOBQ",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=JPWfycYnAhA"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=JPWfycYnAhA",
       "section_1_title::eng": "BE PATIENT",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "⏰ Learning new things takes time. your child may struggle at first - and that’s OK! With time and practise, they will succeed. \n⭐ You can also help by breaking large tasks into smaller ones, and with words of encouragement.\n🌷 your child may have big emotions. This is OK! In time, your child will learn to manage their emotions.",

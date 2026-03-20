@@ -282,30 +282,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=HL6tfeJXY7A",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=jpjCOMCH2u4",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=KDo94bVFcxA",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=kFpGsNLTcig",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "SHARE DECISION MAKING"
         },
@@ -333,12 +315,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "SHARE DECISION MAKING",
+      "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -364,6 +345,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=HL6tfeJXY7A",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=jpjCOMCH2u4",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=KDo94bVFcxA",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=kFpGsNLTcig",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "SHARE DECISION MAKING",
       "section_1_text": "💡 Involve your spouse in decision making processes.\n💙 Try this the next time you are making a decision.",
       "section_2_title": "ASK THEM WHAT THEY THINK",
       "section_2_text": "😃 It can be hard to know how to involve your spouse when making a decision. \n✨ You can try by asking them what they think. \n💚 This shows them you care and want them to be involved.",

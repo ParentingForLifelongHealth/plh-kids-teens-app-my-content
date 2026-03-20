@@ -232,30 +232,11 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "5️⃣ Here are five tips on how to make a savings plan for you and your child:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=6qUlb4DADSw",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=B5IuylJKjVQ",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=F1IOZdZauZU",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=t6pYf5_kpxU",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "WHY SAVE"
         },
@@ -289,13 +270,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_5_icon_asset": "images/icons/trophy_blue.png",
-      "section_1_title": "WHY SAVE",
+      "text_1_facilitator": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -327,6 +306,17 @@
           "my_ms": true
         }
       },
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=6qUlb4DADSw",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=B5IuylJKjVQ",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=F1IOZdZauZU",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=t6pYf5_kpxU",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_5_icon_asset": "images/icons/trophy_blue.png",
+      "section_1_title": "WHY SAVE",
       "section_1_text": "Decide why you want to save money. These could include:\n😔 Preparing for emergencies\n🎁 Buying something nice for you or your child or do something fun as a family\n📖 Planning for future big expenses like improvements on your home or for your child’s education",
       "section_2_title": "HOW TO SAVE",
       "section_2_text": "🚩 Set a target amount that you want to save. \n💰 Look at your monthly budget and decide how much you can save each week and each month.",

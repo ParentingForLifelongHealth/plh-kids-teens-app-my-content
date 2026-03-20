@@ -75,18 +75,14 @@
       "character_1_text::eng": "That’s right! I am so proud of you for remembering. Roads are for cars and bikes, and it is safer for an adult to get your ball for you."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=BIkhHhwJce4",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=VM2B3FSjYqk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eeF2NQ5FEUk",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=voyTxtff7JQ"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=voyTxtff7JQ",
       "section_1_title::eng": "DRAW",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📝 Draw a map of your community.\n🚩 Include the main places in your community: your house, streets in your neighbourhood, pre-school, daycare, and other places. \n👋Draw and identify pictures of trusted people who your child can go to when they feel unsafe. These can be you and your spouse, other family members, or teachers.",
