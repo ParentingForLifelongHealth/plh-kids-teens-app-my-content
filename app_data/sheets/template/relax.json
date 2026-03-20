@@ -108,31 +108,6 @@
       }
     },
     {
-      "name": "audio_transcript",
-      "value": "@local.row_data.audio_transcript",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "audio_transcript",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.row_data.audio_transcript",
-            "matchedExpression": "@local.row_data.audio_transcript",
-            "type": "local",
-            "fieldName": "row_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.row_data.audio_transcript": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "lottie_asset",
       "value": "lottie/bulging_circles.json",
       "_translations": {
@@ -273,8 +248,8 @@
     {
       "exclude_from_translation": true,
       "type": "set_variable",
-      "name": "set_variable_12",
-      "_nested_name": "set_variable_12"
+      "name": "set_variable_11",
+      "_nested_name": "set_variable_11"
     },
     {
       "name": "media_data",
@@ -461,6 +436,186 @@
       }
     },
     {
+      "name": "audio_transcript",
+      "value": "@local.row_data.transcript_my_ms_m",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language == \"my_ms\" && @fields.user_gender == \"man\"",
+      "type": "set_variable",
+      "_nested_name": "audio_transcript",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.transcript_my_ms_m",
+            "matchedExpression": "@local.row_data.transcript_my_ms_m",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.user_gender == \"man\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.user_gender == \"man\"",
+            "matchedExpression": "@fields.user_gender",
+            "type": "fields",
+            "fieldName": "user_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.transcript_my_ms_m": [
+          "value"
+        ],
+        "@fields._app_language": [
+          "condition"
+        ],
+        "@fields.user_gender": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "audio_transcript",
+      "value": "@local.row_data.transcript_my_ms_f",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language == \"my_ms\" && @fields.user_gender !== \"man\"",
+      "type": "set_variable",
+      "_nested_name": "audio_transcript",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.transcript_my_ms_f",
+            "matchedExpression": "@local.row_data.transcript_my_ms_f",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.user_gender !== \"man\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"my_ms\" && @fields.user_gender !== \"man\"",
+            "matchedExpression": "@fields.user_gender",
+            "type": "fields",
+            "fieldName": "user_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.transcript_my_ms_f": [
+          "value"
+        ],
+        "@fields._app_language": [
+          "condition"
+        ],
+        "@fields.user_gender": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "audio_transcript",
+      "value": "@local.row_data.transcript_gb_en_m",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender == \"man\"",
+      "type": "set_variable",
+      "_nested_name": "audio_transcript",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.transcript_gb_en_m",
+            "matchedExpression": "@local.row_data.transcript_gb_en_m",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.user_gender == \"man\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.user_gender == \"man\"",
+            "matchedExpression": "@fields.user_gender",
+            "type": "fields",
+            "fieldName": "user_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.transcript_gb_en_m": [
+          "value"
+        ],
+        "@fields._app_language": [
+          "condition"
+        ],
+        "@fields.user_gender": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "audio_transcript",
+      "value": "@local.row_data.transcript_gb_en_f",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender !== \"man\"",
+      "type": "set_variable",
+      "_nested_name": "audio_transcript",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.row_data.transcript_gb_en_f",
+            "matchedExpression": "@local.row_data.transcript_gb_en_f",
+            "type": "local",
+            "fieldName": "row_data"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.user_gender !== \"man\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language !== \"my_ms\" && @fields.user_gender !== \"man\"",
+            "matchedExpression": "@fields.user_gender",
+            "type": "fields",
+            "fieldName": "user_gender"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.row_data.transcript_gb_en_f": [
+          "value"
+        ],
+        "@fields._app_language": [
+          "condition"
+        ],
+        "@fields.user_gender": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "audio",
       "name": "audio",
       "value": "@local.media_data",
@@ -469,7 +624,7 @@
       },
       "exclude_from_translation": true,
       "parameter_list": {
-        "transcript_text": "@local.row_data.transcript"
+        "transcript_text": "@local.audio_transcript"
       },
       "condition": "@local.row_data.media_type == \"audio\"",
       "_nested_name": "audio",
@@ -485,10 +640,10 @@
         "parameter_list": {
           "transcript_text": [
             {
-              "fullExpression": "@local.row_data.transcript",
-              "matchedExpression": "@local.row_data.transcript",
+              "fullExpression": "@local.audio_transcript",
+              "matchedExpression": "@local.audio_transcript",
               "type": "local",
-              "fieldName": "row_data"
+              "fieldName": "audio_transcript"
             }
           ]
         },
@@ -505,7 +660,7 @@
         "@local.media_data": [
           "value"
         ],
-        "@local.row_data.transcript": [
+        "@local.audio_transcript": [
           "parameter_list.transcript_text"
         ],
         "@local.row_data.media_type": [
