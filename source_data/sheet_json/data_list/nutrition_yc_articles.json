@@ -62,18 +62,14 @@
       "character_1_text::eng": "Good job for eating your veggies, @data.characters.f1_daughter_6.name! Your body will thank you!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Teaching your child healthy eating habits from a young age will help them make healthy choices as they grow older. 💙😃🍚\n\n4️⃣ Here are four tips you can use to support your child with healthy eating:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=C9h4hLbkLGo",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=J_xRe9uLgSk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=ABs6S2YpKBs",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=5H64o-gOL2M"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=5H64o-gOL2M",
       "section_1_title::eng": "A BIT OF EVERYTHING",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "Allow your child to enjoy a variety of food in moderation. Every day, make sure they have:\n🍚 2-3 servings of carbohydrates\n1 serving: 2 spoons of rice or 2 slices of bread\n🍅 3-4 servings of fruits and vegetables \n1 serving: ½ cup of vegetables or 1 medium-sized fruit\n💚 1-2 servings of dairy products and protein\n1 serving: 1 chicken thigh, 2 eggs or 1 glass of milk\n🚩 Just a little bit of oil, fat, processed sugar, and salt",

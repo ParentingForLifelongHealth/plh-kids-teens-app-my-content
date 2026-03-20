@@ -267,30 +267,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=PBYX7-ajR34",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=7rggnzwyaAk",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=LA645fLnEe4",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=DQmox0wS_CA",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "TAKE A PAUSE"
         },
@@ -312,11 +294,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "TAKE A PAUSE",
+      "text_1_facilitator": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -336,6 +318,14 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=PBYX7-ajR34",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=7rggnzwyaAk",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=LA645fLnEe4",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=DQmox0wS_CA",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "TAKE A PAUSE",
       "section_1_text": "🌷 Breathe in and out slowly 5 times before speaking or acting. \n☀️ Step away for 10 minutes to regain control of your emotions. A safe outdoor space is a good option!",
       "section_2_title": "ADDRESS THE SOURCE",
       "section_2_text": "🧸 Sometimes anger might come from something else - like being tired, hungry or stressed. \n🌿 Make sure you get enough rest, eat when you are hungry, and find ways to manage stress before it builds up.\n💚 Ask someone for support when you are feeling alone.",

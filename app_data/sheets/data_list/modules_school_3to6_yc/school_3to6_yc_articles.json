@@ -81,36 +81,23 @@
       "quiz_1_feedback_2": "🎉 That’s correct. \n\n💡 If you know what your child is learning in school, you can help your child learn by talking to them about it and practising with them at home!"
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=UY35NY1Tg9c",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jIwp-6OnaAY",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=61IuyN3VkFk",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=ShxiytzVSvA",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "CONNECT",
+      "text_1_facilitator": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -137,6 +124,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four ways to engage with your child’s school and the things they are learning about."
+        },
         "section_1_title": {
           "eng": "CONNECT"
         },
@@ -162,6 +152,7 @@
           "eng": "🚗 If you have time, attend events or meetings at your child’s school - learn what’s happening.\n⏰ If you have time, volunteer at your child’s school! You’ll get to know the school, teachers, and the other parents better. 😃"
         }
       },
+      "section_1_title": "CONNECT",
       "section_1_text": "👋 Get to know your child’s teacher and have their phone number.\n👂 When you speak to your child’s teacher, ask them what your child is doing in school, and how you can help them.\n🔔 Let the teacher know that you are available to receive messages about anything related to the school and your child’s learning.",
       "section_2_title": "ASK",
       "section_2_text": "👂 Ask your child what they have been doing in school.\n😃 What did they enjoy or find interesting?\n👀 Notice what they like and what interests them. Ask questions and talk about these interests.",

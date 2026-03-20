@@ -119,7 +119,7 @@
       "name": "module_list",
       "value": "module_list",
       "exclude_from_translation": true,
-      "style_list": "padding: 4px 24px 0px 24px;\nmargin-top: -1em"
+      "style_list": "padding: 8px 24px 0px 24px;\nmargin-top: -1em"
     },
     {
       "type": "end_template",

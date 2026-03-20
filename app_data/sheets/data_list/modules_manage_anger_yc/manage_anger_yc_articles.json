@@ -168,35 +168,22 @@
       }
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=PBYX7-ajR34",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=7rggnzwyaAk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=LA645fLnEe4",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=DQmox0wS_CA",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
       "text_1_facilitator": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way.",
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "nested": false,
-      "section_1_title": "TAKE A PAUSE",
-      "_translations": {
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -217,6 +204,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Controlling your actions in anger is not easy. 😔\n\n3️⃣ Practising these three steps will help you interact with your child in a more useful way."
+        },
         "section_1_title": {
           "eng": "TAKE A PAUSE"
         },
@@ -236,6 +226,7 @@
           "eng": "☕ Stay connected - talk to friends, family, or other support networks everyday. 💙\n❗ Lock away or remove anything dangerous that can be used to hurt others from your home.\n🚗 It’s OK to have your children stay somewhere safe while you recover."
         }
       },
+      "section_1_title": "TAKE A PAUSE",
       "section_1_text": "🌷 Breathe in and out slowly 5 times before speaking or acting. \n☀️ Step away for 10 minutes to regain control of your emotions. A safe outdoor space is a good option!",
       "section_2_title": "ADDRESS THE SOURCE",
       "section_2_text": "🧸 Sometimes anger might come from something else - like being tired, hungry or stressed. \n🌿 Make sure you get enough rest, eat when you are hungry, and find ways to manage stress before it builds up.\n💚 Ask someone for support when you are feeling alone.",

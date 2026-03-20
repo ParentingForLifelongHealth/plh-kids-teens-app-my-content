@@ -314,30 +314,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=TmP8z4FkcSA",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=loeYsLsEHnc",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XGSNvlG2uxU",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=gYky3nucVZ8",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "BE CALM"
         },
@@ -365,12 +347,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "BE CALM",
+      "text_1_facilitator": "4️⃣ There are four steps to redirecting behaviour: BE CALM, QUICK, CLEAR, and POSITIVE.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -396,6 +377,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=TmP8z4FkcSA",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=loeYsLsEHnc",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=XGSNvlG2uxU",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=gYky3nucVZ8",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "BE CALM",
       "section_1_text": "✅ Take a few breaths before asking your child to do something else.\n✅ Speak with a calm voice.",
       "section_2_title": "BE QUICK",
       "section_2_text": "2️⃣ BE QUICK\n\n⏰ Ask your child to do something else, distract them, before the behaviour begins or gets worse.\n💡 This is much easier than using consequences after they do something!",

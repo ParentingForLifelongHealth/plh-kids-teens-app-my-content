@@ -227,37 +227,24 @@
       "character_2_text": "Take a deep breath. I can do this…"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=P0BeHuBYUBg",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=97rjYfHTQdM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=o2d6C_WWMVc",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=UyHCc2bbP7Q",
-      "nested": false,
-      "text_1_facilitator": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_5_icon_asset": "images/icons/trophy_blue.png",
       "nested": false,
-      "section_1_title": "REDIRECT",
+      "text_1_facilitator": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -290,6 +277,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:"
+        },
         "section_1_title": {
           "eng": "REDIRECT"
         },
@@ -321,6 +311,7 @@
           "eng": "⭐ Even if your child behaves even worse at first when you do not give in, it is important to continue staying calm without getting into an argument or shouting at your child. \n\n✨You can calmly explain the reason why your child cannot have something, but do it only once without engaging in a debate or argument. \n\n🔄 Over time, your child will learn how to become calm by themselves. \n\n💚 Spend lots of positive time with your child - especially one-on-one time!"
         }
       },
+      "section_1_title": "REDIRECT",
       "section_1_text": "🎨 Try to redirect your child's attention to a positive behaviour or activity. \n🌷 Praise them for this positive behaviour!",
       "section_2_title": "STAY CALM",
       "section_2_text": "✋Take a Pause and take some deep breaths. It will help you stay calm and be able to see clearly what your child needs.\n\n😣 It is very tempting to reduce your reaction to your child’s level by shouting, especially when the tantrum doesn’t stop, or you’re tired and your patience is running out.\n\n📝Try to have a plan prepared for helping yourself in situations when you feel like you might explode and yell.\n\n💚 Stay near your child and be a reassuring presence. You remaining calm will help your child calm down.",

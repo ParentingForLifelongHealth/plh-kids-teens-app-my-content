@@ -54,18 +54,14 @@
       "character_2_text::eng": "Three potatoes left!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRyApuhMw9k",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=58OPqFzIv2E",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=4pc1aun1SrU",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=kAg5dS8Hfts"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=kAg5dS8Hfts",
       "section_1_title::eng": "SORTING AND ORGANISING",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "🌱 Ask your child to help sort things into groups, such as putting all the leaves together when cooking. \n😃 Ask your child to find 5 of something, like sticks, and then to order them from smallest to biggest. ⬆️ Then order them a different way, like from lightest to darkest! \n✨ Help your child think about groups! Say: “A potato is a round red vegetable. Can you think of something else that is red like a potato?” Then: “Can you think of something that is also round but bigger than a potato?” ⚽",

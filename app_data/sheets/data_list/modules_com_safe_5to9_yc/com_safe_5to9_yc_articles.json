@@ -288,36 +288,23 @@
       }
     },
     {
-      "id": "explore_6",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=LnZGRktb2jI",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=CEKFAYFA9Z0",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=qkjfDAR_DYI",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=wR3huIpZzPk",
-      "nested": false,
-      "text_1_facilitator": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "DRAW",
+      "text_1_facilitator": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -344,6 +331,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:"
+        },
         "section_1_title": {
           "eng": "DRAW"
         },
@@ -369,6 +359,7 @@
           "eng": "🔔Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
         }
       },
+      "section_1_title": "DRAW",
       "section_1_text": "📝 Draw a map of your community.\n🚩 Include the main places: streets, your house, school, shops, and places your child visits.\n👋Draw and identify pictures of trusted people who your child can go to when they feel unsafe. These can be you and your spouse, other family members, or teachers.",
       "section_2_title": "TALK",
       "section_2_text": "🔑 Talk about the places on your map and decide if they are safe or not.\n👂 Listen to your child: it is important to understand why they think a place is safe or unsafe.\n🔵 CIRCLE the places that are safe for children.\n❌ CROSS OFF any places that are unsafe for your child. For example, areas under construction, parking areas, or unfamiliar buildings.",

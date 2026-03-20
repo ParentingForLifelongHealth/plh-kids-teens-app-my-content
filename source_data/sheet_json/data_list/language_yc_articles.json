@@ -65,18 +65,14 @@
       "character_1_text::eng": "Happy to help, @data.characters.f1_son_5.name. This house is going to keep our family warm and dry. You are such a good builder!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "5️⃣ Here are 5 tips on helping your child learn by talking with them. \n\n💙 Talk with your child as often as you can! Go down to your child’s level by kneeling or squatting so you can make eye contact when talking to them.\n😃 This will improve your relationship with them as well as their behaviour, because they will understand more of what you say.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRgWI-PAmr4",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=MZ4jRBXl8mk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=X0eYy0wHSYM",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=EgncrXcysVQ"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=EgncrXcysVQ",
       "section_1_title::eng": "EXPLAIN",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "😃 You can talk by describing and explaining what you are doing. For example, chat with them while shopping at the market. 🍅\n👂 Ask your child questions and listen to their answers!\n⏯️ Give your child learning opportunities at their own pace. When they have tasks that suit their abilities, it will boost their excitement for learning. 😃",

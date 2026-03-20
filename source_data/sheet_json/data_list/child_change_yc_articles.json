@@ -76,18 +76,14 @@
       "character_3_text::eng": "That was fun! Let’s do it again!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
-      "text_1_facilitator::eng": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚",
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=5i0WNL6W9a4",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=Ex-ePqii8-o",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=tm4AwAJNMQ8",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=QwNwRcv1DYg"
-    },
-    {
       "id": "tips_1",
       "category_id": "practical_tips",
+      "image_asset": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚",
+      "media_title::eng": "youtube",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=5i0WNL6W9a4",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ex-ePqii8-o",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tm4AwAJNMQ8",
+      "quiz_1_question::eng": "https://www.youtube.com/watch?v=QwNwRcv1DYg",
       "section_1_title::eng": "FIND FRIENDS",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "🎨 your child will want to spend time with other children. \n⚽ Support your child to make friends based on their interests - it’s great for them!\n💚 Help your child learn about sharing and playing with others in a safe and fun way.",

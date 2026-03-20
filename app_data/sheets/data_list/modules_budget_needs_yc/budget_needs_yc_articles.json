@@ -30,35 +30,22 @@
       "text_2": "Managing how money is spent is important to ensure that parents are able to provide for our children. 💛\n\nWhen money is tight, this can create feelings of anxiety, stress and sadness. 😒😔😣\n\nBut even small steps toward budgeting can help you feel more in control and reduce stress. 🌟"
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=R2Zk9WOfcEU",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=7g3qYpFXPwQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Ko0pVlKRisE",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=eNmGxjAsasI",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
       "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "3️⃣ Here are the three steps to start your family budget!"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "nested": false,
-      "section_1_title": "IDENTIFY NEEDS",
-      "_translations": {
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -79,6 +66,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are the three steps to start your family budget!"
+        },
         "section_1_title": {
           "eng": "IDENTIFY NEEDS"
         },
@@ -98,6 +88,7 @@
           "eng": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
         }
       },
+      "section_1_title": "IDENTIFY NEEDS",
       "section_1_text": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
       "section_2_title": "IDENTIFY WANTS",
       "section_2_text": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",

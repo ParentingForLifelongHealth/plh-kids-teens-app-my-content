@@ -176,36 +176,23 @@
       }
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=e1KQSwvtOeQ",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=D3JXGxoh_uc",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=p96Yfc9iqlI",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=tkR0vt2ic4s",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "BE CALM",
+      "text_1_facilitator": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -232,6 +219,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four simple steps for using consequences when your child behaves badly:"
+        },
         "section_1_title": {
           "eng": "BE CALM"
         },
@@ -257,6 +247,7 @@
           "eng": "🏆 Praise your child every time they do actions you want to see more of. This makes them more likely to repeat this behaviour!\n🎉 Using consequences can be hard at first, but will get easier with practice!\n✨ Consequences help our children learn that their actions affect others - and to think before they act."
         }
       },
+      "section_1_title": "BE CALM",
       "section_1_text": "❗ Shouting at our children only makes things worse. It also teaches them that it is okay to treat others like this when they are upset.\n🌷 Take some deep breaths or walk away if you need to.\n💚 Then, respond in a calm, clear way.",
       "section_2_title": "BE FAIR",
       "section_2_text": "💡 Before giving a consequence, give your child the chance to behave and time to do as you asked.\n🔄 Give a consequence connected to the behaviour. For example, if they do not clean up their toys, they cannot play with them the next day.\n🔑 Make sure you can follow through with the consequence. For example, tell them they can’t play with their toys **today**, rather than for the whole week.\n👀 Notice if your child is experiencing a natural consequence for their action already. If so, you might not need to give them one.",

@@ -17,18 +17,14 @@
       "text_2::eng": "Managing your stress is really important for your health and mental well-being. ⭐\n\nWhen you feel calmer, it is easier to connect with your child in a positive way. 🔑"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "3️⃣ Here are three steps to help you manage your stress:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=zR_SAGGgjbw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=3lCZtz-ypkw",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=Fy3Yp8EdYtg",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=7o5Aa_KSHeE"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=7o5Aa_KSHeE",
       "section_1_title::eng": "REFLECT",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📝 Grab a pen and piece of paper. \n⏸ Take a moment to check in with yourself - how stressed are you right now? \n⭐ Write a number from 0 to 100 on how stressed you are. \n❓ How does stress feel for you? Do you feel tense? Do you have low energy? Do you have trouble sleeping or focusing? Write these down. \n🌱 Understanding how stress shows up in your body can help you better manage it. ",

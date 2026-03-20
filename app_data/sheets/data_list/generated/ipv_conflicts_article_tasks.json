@@ -290,30 +290,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way."
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=QncPn2LA1bo",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=hljNe7YGO74",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=RU6WK7Udqy8",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=VtG00lyRhBc",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "COUNT TO 10"
         },
@@ -335,11 +317,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "COUNT TO 10",
+      "text_1_facilitator": "3️⃣ Here are three tips you can try to resolve conflicts with your spouse in a peaceful way.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -359,6 +341,14 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=QncPn2LA1bo",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=hljNe7YGO74",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=RU6WK7Udqy8",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=VtG00lyRhBc",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "COUNT TO 10",
       "section_1_text": "😣 It can sometimes be really hard to stay calm when we’re having a disagreement with others. \n🔟 Try to think of something that you can do that might help, like taking deep breaths or counting to ten.",
       "section_2_title": "TAKE A PAUSE",
       "section_2_text": "⏸ On our first day together, you learned to close your eyes, breathe deep, and take a pause. \n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!",

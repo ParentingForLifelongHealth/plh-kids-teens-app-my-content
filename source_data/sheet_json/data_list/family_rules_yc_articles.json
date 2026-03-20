@@ -69,18 +69,14 @@
       "character_2_text::eng": "Really?? Thank you, Ibu!!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "4️⃣ Here are four easy tips to help you make family rules with your child:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=SZ0YjLm-ka0",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=DBvnp8K_fB4",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lvzyXJUed68",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=6VYlRMoPtoY"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=6VYlRMoPtoY",
       "section_1_title::eng": "BE A TEAM",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📝 Create rules with your child. You can write these down or use pictures when needed to help your Child understand.\n⏸ Make one rule at a time.\n🔑 Talk about why the rule is important.\n👂 Listen to what your child thinks too.",

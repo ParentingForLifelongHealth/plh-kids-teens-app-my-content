@@ -97,30 +97,11 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three steps to help you manage your stress:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are three steps to help you manage your stress:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zR_SAGGgjbw",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=3lCZtz-ypkw",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Fy3Yp8EdYtg",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=7o5Aa_KSHeE",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "REFLECT"
         },
@@ -142,11 +123,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "REFLECT",
+      "text_1_facilitator": "3️⃣ Here are three steps to help you manage your stress:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -166,6 +147,15 @@
           "my_ms": true
         }
       },
+      "media_type": "youtube",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=zR_SAGGgjbw",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=3lCZtz-ypkw",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=Fy3Yp8EdYtg",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=7o5Aa_KSHeE",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "REFLECT",
       "section_1_text": "📝 Grab a pen and piece of paper. \n⏸ Take a moment to check in with yourself - how stressed are you right now? \n⭐ Write a number from 0 to 100 on how stressed you are. \n❓ How does stress feel for you? Do you feel tense? Do you have low energy? Do you have trouble sleeping or focusing? Write these down. \n🌱 Understanding how stress shows up in your body can help you better manage it.",
       "section_2_title": "IDENTIFY",
       "section_2_text": "🚩 What’s causing your stress? Write them down.\n💡 When you know what’s stressing you out, you can starting finding ways to address and manage it.\n🎨 Now think - what do you enjoy doing? \n💚 There are different ways to care for yourself, such as walking, praying, and reading. Activities that help you manage stress are called ‘self-care’.",

@@ -81,36 +81,23 @@
       "quiz_1_feedback_2": "🏆 Correct! \n\n💛 Admitting mistakes and apologising teaches them to respect others and that it is okay to get things wrong sometimes.\n\n❗ Ignoring a mistake when it affects your child teaches them that they do not need to take responsibility for their actions."
     },
     {
-      "id": "explore_1",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=NGYsO8sgqNc",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=k7k_g0XNOnY",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=n3HveeqovHY",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=xF4TZRO5i1w",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four tips to help you know what your role is as your child’s caregiver and to teach them their role, too.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four tips to help you know what your role is as your child’s caregiver and to teach them their role, too."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "KNOW YOUR ROLE",
+      "text_1_facilitator": "4️⃣ Here are four tips to help you know what your role is as your child’s caregiver and to teach them their role, too.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -137,6 +124,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four tips to help you know what your role is as your child’s caregiver and to teach them their role, too."
+        },
         "section_1_title": {
           "eng": "KNOW YOUR ROLE"
         },
@@ -162,6 +152,7 @@
           "eng": "🎨 Notice what your child enjoys doing, and support those interests. \n✨ When your child feels as if their needs and interests are respected, they are more likely to willingly help out at home!\n🎁 Praise them when they complete their responsibilities. This helps them learn what’s expected and makes it more likely for them to do it again."
         }
       },
+      "section_1_title": "KNOW YOUR ROLE",
       "section_1_text": "As a caregiver, your role is to make sure your child:\n🔷 has enough healthy food,\n🔷 has the clothes they need,\n🔷 stays safe from harm,\n🔷 contributes to family needs, like doing chores, \n🔷 learns the morals and values you wish them to, such as honesty,\n🔷 has opportunities to express themselves,\n🔷 has opportunities to play, and\n🔷 feels loved and supported, no matter what.",
       "section_2_title": "TEACH",
       "section_2_text": "Help your child understand their role in the family. This can include:\n🔶 doing age-appropriate chores, like putting their toys away, making their beds, and sort laundry,\n🔶 listening when their caregivers ask something of them, and\n🔶 being respectful to others in the family.",

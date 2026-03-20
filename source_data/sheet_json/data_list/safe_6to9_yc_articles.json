@@ -62,18 +62,14 @@
       "character_2_text::eng": "Thank you, Paati. I’m glad I can tell you about these things."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=XybshQXQ9dw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=kriW6HO5u2k",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=wyCpJI138RA",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=k1vhY4G4YZY"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=k1vhY4G4YZY",
       "section_1_title::eng": "BE HONEST",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "✅ If your child knows how their body works and where people should and should not touch them, they can make safer choices throughout their lives.\n🔑 Answer any questions your child has honestly. These could be about any part of their own body or that of the other sex - even private parts!\n💚 This teaches them it is safe to ask about the body, which means they will learn more and stay safer.\n👀 Teaching your child about their whole body, even when young, means they will know how to talk about it if anything happens that they feel is unsafe.",

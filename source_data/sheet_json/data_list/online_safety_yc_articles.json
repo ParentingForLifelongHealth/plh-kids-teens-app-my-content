@@ -72,18 +72,14 @@
       "character_2_text::eng": "That’s a lot, Mummy!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=2z9OKV3sciE",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=PEc30-fQC9Q",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eOI9y3sCv6g",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=vzvWQwwK3vw"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=vzvWQwwK3vw",
       "section_1_title::eng": "LEARN the dangers of being online",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "🚩 CONTENT: Your child might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries.\n🚩 CONTACT: Adults might pretend to be children and ask for sexual pictures or to meet with your child through an online platform.\n🚩 CONDUCT: Sometimes, children or strangers can say or do hurtful things online.",

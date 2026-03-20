@@ -69,18 +69,14 @@
       "character_2_text::eng": "Take a deep breath. I can do this…"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "5️⃣ Here are tips you can use when your child is whining or throwing tantrums:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=P0BeHuBYUBg",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=97rjYfHTQdM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=o2d6C_WWMVc",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=UyHCc2bbP7Q"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=UyHCc2bbP7Q",
       "section_1_title::eng": "REDIRECT",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "🎨 Try to redirect your child's attention to a positive behaviour or activity. \n🌷 Praise them for this positive behaviour!",

@@ -184,36 +184,23 @@
       "character_2_text": "Me too. I feel a lot better now that we have talked about it together."
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=HL6tfeJXY7A",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jpjCOMCH2u4",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=KDo94bVFcxA",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=kFpGsNLTcig",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "nested": false,
-      "section_1_title": "SHARE DECISION MAKING",
+      "text_1_facilitator": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -240,6 +227,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "4️⃣ Here are four simple steps that you and your spouse can use to create respect at home for your children to learn from:"
+        },
         "section_1_title": {
           "eng": "SHARE DECISION MAKING"
         },
@@ -265,6 +255,7 @@
           "eng": "⏰ It can take time to get used to making decisions together. \n🔄 Give yourself time and keep trying! \n😃 By communicating with your spouse, you’ll both feel more comfortable talking and sharing decisions over time."
         }
       },
+      "section_1_title": "SHARE DECISION MAKING",
       "section_1_text": "💡 Involve your spouse in decision making processes.\n💙 Try this the next time you are making a decision.",
       "section_2_title": "ASK THEM WHAT THEY THINK",
       "section_2_text": "😃 It can be hard to know how to involve your spouse when making a decision. \n✨ You can try by asking them what they think. \n💚 This shows them you care and want them to be involved.",

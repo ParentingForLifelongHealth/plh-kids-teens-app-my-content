@@ -238,30 +238,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRyApuhMw9k",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=58OPqFzIv2E",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=4pc1aun1SrU",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=kAg5dS8Hfts",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "SORTING AND ORGANISING"
         },
@@ -289,12 +271,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "SORTING AND ORGANISING",
+      "text_1_facilitator": "Once your child knows about numbers and groups of things, they can start learning more number skills⭐\n\nRemember to go slowly and have fun with things that your child can nearly do! 😃\n\n4️⃣ Here are four ways for you to encourage your child to practise his number skills:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -320,6 +301,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=MRyApuhMw9k",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=58OPqFzIv2E",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=4pc1aun1SrU",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=kAg5dS8Hfts",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "SORTING AND ORGANISING",
       "section_1_text": "🌱 Ask your child to help sort things into groups, such as putting all the leaves together when cooking. \n😃 Ask your child to find 5 of something, like sticks, and then to order them from smallest to biggest. ⬆️ Then order them a different way, like from lightest to darkest! \n✨ Help your child think about groups! Say: “A potato is a round red vegetable. Can you think of something else that is red like a potato?” Then: “Can you think of something that is also round but bigger than a potato?” ⚽",
       "section_2_title": "ADDING AND TAKING AWAY",
       "section_2_text": "⬆️⬇️ Once they know about numbers, your child might be able to start learning about adding and taking away!\n🍚 Use activities similar to counting exercises, like cooking, sorting clothes, shopping, or building things!\n🍅 Let’s start by adding. Say: “I have two potatoes. When I add two more, how many do I have?” Help your child get the answer! Keep practising and, after a while, make it more difficult!\n\n⬇️ Repeat the activity, but take things away: “I have five potatoes. When I take two away, how many do I have?”\n🔄 Practise anywhere and everywhere! You can use different things like balls or shoes. You can also do the game in your imaginations.",

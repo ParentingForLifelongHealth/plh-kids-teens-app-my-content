@@ -208,37 +208,24 @@
       "character_2_text": "Blue, pink, and yellow!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=OQvMrEhBrPo",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=jYLnBe-kqBk",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=SIi5encmnfc",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=SuAIBJyXz1M",
-      "nested": false,
-      "text_1_facilitator": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙"
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_5_icon_asset": "images/icons/trophy_blue.png",
       "nested": false,
-      "section_1_title": "SHARE BOOKS",
+      "text_1_facilitator": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -271,6 +258,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙"
+        },
         "section_1_title": {
           "eng": "SHARE BOOKS"
         },
@@ -302,6 +292,7 @@
           "eng": "🌷 Always connect what’s in the book to your child’s experience."
         }
       },
+      "section_1_title": "SHARE BOOKS",
       "section_1_text": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. Try to communicate in a way that your child can understand. \n⭐ Books with words help to understand letters and sounds!\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”",
       "section_2_title": "MAKE ROUTINES",
       "section_2_text": "📖 You can share books with your child anywhere- in the living room or bedroom, for example! \nGet rid of any distractions (like the TV 📺❌). \n⏰ Pick a time every day when you can share books with your child. \n💡 If your child wants to, let them choose a book 😃",

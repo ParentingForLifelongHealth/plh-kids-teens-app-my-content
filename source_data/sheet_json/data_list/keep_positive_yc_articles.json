@@ -64,18 +64,14 @@
       "character_2_text::eng": "Yes, mummy. "
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "3️⃣ Here are three tips on how to help your child follow instructions more often:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=jRzMcicGdH0",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=nvus9O28N60",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=70sV9bX_ex8",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=86c9HK5IYVs"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=86c9HK5IYVs",
       "section_1_title::eng": "BE SPECIFIC",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",

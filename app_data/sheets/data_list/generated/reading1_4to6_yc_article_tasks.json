@@ -282,30 +282,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=WUdUm4tjdUg",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=9HZErFXO3i4",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eqv4srsu8nM",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tp-ZJWifUNc",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "MAKE ROUTINES"
         },
@@ -333,12 +315,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "MAKE ROUTINES",
+      "text_1_facilitator": "4️⃣ Here are four ways to help your child learn reading skills: Make Routines ⏰, Ask Questions, Respond and Explore 👀, and Build and Connect 😃\n\nYou can also use picture books. Describe what you see and talk about the pictures with your child using language that your child can understand! 💙",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -364,6 +345,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=WUdUm4tjdUg",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=9HZErFXO3i4",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eqv4srsu8nM",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=tp-ZJWifUNc",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "MAKE ROUTINES",
       "section_1_text": "📖 You can share books with your child anywhere - in the living room or bedroom, for example! \nGet rid of any distractions (like the TV 📺❌). \n⏰ Pick a time every day when you can share books with your child. \n💡 If your child wants to, let them choose a book 😃\n✨ If you don’t have any books - you can use anything with words and pictures, like old magazines or newspapers!",
       "section_2_title": "ASK QUESTIONS",
       "section_2_text": "⭐ From the book cover, ask your child what they think the story might be about. \n➡️ Throughout the book, ask who, what, where, when, why, and how questions.\n✨ If you have read a story many times, see if your child knows what comes next! \n👀 Describe what’s happening in a picture. Always use language that your child can understand. \n💡 Ask your child to retell the story.",

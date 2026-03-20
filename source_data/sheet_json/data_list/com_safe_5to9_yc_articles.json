@@ -85,18 +85,14 @@
       "character_1_text::eng": "@data.characters.f3_son_7.name, I’m so proud of you for not getting out of our house gate and getting into the car. You remembered the rules we created about safety in this community. That was a dangerous situation. You are so brave. Thank you for telling me. I will report it so it doesn’t happen again."
     },
     {
-      "id": "explore_6",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "To keep your child safe, talk with them about which places are safe to go and which are not, and teach them how to be careful when they meet people they don't know.\n\n4️⃣Here are four steps to help you keep your child safe in your community:",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=LnZGRktb2jI",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=CEKFAYFA9Z0",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=qkjfDAR_DYI",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=wR3huIpZzPk"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=wR3huIpZzPk",
       "section_1_title::eng": "DRAW",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📝 Draw a map of your community.\n🚩 Include the main places: streets, your house, school, shops, and places your child visits.\n👋Draw and identify pictures of trusted people who your child can go to when they feel unsafe. These can be you and your spouse, other family members, or teachers.",

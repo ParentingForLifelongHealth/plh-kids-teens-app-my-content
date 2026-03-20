@@ -238,37 +238,24 @@
       }
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=mWPZ7vU5fjs",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=be49VkJU8gI",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=NmDrWjFO1WE",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=be49VkJU8gI",
-      "nested": false,
-      "text_1_facilitator": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE.",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE."
-        }
-      }
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_5_icon_asset": "images/icons/diamond_blue.png",
       "nested": false,
-      "section_1_title": "LEARN",
+      "text_1_facilitator": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE.",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -301,6 +288,9 @@
         }
       },
       "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "5️⃣ Here are 5 tips for how you can help your child learn how to cope with their emotions: LEARN, NOTICE, OPEN, TALK, and CARE."
+        },
         "section_1_title": {
           "eng": "LEARN"
         },
@@ -332,6 +322,7 @@
           "eng": "🌷 Use your actions or words to support your child and make them feel accepted and loved. You can hug or praise them!\n💚 Remind your child that you are there for them and that they can always talk to you."
         }
       },
+      "section_1_title": "LEARN",
       "section_1_text": "💡 Learn about different emotions. \n😃 The 6 basic emotions are: Happy, Sad, Angry, Disgusted, Surprised, and Afraid.\n👀 You can use facial expressions and physical movements to help your child learn different emotions. Make it a game!\n🎨 As children grow, they learn to identify more emotions, like excitement, frustration, pride, loneliness, calm, guilt and confusion.",
       "section_2_title": "NOTICE",
       "section_2_text": "👀 Notice all emotions in your child. \n😃 You can also share positive emotions such as a sense of peace, happiness, or calmness.\n💙 This allows them to appreciate the beautiful moments!",

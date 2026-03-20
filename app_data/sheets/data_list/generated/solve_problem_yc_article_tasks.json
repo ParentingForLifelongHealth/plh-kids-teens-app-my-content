@@ -265,30 +265,12 @@
       "completed": false
     },
     {
-      "id": "explore_5",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dwJ6dVpjovw",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=3PdmQPtp9i0",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=IIIYvG82sjY",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=T0tBQ675lM0",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "KNOW IT"
         },
@@ -316,12 +298,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_1_title": "KNOW IT",
+      "text_1_facilitator": "When something happens, take a deep breath. \n\n4️⃣ Then, help your child work on the problem with these four steps:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -347,6 +328,15 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=dwJ6dVpjovw",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=3PdmQPtp9i0",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=IIIYvG82sjY",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=T0tBQ675lM0",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_4_icon_asset": "images/icons/lightbulb_blue.png",
+      "section_1_title": "KNOW IT",
       "section_1_text": "💡 Put the problem into words.\n👂 Talk to your child about what the problem is.",
       "section_2_title": "SOLVE IT",
       "section_2_text": "📝 Together, think of possible solutions to this problem.\n✨ What could you or your child do differently in this situation in the future?",

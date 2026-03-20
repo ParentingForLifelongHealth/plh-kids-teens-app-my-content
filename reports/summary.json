@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 119
+        "count": 117
       },
       {
         "type": "debug_toggle",
@@ -127,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3241
+        "count": 3140
       },
       {
         "type": "simple_checkbox",
@@ -143,11 +143,11 @@
       },
       {
         "type": "template",
-        "count": 1024
+        "count": 977
       },
       {
         "type": "text",
-        "count": 170
+        "count": 178
       },
       {
         "type": "text_area",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 787
+        "count": 740
       },
       {
         "type": "emit: force_reload",
@@ -223,7 +223,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 795
+        "count": 748
       },
       {
         "type": "feedback",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 59
+        "count": 53
       },
       {
         "type": "share",
@@ -1707,7 +1707,7 @@
       },
       {
         "path": "images/icons/diamond_blue.png",
-        "count": 96,
+        "count": 94,
         "size_kb": 4.7
       },
       {
@@ -1772,7 +1772,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 94,
+        "count": 92,
         "size_kb": 4.9
       },
       {
@@ -1917,7 +1917,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 94,
+        "count": 92,
         "size_kb": 5.1
       },
       {
@@ -3127,7 +3127,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 863
+        "total": 816
       },
       {
         "type": "template",

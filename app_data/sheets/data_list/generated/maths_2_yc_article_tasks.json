@@ -217,30 +217,12 @@
       "completed": false
     },
     {
-      "id": "explore_1",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=6yhfDw3ODAE",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=TYBsMacMjpw",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=leYIG1MVrV4",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Ke_HTjXMHJI",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "COUNT"
         },
@@ -262,11 +244,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "COUNT",
+      "text_1_facilitator": "3️⃣ Here are three ways to help your child learn number skills: Count, Look for Numbers, and Learn with Shapes. \n\nRemember: maths, numbers, amounts of things, and shapes are everywhere! 🔶🌷🔵\n\nYou can use what is around you and your daily routines to talk to your child about maths. ⏰⭐",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -286,6 +268,14 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=6yhfDw3ODAE",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=TYBsMacMjpw",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=leYIG1MVrV4",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=Ke_HTjXMHJI",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "COUNT",
       "section_1_text": "🔴 Counting is a skill your child can start to learn early. 1️⃣2️⃣3️⃣\n🚗 Ask your child to count things around you: cars, people, houses, how many steps between one place and another, and their fingers and toes! 👋\n🍅 Ask your child to count things in daily activities: like potatoes while cooking, or socks while sorting out clothes.\n🎵 Sing songs that include numbers with your child.\n🎨 Encourage your child to draw things, or ask them how many things there are in the pictures.",
       "section_2_title": "LOOK FOR NUMBERS",
       "section_2_text": "📱Numbers are all around us if you look for them. They’re on food packaging, and even on the TV remote.\n👀 Wherever you see a number, ask your child what it is. \n😃 Help them if they don’t know!",

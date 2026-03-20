@@ -71,18 +71,14 @@
       "character_2_text::eng": "Great job, @data.characters.f1_son_5.name! You are really such a big boy!"
     },
     {
-      "id": "explore_5",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "At this age, children love playing and learning through actions. 🚲 \n\nThey learn social values through these activities, and will start asking a lot of questions. ✨\n\n2️⃣ Here are two tips to support the healthy development of your child at this age.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=6uumqy1iJCU",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=qHXVU318kik",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=uLbz2dF1ViA",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=zSmxeWO62DQ"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=zSmxeWO62DQ",
       "section_1_title::eng": "LEARN BY PLAYING",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "⚽ Play, play, play! Play helps your child develop relationships with other children and understand social rules.\n🚲 They may not like to lose, share, or take turns, but play helps them learn how!\n🏆 Praise your child when they follow the rules or accept defeat.",

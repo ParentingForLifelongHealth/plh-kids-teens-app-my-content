@@ -67,18 +67,14 @@
       "character_2_text::eng": "Yay!"
     },
     {
-      "id": "explore_6",
-      "category_id": "explore",
+      "id": "tips_1",
+      "category_id": "practical_tips",
       "text_1_facilitator::eng": "3️⃣ Here are three tips on how to create routines with your child.",
       "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=8x8igGS7bkE",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=71tP14SQbLQ",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=H_LUe4FNuvs",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=OjmCGFsR3Ng"
-    },
-    {
-      "id": "tips_1",
-      "category_id": "practical_tips",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=OjmCGFsR3Ng",
       "section_1_title::eng": "BE A TEAM",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "🎈 Talk to your child about how they’d like their routines to look like.\n✨ Did you know? When children help set routines, they’re more likely to stick to them—give it a try! 💚",

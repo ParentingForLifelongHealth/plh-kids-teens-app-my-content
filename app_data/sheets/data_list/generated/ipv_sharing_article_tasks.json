@@ -285,30 +285,12 @@
       "completed": false
     },
     {
-      "id": "explore_4",
+      "id": "tips_1",
       "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=eKL_xbxqox8",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ObBSPvEbe7g",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=iLAIlEqX5KY",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=2b8Ow3QW6z4",
-      "completed": false
-    },
-    {
-      "id": "tips_1",
-      "_translatedFields": {
+        },
         "section_1_title": {
           "eng": "CREATE A ROUTINE"
         },
@@ -330,11 +312,11 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "CREATE A ROUTINE",
+      "text_1_facilitator": "3️⃣ Here are three simple ways you can start sharing family responsibilities with your spouse:",
       "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "section_1_title": {
           "my_ms": true
         },
@@ -354,6 +336,14 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=eKL_xbxqox8",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ObBSPvEbe7g",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=iLAIlEqX5KY",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=2b8Ow3QW6z4",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "section_1_title": "CREATE A ROUTINE",
       "section_1_text": "⏰ It can be easy to forget or feel overwhelmed by caregiving or housework tasks. Establishing a routine around these can help!\n😃 It also gives you a chance to talk to your spouse about how to share the workload.",
       "section_2_title": "TALK ABOUT THE WORKLOAD WITH YOUR SPOUSE",
       "section_2_text": "😃 Having conversations about how you can share family responsibilities helps both you and your spouse understand each other better. \n💛It also shows that you care!",
