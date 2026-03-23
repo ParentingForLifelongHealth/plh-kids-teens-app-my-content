@@ -606,12 +606,6 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome to @global.parent_app. Click here to start your journey!",
-    "text": "Selamat datang ke @global.parent_app. Klik di sini untuk memulakan perjalanan anda!",
-    "type": "data_list",
-    "note": "The string @global.parent_app. should not be translated."
-  },
-  {
     "SourceText": "@data.characters.f1_father.name wants to help his young children learn about safe and unsafe touch. Lets see how he has the conversation with his young son, @data.characters.f1_son_5.name.",
     "text": "@data.characters.f1_father.name mahu membantu anak kecilnya belajar tentang sentuhan selamat dan sentuhan tidak selamat. Mari kita lihat cara dia berkomunikasi dengan anak lelakinya, @data.characters.f1_son_5.name.",
     "type": "data_list",
@@ -8977,7 +8971,7 @@
   },
   {
     "SourceText": "Skills",
-    "text": "Luangkan Masa bersama Seorang dengan Seorang dengan Anak Saya",
+    "text": "Kemahiran",
     "type": "global",
     "note": ""
   },

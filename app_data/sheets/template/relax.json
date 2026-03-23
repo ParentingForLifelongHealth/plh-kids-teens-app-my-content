@@ -436,11 +436,18 @@
       }
     },
     {
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "name": "set_variable_16",
+      "_nested_name": "set_variable_16"
+    },
+    {
       "name": "audio_transcript",
       "value": "@local.row_data.transcript_my_ms_m",
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "condition": "@fields._app_language == \"my_ms\" && @fields.user_gender == \"man\"",
       "type": "set_variable",
       "_nested_name": "audio_transcript",
@@ -486,6 +493,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "condition": "@fields._app_language == \"my_ms\" && @fields.user_gender !== \"man\"",
       "type": "set_variable",
       "_nested_name": "audio_transcript",
@@ -531,6 +539,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender == \"man\"",
       "type": "set_variable",
       "_nested_name": "audio_transcript",
@@ -576,6 +585,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender !== \"man\"",
       "type": "set_variable",
       "_nested_name": "audio_transcript",
