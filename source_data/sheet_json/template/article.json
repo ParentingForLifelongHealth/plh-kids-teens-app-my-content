@@ -382,12 +382,14 @@
     {
       "name": "gender",
       "value": "_f",
+      "exclude_from_translation": true,
       "comments": "defaults to _f"
     },
     {
       "name": "gender",
       "value": "_m",
-      "condition": "@fields.user_gender == \"man\""
+      "condition": "@fields.user_gender == \"man\"",
+      "exclude_from_translation": true
     },
     {
       "name": "youtube_column",

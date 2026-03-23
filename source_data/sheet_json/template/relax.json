@@ -82,23 +82,30 @@
       "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender !== \"man\""
     },
     {
+      "exclude_from_translation": true
+    },
+    {
       "name": "audio_transcript",
       "value": "@local.row_data.transcript_my_ms_m",
+      "exclude_from_translation": true,
       "condition": "@fields._app_language == \"my_ms\" && @fields.user_gender == \"man\""
     },
     {
       "name": "audio_transcript",
       "value": "@local.row_data.transcript_my_ms_f",
+      "exclude_from_translation": true,
       "condition": "@fields._app_language == \"my_ms\" && @fields.user_gender !== \"man\""
     },
     {
       "name": "audio_transcript",
       "value": "@local.row_data.transcript_gb_en_m",
+      "exclude_from_translation": true,
       "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender == \"man\""
     },
     {
       "name": "audio_transcript",
       "value": "@local.row_data.transcript_gb_en_f",
+      "exclude_from_translation": true,
       "comments": "defaults to _f",
       "condition": "@fields._app_language !== \"my_ms\" && @fields.user_gender !== \"man\""
     },
