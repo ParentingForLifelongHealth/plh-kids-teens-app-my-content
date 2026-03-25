@@ -258,7 +258,7 @@
         "value": {}
       },
       "parameter_list": {
-        "placeholder": "@global.placeholder_faci_group_id"
+        "placeholder": "@global.placeholder_user_facilitator_group"
       },
       "condition": "!!@fields.faci_group_id",
       "exclude_from_translation": true,
@@ -275,10 +275,10 @@
         "parameter_list": {
           "placeholder": [
             {
-              "fullExpression": "@global.placeholder_faci_group_id",
-              "matchedExpression": "@global.placeholder_faci_group_id",
+              "fullExpression": "@global.placeholder_user_facilitator_group",
+              "matchedExpression": "@global.placeholder_user_facilitator_group",
               "type": "global",
-              "fieldName": "placeholder_faci_group_id"
+              "fieldName": "placeholder_user_facilitator_group"
             }
           ]
         },
@@ -295,7 +295,7 @@
         "@fields.faci_group_id": [
           "value"
         ],
-        "@global.placeholder_faci_group_id": [
+        "@global.placeholder_user_facilitator_group": [
           "parameter_list.placeholder"
         ],
         "!@fields.faci_group_id": [
@@ -307,7 +307,7 @@
       "type": "text_box",
       "name": "faci_group_id_input",
       "parameter_list": {
-        "placeholder": "@global.placeholder_faci_group_id"
+        "placeholder": "@global.placeholder_user_facilitator_group"
       },
       "condition": "!@fields.faci_group_id",
       "exclude_from_translation": true,
@@ -316,10 +316,10 @@
         "parameter_list": {
           "placeholder": [
             {
-              "fullExpression": "@global.placeholder_faci_group_id",
-              "matchedExpression": "@global.placeholder_faci_group_id",
+              "fullExpression": "@global.placeholder_user_facilitator_group",
+              "matchedExpression": "@global.placeholder_user_facilitator_group",
               "type": "global",
-              "fieldName": "placeholder_faci_group_id"
+              "fieldName": "placeholder_user_facilitator_group"
             }
           ]
         },
@@ -333,7 +333,7 @@
         ]
       },
       "_dynamicDependencies": {
-        "@global.placeholder_faci_group_id": [
+        "@global.placeholder_user_facilitator_group": [
           "parameter_list.placeholder"
         ],
         "!@fields.faci_group_id": [
@@ -434,7 +434,7 @@
     },
     {
       "name": "completed_enabled",
-      "value": "@local.valid_faci_group_id_input",
+      "value": "@local.valid_faci_group_id_input && !!@local.faci_group_id_input",
       "_translations": {
         "value": {}
       },
@@ -444,15 +444,24 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.valid_faci_group_id_input",
+            "fullExpression": "@local.valid_faci_group_id_input && !!@local.faci_group_id_input",
             "matchedExpression": "@local.valid_faci_group_id_input",
             "type": "local",
             "fieldName": "valid_faci_group_id_input"
+          },
+          {
+            "fullExpression": "@local.valid_faci_group_id_input && !!@local.faci_group_id_input",
+            "matchedExpression": "!@local.faci_group_id_input",
+            "type": "local",
+            "fieldName": "faci_group_id_input"
           }
         ]
       },
       "_dynamicDependencies": {
         "@local.valid_faci_group_id_input": [
+          "value"
+        ],
+        "!@local.faci_group_id_input": [
           "value"
         ]
       }
@@ -489,94 +498,141 @@
           "_nested_name": "dg_footer.button_back"
         },
         {
-          "type": "button",
-          "name": "button_completed_2",
-          "value": "@global.continue",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
+          "type": "display_group",
+          "name": "dg_buttons_terms",
+          "condition": "style: column;",
+          "rows": [
             {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "faci_group_id",
-                "@local.faci_group_id_input"
+              "type": "button",
+              "name": "button_completed_2",
+              "value": "@global.continue",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
+                {
+                  "trigger": "click",
+                  "action_id": "set_field",
+                  "args": [
+                    "faci_group_id",
+                    "@local.faci_group_id_input"
+                  ],
+                  "_raw": "click | set_field: faci_group_id: @local.faci_group_id_input"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "click | emit: completed"
+                }
               ],
-              "_raw": "click | set_field: faci_group_id: @local.faci_group_id_input"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
+              "parameter_list": {
+                "style": "navigation",
+                "disabled": "!@local.completed_enabled"
+              },
+              "style_list": [
+                "flex: 1"
               ],
-              "_raw": "click | emit: completed"
-            }
-          ],
-          "parameter_list": {
-            "style": "navigation",
-            "disabled": "!@local.completed_enabled"
-          },
-          "style_list": [
-            "flex: 1"
-          ],
-          "exclude_from_translation": true,
-          "_nested_name": "dg_footer.button_completed_2",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.continue",
-                "matchedExpression": "@global.continue",
-                "type": "global",
-                "fieldName": "continue"
-              }
-            ],
-            "action_list": {
-              "0": {
-                "args": {
-                  "1": [
+              "exclude_from_translation": true,
+              "_nested_name": "dg_footer.dg_buttons_terms.button_completed_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@global.continue",
+                    "matchedExpression": "@global.continue",
+                    "type": "global",
+                    "fieldName": "continue"
+                  }
+                ],
+                "action_list": {
+                  "0": {
+                    "args": {
+                      "1": [
+                        {
+                          "fullExpression": "@local.faci_group_id_input",
+                          "matchedExpression": "@local.faci_group_id_input",
+                          "type": "local",
+                          "fieldName": "faci_group_id_input"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_field: faci_group_id: @local.faci_group_id_input",
+                        "matchedExpression": "@local.faci_group_id_input",
+                        "type": "local",
+                        "fieldName": "faci_group_id_input"
+                      }
+                    ]
+                  }
+                },
+                "parameter_list": {
+                  "disabled": [
                     {
-                      "fullExpression": "@local.faci_group_id_input",
-                      "matchedExpression": "@local.faci_group_id_input",
+                      "fullExpression": "!@local.completed_enabled",
+                      "matchedExpression": "!@local.completed_enabled",
                       "type": "local",
-                      "fieldName": "faci_group_id_input"
+                      "fieldName": "completed_enabled"
                     }
                   ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | set_field: faci_group_id: @local.faci_group_id_input",
-                    "matchedExpression": "@local.faci_group_id_input",
-                    "type": "local",
-                    "fieldName": "faci_group_id_input"
-                  }
+                }
+              },
+              "_dynamicDependencies": {
+                "@global.continue": [
+                  "value"
+                ],
+                "@local.faci_group_id_input": [
+                  "action_list.0.args.1",
+                  "action_list.0._raw"
+                ],
+                "!@local.completed_enabled": [
+                  "parameter_list.disabled"
                 ]
               }
             },
-            "parameter_list": {
-              "disabled": [
+            {
+              "type": "button",
+              "name": "button_skip",
+              "value": "<u>@global.skip</u>",
+              "_translations": {
+                "value": {}
+              },
+              "action_list": [
                 {
-                  "fullExpression": "!@local.completed_enabled",
-                  "matchedExpression": "!@local.completed_enabled",
-                  "type": "local",
-                  "fieldName": "completed_enabled"
+                  "trigger": "click",
+                  "action_id": "emit",
+                  "args": [
+                    "completed"
+                  ],
+                  "_raw": "click | emit: completed"
                 }
-              ]
+              ],
+              "parameter_list": {
+                "variant": "card",
+                "style": "no-background"
+              },
+              "exclude_from_translation": true,
+              "_nested_name": "dg_footer.dg_buttons_terms.button_skip",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "<u>@global.skip</u>",
+                    "matchedExpression": "@global.skip",
+                    "type": "global",
+                    "fieldName": "skip"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@global.skip": [
+                  "value"
+                ]
+              }
             }
-          },
-          "_dynamicDependencies": {
-            "@global.continue": [
-              "value"
-            ],
-            "@local.faci_group_id_input": [
-              "action_list.0.args.1",
-              "action_list.0._raw"
-            ],
-            "!@local.completed_enabled": [
-              "parameter_list.disabled"
-            ]
-          }
+          ],
+          "_nested_name": "dg_footer.dg_buttons_terms"
         }
       ],
       "_nested_name": "dg_footer"

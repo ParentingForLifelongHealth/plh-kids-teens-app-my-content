@@ -7,11 +7,9 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_faci_group_id",
-      "value": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below to connect to your group.",
+      "value": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below. If you don't have one, tap Skip.",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
@@ -27,11 +25,9 @@
     {
       "type": "declare_global_constant",
       "name": "placeholder_user_facilitator_group",
-      "value": "Enter your 4 digit Group ID",
+      "value": "Enter 4-digit ID",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {

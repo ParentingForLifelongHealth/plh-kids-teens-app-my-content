@@ -83,7 +83,7 @@
       "number": 3,
       "unlock": 2,
       "core": true,
-      "relax_id": "relax_2",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_2",
       "title": "Kindness to Self",
       "_translations": {
@@ -131,7 +131,7 @@
       "number": 4,
       "unlock": 2,
       "core": true,
-      "relax_id": "relax_3",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_3",
       "title": "Give Praise",
       "_translations": {
@@ -179,7 +179,7 @@
       "number": 5,
       "unlock": 2,
       "core": true,
-      "relax_id": "relax_4",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_4",
       "title": "Feelings",
       "_translations": {
@@ -227,7 +227,7 @@
       "number": 6,
       "unlock": 2,
       "core": true,
-      "relax_id": "relax_5",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_5",
       "title": "Parenting Values",
       "_translations": {
@@ -273,7 +273,7 @@
       "number": 7,
       "unlock": 6,
       "core": false,
-      "relax_id": "relax_6",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_6",
       "title": "Language Skills",
       "_translations": {
@@ -317,7 +317,7 @@
       "number": 8,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_7",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_7",
       "title": "Reading, Part 1",
       "_translations": {
@@ -361,7 +361,7 @@
       "number": 9,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_8",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_8",
       "title": "Reading, Part 2",
       "_translations": {
@@ -405,7 +405,7 @@
       "number": 10,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_9",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_9",
       "title": "Maths, Part 1",
       "_translations": {
@@ -449,7 +449,7 @@
       "number": 11,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_10",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_10",
       "title": "Maths, Part 2",
       "_translations": {
@@ -491,7 +491,7 @@
       "number": 12,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_11",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_11",
       "title": "Reading",
       "_translations": {
@@ -532,7 +532,7 @@
       "number": 13,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_12",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_12",
       "title": "Maths",
       "_translations": {
@@ -573,7 +573,7 @@
       "number": 14,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_13",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_13",
       "title": "Maths",
       "_translations": {
@@ -618,7 +618,7 @@
       "number": 15,
       "unlock": 7,
       "core": false,
-      "relax_id": "relax_14",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_14",
       "title": "Talk to Teachers",
       "_translations": {
@@ -666,7 +666,7 @@
       "number": 16,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_15",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_15",
       "title": "Play & Learn",
       "_translations": {
@@ -714,7 +714,7 @@
       "number": 17,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_16",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_16",
       "title": "Life Lessons",
       "_translations": {
@@ -756,7 +756,7 @@
       "number": 18,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_17",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_1",
       "title": "Child Development",
       "_translations": {
@@ -799,7 +799,7 @@
       "number": 19,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_18",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_2",
       "title": "Child Development",
       "_translations": {
@@ -842,7 +842,7 @@
       "number": 20,
       "unlock": 15,
       "core": false,
-      "relax_id": "relax_19",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_3",
       "title": "Child Development",
       "_translations": {
@@ -890,7 +890,7 @@
       "number": 21,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_20",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_4",
       "title": "Manage Stress",
       "_translations": {
@@ -938,7 +938,7 @@
       "number": 22,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_21",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_5",
       "title": "Keep it Positive",
       "_translations": {
@@ -986,7 +986,7 @@
       "number": 23,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_22",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_6",
       "title": "Daily Routines",
       "_translations": {
@@ -1034,7 +1034,7 @@
       "number": 24,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_23",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_7",
       "title": "Family Rules",
       "_translations": {
@@ -1082,7 +1082,7 @@
       "number": 25,
       "unlock": 20,
       "core": false,
-      "relax_id": "relax_24",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_8",
       "title": "Roles at Home",
       "_translations": {
@@ -1178,7 +1178,7 @@
       "number": 27,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_2",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_10",
       "title": "Manage Demands",
       "_translations": {
@@ -1226,7 +1226,7 @@
       "number": 28,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_3",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_11",
       "title": "Manage Anger",
       "_translations": {
@@ -1274,7 +1274,7 @@
       "number": 29,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_4",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_12",
       "title": "Consequences",
       "_translations": {
@@ -1322,7 +1322,7 @@
       "number": 30,
       "unlock": 25,
       "core": false,
-      "relax_id": "relax_5",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_13",
       "title": "Problem Solving",
       "_translations": {
@@ -1364,7 +1364,7 @@
       "number": 31,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_6",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_14",
       "title": "Safe Touch",
       "_translations": {
@@ -1407,7 +1407,7 @@
       "number": 32,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_7",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_15",
       "title": "Safe Touch",
       "_translations": {
@@ -1451,7 +1451,7 @@
       "number": 33,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_8",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_16",
       "title": "Safe Touch",
       "_translations": {
@@ -1494,7 +1494,7 @@
       "number": 34,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_9",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_1",
       "title": "Stay Safe",
       "_translations": {
@@ -1539,7 +1539,7 @@
       "number": 35,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_10",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_2",
       "title": "Stay Safe",
       "_translations": {
@@ -1584,7 +1584,7 @@
       "number": 36,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_11",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_3",
       "title": "Crises",
       "_translations": {
@@ -1627,7 +1627,7 @@
       "number": 37,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_12",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_4",
       "title": "Crises",
       "_translations": {
@@ -1675,7 +1675,7 @@
       "number": 38,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_13",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_5",
       "title": "Online Safety",
       "_translations": {
@@ -1723,7 +1723,7 @@
       "number": 39,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_14",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_6",
       "title": "Online Habits",
       "_translations": {
@@ -1771,7 +1771,7 @@
       "number": 40,
       "unlock": 30,
       "core": false,
-      "relax_id": "relax_15",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_7",
       "title": "Nutrition and Health",
       "_translations": {
@@ -1816,7 +1816,7 @@
       "number": 41,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_16",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_8",
       "title": "Respect Each Other",
       "_translations": {
@@ -1861,7 +1861,7 @@
       "number": 42,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_17",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_9",
       "title": "Team Parenting",
       "_translations": {
@@ -1906,7 +1906,7 @@
       "number": 43,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_18",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_10",
       "title": "Teamwork",
       "_translations": {
@@ -1951,7 +1951,7 @@
       "number": 44,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_19",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_11",
       "title": "Resolve Conflicts",
       "_translations": {
@@ -1996,7 +1996,7 @@
       "number": 45,
       "unlock": 40,
       "core": false,
-      "relax_id": "relax_20",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_12",
       "title": "Talk and Listen",
       "_translations": {
@@ -2044,7 +2044,7 @@
       "number": 46,
       "unlock": 1,
       "core": false,
-      "relax_id": "relax_21",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_13",
       "title": "Needs and Wants",
       "_translations": {
@@ -2092,7 +2092,7 @@
       "number": 47,
       "unlock": 45,
       "core": false,
-      "relax_id": "relax_22",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_14",
       "title": "Expenses",
       "_translations": {
@@ -2140,7 +2140,7 @@
       "number": 48,
       "unlock": 45,
       "core": false,
-      "relax_id": "relax_23",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_15",
       "title": "Budgeting",
       "_translations": {
@@ -2188,7 +2188,7 @@
       "number": 49,
       "unlock": 45,
       "core": false,
-      "relax_id": "relax_24",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_16",
       "title": "Savings",
       "_translations": {

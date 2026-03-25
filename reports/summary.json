@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 90
+        "count": 89
       },
       {
         "type": "combo_box",
-        "count": 19
+        "count": 21
       },
       {
         "type": "data_items",
-        "count": 117
+        "count": 118
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 97
+        "count": 98
       },
       {
         "type": "drawer",
@@ -91,7 +91,7 @@
       },
       {
         "type": "plh_course_sub_item",
-        "count": 1
+        "count": 5
       },
       {
         "type": "plh_lesson_cta",
@@ -127,7 +127,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3144
+        "count": 3145
       },
       {
         "type": "simple_checkbox",
@@ -143,11 +143,11 @@
       },
       {
         "type": "template",
-        "count": 977
+        "count": 974
       },
       {
         "type": "text",
-        "count": 178
+        "count": 181
       },
       {
         "type": "text_area",
@@ -155,7 +155,7 @@
       },
       {
         "type": "text_box",
-        "count": 18
+        "count": 17
       },
       {
         "type": "text_bubble",
@@ -199,7 +199,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 740
+        "count": 739
       },
       {
         "type": "emit: force_reload",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 6
+        "count": 4
       },
       {
         "type": "emit: set_language",
@@ -239,7 +239,7 @@
       },
       {
         "type": "pop_up",
-        "count": 71
+        "count": 70
       },
       {
         "type": "reset_app",
@@ -251,19 +251,19 @@
       },
       {
         "type": "set_data",
-        "count": 79
+        "count": 78
       },
       {
         "type": "set_field",
-        "count": 92
+        "count": 90
       },
       {
         "type": "set_item",
-        "count": 70
+        "count": 76
       },
       {
         "type": "set_local",
-        "count": 53
+        "count": 54
       },
       {
         "type": "share",
@@ -833,102 +833,102 @@
     "data": [
       {
         "path": "audio/relax/english/relax_10__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_11__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_12__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_13__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_14__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_15__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_16__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_17__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_18__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/english/relax_19__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_10__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_11__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_12__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_13__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_14__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_15__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_16__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_17__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_18__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "audio/relax/malay/relax_19__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
@@ -987,6 +987,21 @@
         "missing": true
       },
       {
+        "path": "images/faces/happy.svg",
+        "count": 9,
+        "missing": true
+      },
+      {
+        "path": "images/faces/neutral.svg",
+        "count": 9,
+        "missing": true
+      },
+      {
+        "path": "images/faces/sad.svg",
+        "count": 9,
+        "missing": true
+      },
+      {
         "path": "images/icons/share.svg",
         "count": 2,
         "missing": true
@@ -1013,97 +1028,97 @@
       },
       {
         "path": "relax_10__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_11__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_12__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_13__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "relax_14__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_15__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "relax_16__.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "relax_17__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_18__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_19__.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_1_m.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "relax_2_m.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_3_m.mp3",
-        "count": 4,
+        "count": 10,
         "missing": true
       },
       {
         "path": "relax_4_m.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_5_m.mp3",
-        "count": 4,
+        "count": 2,
         "missing": true
       },
       {
         "path": "relax_6_m.mp3",
-        "count": 3,
+        "count": 9,
         "missing": true
       },
       {
         "path": "relax_7_m.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_8_m.mp3",
-        "count": 3,
+        "count": 1,
         "missing": true
       },
       {
         "path": "relax_9_m.mp3",
-        "count": 4,
+        "count": 2,
         "missing": true
       }
     ]
@@ -1112,282 +1127,282 @@
     "data": [
       {
         "path": "audio/relax/english/relax_10_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 613.1
       },
       {
         "path": "audio/relax/english/relax_11_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 412.7
       },
       {
         "path": "audio/relax/english/relax_12_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 911.8
       },
       {
         "path": "audio/relax/english/relax_13_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 671.4
       },
       {
         "path": "audio/relax/english/relax_14_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 405.7
       },
       {
         "path": "audio/relax/english/relax_15_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 451
       },
       {
         "path": "audio/relax/english/relax_16_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 378.8
       },
       {
         "path": "audio/relax/english/relax_17_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 512.7
       },
       {
         "path": "audio/relax/english/relax_18_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 1253.1
       },
       {
         "path": "audio/relax/english/relax_19_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 1763.3
       },
       {
         "path": "audio/relax/english/relax_1_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 1857.1
       },
       {
         "path": "audio/relax/english/relax_1_m.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 1516.5
       },
       {
         "path": "audio/relax/english/relax_2_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 707.3
       },
       {
         "path": "audio/relax/english/relax_2_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 591.7
       },
       {
         "path": "audio/relax/english/relax_3_f.mp3",
-        "count": 4,
+        "count": 10,
         "size_kb": 346.5
       },
       {
         "path": "audio/relax/english/relax_3_m.mp3",
-        "count": 4,
+        "count": 10,
         "size_kb": 361.6
       },
       {
         "path": "audio/relax/english/relax_4_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 338.4
       },
       {
         "path": "audio/relax/english/relax_4_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 426.1
       },
       {
         "path": "audio/relax/english/relax_5_f.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 286.5
       },
       {
         "path": "audio/relax/english/relax_5_m.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 312.4
       },
       {
         "path": "audio/relax/english/relax_6_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 576.3
       },
       {
         "path": "audio/relax/english/relax_6_m.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 487.8
       },
       {
         "path": "audio/relax/english/relax_7_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 549
       },
       {
         "path": "audio/relax/english/relax_7_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 437
       },
       {
         "path": "audio/relax/english/relax_8_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 626.1
       },
       {
         "path": "audio/relax/english/relax_8_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 500.9
       },
       {
         "path": "audio/relax/english/relax_9_f.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 951
       },
       {
         "path": "audio/relax/english/relax_9_m.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 1082
       },
       {
         "path": "audio/relax/malay/relax_10_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 1197.1
       },
       {
         "path": "audio/relax/malay/relax_11_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 449.4
       },
       {
         "path": "audio/relax/malay/relax_12_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 1224.1
       },
       {
         "path": "audio/relax/malay/relax_13_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 829.8
       },
       {
         "path": "audio/relax/malay/relax_14_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 438.4
       },
       {
         "path": "audio/relax/malay/relax_15_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 612.7
       },
       {
         "path": "audio/relax/malay/relax_16_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 475.9
       },
       {
         "path": "audio/relax/malay/relax_17_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 693.1
       },
       {
         "path": "audio/relax/malay/relax_18_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 1481.2
       },
       {
         "path": "audio/relax/malay/relax_19_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 2101.6
       },
       {
         "path": "audio/relax/malay/relax_1_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 2313.1
       },
       {
         "path": "audio/relax/malay/relax_1_m.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 2431
       },
       {
         "path": "audio/relax/malay/relax_2_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 628.6
       },
       {
         "path": "audio/relax/malay/relax_2_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 913.5
       },
       {
         "path": "audio/relax/malay/relax_3_f.mp3",
-        "count": 4,
+        "count": 10,
         "size_kb": 504.1
       },
       {
         "path": "audio/relax/malay/relax_3_m.mp3",
-        "count": 4,
+        "count": 10,
         "size_kb": 605.3
       },
       {
         "path": "audio/relax/malay/relax_4_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 493.9
       },
       {
         "path": "audio/relax/malay/relax_4_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 554.7
       },
       {
         "path": "audio/relax/malay/relax_5_f.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 750.6
       },
       {
         "path": "audio/relax/malay/relax_5_m.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 684.5
       },
       {
         "path": "audio/relax/malay/relax_6_f.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 782.4
       },
       {
         "path": "audio/relax/malay/relax_6_m.mp3",
-        "count": 3,
+        "count": 9,
         "size_kb": 807.3
       },
       {
         "path": "audio/relax/malay/relax_7_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 994.7
       },
       {
         "path": "audio/relax/malay/relax_7_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 989.8
       },
       {
         "path": "audio/relax/malay/relax_8_f.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 788.2
       },
       {
         "path": "audio/relax/malay/relax_8_m.mp3",
-        "count": 3,
+        "count": 1,
         "size_kb": 900.8
       },
       {
         "path": "audio/relax/malay/relax_9_f.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 1492.2
       },
       {
         "path": "audio/relax/malay/relax_9_m.mp3",
-        "count": 4,
+        "count": 2,
         "size_kb": 1726.9
       },
       {
@@ -2767,7 +2782,7 @@
       },
       {
         "path": "lottie/relax/heart.json",
-        "count": 9,
+        "count": 11,
         "size_kb": 46.7
       },
       {
@@ -2777,12 +2792,12 @@
       },
       {
         "path": "lottie/relax/soothing_waves.json",
-        "count": 3,
+        "count": 1,
         "size_kb": 7.6
       },
       {
         "path": "lottie/relax/square_flow.json",
-        "count": 22,
+        "count": 32,
         "size_kb": 5.9
       }
     ]
@@ -3122,12 +3137,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 138
+        "total": 139
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 816
+        "total": 815
       },
       {
         "type": "template",

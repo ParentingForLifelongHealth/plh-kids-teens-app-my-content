@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_8",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "to_delete": "relax_8_m.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_8_m.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_8_m.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_8_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_8_f.mp3",
+      "id": "relax_3",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "to_delete": "relax_3_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_3_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_3_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_3_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_3_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
-      "transcript_my_ms_m": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nFikirkan di dalam hati:\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda hari ini.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu sesuatu yang besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
-      "transcript_gb_en_f": "Close your eyes.  \n\nTake a moment to stop what you are doing and connect with your breath.   \n\nWhat is one thing you can be grateful for right now?  \nWhat is one thing that brings you happiness?  \nWhat is one thing that you love?  \n\nThey do not have to be big. Sometimes the small things in life count the most!",
-      "transcript_my_ms_f": "Tutup mata anda.\n\nAmbil sedikit masa untuk berhenti seketika dan fokuskan perhatian anda kepada pernafasan anda.\n\nFikirkan di dalam hati:\n\nApakah satu perkara yang anda rasa bersyukur saat ini.\n\nApakah satu perkara yang membawa kegembiraan kepada anda hari ini.\n\nApakah satu perkara yang anda sayangi.\n\nIa tidak perlu sesuatu yang besar. Kadang-kadang perkara kecil dalam hiduplah yang paling bermakna.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
-      "title": "Small things",
+      "transcript_gb_en_m": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_my_ms_m": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
+      "transcript_gb_en_f": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_my_ms_f": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
+      "title": "One thing today",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,9 +24,10 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Small things"
+          "eng": "One thing today"
         }
       },
+      "in_library": "yes",
       "category_id": "relax",
       "nested": false,
       "completed": false

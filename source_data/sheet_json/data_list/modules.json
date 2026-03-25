@@ -30,7 +30,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Kindness to Self",
-      "relax_id": "relax_2",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_2"
     },
     {
@@ -44,7 +44,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Give Praise",
-      "relax_id": "relax_3",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_3"
     },
     {
@@ -58,7 +58,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Feelings",
-      "relax_id": "relax_4",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_4"
     },
     {
@@ -72,7 +72,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Parenting Values",
-      "relax_id": "relax_5",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_5"
     },
     {
@@ -86,7 +86,7 @@
       "unlock": 6,
       "core": false,
       "title::eng": "Language Skills",
-      "relax_id": "relax_6",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_6"
     },
     {
@@ -100,7 +100,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading, Part 1",
-      "relax_id": "relax_7",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_7"
     },
     {
@@ -114,7 +114,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading, Part 2",
-      "relax_id": "relax_8",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_8"
     },
     {
@@ -128,7 +128,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths, Part 1",
-      "relax_id": "relax_9",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_9"
     },
     {
@@ -142,7 +142,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths, Part 2",
-      "relax_id": "relax_10",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_10"
     },
     {
@@ -156,7 +156,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading",
-      "relax_id": "relax_11",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_11"
     },
     {
@@ -170,7 +170,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths",
-      "relax_id": "relax_12",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_12"
     },
     {
@@ -184,7 +184,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths",
-      "relax_id": "relax_13",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_13"
     },
     {
@@ -198,7 +198,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Talk to Teachers",
-      "relax_id": "relax_14",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_14"
     },
     {
@@ -212,7 +212,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Play & Learn",
-      "relax_id": "relax_15",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_15"
     },
     {
@@ -226,7 +226,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Life Lessons",
-      "relax_id": "relax_16",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_16"
     },
     {
@@ -240,7 +240,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
-      "relax_id": "relax_17",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_1"
     },
     {
@@ -254,7 +254,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
-      "relax_id": "relax_18",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_2"
     },
     {
@@ -268,7 +268,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
-      "relax_id": "relax_19",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_3"
     },
     {
@@ -282,7 +282,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Manage Stress",
-      "relax_id": "relax_20",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_4"
     },
     {
@@ -296,7 +296,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Keep it Positive",
-      "relax_id": "relax_21",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_5"
     },
     {
@@ -310,7 +310,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Daily Routines",
-      "relax_id": "relax_22",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_6"
     },
     {
@@ -324,7 +324,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Family Rules",
-      "relax_id": "relax_23",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_7"
     },
     {
@@ -338,7 +338,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Roles at Home",
-      "relax_id": "relax_24",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_8"
     },
     {
@@ -366,7 +366,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Manage Demands",
-      "relax_id": "relax_2",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_10"
     },
     {
@@ -380,7 +380,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Manage Anger",
-      "relax_id": "relax_3",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_11"
     },
     {
@@ -394,7 +394,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Consequences",
-      "relax_id": "relax_4",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_12"
     },
     {
@@ -408,7 +408,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Problem Solving",
-      "relax_id": "relax_5",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_13"
     },
     {
@@ -422,7 +422,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
-      "relax_id": "relax_6",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_14"
     },
     {
@@ -436,7 +436,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
-      "relax_id": "relax_7",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_15"
     },
     {
@@ -450,7 +450,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
-      "relax_id": "relax_8",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_16"
     },
     {
@@ -464,7 +464,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Stay Safe",
-      "relax_id": "relax_9",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_1"
     },
     {
@@ -478,7 +478,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Stay Safe",
-      "relax_id": "relax_10",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_2"
     },
     {
@@ -492,7 +492,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Crises",
-      "relax_id": "relax_11",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_3"
     },
     {
@@ -506,7 +506,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Crises",
-      "relax_id": "relax_12",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_4"
     },
     {
@@ -520,7 +520,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Online Safety",
-      "relax_id": "relax_13",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_5"
     },
     {
@@ -534,7 +534,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Online Habits",
-      "relax_id": "relax_14",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_6"
     },
     {
@@ -548,7 +548,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Nutrition and Health",
-      "relax_id": "relax_15",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_7"
     },
     {
@@ -562,7 +562,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Respect Each Other",
-      "relax_id": "relax_16",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_8"
     },
     {
@@ -576,7 +576,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Team Parenting",
-      "relax_id": "relax_17",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_9"
     },
     {
@@ -590,7 +590,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Teamwork",
-      "relax_id": "relax_18",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_10"
     },
     {
@@ -604,7 +604,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Resolve Conflicts",
-      "relax_id": "relax_19",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_11"
     },
     {
@@ -618,7 +618,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Talk and Listen",
-      "relax_id": "relax_20",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_12"
     },
     {
@@ -632,7 +632,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Needs and Wants",
-      "relax_id": "relax_21",
+      "relax_id": "relax_6",
       "check_in_id": "check_in_13"
     },
     {
@@ -646,7 +646,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Expenses",
-      "relax_id": "relax_22",
+      "relax_id": "relax_13",
       "check_in_id": "check_in_14"
     },
     {
@@ -660,7 +660,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Budgeting",
-      "relax_id": "relax_23",
+      "relax_id": "relax_15",
       "check_in_id": "check_in_15"
     },
     {
@@ -674,7 +674,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Savings",
-      "relax_id": "relax_24",
+      "relax_id": "relax_16",
       "check_in_id": "check_in_16"
     }
   ]

@@ -117,7 +117,7 @@
               "rows": [
                 {
                   "name": "show_progress_bar",
-                  "value": false,
+                  "value": true,
                   "type": "set_variable",
                   "_nested_name": "pick_random_locked_activity.module_start_at_id.module.show_progress_bar"
                 }

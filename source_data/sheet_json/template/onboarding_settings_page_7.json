@@ -53,14 +53,14 @@
       "type": "text_box",
       "name": "faci_group_id_input",
       "value": "@fields.faci_group_id",
-      "parameter_list": "placeholder: @global.placeholder_faci_group_id",
+      "parameter_list": "placeholder: @global.placeholder_user_facilitator_group;",
       "condition": "!!@fields.faci_group_id",
       "exclude_from_translation": true
     },
     {
       "type": "text_box",
       "name": "faci_group_id_input",
-      "parameter_list": "placeholder: @global.placeholder_faci_group_id",
+      "parameter_list": "placeholder: @global.placeholder_user_facilitator_group;",
       "condition": "!@fields.faci_group_id",
       "exclude_from_translation": true
     },
@@ -79,7 +79,7 @@
     },
     {
       "name": "completed_enabled",
-      "value": "@local.valid_faci_group_id_input",
+      "value": "@local.valid_faci_group_id_input && !!@local.faci_group_id_input",
       "exclude_from_translation": true
     },
     {
@@ -97,6 +97,11 @@
       "exclude_from_translation": true
     },
     {
+      "type": "begin_display_group",
+      "name": "dg_buttons_terms",
+      "condition": "style: column;"
+    },
+    {
       "type": "button",
       "name": "button_completed_2",
       "value": "@global.continue",
@@ -104,6 +109,17 @@
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
       "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_skip",
+      "value": "<u>@global.skip</u>",
+      "action_list": "click | emit: completed;",
+      "parameter_list": "variant: card;\nstyle: no-background;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group"
     },
     {
       "type": "end_display_group"

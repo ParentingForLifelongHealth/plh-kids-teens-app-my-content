@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_3",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "to_delete": "relax_3_m.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_3_m.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_3_m.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_3_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_3_f.mp3",
+      "id": "relax_6",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "to_delete": "relax_6_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_6_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_6_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_6_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_6_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_my_ms_m": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
-      "transcript_gb_en_f": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
-      "transcript_my_ms_f": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
-      "title": "One thing today",
+      "transcript_gb_en_m": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_my_ms_m": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "transcript_gb_en_f": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_my_ms_f": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "title": "Think about today",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,10 +24,9 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "One thing today"
+          "eng": "Think about today"
         }
       },
-      "in_library": "yes",
       "category_id": "relax",
       "nested": false,
       "completed": false

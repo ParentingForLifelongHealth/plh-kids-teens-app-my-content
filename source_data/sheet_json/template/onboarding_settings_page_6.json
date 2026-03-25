@@ -107,7 +107,7 @@
       "type": "button",
       "name": "button_completed_2",
       "value": "@global.continue",
-      "action_list": "click | set_field: user_type: @local.user_type_select;\nclick | set_field: content_package_select: @local.content_package_select;\nclick | emit: completed;",
+      "action_list": "click | set_field: user_type: @local.user_type_select;\nclick | set_field: content_package: @local.content_package_select;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
       "exclude_from_translation": true

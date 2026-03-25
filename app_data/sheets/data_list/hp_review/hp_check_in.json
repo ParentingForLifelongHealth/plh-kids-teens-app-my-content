@@ -6,22 +6,22 @@
   "flow_subtype": "hp_review",
   "rows": [
     {
-      "id": "spirituality_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "relation",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How is one-on-one time going?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -34,32 +34,23 @@
         "question_done": {
           "eng": "How many days in the last week did you spend at least 5 minutes of one-on-one time with your child?"
         },
-        "quiz_1_option_1_text": {
-          "eng": "None"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. Try to find time with them this week!"
         },
-        "quiz_1_option_2_text": {
-          "eng": "1 to 3 times"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. Try to find time with them this week!"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "4 to 5 times"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "6 to 7 times"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -67,34 +58,31 @@
       },
       "text_goal": "Your goal was to spend 5 minutes of one-on-one time with your child.",
       "question_done": "How many days in the last week did you spend at least 5 minutes of one-on-one time with your child?",
-      "quiz_1_option_1_text": "None",
-      "quiz_1_feedback_1": "That is okay. Try to find time with them this week!",
-      "quiz_1_option_2_text": "1 to 3 times",
-      "quiz_1_feedback_2": "That is okay. Try to find time with them this week!",
-      "quiz_1_option_3_text": "4 to 5 times",
-      "quiz_1_feedback_3": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
-      "quiz_1_option_4_text": "6 to 7 times",
-      "quiz_1_feedback_4": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
+      "reply_no": "That is okay. Try to find time with them this week!",
+      "reply_happy": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "maths_2_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "learning",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "When you involve your child, how does it go?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -107,32 +95,23 @@
         "question_done": {
           "eng": "How often do you involve your child in an activity to help them learn?  🎨"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Never or Hardly Ever"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. Try to find time to do it more with them this week!"
         },
-        "quiz_1_option_2_text": {
-          "eng": "Sometimes"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. Try to find time to do it more with them this week!"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Most of the Time"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Every Day"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -140,34 +119,31 @@
       },
       "text_goal": "Your goal was to involve your child in an activity to help them learn.",
       "question_done": "How often do you involve your child in an activity to help them learn?  🎨",
-      "quiz_1_option_1_text": "Never or Hardly Ever",
-      "quiz_1_feedback_1": "That is okay. Try to find time to do it more with them this week!",
-      "quiz_1_option_2_text": "Sometimes",
-      "quiz_1_feedback_2": "That is okay. Try to find time to do it more with them this week!",
-      "quiz_1_option_3_text": "Most of the Time",
-      "quiz_1_feedback_3": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
-      "quiz_1_option_4_text": "Every Day",
-      "quiz_1_feedback_4": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
+      "reply_no": "That is okay. Try to find time to do it more with them this week!",
+      "reply_happy": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "school_3to6_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "learning",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "When you involve your child, how does it go?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -180,32 +156,23 @@
         "question_done": {
           "eng": "How often do you involve your child in an activity to help them learn?  🎨"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Never or Hardly Ever"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. Try to find time to do it more with them this week!"
         },
-        "quiz_1_option_2_text": {
-          "eng": "Sometimes"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. Try to find time to do it more with them this week!"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Most of the Time"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Every Day"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -213,34 +180,31 @@
       },
       "text_goal": "Your goal was to involve your child in an activity to help them learn.",
       "question_done": "How often do you involve your child in an activity to help them learn?  🎨",
-      "quiz_1_option_1_text": "Never or Hardly Ever",
-      "quiz_1_feedback_1": "That is okay. Try to find time to do it more with them this week!",
-      "quiz_1_option_2_text": "Sometimes",
-      "quiz_1_feedback_2": "That is okay. Try to find time to do it more with them this week!",
-      "quiz_1_option_3_text": "Most of the Time",
-      "quiz_1_feedback_3": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
-      "quiz_1_option_4_text": "Every Day",
-      "quiz_1_feedback_4": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
+      "reply_no": "That is okay. Try to find time to do it more with them this week!",
+      "reply_happy": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "learn_exp_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "develop",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "Are you finding it easy to support your child's development every day?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -253,32 +217,23 @@
         "question_done": {
           "eng": "How confident are you in your ability to support your child's development?"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Not Confident"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "That is okay"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Somewhat Confident"
-        },
-        "quiz_1_feedback_2": {
+        "reply_no": {
           "eng": "That is okay. You will learn more about the importance of child development in this goal. Supporting your child’s development will help them live a safe and healthy life."
         },
-        "quiz_1_option_3_text": {
-          "eng": "Confident"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Very Confident"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life."
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -286,34 +241,31 @@
       },
       "text_goal": "Your goal was to support your child's development.",
       "question_done": "How confident are you in your ability to support your child's development?",
-      "quiz_1_option_1_text": "Not Confident",
-      "quiz_1_feedback_1": "That is okay",
-      "quiz_1_option_2_text": "Somewhat Confident",
-      "quiz_1_feedback_2": "That is okay. You will learn more about the importance of child development in this goal. Supporting your child’s development will help them live a safe and healthy life.",
-      "quiz_1_option_3_text": "Confident",
-      "quiz_1_feedback_3": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life.",
-      "quiz_1_option_4_text": "Very Confident",
-      "quiz_1_feedback_4": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life.",
+      "reply_no": "That is okay. You will learn more about the importance of child development in this goal. Supporting your child’s development will help them live a safe and healthy life.",
+      "reply_happy": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "know_role_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "structure",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did the conversation about household rules go with your child?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -326,32 +278,23 @@
         "question_done": {
           "eng": "Have you been able to make sure your child follows household rules?"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Never or Rarely"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive."
         },
-        "quiz_1_option_2_text": {
-          "eng": "Sometimes"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Often"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Almost Always"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive."
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -359,34 +302,31 @@
       },
       "text_goal": "Your goal was to set some structure at home.",
       "question_done": "Have you been able to make sure your child follows household rules?",
-      "quiz_1_option_1_text": "Never or Rarely",
-      "quiz_1_feedback_1": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive.",
-      "quiz_1_option_2_text": "Sometimes",
-      "quiz_1_feedback_2": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive.",
-      "quiz_1_option_3_text": "Often",
-      "quiz_1_feedback_3": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive.",
-      "quiz_1_option_4_text": "Almost Always",
-      "quiz_1_feedback_4": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive.",
+      "reply_no": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive.",
+      "reply_happy": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "solve_problem_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "behave",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did managing the challenging behaviour go?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -399,32 +339,23 @@
         "question_done": {
           "eng": "On a scale from 0 to 10, where 0 = no problem and 10 = very challenging situation, how challenging has it been to manage your child's behaviour?"
         },
-        "quiz_1_option_1_text": {
-          "eng": "0 to 2"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. You will learn more about managing your child’s behaviour in this goal."
         },
-        "quiz_1_option_2_text": {
-          "eng": "3 to 5"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. You will learn more about managing your child’s behaviour in this goal."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "6 to 8"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "It sounds like your child tends to behave well, which is great to hear! 💙"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "9 to 10"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "It sounds like your child tends to behave well, which is great to hear! 💙"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -432,34 +363,31 @@
       },
       "text_goal": "Your goal was to learn to manage your child's behaviour.",
       "question_done": "On a scale from 0 to 10, where 0 = no problem and 10 = very challenging situation, how challenging has it been to manage your child's behaviour?",
-      "quiz_1_option_1_text": "0 to 2",
-      "quiz_1_feedback_1": "That is okay. You will learn more about managing your child’s behaviour in this goal.",
-      "quiz_1_option_2_text": "3 to 5",
-      "quiz_1_feedback_2": "That is okay. You will learn more about managing your child’s behaviour in this goal.",
-      "quiz_1_option_3_text": "6 to 8",
-      "quiz_1_feedback_3": "It sounds like your child tends to behave well, which is great to hear! 💙",
-      "quiz_1_option_4_text": "9 to 10",
-      "quiz_1_feedback_4": "It sounds like your child tends to behave well, which is great to hear! 💙",
+      "reply_no": "That is okay. You will learn more about managing your child’s behaviour in this goal.",
+      "reply_happy": "It sounds like your child tends to behave well, which is great to hear! 💙",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "nutrition_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "safety",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How has talking about safety been with your child?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -472,32 +400,23 @@
         "question_done": {
           "eng": "How confident do you feel about being able to keep your child safe and healthy both online and offline?"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Not Confident"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world."
         },
-        "quiz_1_option_2_text": {
-          "eng": "Somewhat Confident"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Confident"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱"
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Very Confident"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱"
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -505,34 +424,31 @@
       },
       "text_goal": "Your goal was to talk to your child about safety.",
       "question_done": "How confident do you feel about being able to keep your child safe and healthy both online and offline?",
-      "quiz_1_option_1_text": "Not Confident",
-      "quiz_1_feedback_1": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world.",
-      "quiz_1_option_2_text": "Somewhat Confident",
-      "quiz_1_feedback_2": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world.",
-      "quiz_1_option_3_text": "Confident",
-      "quiz_1_feedback_3": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱",
-      "quiz_1_option_4_text": "Very Confident",
-      "quiz_1_feedback_4": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱",
+      "reply_no": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world.",
+      "reply_happy": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "ipv_listen",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "ipv",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did sharing household tasks with your spouse go?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -545,32 +461,23 @@
         "question_done": {
           "eng": "How often do you and your spouse share caregiving and household tasks? ⏰"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Never or Rarely"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal."
         },
-        "quiz_1_option_2_text": {
-          "eng": "Sometimes"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Often"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That’s great to hear! Sharing tasks equally helps everyone feel valued."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Almost Always"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That’s great to hear! Sharing tasks equally helps everyone feel valued."
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -578,34 +485,31 @@
       },
       "text_goal": "Your goal was to share household tasks with your spouse.",
       "question_done": "How often do you and your spouse share caregiving and household tasks? ⏰",
-      "quiz_1_option_1_text": "Never or Rarely",
-      "quiz_1_feedback_1": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal.",
-      "quiz_1_option_2_text": "Sometimes",
-      "quiz_1_feedback_2": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal.",
-      "quiz_1_option_3_text": "Often",
-      "quiz_1_feedback_3": "That’s great to hear! Sharing tasks equally helps everyone feel valued.",
-      "quiz_1_option_4_text": "Almost Always",
-      "quiz_1_feedback_4": "That’s great to hear! Sharing tasks equally helps everyone feel valued.",
+      "reply_no": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal.",
+      "reply_happy": "That’s great to hear! Sharing tasks equally helps everyone feel valued.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     },
     {
-      "id": "budget_save_yc",
-      "attached_single_doc": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
+      "id": "budget",
+      "happy_image_asset": "images/faces/happy.svg",
+      "ok_image_asset": "images/faces/neutral.svg",
+      "sad_image_asset": "images/faces/sad.svg",
+      "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did the budget planning go?",
       "_translations": {
         "notification_text": {},
         "text_goal": {},
         "question_done": {},
-        "quiz_1_option_1_text": {},
-        "quiz_1_feedback_1": {},
-        "quiz_1_option_2_text": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_option_3_text": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_option_4_text": {},
-        "quiz_1_feedback_4": {},
+        "reply_no": {},
+        "reply_happy": {},
         "activity_title": {},
+        "question_how": {},
+        "reply_ok": {},
+        "reply_sad": {},
         "outro_text": {}
       },
       "_translatedFields": {
@@ -618,32 +522,23 @@
         "question_done": {
           "eng": "How confident are you that your family can plan carefully in advance about how to use money available during the month?"
         },
-        "quiz_1_option_1_text": {
-          "eng": "Not Confident"
-        },
-        "quiz_1_feedback_1": {
+        "reply_no": {
           "eng": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started."
         },
-        "quiz_1_option_2_text": {
-          "eng": "Somewhat Confident"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started."
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Confident"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "That’s amazing! 🎉 Keep doing this - your family will be better for it."
-        },
-        "quiz_1_option_4_text": {
-          "eng": "Very Confident"
-        },
-        "quiz_1_feedback_4": {
+        "reply_happy": {
           "eng": "That’s amazing! 🎉 Keep doing this - your family will be better for it."
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_how": {
+          "eng": "How did it go?"
+        },
+        "reply_ok": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
+        },
+        "reply_sad": {
+          "eng": "Sorry to hear it was difficult for you. Well done for trying."
         },
         "outro_text": {
           "eng": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
@@ -651,15 +546,12 @@
       },
       "text_goal": "Your goal was to plan a budget.",
       "question_done": "How confident are you that your family can plan carefully in advance about how to use money available during the month?",
-      "quiz_1_option_1_text": "Not Confident",
-      "quiz_1_feedback_1": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started.",
-      "quiz_1_option_2_text": "Somewhat Confident",
-      "quiz_1_feedback_2": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started.",
-      "quiz_1_option_3_text": "Confident",
-      "quiz_1_feedback_3": "That’s amazing! 🎉 Keep doing this - your family will be better for it.",
-      "quiz_1_option_4_text": "Very Confident",
-      "quiz_1_feedback_4": "That’s amazing! 🎉 Keep doing this - your family will be better for it.",
+      "reply_no": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started.",
+      "reply_happy": "That’s amazing! 🎉 Keep doing this - your family will be better for it.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_how": "How did it go?",
+      "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
+      "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
       "outro_text": "Well done for exploring solutions to your challenges. Go try these solutions out. Your relationship with your child will get stronger and stronger!"
     }
   ],

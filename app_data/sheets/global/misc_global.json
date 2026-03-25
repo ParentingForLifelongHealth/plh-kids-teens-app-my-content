@@ -125,6 +125,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "skip",
+      "value": "Skip",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "restart",
       "value": "Restart",
       "_translations": {

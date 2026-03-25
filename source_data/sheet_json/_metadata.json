@@ -2118,6 +2118,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "module_group_in_progress",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY module_navigation.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "module_landing",
     "_source": {
       "name": "kids_teens_global V2",
@@ -2618,6 +2627,15 @@
       "name": "kids_global",
       "path": "templates/modules/module_navigation.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1MeuVFYp7ovMCABdgC5c1mExgDK8Xop13fzzBNR5EAPo"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "module_start_at_id",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY module_navigation.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
     }
   },
   {

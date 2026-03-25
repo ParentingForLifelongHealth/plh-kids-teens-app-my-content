@@ -4,7 +4,63 @@
   "flow_type": "data_list",
   "rows": [
     {
+      "id": "relax_13",
+      "lottie_asset": "lottie/relax/heart.json",
+      "to_delete": "relax_13__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_13__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_13__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_13_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_13_f.mp3",
+      "media_type": "audio",
+      "transcript_gb_en_m": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
+      "transcript_my_ms_m": "Berikut adalah sesuatu yang menyeronokkan untuk membantu anda melepaskan tekanan:\n\nPilih sebuah lagu yang sesuai dengan apa yang anda perlukan saat ini. Adakah anda perlukan lagu yang lembut dan perlahan untuk menenangkan jiwa yang letih, atau lagu yang rancak untuk membantu anda rasa bertenaga dan keluarkan rasa tertekan anda?\n\nCari ruang dan gerakkan tubuh anda mengikut irama. Ingat untuk terus bernafas semasa anda bergerak. Biarkan nafas dan pergerakan anda selari.\n\nPergerakan selama beberapa minit pun sudah cukup untuk melepaskan tekanan dan menceriakan mood anda!",
+      "transcript_gb_en_f": "Here is something fun to help you let go of stress:   \n\nChoose a song that reflects what you need in this moment. Do you need a gentle song to soothe your tired soul or an upbeat song to help you shake some stress out?   \n\nMake a space and move your body to the music. Remember to breathe while you move. Let your breath and the movement go together. \n\nEven a few minutes of movement can be enough to release stress and lift your mood!",
+      "transcript_my_ms_f": "Berikut adalah sesuatu yang menyeronokkan untuk membantu anda melepaskan tekanan:\n\nPilih sebuah lagu yang sesuai dengan apa yang anda perlukan saat ini. Adakah anda perlukan lagu yang lembut dan perlahan untuk menenangkan jiwa yang letih, atau lagu yang rancak untuk membantu anda rasa bertenaga dan keluarkan rasa tertekan anda?\n\nCari ruang dan gerakkan tubuh anda mengikut irama. Ingat untuk terus bernafas semasa anda bergerak. Biarkan nafas dan pergerakan anda selari.\n\nPergerakan selama beberapa minit pun sudah cukup untuk melepaskan tekanan dan menceriakan mood anda!",
+      "title": "Your song",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your song"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
       "id": "check_in_14",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Take a moment to notice how you are doing."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -35,32 +91,6 @@
           "my_ms": true
         }
       },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Take a moment to notice how you are doing."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Some days will have their challenges. That is okay. You are on the right path!"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!"
-        },
-        "quiz_1_question": {
-          "eng": "How are you feeling today?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Happy"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Okay"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Sad"
-        }
-      },
       "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Some days will have their challenges. That is okay. You are on the right path!",
       "quiz_1_feedback_3": "Sorry that things are difficult now. It is completely normal to struggle sometimes. Remember that you are not alone!",
@@ -68,8 +98,6 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "category_id": "check_in",
-      "nested": false,
       "completed": false
     },
     {
@@ -98,6 +126,7 @@
     },
     {
       "id": "explore_1",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's get started with an activity!"
@@ -111,7 +140,6 @@
           "my_ms": true
         }
       },
-      "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",
@@ -225,6 +253,8 @@
           "eng": "That’s OK. Try to make some time to do this soon. You can do this! 🌷"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -247,8 +277,6 @@
       "quiz_1_question": "Are you ready for today’s home activity? ⭐ It’s time to add up your monthly expenses.",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
-      "category_id": "home_activity",
-      "nested": false,
       "completed": false
     }
   ],

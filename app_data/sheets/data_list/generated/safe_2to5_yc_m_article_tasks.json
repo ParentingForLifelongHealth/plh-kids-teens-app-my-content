@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_6",
-      "lottie_asset": "lottie/relax/square_flow.json",
-      "to_delete": "relax_6_m.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_6_m.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_6_m.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_6_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_6_f.mp3",
+      "id": "relax_16",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "to_delete": "relax_16__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_16__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_16__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_16_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_16_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
-      "transcript_my_ms_m": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
-      "transcript_gb_en_f": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
-      "transcript_my_ms_f": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
-      "title": "Think about today",
+      "transcript_gb_en_m": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
+      "transcript_my_ms_m": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
+      "transcript_gb_en_f": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
+      "transcript_my_ms_f": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
+      "title": "Angry? Take a break",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,7 +24,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Think about today"
+          "eng": "Angry? Take a break"
         }
       },
       "category_id": "relax",
