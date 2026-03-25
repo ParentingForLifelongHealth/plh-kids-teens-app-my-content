@@ -4,7 +4,63 @@
   "flow_type": "data_list",
   "rows": [
     {
+      "id": "relax_15",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "to_delete": "relax_15__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
+      "media_type": "audio",
+      "transcript_gb_en_m": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_m": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "transcript_gb_en_f": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_f": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "title": "Notice how you feel",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Notice how you feel"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
       "id": "check_in_7",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -35,32 +91,6 @@
           "my_ms": true
         }
       },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Remember that YOU matter! Let’s check in with our emotions first."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
-        },
-        "quiz_1_question": {
-          "eng": "How are you feeling today?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Happy"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Okay"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Sad"
-        }
-      },
       "quiz_1_feedback_1": "Well done for recognising a positive feeling. I am happy to hear you are feeling well today!",
       "quiz_1_feedback_2": "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it.",
       "quiz_1_feedback_3": "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you.",
@@ -68,8 +98,6 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "category_id": "check_in",
-      "nested": false,
       "completed": false
     },
     {
@@ -133,6 +161,8 @@
           "eng": "⭐ You are right! \n\n💚 Setting reasonable limits with your child is a good form of positive discipline. \n\n🧸 You are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely."
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n📝 Including children in discussions on family rules help them to feel appreciated and heard.\n\n⏰ They are more likely to follow the rule if they helped to develop the rule.",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -173,8 +203,6 @@
       "quiz_1_question": "True or false: Family rules should be set by the parents because our children are too young to decide for themselves.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
-      "category_id": "intro",
-      "nested": false,
       "text_1_facilitator": "Here’s a quick question for you:",
       "quiz_2_question": "Setting limits is also important for children. What do you think about this one?\nSetting limits through household rules, daily routines, and healthy living is bad for your child because you are not allowing them to think on their own.",
       "quiz_2_option_1_text": "True",
@@ -300,6 +328,7 @@
     },
     {
       "id": "tips_1",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "4️⃣ Here are four easy tips to help you make family rules with your child:"
@@ -361,7 +390,6 @@
           "my_ms": true
         }
       },
-      "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=SZ0YjLm-ka0",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=DBvnp8K_fB4",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=lvzyXJUed68",
@@ -399,6 +427,8 @@
           "eng": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -421,8 +451,6 @@
       "quiz_1_question": "For today’s home activity, can you create at least one family rule with your child? 📝",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
-      "category_id": "home_activity",
-      "nested": false,
       "completed": false
     }
   ],

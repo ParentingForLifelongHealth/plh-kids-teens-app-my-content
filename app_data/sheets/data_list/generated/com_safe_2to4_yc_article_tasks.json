@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_9",
+      "id": "relax_6",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "to_delete": "relax_9_m.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_9_m.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_9_m.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_9_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_9_f.mp3",
+      "to_delete": "relax_6_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_6_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_6_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_6_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_6_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
-      "transcript_my_ms_m": "Cubalah untuk ambil masa untuk merehatkan tubuh badan anda setiap hari.\n\nBerikut ialah satu aktiviti untuk merehatkan tubuh badan anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh badan anda. Adakah ada bahagian yang terasa tegang? Kebas? Atau sakit?\nFokus pada bahagian itu seketika. Tarik nafas dan hembus nafas perlahan sambil menggerakkan sedikit tubuh badan anda yang berasa tegang, kebas atau sakit secara perlahan-lahan. \nUlang dan tarik nafas beberapa kali.\n\nSatu.....Dua.....Tiga....\n\nBuka mata anda perlahan-lahan. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
-      "transcript_gb_en_f": "Here is an activity to relax your body: \n\nSit comfortably and close your eyes if you can. \nImagine a golden ring scanning your body from your feet to your head.  \nPay attention as it moves up and down your body. Are there any areas that feel tense? Numb? Painful?  \nFocus on those areas for a moment. Breathe into the area and, when you breathe out, try to let go of any tension or pain.  \nDo this for a few breaths.  \n\nOpen your eyes. How does your body feel now?\n\nYou can also try this next time you find yourself lying in bed unable to sleep!",
-      "transcript_my_ms_f": "Cubalah untuk ambil masa untuk merehatkan tubuh badan anda setiap hari.\n\nBerikut ialah satu aktiviti untuk merehatkan tubuh badan anda:\n\nDuduk dengan selesa dan pejamkan mata jika boleh.\nBayangkan sebuah alat pengimbas keemasan mengimbas tubuh anda dari kaki hingga ke kepala.\nPerhatikan pergerakannya naik dan turun pada tubuh badan anda. Adakah ada bahagian yang terasa tegang? Kebas? Atau sakit?\nFokus pada bahagian itu seketika. Tarik nafas dan hembus nafas perlahan sambil menggerakkan sedikit tubuh badan anda yang berasa tegang, kebas atau sakit secara perlahan-lahan. \nUlang dan tarik nafas beberapa kali.\n\nSatu.....Dua.....Tiga....\n\nBuka mata anda perlahan-lahan. Bagaimana tubuh anda rasa sekarang?\n\nAnda juga boleh cuba latihan ini apabila anda sedang berbaring di atas katil dan mengalami kesukaran untuk tidur!",
-      "title": "Body scan",
+      "transcript_gb_en_m": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_my_ms_m": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "transcript_gb_en_f": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_my_ms_f": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "title": "Think about today",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,10 +24,9 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Body scan"
+          "eng": "Think about today"
         }
       },
-      "in_library": "yes",
       "category_id": "relax",
       "nested": false,
       "completed": false

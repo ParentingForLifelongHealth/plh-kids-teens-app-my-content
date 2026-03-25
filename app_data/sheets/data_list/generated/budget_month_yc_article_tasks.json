@@ -4,7 +4,63 @@
   "flow_type": "data_list",
   "rows": [
     {
+      "id": "relax_15",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "to_delete": "relax_15__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
+      "media_type": "audio",
+      "transcript_gb_en_m": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_m": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "transcript_gb_en_f": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_f": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "title": "Notice how you feel",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Notice how you feel"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
       "id": "check_in_15",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Well done for recognising how you feel. Good to hear that you are feeling well today!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!"
+        },
+        "quiz_1_feedback_3": {
+          "eng": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!"
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -35,32 +91,6 @@
           "my_ms": true
         }
       },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Well done for recognising how you feel. Good to hear that you are feeling well today!"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!"
-        },
-        "quiz_1_feedback_3": {
-          "eng": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!"
-        },
-        "quiz_1_question": {
-          "eng": "How are you feeling today?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Happy"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Okay"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Sad"
-        }
-      },
       "quiz_1_feedback_1": "Well done for recognising how you feel. Good to hear that you are feeling well today!",
       "quiz_1_feedback_2": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!",
       "quiz_1_feedback_3": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!",
@@ -68,8 +98,6 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "category_id": "check_in",
-      "nested": false,
       "completed": false
     },
     {
@@ -115,6 +143,8 @@
           "eng": "False"
         }
       },
+      "category_id": "explore",
+      "nested": false,
       "quiz_1_option_1_text": "True",
       "_translations": {
         "quiz_1_option_1_text": {
@@ -134,8 +164,6 @@
         }
       },
       "quiz_1_option_2_text": "False",
-      "category_id": "explore",
-      "nested": false,
       "text_1_facilitator": "Here is how you can build a monthly budget.",
       "quiz_2_option_1_text": "True",
       "quiz_2_option_2_text": "False",
@@ -214,6 +242,7 @@
     },
     {
       "id": "explore_6",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚"
@@ -228,7 +257,6 @@
         }
       },
       "image_asset": "make_a_monthly_budget_yc_3",
-      "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Uc8lj2RJFoU",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=PGFqnL9u3XE",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=pDSxS0_x9Qg",
@@ -254,6 +282,8 @@
           "eng": "That’s OK. Try to do it this week. 💚"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "That’s great! Consider involving your family: it’s a great skill for everyone to learn. 💚",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -276,8 +306,6 @@
       "quiz_1_question": "⭐ It’s time to get out your paper and build your monthly budget. Do you have time to do it today?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
-      "category_id": "home_activity",
-      "nested": false,
       "completed": false
     }
   ],

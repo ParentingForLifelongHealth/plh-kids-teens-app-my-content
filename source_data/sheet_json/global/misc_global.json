@@ -65,6 +65,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "restart",
       "value": "Restart"
     },

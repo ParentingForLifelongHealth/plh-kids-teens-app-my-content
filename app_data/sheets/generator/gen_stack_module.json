@@ -40,7 +40,7 @@
         },
         {
           "name": "show_progress_bar",
-          "value": false,
+          "value": true,
           "exclude_from_translation": true
         },
         {

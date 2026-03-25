@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_17",
-      "lottie_asset": "lottie/relax/looping_rings.json",
-      "to_delete": "relax_17__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_17__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_17__.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_17_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_17_f.mp3",
+      "id": "relax_15",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "to_delete": "relax_15__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
-      "transcript_my_ms_m": "Memuji diri sendiri sangat membantu kita, terutama sekali apabila kita mengalami hari-hari yang mencabar.\n\nFikirkan tentang minggu anda dan sambungkan ayat ini: \n“Minggu ini, saya bangga dengan diri saya kerana …” \nIa boleh jadi apa sahaja, bukan hanya tentang menjadi ibu bapa.\n\nSekarang fikirkan satu perkara yang anda lakukan dengan baik hari ini. Kemudian berikan diri and pelukan yang besar dan ERAT!",
-      "transcript_gb_en_f": "Self-praise can be really helpful, especially when we have difficult days. \n\nThink of your week and finish the following phrase: “This week, I am proud of myself for …” It can be anything, not just things about being a parent!\n\nThink of one thing you did well today. Now wrap your arms around yourself and give yourself a big HUG!",
-      "transcript_my_ms_f": "Memuji diri sendiri sangat membantu kita, terutama sekali apabila kita mengalami hari-hari yang mencabar.\n\nFikirkan tentang minggu anda dan sambungkan ayat ini: \n“Minggu ini, saya bangga dengan diri saya kerana …” \nIa boleh jadi apa sahaja, bukan hanya tentang menjadi ibu bapa.\n\nSekarang fikirkan satu perkara yang anda lakukan dengan baik hari ini. Kemudian berikan diri and pelukan yang besar dan ERAT!",
-      "title": "Praise yourself",
+      "transcript_gb_en_m": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_m": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "transcript_gb_en_f": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_f": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "title": "Notice how you feel",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,7 +24,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Praise yourself"
+          "eng": "Notice how you feel"
         }
       },
       "category_id": "relax",

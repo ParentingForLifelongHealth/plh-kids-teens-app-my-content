@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_11",
-      "lottie_asset": "lottie/relax/heart.json",
-      "to_delete": "relax_11__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_11__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_11__.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_11_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_11_f.mp3",
+      "id": "relax_15",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "to_delete": "relax_15__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Think about what makes you angry. When does it happen? How do you normally react?\n\nPrevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone.",
-      "transcript_my_ms_m": "Fikirkan apa yang biasa membuat anda marah. Bila ia berlaku? Bagaimana respon anda ketika anda marah?\n\nCuba cegah rasa marah sebelum ia bermula. Dapatkan tidur atau rehat apabila anda letih. \nMakan sesuatu apabila anda lapar. Minta sokongan seseorang apabila anda rasa bersendirian.",
-      "transcript_gb_en_f": "Think about what makes you angry. When does it happen? How do you normally react?\n\nPrevent anger from starting in the first place. Get some sleep or rest when you are tired. Try to eat something when you are hungry. Ask someone for support when you are feeling alone.",
-      "transcript_my_ms_f": "Fikirkan apa yang biasa membuat anda marah. Bila ia berlaku? Bagaimana respon anda ketika anda marah?\n\nCuba cegah rasa marah sebelum ia bermula. Dapatkan tidur atau rehat apabila anda letih. \nMakan sesuatu apabila anda lapar. Minta sokongan seseorang apabila anda rasa bersendirian.",
-      "title": "Prevent anger",
+      "transcript_gb_en_m": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_m": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "transcript_gb_en_f": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?\n\nNotice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.\n\nThank yourself for taking the time to check in with your feelings and thoughts!",
+      "transcript_my_ms_f": "Hai! Bagaimana perasaan anda sekarang? Gembira, sedih, marah, teruja, risau?\n\nPerhatikan dimanakah perasaan itu muncul di tubuh badan anda. Perhatikan juga fikiran yang datang bersama perasaan itu. Tarik nafas dengan dalam dan hembus nafas perlahan-lahan.\n\nUcapkan terima kasih kepada diri sendiri kerana meluangkan masa untuk menyemak perasaan dan fikiran anda.",
+      "title": "Notice how you feel",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,7 +24,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Prevent anger"
+          "eng": "Notice how you feel"
         }
       },
       "category_id": "relax",

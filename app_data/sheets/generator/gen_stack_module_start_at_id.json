@@ -98,7 +98,7 @@
               "rows": [
                 {
                   "name": "show_progress_bar",
-                  "value": false
+                  "value": true
                 }
               ]
             }

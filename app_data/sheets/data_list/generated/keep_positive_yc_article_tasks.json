@@ -4,7 +4,63 @@
   "flow_type": "data_list",
   "rows": [
     {
+      "id": "relax_6",
+      "lottie_asset": "lottie/relax/square_flow.json",
+      "to_delete": "relax_6_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_6_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_6_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_6_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_6_f.mp3",
+      "media_type": "audio",
+      "transcript_gb_en_m": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_my_ms_m": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "transcript_gb_en_f": "Close your eyes. \n\nTake a minute to think about the day.\n\nThink about one positive or fun thing you did.\nPraise yourself for one thing you did well today. \nThink of one thing you can do differently tomorrow.  \nThink of one thing that you are grateful for.",
+      "transcript_my_ms_f": "Tutup mata anda.\n\nLuangkan satu minit untuk memikirkan tentang hari ini.\n\nFikirkan satu perkara positif atau yang menyeronokkan yang anda lakukan pada hari ini.\nPuji diri anda untuk satu perkara yang anda lakukan dengan baik hari ini.\nFikirkan satu perkara yang anda boleh lakukan dengan cara berbeza esok.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur pada hari ini.\n\nBila anda sudah bersedia, buka semula mata anda perlahan-lahan.",
+      "title": "Think about today",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Think about today"
+        }
+      },
+      "category_id": "relax",
+      "nested": false,
+      "completed": false
+    },
+    {
       "id": "check_in_5",
+      "_translatedFields": {
+        "text_1": {
+          "eng": "Looking after yourself matters. And how you feel matters too!"
+        },
+        "quiz_1_feedback_1": {
+          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
+        },
+        "quiz_1_feedback_2": {
+          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
+        },
+        "quiz_1_feedback_3": {
+          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
+        },
+        "quiz_1_question": {
+          "eng": "How are you feeling today?"
+        },
+        "quiz_1_option_1_text": {
+          "eng": "Happy"
+        },
+        "quiz_1_option_2_text": {
+          "eng": "Okay"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "Sad"
+        }
+      },
+      "category_id": "check_in",
+      "nested": false,
       "quiz_1_option_1_image_asset": "images/icons/faces/happy_face_new.svg",
       "quiz_1_option_2_image_asset": "images/icons/faces/ok_face_new.svg",
       "quiz_1_option_3_image_asset": "images/icons/faces/sad_face_new.svg",
@@ -35,32 +91,6 @@
           "my_ms": true
         }
       },
-      "_translatedFields": {
-        "text_1": {
-          "eng": "Looking after yourself matters. And how you feel matters too!"
-        },
-        "quiz_1_feedback_1": {
-          "eng": "Great! So good to hear that you are in a good space today. What a wonderful feeling!"
-        },
-        "quiz_1_feedback_2": {
-          "eng": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
-        },
-        "quiz_1_feedback_3": {
-          "eng": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
-        },
-        "quiz_1_question": {
-          "eng": "How are you feeling today?"
-        },
-        "quiz_1_option_1_text": {
-          "eng": "Happy"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "Okay"
-        },
-        "quiz_1_option_3_text": {
-          "eng": "Sad"
-        }
-      },
       "quiz_1_feedback_1": "Great! So good to hear that you are in a good space today. What a wonderful feeling!",
       "quiz_1_feedback_2": "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone.",
       "quiz_1_feedback_3": "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way.",
@@ -68,8 +98,6 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "category_id": "check_in",
-      "nested": false,
       "completed": false
     },
     {
@@ -118,6 +146,8 @@
           "eng": "⭐ That’s correct! \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣"
         }
       },
+      "category_id": "intro",
+      "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\nChildren are more likely to follow an instruction when it is worded in a positive way. \n\n💙 Negative instructions like, “Don’t do that!” can make children (and us) feel bad 😣",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -143,8 +173,6 @@
       "quiz_1_question": "True or false: It does not matter whether you give an instruction in a positive or negative way.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
-      "category_id": "intro",
-      "nested": false,
       "text_1_facilitator": "What do you think about this?",
       "completed": false
     },
@@ -265,6 +293,7 @@
     },
     {
       "id": "tips_1",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "3️⃣ Here are three tips on how to help your child follow instructions more often:"
@@ -314,7 +343,6 @@
           "my_ms": true
         }
       },
-      "media_type": "youtube",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=jRzMcicGdH0",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=nvus9O28N60",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=70sV9bX_ex8",
@@ -349,6 +377,8 @@
           "eng": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
         }
       },
+      "category_id": "home_activity",
+      "nested": false,
       "quiz_1_feedback_1": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
       "_translations": {
         "quiz_1_feedback_1": {
@@ -371,8 +401,6 @@
       "quiz_1_question": "Your home activity for today is to try to give specific, realistic, and positive instructions with your child. Do you have time to do this today? ⏰⭐",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "No",
-      "category_id": "home_activity",
-      "nested": false,
       "completed": false
     }
   ],

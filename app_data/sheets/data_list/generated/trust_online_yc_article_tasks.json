@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_14",
-      "lottie_asset": "lottie/relax/blue_dots.json",
-      "to_delete": "relax_14__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_14__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_14__.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_14_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_14_f.mp3",
+      "id": "relax_3",
+      "lottie_asset": "lottie/relax/looping_rings.json",
+      "to_delete": "relax_3_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_3_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_3_m.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_3_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_3_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
-      "transcript_my_ms_m": "Tutup mata anda.\n\nLuangkan sedikit masa untuk rasa lantai di bawah tapak kaki anda.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.\nTumpukan perhatian pada nafas anda.\nTarik dan hembus nafas perlahan-lahan.\n\nBila anda bersedia, buka mata anda.",
-      "transcript_gb_en_f": "Close your eyes.\n\nTake a moment to feel the ground under your feet.\nThink of something you feel grateful for.\nFocus on your breath.\nBreathe in and out.\n\nIn and out.",
-      "transcript_my_ms_f": "Tutup mata anda.\n\nLuangkan sedikit masa untuk rasa lantai di bawah tapak kaki anda.\nFikirkan satu perkara yang membuatkan anda rasa bersyukur.\nTumpukan perhatian pada nafas anda.\nTarik dan hembus nafas perlahan-lahan.\n\nBila anda bersedia, buka mata anda.",
-      "title": "Ground & gratitude",
+      "transcript_gb_en_m": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_my_ms_m": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
+      "transcript_gb_en_f": "Close your eyes and think about the day. \n\nName one thing that you are grateful for. \nName one thing that you did well. \nName one thing that you love.\n\nWell done, you are a hero!",
+      "transcript_my_ms_f": "Tutup mata anda dan fikirkan tentang hari ini.\n\nSebut satu perkara yang anda rasa bersyukur.\nSebut satu perkara yang anda lakukan dengan baik.\nSebut satu perkara yang anda sayangi.\n\nBila anda bersedia, buka semula mata anda perlahan-lahan.\n\nBagus sekali, anda memang hebat!",
+      "title": "One thing today",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,9 +24,10 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Ground & gratitude"
+          "eng": "One thing today"
         }
       },
+      "in_library": "yes",
       "category_id": "relax",
       "nested": false,
       "completed": false

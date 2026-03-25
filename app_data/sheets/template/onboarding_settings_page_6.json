@@ -596,10 +596,10 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
-                "content_package_select",
+                "content_package",
                 "@local.content_package_select"
               ],
-              "_raw": "click | set_field: content_package_select: @local.content_package_select"
+              "_raw": "click | set_field: content_package: @local.content_package_select"
             },
             {
               "trigger": "click",
@@ -662,7 +662,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: content_package_select: @local.content_package_select",
+                    "fullExpression": "click | set_field: content_package: @local.content_package_select",
                     "matchedExpression": "@local.content_package_select",
                     "type": "local",
                     "fieldName": "content_package_select"

@@ -62,15 +62,19 @@
       "type": "task_progress_bar",
       "name": "task_progress_bar",
       "parameter_list": "task_group_data: @local.articles_data_list_name;",
-      "exclude_from_translation": true,
-      "style_list": "flex: 1"
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "here"
     },
     {
       "type": "round_button",
       "name": "close_button",
       "action_list": "click | emit: uncompleted",
       "parameter_list": "icon_src: close;\nvariant: no-background;",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "condition": false
     },
     {
       "type": "end_display_group"

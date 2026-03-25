@@ -4,19 +4,19 @@
   "flow_type": "data_list",
   "rows": [
     {
-      "id": "relax_18",
-      "lottie_asset": "lottie/relax/heart.json",
-      "to_delete": "relax_18__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_18__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_18__.mp3",
-      "media_asset_gb_en_f": "audio/relax/english/relax_18_f.mp3",
-      "media_asset_my_ms_f": "audio/relax/malay/relax_18_f.mp3",
+      "id": "relax_16",
+      "lottie_asset": "lottie/relax/blue_dots.json",
+      "to_delete": "relax_16__.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_16__.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_16__.mp3",
+      "media_asset_gb_en_f": "audio/relax/english/relax_16_f.mp3",
+      "media_asset_my_ms_f": "audio/relax/malay/relax_16_f.mp3",
       "media_type": "audio",
-      "transcript_gb_en_m": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
-      "transcript_my_ms_m": "Duduk dengan selesa dan pejamkan mata.\n\nPerhatikan apa yang sedang berlaku dalam diri anda pada saat ini. Apa yang sedang anda fikirkan? Adakah fikiran itu positif atau negatif. Bagaimana perasaan anda? Adakah ia menyenangkan atau membimbangkan. Bagaimana pula tubuh anda? Adakah anda rasa tegang atau tenang.\n\nAlihkan perhatian anda ke hati anda dengan tenang. Anda boleh meletakkan satu tangan di dada atau di atas jantung anda. Ucapkan kata‑kata ini dengan perlahan di dalam hati:\n\nSemoga saya tenang.\nSemoga saya selamat.\nSemoga saya sihat.\nSemoga saya bahagia.\nSemoga ada kasih sayang dalam keluarga saya.\nSemoga saya sentiasa disayangi.\n\nAmbil sedikit masa untuk merenung pengalaman ini. Perhatikan sama ada anda rasa sedikit perbezaan.\n\nBila anda bersedia, buka mata anda.",
-      "transcript_gb_en_f": "Sit comfortably and close your eyes. \n\nRecognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed?\n\nConnect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest. Say the following words silently to yourself:\n\nMay I be peaceful.\nMay I be safe.\nMay I be healthy.\nMay I be happy.\nMay there be love in my family.\nMay I feel loved.\n\nTake a moment to reflect on your experience. Notice if you feel any different.",
-      "transcript_my_ms_f": "Duduk dengan selesa dan pejamkan mata.\n\nPerhatikan apa yang sedang berlaku dalam diri anda pada saat ini. Apa yang sedang anda fikirkan? Adakah fikiran itu positif atau negatif. Bagaimana perasaan anda? Adakah ia menyenangkan atau membimbangkan. Bagaimana pula tubuh anda? Adakah anda rasa tegang atau tenang.\n\nAlihkan perhatian anda ke hati anda dengan tenang. Anda boleh meletakkan satu tangan di dada atau di atas jantung anda. Ucapkan kata‑kata ini dengan perlahan di dalam hati:\n\nSemoga saya tenang.\nSemoga saya selamat.\nSemoga saya sihat.\nSemoga saya bahagia.\nSemoga ada kasih sayang dalam keluarga saya.\nSemoga saya sentiasa disayangi.\n\nAmbil sedikit masa untuk merenung pengalaman ini. Perhatikan sama ada anda rasa sedikit perbezaan.\n\nBila anda bersedia, buka mata anda.",
-      "title": "Taking care of yourself",
+      "transcript_gb_en_m": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
+      "transcript_my_ms_m": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
+      "transcript_gb_en_f": "Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.\n\nGo somewhere else for 5 minutes to regain control of your emotions. If you have a safe outdoor space, go outside. You can get through this!",
+      "transcript_my_ms_f": "Menguruskan rasa marah memang tidak mudah. Bila anda mula rasa marah kepada anak‑anak atau sesiapa sahaja, cuba berhenti seketika.\n\nPergilah ke tempat lain selama 5 minit untuk menenangkan diri dan mengawal emosi anda. Jika ada ruang luar yang selamat, keluar sebentar.\n\nAnda pasti mampu melalui saat ini!",
+      "title": "Angry? Take a break",
       "_translations": {
         "title": {
           "my_ms": true
@@ -24,7 +24,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Taking care of yourself"
+          "eng": "Angry? Take a break"
         }
       },
       "category_id": "relax",
