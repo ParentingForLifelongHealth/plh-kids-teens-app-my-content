@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_my");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.1.15",
+  content_tag_latest: "1.1.16",
 };
 
 
@@ -42,11 +42,16 @@ config.ios = {
 
 config.firebase = {
   config: loadEncryptedConfig('firebase.json'),
+  appCheck: { recaptchaEnterpriseSiteKey: '6Ld76pgsAAAAAOu4_-B4pc79b8y2_5AxV2bh9tfE' },
 };
 
 config.auth = {
   provider: 'firebase',
 };
+
+config.remote_functions = {
+  provider: 'firebase'
+}
 
 // Hacky fix to point extended deployment to translations within its own repo
 config.translations.translated_strings_path = "./app_data/translations_source/translated_strings";
