@@ -164,21 +164,9 @@
           "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
         },
         "quiz_1_option_6_text": {
-          "eng": "Park"
+          "eng": "None of the above"
         },
         "quiz_1_feedback_6": {
-          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
-        },
-        "quiz_1_option_7_text": {
-          "eng": "Car"
-        },
-        "quiz_1_feedback_7": {
-          "eng": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
-        },
-        "quiz_1_option_8_text": {
-          "eng": "None of the Above"
-        },
-        "quiz_1_feedback_8": {
           "eng": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
         },
         "quiz_2_question": {
@@ -243,18 +231,6 @@
         "quiz_1_feedback_6": {
           "my_ms": true
         },
-        "quiz_1_option_7_text": {
-          "my_ms": true
-        },
-        "quiz_1_feedback_7": {
-          "my_ms": true
-        },
-        "quiz_1_option_8_text": {
-          "my_ms": true
-        },
-        "quiz_1_feedback_8": {
-          "my_ms": true
-        },
         "quiz_2_question": {
           "my_ms": true
         },
@@ -282,12 +258,8 @@
       "quiz_1_feedback_4": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_option_5_text": "Clinic",
       "quiz_1_feedback_5": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
-      "quiz_1_option_6_text": "Park",
-      "quiz_1_feedback_6": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
-      "quiz_1_option_7_text": "Car",
-      "quiz_1_feedback_7": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
-      "quiz_1_option_8_text": "None of the Above",
-      "quiz_1_feedback_8": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
+      "quiz_1_option_6_text": "None of the above",
+      "quiz_1_feedback_6": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_2_question": "How about this next True/False question: My child is always with me, so I don’t need to teach them about safety until they are older.",
       "quiz_2_option_1_text": "True",
       "quiz_2_feedback_1": "❌ Incorrect. \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere.",

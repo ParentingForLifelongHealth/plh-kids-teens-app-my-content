@@ -215,9 +215,7 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {
-          "my_ms": true
-        },
+        "section_3_text": {},
         "section_4_title": {
           "my_ms": true
         },
@@ -245,7 +243,7 @@
           "eng": "ALLOW FOR MISTAKES TO HAPPEN"
         },
         "section_3_text": {
-          "eng": "🌱 Mistakes are part of learning. . It’s okay for your child to make them. It helps them learn and grow! \n❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. \n😃 You can talk to your child about their mistakes and allow them to figure out a way to solve their problems and do better next time."
+          "eng": "🌱 Mistakes are part of learning. It’s okay for your child to make them. It helps them learn and grow! \n❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. \n😃 You can talk to your child about their mistakes and allow them to figure out a way to solve their problems and do better next time."
         },
         "section_4_title": {
           "eng": "SHARE"
@@ -259,7 +257,7 @@
       "section_2_title": "PRAISE EFFORT",
       "section_2_text": "💛 Praise your child for the effort they put into their learning even if they did not succeed.\n✨ Effort is more important than mastering a specific skill.",
       "section_3_title": "ALLOW FOR MISTAKES TO HAPPEN",
-      "section_3_text": "🌱 Mistakes are part of learning. . It’s okay for your child to make them. It helps them learn and grow! \n❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. \n😃 You can talk to your child about their mistakes and allow them to figure out a way to solve their problems and do better next time.",
+      "section_3_text": "🌱 Mistakes are part of learning. It’s okay for your child to make them. It helps them learn and grow! \n❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. \n😃 You can talk to your child about their mistakes and allow them to figure out a way to solve their problems and do better next time.",
       "section_4_title": "SHARE",
       "section_4_text": "📖 Try and share your own failures with your child and discuss how they helped you develop and grow. \n✅ This helps your child learn that you do not have to be perfect all the time."
     },

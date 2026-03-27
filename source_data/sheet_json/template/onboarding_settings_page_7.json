@@ -149,6 +149,7 @@
       "value": "<u>@global.skip</u>",
       "action_list": "click | emit: completed;",
       "parameter_list": "variant: card;\nstyle: no-background;",
+      "condition": "!@local.success",
       "exclude_from_translation": true
     },
     {

@@ -2829,11 +2829,29 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "settings",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY kids app_launch.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VxndxlFpGCidupf-b3XMyZ2ltdDHDJ3cSKNtv743zH0"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "settings_about",
     "_source": {
       "name": "kids_teens_global V2",
       "path": "templates/PLH settings.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/15vCtio89LY4bnbi5_aGvB4cJwI6lS47f5SWPGodi3Dc"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "settings_faci_group_id",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY kids app_launch.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1VxndxlFpGCidupf-b3XMyZ2ltdDHDJ3cSKNtv743zH0"
     }
   },
   {

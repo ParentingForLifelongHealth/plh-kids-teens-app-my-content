@@ -290,6 +290,65 @@
         },
         {
           "type": "button",
+          "name": "button_faci_group_id",
+          "value": "Faci",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "variant": "card",
+            "icon": "@local.profile_icon",
+            "icon_secondary_asset": "@local.next_icon_asset",
+            "style": "no-background",
+            "text_align": "left"
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "pop_up",
+              "args": [
+                "settings_faci_group_id"
+              ],
+              "_raw": "click | pop_up: settings_faci_group_id | fullscreen: true, showCloseButton: false",
+              "params": {
+                "fullscreen": true,
+                "showCloseButton": false
+              }
+            }
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "dg_account.button_faci_group_id",
+          "_dynamicFields": {
+            "parameter_list": {
+              "icon": [
+                {
+                  "fullExpression": "@local.profile_icon",
+                  "matchedExpression": "@local.profile_icon",
+                  "type": "local",
+                  "fieldName": "profile_icon"
+                }
+              ],
+              "icon_secondary_asset": [
+                {
+                  "fullExpression": "@local.next_icon_asset",
+                  "matchedExpression": "@local.next_icon_asset",
+                  "type": "local",
+                  "fieldName": "next_icon_asset"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.profile_icon": [
+              "parameter_list.icon"
+            ],
+            "@local.next_icon_asset": [
+              "parameter_list.icon_secondary_asset"
+            ]
+          }
+        },
+        {
+          "type": "button",
           "name": "button_language",
           "value": "@global.language",
           "_translations": {
@@ -749,8 +808,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/PLH settings.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/15vCtio89LY4bnbi5_aGvB4cJwI6lS47f5SWPGodi3Dc"
+    "name": "kids_teens_my",
+    "path": "templates/MY kids app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1VxndxlFpGCidupf-b3XMyZ2ltdDHDJ3cSKNtv743zH0"
   }
 }

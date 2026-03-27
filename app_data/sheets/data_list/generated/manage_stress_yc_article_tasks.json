@@ -42,10 +42,10 @@
           "eng": "Wonderful, I am so happy! Keep up the good work."
         },
         "quiz_1_feedback_2": {
-          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
+          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
         },
         "quiz_1_feedback_3": {
-          "eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
+          "eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
         },
         "quiz_1_question": {
           "eng": "How are you feeling today?"
@@ -93,8 +93,8 @@
         }
       },
       "quiz_1_feedback_1": "Wonderful, I am so happy! Keep up the good work.",
-      "quiz_1_feedback_2": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
-      "quiz_1_feedback_3": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
+      "quiz_1_feedback_2": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
+      "quiz_1_feedback_3": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",

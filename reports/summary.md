@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 92 |
+| button | 94 |
 | combo_box | 24 |
 | data_items | 119 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 97 |
+| display_group | 98 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 21 |
@@ -30,20 +30,20 @@
 | plh_module_details_header | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 13 |
+| round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2831 |
+| set_variable | 2833 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 5 |
 | template | 877 |
-| text | 196 |
+| text | 199 |
 | text_area | 2 |
 | text_box | 22 |
 | text_bubble | 11 |
 | tile_component | 1 |
-| title | 49 |
+| title | 50 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -57,24 +57,24 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 598 |
+| emit: completed | 599 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 603 |
+| emit: uncompleted | 604 |
 | feedback | 13 |
 | go_to | 15 |
 | nav_stack | 341 |
-| plh_parent_group | 1 |
-| pop_up | 69 |
+| plh_parent_group | 2 |
+| pop_up | 70 |
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 81 |
-| set_field | 105 |
+| set_field | 106 |
 | set_item | 72 |
-| set_local | 58 |
+| set_local | 59 |
 | share | 2 |
 | task | 2 |
 | user | 3 |
@@ -85,8 +85,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 135909 KB | 135.9 MB |
-| unused | 50842 KB | 50.8 MB |
+| total | 137821 KB | 137.8 MB |
+| unused | 48931 KB | 48.9 MB |
 </details>
 
 <details open>
@@ -204,9 +204,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/yc_modules/crises_7to9_yc_5.svg | 255.1 |
 | images/yc_modules/crises_7to9_yc_6.svg | 223.1 |
 | images/yc_modules/ignore_demanding_yc_5.svg | 56.5 |
-| images/yc_modules/ipv_sharing-01.svg | 634.2 |
-| images/yc_modules/ipv_sharing-02.svg | 637.4 |
-| images/yc_modules/ipv_sharing-03.svg | 640 |
 | images/yc_modules/learn_experience_yc_5.svg | 44.5 |
 | images/yc_modules/make_a_monthly_budget_yc_1.jpg | 2522 |
 | images/yc_modules/make_a_monthly_budget_yc_1.svg | 1013.3 |
@@ -275,9 +272,9 @@ Assets that have references within sheets but do not appear in app-data
 | images/faces/sad.svg | 9 |
 | images/icons/share.svg | 2 |
 | images/logos/plh_logomark.png | 1 |
-| images/yc_modules/ipv_sharing_1.svg | 2 |
-| images/yc_modules/ipv_sharing_2.svg | 2 |
-| images/yc_modules/ipv_sharing_3.svg | 2 |
+| make_a_monthly_budget_yc_1.svg | 2 |
+| make_a_monthly_budget_yc_2.svg | 2 |
+| make_a_monthly_budget_yc_3.svg | 2 |
 | relax_10__.mp3 | 1 |
 | relax_11__.mp3 | 1 |
 | relax_12__.mp3 | 1 |
@@ -542,6 +539,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/yc_modules/ipv_listen_1.svg | 129.4 | 2 |
 | images/yc_modules/ipv_listen_2.svg | 134.4 | 2 |
 | images/yc_modules/ipv_listen_3.svg | 131.7 | 2 |
+| images/yc_modules/ipv_sharing_1.svg | 634.2 | 2 |
+| images/yc_modules/ipv_sharing_2.svg | 637.4 | 2 |
+| images/yc_modules/ipv_sharing_3.svg | 640 | 2 |
 | images/yc_modules/ipv_supportive_1.svg | 59.5 | 2 |
 | images/yc_modules/ipv_supportive_2.svg | 72.6 | 2 |
 | images/yc_modules/ipv_supportive_3.svg | 57.7 | 2 |
@@ -713,7 +713,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 134 |
+| template |  | 135 |
 | template | generated | 671 |
 | template | legal_terms | 4 |
 </details>

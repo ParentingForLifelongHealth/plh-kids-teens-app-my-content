@@ -155,11 +155,9 @@
       "character_2_id": "f2_daughter_8",
       "character_3_id": "f2_son_3",
       "nested": false,
-      "character_1_text": "@data.characters.f2_grandfather.name: We can play with the ball later. Right now, I’d really love your help.",
+      "character_1_text": "We can play with the ball later. Right now, I’d really love your help.",
       "_translations": {
-        "character_1_text": {
-          "my_ms": true
-        },
+        "character_1_text": {},
         "character_2_text": {
           "my_ms": true
         },
@@ -169,7 +167,7 @@
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "@data.characters.f2_grandfather.name: We can play with the ball later. Right now, I’d really love your help."
+          "eng": "We can play with the ball later. Right now, I’d really love your help."
         },
         "character_2_text": {
           "eng": "Fine, okay..."
