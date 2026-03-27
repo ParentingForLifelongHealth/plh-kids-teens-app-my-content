@@ -41,8 +41,8 @@
       "id": "check_in_4",
       "text_1::eng": "Recognising how you feel helps you care for yourself well. You deserve it. ",
       "quiz_1_feedback_1::eng": "Wonderful, I am so happy! Keep up the good work.",
-      "quiz_1_feedback_2::eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!",
-      "quiz_1_feedback_3::eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
+      "quiz_1_feedback_2::eng": "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!",
+      "quiz_1_feedback_3::eng": "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
     },
     {
       "id": "check_in_5",
@@ -97,8 +97,8 @@
       "id": "check_in_12",
       "text_1::eng": " Looking after yourself well starts with noticing how you feel.",
       "quiz_1_feedback_1::eng": "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot.",
-      "quiz_1_feedback_2::eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help.",
-      "quiz_1_feedback_3::eng": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!"
+      "quiz_1_feedback_2::eng": "Being a parent can be challenging. Take a deep breath and recognise all you have done for your family – you deserve praise!",
+      "quiz_1_feedback_3::eng": "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help."
     },
     {
       "id": "check_in_13",

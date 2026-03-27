@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 92
+        "count": 94
       },
       {
         "type": "combo_box",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 97
+        "count": 98
       },
       {
         "type": "drawer",
@@ -111,7 +111,7 @@
       },
       {
         "type": "round_button",
-        "count": 13
+        "count": 15
       },
       {
         "type": "select_text",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2831
+        "count": 2833
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 196
+        "count": 199
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "title",
-        "count": 49
+        "count": 50
       },
       {
         "type": "toggle_bar",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 598
+        "count": 599
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 603
+        "count": 604
       },
       {
         "type": "feedback",
@@ -235,11 +235,11 @@
       },
       {
         "type": "plh_parent_group",
-        "count": 1
+        "count": 2
       },
       {
         "type": "pop_up",
-        "count": 69
+        "count": 70
       },
       {
         "type": "reset_app",
@@ -255,7 +255,7 @@
       },
       {
         "type": "set_field",
-        "count": 105
+        "count": 106
       },
       {
         "type": "set_item",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_local",
-        "count": 58
+        "count": 59
       },
       {
         "type": "share",
@@ -283,13 +283,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "135909 KB",
-        "MB": "135.9 MB"
+        "KB": "137821 KB",
+        "MB": "137.8 MB"
       },
       {
         "assets": "unused",
-        "KB": "50842 KB",
-        "MB": "50.8 MB"
+        "KB": "48931 KB",
+        "MB": "48.9 MB"
       }
     ]
   },
@@ -728,18 +728,6 @@
         "size_kb": 56.5
       },
       {
-        "path": "images/yc_modules/ipv_sharing-01.svg",
-        "size_kb": 634.2
-      },
-      {
-        "path": "images/yc_modules/ipv_sharing-02.svg",
-        "size_kb": 637.4
-      },
-      {
-        "path": "images/yc_modules/ipv_sharing-03.svg",
-        "size_kb": 640
-      },
-      {
         "path": "images/yc_modules/learn_experience_yc_5.svg",
         "size_kb": 44.5
       },
@@ -1016,17 +1004,17 @@
         "missing": true
       },
       {
-        "path": "images/yc_modules/ipv_sharing_1.svg",
+        "path": "make_a_monthly_budget_yc_1.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "images/yc_modules/ipv_sharing_2.svg",
+        "path": "make_a_monthly_budget_yc_2.svg",
         "count": 2,
         "missing": true
       },
       {
-        "path": "images/yc_modules/ipv_sharing_3.svg",
+        "path": "make_a_monthly_budget_yc_3.svg",
         "count": 2,
         "missing": true
       },
@@ -2310,6 +2298,21 @@
         "size_kb": 131.7
       },
       {
+        "path": "images/yc_modules/ipv_sharing_1.svg",
+        "count": 2,
+        "size_kb": 634.2
+      },
+      {
+        "path": "images/yc_modules/ipv_sharing_2.svg",
+        "count": 2,
+        "size_kb": 637.4
+      },
+      {
+        "path": "images/yc_modules/ipv_sharing_3.svg",
+        "count": 2,
+        "size_kb": 640
+      },
+      {
         "path": "images/yc_modules/ipv_supportive_1.svg",
         "count": 2,
         "size_kb": 59.5
@@ -3136,7 +3139,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 134
+        "total": 135
       },
       {
         "type": "template",

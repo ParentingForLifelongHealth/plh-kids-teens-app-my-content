@@ -103,12 +103,26 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "user_faciid_setting",
-      "value": "My facilitator's Group ID is...",
+      "name": "faci_group_id_setting",
+      "value": "My facilitator's group ID is...",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "update_group",
+      "value": "Update",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "faci_group_id_setting_title",
+      "value": "Facilitator Group ID",
+      "_translations": {
+        "value": {}
       }
     }
   ],

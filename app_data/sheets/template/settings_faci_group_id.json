@@ -1,251 +1,165 @@
 {
   "flow_type": "template",
-  "flow_name": "onboarding_settings_page_7",
+  "flow_name": "settings_faci_group_id",
   "status": "released",
   "rows": [
     {
-      "name": "facilitator_id",
-      "value": "@fields.facilitator_id",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "facilitator_id",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@fields.facilitator_id",
-            "matchedExpression": "@fields.facilitator_id",
-            "type": "fields",
-            "fieldName": "facilitator_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@fields.facilitator_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "facilitator_data",
-      "value": "characters.@local.facilitator_id",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "facilitator_data",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "characters.@local.facilitator_id",
-            "matchedExpression": "@local.facilitator_id",
-            "type": "local",
-            "fieldName": "facilitator_id"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.facilitator_id": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "facilitator_row",
-      "value": "@data.@local.facilitator_data",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "facilitator_row",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@data.@local.facilitator_data",
-            "matchedExpression": "@local.facilitator_data",
-            "type": "local",
-            "fieldName": "facilitator_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.facilitator_data": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "speaker_name",
-      "value": "@local.facilitator_row.name",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "speaker_name",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.facilitator_row.name",
-            "matchedExpression": "@local.facilitator_row.name",
-            "type": "local",
-            "fieldName": "facilitator_row"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.facilitator_row.name": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "speaker_image_asset",
-      "value": "@local.facilitator_row.image_asset",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "speaker_image_asset",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.facilitator_row.image_asset",
-            "matchedExpression": "@local.facilitator_row.image_asset",
-            "type": "local",
-            "fieldName": "facilitator_row"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.facilitator_row.image_asset": [
-          "value"
-        ]
-      }
-    },
-    {
-      "name": "speaker_position",
-      "value": "left",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "speaker_position"
-    },
-    {
-      "name": "variant",
-      "value": "gray",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "variant"
-    },
-    {
-      "type": "text_bubble",
-      "name": "text_bubble",
-      "value": "@global.facilitator_message_faci_group_id",
-      "_translations": {
-        "value": {}
-      },
-      "parameter_list": {
-        "speaker_image_asset": "@local.speaker_image_asset",
-        "speaker_name": "@local.speaker_name",
-        "speaker_position": "@local.speaker_position",
-        "variant": "@local.variant"
-      },
-      "exclude_from_translation": true,
-      "_nested_name": "text_bubble",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.facilitator_message_faci_group_id",
-            "matchedExpression": "@global.facilitator_message_faci_group_id",
-            "type": "global",
-            "fieldName": "facilitator_message_faci_group_id"
-          }
-        ],
-        "parameter_list": {
-          "speaker_image_asset": [
+      "type": "display_group",
+      "name": "dg_row",
+      "rows": [
+        {
+          "type": "round_button",
+          "name": "back",
+          "action_list": [
             {
-              "fullExpression": "@local.speaker_image_asset",
-              "matchedExpression": "@local.speaker_image_asset",
-              "type": "local",
-              "fieldName": "speaker_image_asset"
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "uncompleted"
+              ],
+              "_raw": "click | emit: uncompleted"
             }
           ],
-          "speaker_name": [
+          "condition": "!@local.success",
+          "parameter_list": {
+            "icon_src": "chevron-back",
+            "variant": "navigation"
+          },
+          "_nested_name": "dg_row.back",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@local.success",
+                "matchedExpression": "!@local.success",
+                "type": "local",
+                "fieldName": "success"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.success": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "round_button",
+          "name": "back",
+          "action_list": [
             {
-              "fullExpression": "@local.speaker_name",
-              "matchedExpression": "@local.speaker_name",
-              "type": "local",
-              "fieldName": "speaker_name"
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "faci_group_id",
+                "@local.faci_group_id_input"
+              ],
+              "_raw": "click | set_field: faci_group_id: @local.faci_group_id_input"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "click | emit: completed"
             }
           ],
-          "speaker_position": [
-            {
-              "fullExpression": "@local.speaker_position",
-              "matchedExpression": "@local.speaker_position",
-              "type": "local",
-              "fieldName": "speaker_position"
-            }
-          ],
-          "variant": [
-            {
-              "fullExpression": "@local.variant",
-              "matchedExpression": "@local.variant",
-              "type": "local",
-              "fieldName": "variant"
-            }
-          ]
+          "condition": "@local.success",
+          "parameter_list": {
+            "icon_src": "chevron-back",
+            "variant": "navigation"
+          },
+          "_nested_name": "dg_row.back",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.faci_group_id_input",
+                      "matchedExpression": "@local.faci_group_id_input",
+                      "type": "local",
+                      "fieldName": "faci_group_id_input"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: faci_group_id: @local.faci_group_id_input",
+                    "matchedExpression": "@local.faci_group_id_input",
+                    "type": "local",
+                    "fieldName": "faci_group_id_input"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@local.success",
+                "matchedExpression": "@local.success",
+                "type": "local",
+                "fieldName": "success"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.faci_group_id_input": [
+              "action_list.0.args.1",
+              "action_list.0._raw"
+            ],
+            "@local.success": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "title",
+          "name": "title",
+          "value": "@global.faci_group_id_setting_title",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "dg_row.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.faci_group_id_setting_title",
+                "matchedExpression": "@global.faci_group_id_setting_title",
+                "type": "global",
+                "fieldName": "faci_group_id_setting_title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.faci_group_id_setting_title": [
+              "value"
+            ]
+          }
         }
-      },
-      "_dynamicDependencies": {
-        "@global.facilitator_message_faci_group_id": [
-          "value"
-        ],
-        "@local.speaker_image_asset": [
-          "parameter_list.speaker_image_asset"
-        ],
-        "@local.speaker_name": [
-          "parameter_list.speaker_name"
-        ],
-        "@local.speaker_position": [
-          "parameter_list.speaker_position"
-        ],
-        "@local.variant": [
-          "parameter_list.variant"
-        ]
-      }
+      ],
+      "_nested_name": "dg_row"
     },
     {
       "type": "text",
       "name": "question_faci_group_id",
-      "value": "@global.question_user_facilitator_group",
+      "value": "@global.faci_group_id_setting",
       "_translations": {
         "value": {}
-      },
-      "parameter_list": {
-        "style": "emphasised"
       },
       "exclude_from_translation": true,
       "_nested_name": "question_faci_group_id",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.question_user_facilitator_group",
-            "matchedExpression": "@global.question_user_facilitator_group",
+            "fullExpression": "@global.faci_group_id_setting",
+            "matchedExpression": "@global.faci_group_id_setting",
             "type": "global",
-            "fieldName": "question_user_facilitator_group"
+            "fieldName": "faci_group_id_setting"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.question_user_facilitator_group": [
+        "@global.faci_group_id_setting": [
           "value"
         ]
       }
@@ -257,10 +171,10 @@
       "_translations": {
         "value": {}
       },
-      "parameter_list": {
-        "placeholder": "@global.placeholder_user_facilitator_group"
-      },
       "condition": "!!@fields.faci_group_id",
+      "parameter_list": {
+        "placeholder": "@global.placeholder_faci_group_id"
+      },
       "exclude_from_translation": true,
       "_nested_name": "faci_group_id_input",
       "_dynamicFields": {
@@ -272,16 +186,6 @@
             "fieldName": "faci_group_id"
           }
         ],
-        "parameter_list": {
-          "placeholder": [
-            {
-              "fullExpression": "@global.placeholder_user_facilitator_group",
-              "matchedExpression": "@global.placeholder_user_facilitator_group",
-              "type": "global",
-              "fieldName": "placeholder_user_facilitator_group"
-            }
-          ]
-        },
         "condition": [
           {
             "fullExpression": "!!@fields.faci_group_id",
@@ -289,40 +193,40 @@
             "type": "fields",
             "fieldName": "faci_group_id"
           }
-        ]
+        ],
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_faci_group_id",
+              "matchedExpression": "@global.placeholder_faci_group_id",
+              "type": "global",
+              "fieldName": "placeholder_faci_group_id"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
         "@fields.faci_group_id": [
           "value"
         ],
-        "@global.placeholder_user_facilitator_group": [
-          "parameter_list.placeholder"
-        ],
         "!@fields.faci_group_id": [
           "condition"
+        ],
+        "@global.placeholder_faci_group_id": [
+          "parameter_list.placeholder"
         ]
       }
     },
     {
       "type": "text_box",
       "name": "faci_group_id_input",
-      "parameter_list": {
-        "placeholder": "@global.placeholder_user_facilitator_group"
-      },
       "condition": "!@fields.faci_group_id",
+      "parameter_list": {
+        "placeholder": "@global.placeholder_faci_group_id"
+      },
       "exclude_from_translation": true,
       "_nested_name": "faci_group_id_input",
       "_dynamicFields": {
-        "parameter_list": {
-          "placeholder": [
-            {
-              "fullExpression": "@global.placeholder_user_facilitator_group",
-              "matchedExpression": "@global.placeholder_user_facilitator_group",
-              "type": "global",
-              "fieldName": "placeholder_user_facilitator_group"
-            }
-          ]
-        },
         "condition": [
           {
             "fullExpression": "!@fields.faci_group_id",
@@ -330,14 +234,24 @@
             "type": "fields",
             "fieldName": "faci_group_id"
           }
-        ]
+        ],
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@global.placeholder_faci_group_id",
+              "matchedExpression": "@global.placeholder_faci_group_id",
+              "type": "global",
+              "fieldName": "placeholder_faci_group_id"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
-        "@global.placeholder_user_facilitator_group": [
-          "parameter_list.placeholder"
-        ],
         "!@fields.faci_group_id": [
           "condition"
+        ],
+        "@global.placeholder_faci_group_id": [
+          "parameter_list.placeholder"
         ]
       }
     },
@@ -431,7 +345,7 @@
     },
     {
       "type": "button",
-      "value": "@global.join_group",
+      "value": "@global.update_group",
       "_translations": {
         "value": {}
       },
@@ -463,17 +377,17 @@
         }
       ],
       "parameter_list": {
-        "disabled": "!@local.valid_faci_group_id_input"
+        "disabled": "!@local.valid_faci_group_id"
       },
-      "name": "button_16",
-      "_nested_name": "button_16",
+      "name": "button_10",
+      "_nested_name": "button_10",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.join_group",
-            "matchedExpression": "@global.join_group",
+            "fullExpression": "@global.update_group",
+            "matchedExpression": "@global.update_group",
             "type": "global",
-            "fieldName": "join_group"
+            "fieldName": "update_group"
           }
         ],
         "action_list": {
@@ -557,16 +471,16 @@
         "parameter_list": {
           "disabled": [
             {
-              "fullExpression": "!@local.valid_faci_group_id_input",
-              "matchedExpression": "!@local.valid_faci_group_id_input",
+              "fullExpression": "!@local.valid_faci_group_id",
+              "matchedExpression": "!@local.valid_faci_group_id",
               "type": "local",
-              "fieldName": "valid_faci_group_id_input"
+              "fieldName": "valid_faci_group_id"
             }
           ]
         }
       },
       "_dynamicDependencies": {
-        "@global.join_group": [
+        "@global.update_group": [
           "value"
         ],
         "@local.faci_group_id_input": [
@@ -589,7 +503,7 @@
           "action_list.1._raw",
           "action_list.1.params.gender"
         ],
-        "!@local.valid_faci_group_id_input": [
+        "!@local.valid_faci_group_id": [
           "parameter_list.disabled"
         ]
       }
@@ -606,8 +520,8 @@
       ],
       "condition": "@local.result?.error && !@local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_17",
-      "_nested_name": "text_17",
+      "name": "text_11",
+      "_nested_name": "text_11",
       "_dynamicFields": {
         "value": [
           {
@@ -656,8 +570,8 @@
       ],
       "condition": "@local.result?.error && @local.result?.message == \"User group not found\" && @local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_18",
-      "_nested_name": "text_18",
+      "name": "text_12",
+      "_nested_name": "text_12",
       "_dynamicFields": {
         "value": [
           {
@@ -713,8 +627,8 @@
       ],
       "condition": "@local.result?.error && @local.result?.message !== \"User group not found\"  && @local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_19",
-      "_nested_name": "text_19",
+      "name": "text_13",
+      "_nested_name": "text_13",
       "_dynamicFields": {
         "value": [
           {
@@ -770,8 +684,8 @@
       ],
       "condition": "@local.result?.success",
       "exclude_from_translation": true,
-      "name": "text_20",
-      "_nested_name": "text_20",
+      "name": "text_14",
+      "_nested_name": "text_14",
       "_dynamicFields": {
         "value": [
           {
@@ -823,211 +737,11 @@
           "value"
         ]
       }
-    },
-    {
-      "name": "completed_enabled",
-      "value": "@local.success",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "completed_enabled",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.success",
-            "matchedExpression": "@local.success",
-            "type": "local",
-            "fieldName": "success"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.success": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "display_group",
-      "name": "dg_footer",
-      "parameter_list": {
-        "sticky": "bottom"
-      },
-      "style_list": [
-        "padding: 12px 24px"
-      ],
-      "exclude_from_translation": true,
-      "rows": [
-        {
-          "type": "round_button",
-          "name": "button_back",
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "uncompleted"
-              ],
-              "_raw": "click | emit: uncompleted"
-            }
-          ],
-          "parameter_list": {
-            "icon_src": "arrow-back",
-            "variant": "no-background"
-          },
-          "exclude_from_translation": true,
-          "_nested_name": "dg_footer.button_back"
-        },
-        {
-          "type": "button",
-          "name": "button_completed_2",
-          "value": "@global.continue",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "faci_group_id",
-                "@local.faci_group_id_input"
-              ],
-              "_raw": "click | set_field: faci_group_id: @local.faci_group_id_input"
-            },
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed"
-            }
-          ],
-          "parameter_list": {
-            "style": "navigation",
-            "disabled": "!@local.completed_enabled"
-          },
-          "style_list": [
-            "flex: 1"
-          ],
-          "exclude_from_translation": true,
-          "_nested_name": "dg_footer.button_completed_2",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@global.continue",
-                "matchedExpression": "@global.continue",
-                "type": "global",
-                "fieldName": "continue"
-              }
-            ],
-            "action_list": {
-              "0": {
-                "args": {
-                  "1": [
-                    {
-                      "fullExpression": "@local.faci_group_id_input",
-                      "matchedExpression": "@local.faci_group_id_input",
-                      "type": "local",
-                      "fieldName": "faci_group_id_input"
-                    }
-                  ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | set_field: faci_group_id: @local.faci_group_id_input",
-                    "matchedExpression": "@local.faci_group_id_input",
-                    "type": "local",
-                    "fieldName": "faci_group_id_input"
-                  }
-                ]
-              }
-            },
-            "parameter_list": {
-              "disabled": [
-                {
-                  "fullExpression": "!@local.completed_enabled",
-                  "matchedExpression": "!@local.completed_enabled",
-                  "type": "local",
-                  "fieldName": "completed_enabled"
-                }
-              ]
-            }
-          },
-          "_dynamicDependencies": {
-            "@global.continue": [
-              "value"
-            ],
-            "@local.faci_group_id_input": [
-              "action_list.0.args.1",
-              "action_list.0._raw"
-            ],
-            "!@local.completed_enabled": [
-              "parameter_list.disabled"
-            ]
-          }
-        },
-        {
-          "type": "button",
-          "name": "button_skip",
-          "value": "<u>@global.skip</u>",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "emit",
-              "args": [
-                "completed"
-              ],
-              "_raw": "click | emit: completed"
-            }
-          ],
-          "parameter_list": {
-            "variant": "card",
-            "style": "no-background"
-          },
-          "condition": "!@local.success",
-          "exclude_from_translation": true,
-          "_nested_name": "dg_footer.button_skip",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "<u>@global.skip</u>",
-                "matchedExpression": "@global.skip",
-                "type": "global",
-                "fieldName": "skip"
-              }
-            ],
-            "condition": [
-              {
-                "fullExpression": "!@local.success",
-                "matchedExpression": "!@local.success",
-                "type": "local",
-                "fieldName": "success"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@global.skip": [
-              "value"
-            ],
-            "!@local.success": [
-              "condition"
-            ]
-          }
-        }
-      ],
-      "_nested_name": "dg_footer"
     }
   ],
   "_source": {
     "name": "kids_teens_my",
-    "path": "templates/MY onboarding templates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1aUwbR38bDjfGwoFG1DaHaRejyoCbFGhyFOZ0lVJmOks"
+    "path": "templates/MY kids app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1VxndxlFpGCidupf-b3XMyZ2ltdDHDJ3cSKNtv743zH0"
   }
 }

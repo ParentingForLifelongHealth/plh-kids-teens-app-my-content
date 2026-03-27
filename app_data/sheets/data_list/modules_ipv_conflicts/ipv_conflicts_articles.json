@@ -261,11 +261,9 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "quiz_1_question": "⭐ Today’s home activity is to practise taking a pause, just like on our first day together. Do you have time to practise taking a pause today?",
+      "quiz_1_question": "⭐ Today’s home activity is to practise taking a pause. Do you have time to practise taking a pause today?",
       "_translations": {
-        "quiz_1_question": {
-          "my_ms": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "my_ms": true
         },
@@ -287,7 +285,7 @@
       },
       "_translatedFields": {
         "quiz_1_question": {
-          "eng": "⭐ Today’s home activity is to practise taking a pause, just like on our first day together. Do you have time to practise taking a pause today?"
+          "eng": "⭐ Today’s home activity is to practise taking a pause. Do you have time to practise taking a pause today?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"

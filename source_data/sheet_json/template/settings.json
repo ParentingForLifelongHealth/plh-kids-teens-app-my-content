@@ -84,6 +84,14 @@
     },
     {
       "type": "button",
+      "name": "button_faci_group_id",
+      "value": "Faci",
+      "parameter_list": "variant: card;\nicon: @local.profile_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
+      "action_list": "click | pop_up: settings_faci_group_id | fullscreen: true, showCloseButton: false;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
       "name": "button_language",
       "value": "@global.language",
       "parameter_list": "variant: card;\nicon: @local.language_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",

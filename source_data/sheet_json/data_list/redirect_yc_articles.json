@@ -52,7 +52,7 @@
       "category_id": "explore",
       "image_asset": "images/yc_modules/redirect_yc_3.svg",
       "character_1_id": "f2_grandfather",
-      "character_1_text::eng": "@data.characters.f2_grandfather.name: We can play with the ball later. Right now, I’d really love your help.",
+      "character_1_text::eng": "We can play with the ball later. Right now, I’d really love your help.",
       "character_2_id": "f2_daughter_8",
       "character_2_text::eng": "Fine, okay...",
       "character_3_id": "f2_son_3",
