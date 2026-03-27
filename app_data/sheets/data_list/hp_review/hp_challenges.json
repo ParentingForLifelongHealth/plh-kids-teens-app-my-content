@@ -6,7 +6,7 @@
   "flow_subtype": "hp_review",
   "rows": [
     {
-      "id": "spirituality_yc",
+      "id": "relation",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -122,7 +122,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "maths_2_yc",
+      "id": "learning",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -218,7 +218,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "school_3to6_yc",
+      "id": "learning",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -314,7 +314,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "learn_exp_yc",
+      "id": "develop",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -420,7 +420,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "know_role_yc",
+      "id": "structure",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -506,7 +506,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "solve_problem_yc",
+      "id": "behave",
       "challenge_8_tag_list": [
         "Prefer not to say."
       ],
@@ -630,7 +630,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "nutrition_yc",
+      "id": "safety",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -736,7 +736,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "ipv_listen",
+      "id": "ipv",
       "challenge_1_tag_list": [
         "yes",
         "no"
@@ -842,7 +842,7 @@
       "top_text": "Challenges other parents experience:"
     },
     {
-      "id": "budget_save_yc",
+      "id": "budget",
       "challenge_1_tag_list": [
         "yes",
         "no"
