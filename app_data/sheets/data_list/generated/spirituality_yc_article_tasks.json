@@ -375,10 +375,18 @@
       "nested": false,
       "quiz_1_feedback_1": "Excellent! Identifying one value together is the first step. 💙",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
-        "quiz_1_feedback_3": {},
-        "quiz_1_question": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
+        "quiz_1_question": {
+          "my_ms": true
+        },
         "quiz_1_option_1_text": {
           "my_ms": true
         },

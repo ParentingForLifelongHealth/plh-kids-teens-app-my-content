@@ -252,19 +252,27 @@
       "nested": false,
       "quiz_1_question": "Are you ready for today’s home activity? Try to spend some time today with your spouse or another caregiver of your child to identify the most important value you wish to instil in your child. ⭐ Can you do it today?",
       "_translations": {
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "my_ms": true
+        },
         "quiz_1_option_1_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
         "quiz_1_option_2_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_1_option_3_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_3": {}
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "quiz_1_question": {
