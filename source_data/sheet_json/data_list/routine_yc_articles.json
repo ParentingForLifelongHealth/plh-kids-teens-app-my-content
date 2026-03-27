@@ -91,8 +91,10 @@
       "quiz_1_question::eng": "Do you have time to try setting routines with your child today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That's great! Create ONE regular daily routine, like having a meal together or going for a walk. It will help your child feel secure and loved.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! Beginning something new takes time. You can start with something simple, like creating a time when you and your child can do something together. ⚽ \n\nFor example, having dinner or going for a walk. Ask your child for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That's great! Create ONE regular daily routine, like having a meal together or going for a walk. It will help your child feel secure and loved.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! Beginning something new takes time. You can start with something simple, like creating a time when you and your child can do something together. ⚽ \n\nFor example, having dinner or going for a walk. Ask your child for ideas on which routines could be useful for them. They might surprise you! ⏰🍚🚲"
     }
   ]
 }

@@ -383,6 +383,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -396,16 +402,24 @@
           "eng": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
     }
   ],
   "_source": {

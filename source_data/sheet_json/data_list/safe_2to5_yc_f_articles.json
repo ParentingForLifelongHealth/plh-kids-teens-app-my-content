@@ -111,8 +111,10 @@
       "quiz_1_question::eng": "For today’s home activity, have a conversation with your child about safe and unsafe touch. ❌ Help them practise saying, “No, don’t do that!” and remind them to tell an adult if it happens. \n\nCan you do this with your child today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That’s great! 💙 This will help them protect themselves if they ever feel unsafe when somebody touches them. You’re doing so well!",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! If you don't have time today, set some time aside tomorrow. Talking to your child about this will help them protect themselves if they ever feel unsafe when somebody touches them. 💙 You’re doing so well!"
     }
   ]
 }

@@ -54,8 +54,10 @@
       "quiz_1_question::eng": "Home activity! Can you draw or write with your child today? ⭐",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
     }
   ]
 }

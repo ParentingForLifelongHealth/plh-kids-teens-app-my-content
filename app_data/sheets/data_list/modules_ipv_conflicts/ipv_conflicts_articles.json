@@ -277,6 +277,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -290,16 +296,24 @@
           "eng": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙"
     }
   ],
   "_source": {

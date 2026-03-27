@@ -19,15 +19,16 @@
     },
     {
       "type": "data_items",
-      "value": "@data.module_tasks",
+      "value": "@data.courses",
       "action_list": "data_changed | set_local : has_core_course: @items.length;",
-      "parameter_list": "filter: @item.core && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));"
+      "parameter_list": "filter: @item.core && !@item.completed;"
     },
     {
       "type": "data_items",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : courses_not_done: @items.map(item =>  '\\\"' + item.tag_course + '\\\"');",
       "parameter_list": "filter: !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
+      "condition": false,
       "comments": "=> ‘”’ + @item.tag_course + ‘“’"
     },
     {
@@ -76,7 +77,7 @@
       "type": "begin_data_items",
       "name": "core_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: @item.core",
+      "parameter_list": "filter: @item.core && !@item.completed",
       "condition": "@local.has_core_course > 0",
       "exclude_from_translation": true,
       "comments": "filter: @item.core && !@item.completed;"
@@ -132,14 +133,15 @@
       "type": "begin_data_items",
       "name": "other_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: !@item.core && [@local.courses_not_done].includes(@item.id)",
+      "parameter_list": "filter: !@item.core && !@item.completed",
       "exclude_from_translation": true,
       "comments": "filter: !@item.core && !@item.completed;"
     },
     {
       "type": "begin_template",
       "value": "module_group",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comments": "filter: !@item.core && [@local.courses_not_done].includes(@item.id)"
     },
     {
       "name": "course",
@@ -188,10 +190,13 @@
       "type": "begin_data_items",
       "name": "completed_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: !([@local.courses_not_done].includes(@item.id))",
+      "parameter_list": "filter: !!@item.completed",
       "condition": "@local.has_core_course == 0",
       "exclude_from_translation": true,
       "comments": "filter: !([@local.courses_list].includes(@item.id))"
+    },
+    {
+      "comments": "filter: !([@local.courses_not_done].includes(@item.id))"
     },
     {
       "type": "begin_template",

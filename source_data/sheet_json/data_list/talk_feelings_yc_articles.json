@@ -22,9 +22,9 @@
       "text_1_facilitator::eng": "It is normal to experience a lot of different feelings. ",
       "quiz_1_question::eng": "True or False: Talking about positive feelings is not as important as sharing negative feelings.",
       "quiz_1_option_1_text::eng": "True",
-      "quiz_1_feedback_1::eng": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
+      "quiz_1_feedback_1::eng": "❌ That’s incorrect. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them.",
       "quiz_1_option_2_text::eng": "False",
-      "quiz_1_feedback_2::eng": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
+      "quiz_1_feedback_2::eng": "🎉 That’s correct. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them.",
       "quiz_2_question::eng": "Here’s another one: Boys should not share when they are feeling sad or afraid.",
       "quiz_2_option_1_text::eng": "True",
       "quiz_2_feedback_1::eng": "❌ Incorrect.\n\n⭐ It is important that both boys and girls learn how to share their feelings. \n\n💙 Boys and girls will learn that it is okay to ask for help when they need it.",
@@ -98,8 +98,10 @@
       "quiz_1_question::eng": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "This will make such a big difference. Great job! ⭐",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s okay. Try to make time this week."
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "This will make such a big difference. Great job! ⭐",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s okay. Try to make time this week."
     }
   ]
 }

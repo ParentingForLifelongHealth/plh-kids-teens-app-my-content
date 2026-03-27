@@ -360,9 +360,15 @@
           "eng": "Great!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Great!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. Try to review these steps together sometime this week."
         }
       },
@@ -376,6 +382,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -384,12 +393,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That’s okay. Try to review these steps together sometime this week.",
+      "quiz_1_feedback_2": "Great!",
+      "quiz_1_feedback_3": "That’s okay. Try to review these steps together sometime this week.",
       "quiz_1_question": "Are you ready for a home activity? ⭐ Today, talk with your child about the four steps to problem solving: Know It, Solve It, Try It, Test It. Knowing how to solve problems is something they can use for the rest of their lives! Can you do it today?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

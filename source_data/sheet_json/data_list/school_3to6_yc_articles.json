@@ -54,8 +54,10 @@
       "quiz_1_question::eng": "Are you ready for today’s home activity? ⭐\n\nTry to talk to your child about what they are doing at school at the moment. Can you do it today? ✨",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Excellent! See if you can practise what they learned in school at home! 😃",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Excellent! See if you can practise what they learned in school at home! 😃",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
     }
   ]
 }

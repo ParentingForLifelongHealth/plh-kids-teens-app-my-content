@@ -152,30 +152,6 @@
       "exclude_from_translation": true,
       "rows": [
         {
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "name": "set_variable_1",
-          "_nested_name": "plh_course_accordion_16.set_variable_1"
-        },
-        {
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "name": "set_variable_2",
-          "_nested_name": "plh_course_accordion_16.set_variable_2"
-        },
-        {
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "name": "set_variable_3",
-          "_nested_name": "plh_course_accordion_16.set_variable_3"
-        },
-        {
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "name": "set_variable_4",
-          "_nested_name": "plh_course_accordion_16.set_variable_4"
-        },
-        {
           "type": "data_items",
           "name": "loop_modules",
           "value": "@data.module_tasks",
@@ -186,14 +162,14 @@
           "exclude_from_translation": true,
           "rows": [
             {
-              "name": "landing_template",
+              "name": "completed_template",
               "value": "module_landing_@item.id",
               "_translations": {
                 "value": {}
               },
               "exclude_from_translation": true,
               "type": "set_variable",
-              "_nested_name": "plh_course_accordion_16.loop_modules.landing_template",
+              "_nested_name": "plh_course_accordion_16.loop_modules.completed_template",
               "_dynamicFields": {
                 "value": [
                   {
@@ -211,14 +187,13 @@
               }
             },
             {
-              "name": "target_template",
+              "name": "not_started_template",
               "value": "stack_module_@item.id",
               "_translations": {
                 "value": {}
               },
-              "condition": "!@item.started_ts",
               "type": "set_variable",
-              "_nested_name": "plh_course_accordion_16.loop_modules.target_template",
+              "_nested_name": "plh_course_accordion_16.loop_modules.not_started_template",
               "_dynamicFields": {
                 "value": [
                   {
@@ -227,34 +202,22 @@
                     "type": "item",
                     "fieldName": "id"
                   }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "!@item.started_ts",
-                    "matchedExpression": "!@item.started_ts",
-                    "type": "item",
-                    "fieldName": "started_ts"
-                  }
                 ]
               },
               "_dynamicDependencies": {
                 "@item.id": [
                   "value"
-                ],
-                "!@item.started_ts": [
-                  "condition"
                 ]
               }
             },
             {
-              "name": "target_template",
+              "name": "in_progress_template",
               "value": "stack_module_@item.id@local.start_at_id",
               "_translations": {
                 "value": {}
               },
-              "condition": "!!@item.started_ts",
               "type": "set_variable",
-              "_nested_name": "plh_course_accordion_16.loop_modules.target_template",
+              "_nested_name": "plh_course_accordion_16.loop_modules.in_progress_template",
               "_dynamicFields": {
                 "value": [
                   {
@@ -269,14 +232,6 @@
                     "type": "local",
                     "fieldName": "start_at_id"
                   }
-                ],
-                "condition": [
-                  {
-                    "fullExpression": "!!@item.started_ts",
-                    "matchedExpression": "!@item.started_ts",
-                    "type": "item",
-                    "fieldName": "started_ts"
-                  }
                 ]
               },
               "_dynamicDependencies": {
@@ -285,9 +240,6 @@
                 ],
                 "@local.start_at_id": [
                   "value"
-                ],
-                "!@item.started_ts": [
-                  "condition"
                 ]
               }
             },
@@ -305,9 +257,9 @@
                   "args": [
                     "open"
                   ],
-                  "_raw": "click | nav_stack: open | template: stack_module_@item.id, header: false",
+                  "_raw": "click | nav_stack: open | template: @local.not_started_template, header: false",
                   "params": {
-                    "template": "stack_module_@item.id",
+                    "template": "@local.not_started_template",
                     "header": false
                   }
                 },
@@ -319,24 +271,6 @@
                     "@local.course"
                   ],
                   "_raw": "click | set_field: last_opened : @local.course"
-                },
-                {
-                  "trigger": "click",
-                  "action_id": "set_item",
-                  "args": [
-                    "started_ts",
-                    "@calc(now())"
-                  ],
-                  "_raw": "click | set_item: started_ts: @calc(now())"
-                },
-                {
-                  "trigger": "click",
-                  "action_id": "set_item",
-                  "args": [
-                    "last_accessed_ts",
-                    "@calc(now())"
-                  ],
-                  "_raw": "click | set_item: last_accessed_ts: @calc(now())"
                 }
               ],
               "parameter_list": {
@@ -361,19 +295,19 @@
                   "0": {
                     "_raw": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: stack_module_@item.id, header: false",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
+                        "fullExpression": "click | nav_stack: open | template: @local.not_started_template, header: false",
+                        "matchedExpression": "@local.not_started_template",
+                        "type": "local",
+                        "fieldName": "not_started_template"
                       }
                     ],
                     "params": {
                       "template": [
                         {
-                          "fullExpression": "stack_module_@item.id",
-                          "matchedExpression": "@item.id",
-                          "type": "item",
-                          "fieldName": "id"
+                          "fullExpression": "@local.not_started_template",
+                          "matchedExpression": "@local.not_started_template",
+                          "type": "local",
+                          "fieldName": "not_started_template"
                         }
                       ]
                     }
@@ -395,46 +329,6 @@
                         "matchedExpression": "@local.course",
                         "type": "local",
                         "fieldName": "course"
-                      }
-                    ]
-                  },
-                  "2": {
-                    "args": {
-                      "1": [
-                        {
-                          "fullExpression": "@calc(now())",
-                          "matchedExpression": "@calc(now())",
-                          "type": "calc",
-                          "fieldName": "now()"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | set_item: started_ts: @calc(now())",
-                        "matchedExpression": "@calc(now())",
-                        "type": "calc",
-                        "fieldName": "now()"
-                      }
-                    ]
-                  },
-                  "3": {
-                    "args": {
-                      "1": [
-                        {
-                          "fullExpression": "@calc(now())",
-                          "matchedExpression": "@calc(now())",
-                          "type": "calc",
-                          "fieldName": "now()"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | set_item: last_accessed_ts: @calc(now())",
-                        "matchedExpression": "@calc(now())",
-                        "type": "calc",
-                        "fieldName": "now()"
                       }
                     ]
                   }
@@ -500,19 +394,13 @@
                 "@item.title": [
                   "value"
                 ],
-                "@item.id": [
+                "@local.not_started_template": [
                   "action_list.0._raw",
                   "action_list.0.params.template"
                 ],
                 "@local.course": [
                   "action_list.1.args.1",
                   "action_list.1._raw"
-                ],
-                "@calc(now())": [
-                  "action_list.2.args.1",
-                  "action_list.2._raw",
-                  "action_list.3.args.1",
-                  "action_list.3._raw"
                 ],
                 "!@item.started_ts": [
                   "parameter_list.highlighted",
@@ -558,9 +446,9 @@
                   "args": [
                     "open"
                   ],
-                  "_raw": "click | nav_stack: open | template: stack_module_@item.id@local.start_at_id, header: false",
+                  "_raw": "click | nav_stack: open | template: @local.in_progress_template, header: false",
                   "params": {
-                    "template": "stack_module_@item.id@local.start_at_id",
+                    "template": "@local.in_progress_template",
                     "header": false
                   }
                 },
@@ -572,15 +460,6 @@
                     "@local.course"
                   ],
                   "_raw": "click | set_field: last_opened : @local.course"
-                },
-                {
-                  "trigger": "click",
-                  "action_id": "set_item",
-                  "args": [
-                    "last_accessed_ts",
-                    "@calc(now())"
-                  ],
-                  "_raw": "click | set_item: last_accessed_ts: @calc(now())"
                 }
               ],
               "parameter_list": {
@@ -605,31 +484,19 @@
                   "1": {
                     "_raw": [
                       {
-                        "fullExpression": "click | nav_stack: open | template: stack_module_@item.id@local.start_at_id, header: false",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      },
-                      {
-                        "fullExpression": "click | nav_stack: open | template: stack_module_@item.id@local.start_at_id, header: false",
-                        "matchedExpression": "@local.start_at_id",
+                        "fullExpression": "click | nav_stack: open | template: @local.in_progress_template, header: false",
+                        "matchedExpression": "@local.in_progress_template",
                         "type": "local",
-                        "fieldName": "start_at_id"
+                        "fieldName": "in_progress_template"
                       }
                     ],
                     "params": {
                       "template": [
                         {
-                          "fullExpression": "stack_module_@item.id@local.start_at_id",
-                          "matchedExpression": "@item.id",
-                          "type": "item",
-                          "fieldName": "id"
-                        },
-                        {
-                          "fullExpression": "stack_module_@item.id@local.start_at_id",
-                          "matchedExpression": "@local.start_at_id",
+                          "fullExpression": "@local.in_progress_template",
+                          "matchedExpression": "@local.in_progress_template",
                           "type": "local",
-                          "fieldName": "start_at_id"
+                          "fieldName": "in_progress_template"
                         }
                       ]
                     }
@@ -651,26 +518,6 @@
                         "matchedExpression": "@local.course",
                         "type": "local",
                         "fieldName": "course"
-                      }
-                    ]
-                  },
-                  "3": {
-                    "args": {
-                      "1": [
-                        {
-                          "fullExpression": "@calc(now())",
-                          "matchedExpression": "@calc(now())",
-                          "type": "calc",
-                          "fieldName": "now()"
-                        }
-                      ]
-                    },
-                    "_raw": [
-                      {
-                        "fullExpression": "click | set_item: last_accessed_ts: @calc(now())",
-                        "matchedExpression": "@calc(now())",
-                        "type": "calc",
-                        "fieldName": "now()"
                       }
                     ]
                   }
@@ -736,21 +583,13 @@
                 "@item.title": [
                   "value"
                 ],
-                "@item.id": [
-                  "action_list.1._raw",
-                  "action_list.1.params.template"
-                ],
-                "@local.start_at_id": [
+                "@local.in_progress_template": [
                   "action_list.1._raw",
                   "action_list.1.params.template"
                 ],
                 "@local.course": [
                   "action_list.2.args.1",
                   "action_list.2._raw"
-                ],
-                "@calc(now())": [
-                  "action_list.3.args.1",
-                  "action_list.3._raw"
                 ],
                 "!@item.started_ts": [
                   "parameter_list.highlighted",
@@ -785,9 +624,9 @@
                   "trigger": "click",
                   "action_id": "go_to",
                   "args": [
-                    "@local.landing_template"
+                    "@local.completed_template"
                   ],
-                  "_raw": "click | go_to: @local.landing_template"
+                  "_raw": "click | go_to: @local.completed_template"
                 },
                 {
                   "trigger": "click",
@@ -823,19 +662,19 @@
                     "args": {
                       "0": [
                         {
-                          "fullExpression": "@local.landing_template",
-                          "matchedExpression": "@local.landing_template",
+                          "fullExpression": "@local.completed_template",
+                          "matchedExpression": "@local.completed_template",
                           "type": "local",
-                          "fieldName": "landing_template"
+                          "fieldName": "completed_template"
                         }
                       ]
                     },
                     "_raw": [
                       {
-                        "fullExpression": "click | go_to: @local.landing_template",
-                        "matchedExpression": "@local.landing_template",
+                        "fullExpression": "click | go_to: @local.completed_template",
+                        "matchedExpression": "@local.completed_template",
                         "type": "local",
-                        "fieldName": "landing_template"
+                        "fieldName": "completed_template"
                       }
                     ]
                   },
@@ -915,7 +754,7 @@
                 "@item.title": [
                   "value"
                 ],
-                "@local.landing_template": [
+                "@local.completed_template": [
                   "action_list.0.args.0",
                   "action_list.0._raw"
                 ],

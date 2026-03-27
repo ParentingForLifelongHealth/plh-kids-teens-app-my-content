@@ -23,6 +23,26 @@
       "type": "declare_global_constant",
       "name": "facilitator_input_restriction",
       "value": "Please enter a valid 4-character ID."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "join_group",
+      "value": "Connect to group"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "error_invalid_group",
+      "value": "Group not found, please check your Group ID"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "error_unknown",
+      "value": "An unknown error occured, please try again later"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "success",
+      "value": "Group successfully registered"
     }
   ]
 }

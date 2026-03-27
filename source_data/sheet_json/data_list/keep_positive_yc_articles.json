@@ -74,13 +74,13 @@
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=86c9HK5IYVs",
       "section_1_title::eng": "BE SPECIFIC",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_1_text::eng": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",
+      "section_1_text::eng": "⭐ Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀 Use your child’s name to get their attention, go down to their level, and make eye contact.",
       "section_2_title::eng": "BE REALISTIC",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_2_text::eng": "⭐Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
+      "section_2_text::eng": "⭐ Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
       "section_3_title::eng": "BE POSITIVE",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_3_text::eng": "⭐Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷And remember—this takes practice. Be kind to yourself as you learn too. 💙"
+      "section_3_text::eng": "⭐ Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡 Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷 And remember—this takes practice. Be kind to yourself as you learn too. 💙"
     },
     {
       "id": "home_activity_1",
@@ -88,8 +88,10 @@
       "quiz_1_question::eng": "Your home activity for today is to try to give specific, realistic, and positive instructions with your child. Do you have time to do this today? ⏰⭐",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
     }
   ]
 }

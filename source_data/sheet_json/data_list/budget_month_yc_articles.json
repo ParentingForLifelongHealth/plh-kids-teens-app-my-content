@@ -65,8 +65,10 @@
       "quiz_1_question::eng": "⭐ It’s time to get out your paper and build your monthly budget. Do you have time to do it today?",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That’s great! Consider involving your family: it’s a great skill for everyone to learn. 💚",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s OK. Try to do it this week. 💚"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That’s great! Consider involving your family: it’s a great skill for everyone to learn. 💚",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s OK. Try to do it this week. 💚"
     }
   ]
 }

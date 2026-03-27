@@ -27,7 +27,7 @@
     {
       "type": "begin_data_items",
       "name": "loop_1",
-      "value": "@data.module_tasks",
+      "value": "@data.courses",
       "action_list": "data_changed | set_local : hp_unlocked_ids : @items.map(item => item.id)",
       "parameter_list": "filter: !!@item.completed_ts && window.date_fns.differenceInDays(new Date(),new Date(new Date(@item.completed_ts).setHours(0,0,0,0))) >= @local.countdown_days;\nsort: completed_ts;",
       "exclude_from_translation": true

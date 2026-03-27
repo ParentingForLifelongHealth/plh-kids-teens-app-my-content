@@ -247,9 +247,15 @@
           "eng": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s OK. Try to make some time to do this soon. You can do this! 🌷"
         }
       },
@@ -263,6 +269,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -271,12 +280,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That’s OK. Try to make some time to do this soon. You can do this! 🌷",
+      "quiz_1_feedback_2": "That’s great! Remember that involving your family will also help them learn how to make a budget and understand how money is spent! 💚",
+      "quiz_1_feedback_3": "That’s OK. Try to make some time to do this soon. You can do this! 🌷",
       "quiz_1_question": "Are you ready for today’s home activity? ⭐ It’s time to add up your monthly expenses.",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

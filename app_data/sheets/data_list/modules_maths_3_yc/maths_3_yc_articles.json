@@ -208,6 +208,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -221,16 +227,24 @@
           "eng": "Great! 💙 Counting with your child will introduce them to numbers!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Great! 💙 Counting with your child will introduce them to numbers!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Great! 💙 Counting with your child will introduce them to numbers!",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "Great! 💙 Counting with your child will introduce them to numbers!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
     }
   ],
   "_source": {

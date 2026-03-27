@@ -44,15 +44,11 @@
         "quiz_1_option_1_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_1": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_2_question": {
           "my_ms": true
         },
@@ -95,13 +91,13 @@
           "eng": "True"
         },
         "quiz_1_feedback_1": {
-          "eng": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them."
+          "eng": "❌ That’s incorrect. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them."
         },
         "quiz_1_option_2_text": {
           "eng": "False"
         },
         "quiz_1_feedback_2": {
-          "eng": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them."
+          "eng": "🎉 That’s correct. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them."
         },
         "quiz_2_question": {
           "eng": "Here’s another one: Boys should not share when they are feeling sad or afraid."
@@ -136,9 +132,9 @@
       },
       "quiz_1_question": "True or False: Talking about positive feelings is not as important as sharing negative feelings.",
       "quiz_1_option_1_text": "True",
-      "quiz_1_feedback_1": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
+      "quiz_1_feedback_1": "❌ That’s incorrect. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
+      "quiz_1_feedback_2": "🎉 That’s correct. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them.",
       "quiz_2_question": "Here’s another one: Boys should not share when they are feeling sad or afraid.",
       "quiz_2_option_1_text": "True",
       "quiz_2_feedback_1": "❌ Incorrect.\n\n⭐ It is important that both boys and girls learn how to share their feelings. \n\n💙 Boys and girls will learn that it is okay to ask for help when they need it.",
@@ -353,6 +349,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -366,16 +368,24 @@
           "eng": "This will make such a big difference. Great job! ⭐"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "This will make such a big difference. Great job! ⭐"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. Try to make time this week."
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "This will make such a big difference. Great job! ⭐",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That’s okay. Try to make time this week."
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "This will make such a big difference. Great job! ⭐",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That’s okay. Try to make time this week."
     }
   ],
   "_source": {

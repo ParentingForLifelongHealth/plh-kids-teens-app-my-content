@@ -15,10 +15,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -31,9 +31,6 @@
         "text_goal": {
           "eng": "Your goal was to spend 5 minutes of one-on-one time with your child."
         },
-        "question_done": {
-          "eng": "How many days in the last week did you spend at least 5 minutes of one-on-one time with your child?"
-        },
         "reply_no": {
           "eng": "That is okay. Try to find time with them this week!"
         },
@@ -42,6 +39,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -57,10 +57,10 @@
         }
       },
       "text_goal": "Your goal was to spend 5 minutes of one-on-one time with your child.",
-      "question_done": "How many days in the last week did you spend at least 5 minutes of one-on-one time with your child?",
       "reply_no": "That is okay. Try to find time with them this week!",
       "reply_happy": "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -76,10 +76,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -92,9 +92,6 @@
         "text_goal": {
           "eng": "Your goal was to involve your child in an activity to help them learn."
         },
-        "question_done": {
-          "eng": "How often do you involve your child in an activity to help them learn?  🎨"
-        },
         "reply_no": {
           "eng": "That is okay. Try to find time to do it more with them this week!"
         },
@@ -103,6 +100,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -118,10 +118,10 @@
         }
       },
       "text_goal": "Your goal was to involve your child in an activity to help them learn.",
-      "question_done": "How often do you involve your child in an activity to help them learn?  🎨",
       "reply_no": "That is okay. Try to find time to do it more with them this week!",
       "reply_happy": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -137,10 +137,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -153,9 +153,6 @@
         "text_goal": {
           "eng": "Your goal was to involve your child in an activity to help them learn."
         },
-        "question_done": {
-          "eng": "How often do you involve your child in an activity to help them learn?  🎨"
-        },
         "reply_no": {
           "eng": "That is okay. Try to find time to do it more with them this week!"
         },
@@ -164,6 +161,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -179,10 +179,10 @@
         }
       },
       "text_goal": "Your goal was to involve your child in an activity to help them learn.",
-      "question_done": "How often do you involve your child in an activity to help them learn?  🎨",
       "reply_no": "That is okay. Try to find time to do it more with them this week!",
       "reply_happy": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -198,10 +198,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -214,9 +214,6 @@
         "text_goal": {
           "eng": "Your goal was to support your child's development."
         },
-        "question_done": {
-          "eng": "How confident are you in your ability to support your child's development?"
-        },
         "reply_no": {
           "eng": "That is okay. You will learn more about the importance of child development in this goal. Supporting your child’s development will help them live a safe and healthy life."
         },
@@ -225,6 +222,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -240,10 +240,10 @@
         }
       },
       "text_goal": "Your goal was to support your child's development.",
-      "question_done": "How confident are you in your ability to support your child's development?",
       "reply_no": "That is okay. You will learn more about the importance of child development in this goal. Supporting your child’s development will help them live a safe and healthy life.",
       "reply_happy": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -259,10 +259,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -275,9 +275,6 @@
         "text_goal": {
           "eng": "Your goal was to set some structure at home."
         },
-        "question_done": {
-          "eng": "Have you been able to make sure your child follows household rules?"
-        },
         "reply_no": {
           "eng": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive."
         },
@@ -286,6 +283,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -301,10 +301,10 @@
         }
       },
       "text_goal": "Your goal was to set some structure at home.",
-      "question_done": "Have you been able to make sure your child follows household rules?",
       "reply_no": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive.",
       "reply_happy": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -320,10 +320,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -336,9 +336,6 @@
         "text_goal": {
           "eng": "Your goal was to learn to manage your child's behaviour."
         },
-        "question_done": {
-          "eng": "On a scale from 0 to 10, where 0 = no problem and 10 = very challenging situation, how challenging has it been to manage your child's behaviour?"
-        },
         "reply_no": {
           "eng": "That is okay. You will learn more about managing your child’s behaviour in this goal."
         },
@@ -347,6 +344,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -362,10 +362,10 @@
         }
       },
       "text_goal": "Your goal was to learn to manage your child's behaviour.",
-      "question_done": "On a scale from 0 to 10, where 0 = no problem and 10 = very challenging situation, how challenging has it been to manage your child's behaviour?",
       "reply_no": "That is okay. You will learn more about managing your child’s behaviour in this goal.",
       "reply_happy": "It sounds like your child tends to behave well, which is great to hear! 💙",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -381,10 +381,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -397,9 +397,6 @@
         "text_goal": {
           "eng": "Your goal was to talk to your child about safety."
         },
-        "question_done": {
-          "eng": "How confident do you feel about being able to keep your child safe and healthy both online and offline?"
-        },
         "reply_no": {
           "eng": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world."
         },
@@ -408,6 +405,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -423,10 +423,10 @@
         }
       },
       "text_goal": "Your goal was to talk to your child about safety.",
-      "question_done": "How confident do you feel about being able to keep your child safe and healthy both online and offline?",
       "reply_no": "That is okay. It is not easy to know how to keep your child safe and healthy, especially in this changing world.",
       "reply_happy": "Great job! Knowing how to keep your child safe and healthy is an important responsibility as a parent. In this changing world, it is not easy to do! 🌱",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -442,10 +442,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -458,9 +458,6 @@
         "text_goal": {
           "eng": "Your goal was to share household tasks with your spouse."
         },
-        "question_done": {
-          "eng": "How often do you and your spouse share caregiving and household tasks? ⏰"
-        },
         "reply_no": {
           "eng": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal."
         },
@@ -469,6 +466,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -484,10 +484,10 @@
         }
       },
       "text_goal": "Your goal was to share household tasks with your spouse.",
-      "question_done": "How often do you and your spouse share caregiving and household tasks? ⏰",
       "reply_no": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal.",
       "reply_happy": "That’s great to hear! Sharing tasks equally helps everyone feel valued.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",
@@ -503,10 +503,10 @@
       "_translations": {
         "notification_text": {},
         "text_goal": {},
-        "question_done": {},
         "reply_no": {},
         "reply_happy": {},
         "activity_title": {},
+        "question_done": {},
         "question_how": {},
         "reply_ok": {},
         "reply_sad": {},
@@ -519,9 +519,6 @@
         "text_goal": {
           "eng": "Your goal was to plan a budget."
         },
-        "question_done": {
-          "eng": "How confident are you that your family can plan carefully in advance about how to use money available during the month?"
-        },
         "reply_no": {
           "eng": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started."
         },
@@ -530,6 +527,9 @@
         },
         "activity_title": {
           "eng": "Let’s check in on your home activity!"
+        },
+        "question_done": {
+          "eng": "Did you have a chance to try this?"
         },
         "question_how": {
           "eng": "How did it go?"
@@ -545,10 +545,10 @@
         }
       },
       "text_goal": "Your goal was to plan a budget.",
-      "question_done": "How confident are you that your family can plan carefully in advance about how to use money available during the month?",
       "reply_no": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started.",
       "reply_happy": "That’s amazing! 🎉 Keep doing this - your family will be better for it.",
       "activity_title": "Let’s check in on your home activity!",
+      "question_done": "Did you have a chance to try this?",
       "question_how": "How did it go?",
       "reply_ok": "Sorry to hear it was difficult for you. Well done for trying.",
       "reply_sad": "Sorry to hear it was difficult for you. Well done for trying.",

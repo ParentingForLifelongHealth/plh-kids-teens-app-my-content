@@ -103,8 +103,10 @@
       "quiz_1_question::eng": "Home activity! ⭐ \n\nFind a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡\n\nDo you have time to do this today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place."
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place."
     }
   ]
 }

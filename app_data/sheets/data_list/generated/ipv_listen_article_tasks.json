@@ -360,9 +360,15 @@
           "eng": "That’s great to hear! Talking about challenges and our emotions can be hard, but it gets easier over time. You are doing great! 🎉"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great to hear! Talking about challenges and our emotions can be hard, but it gets easier over time. You are doing great! 🎉"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. Talking about our feelings and challenges we’re facing can help others understand and support you better. 🎈 \n\nEmotions and challenges are a part of life, and learning how to handle these, can help make life less stressful. ⭐"
         }
       },
@@ -376,6 +382,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -384,12 +393,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That’s okay. Talking about our feelings and challenges we’re facing can help others understand and support you better. 🎈 \n\nEmotions and challenges are a part of life, and learning how to handle these, can help make life less stressful. ⭐",
+      "quiz_1_feedback_2": "That’s great to hear! Talking about challenges and our emotions can be hard, but it gets easier over time. You are doing great! 🎉",
+      "quiz_1_feedback_3": "That’s okay. Talking about our feelings and challenges we’re facing can help others understand and support you better. 🎈 \n\nEmotions and challenges are a part of life, and learning how to handle these, can help make life less stressful. ⭐",
       "quiz_1_question": "For today’s home activity, try setting aside some time to talk to your spouse about your feelings and any difficulties you’re facing. ⭐ Do you have time to do it today?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

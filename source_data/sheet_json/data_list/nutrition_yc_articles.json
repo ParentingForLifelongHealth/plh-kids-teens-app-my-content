@@ -89,8 +89,10 @@
       "quiz_1_question::eng": "Today’s home activity is to talk with your child about the importance of eating healthy foods and water instead of fizzy drinks. Plan to make better choices together, and praise them each time they make a healthy choice. \n\nDo you have time to chat with your child about this today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Great! 💙 You are helping your child make healthy eating choices. You are a super parent! 😃",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! If you don't have time today, set some time aside tomorrow to talk about making healthy choices. Remember to praise them when they do it! You are a super parent! 😃"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Great! 💙 You are helping your child make healthy eating choices. You are a super parent! 😃",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! If you don't have time today, set some time aside tomorrow to talk about making healthy choices. Remember to praise them when they do it! You are a super parent! 😃"
     }
   ]
 }
