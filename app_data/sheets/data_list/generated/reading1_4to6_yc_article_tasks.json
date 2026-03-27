@@ -104,7 +104,7 @@
       "id": "intro_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "📖This skill is about helping your child learn to read. \n\n2️⃣This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child."
+          "eng": "📖 This skill is about helping your child learn to read. \n\n2️⃣ This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child."
         },
         "text_2": {
           "eng": "The best way to help your child learn to read is to read with them!. 📖🎉\n\nChildren learn by watching, listening, and copying. When they are little, they learn new words when you read to them. Later they learn letters and letter sounds, and when they’re bigger, reading together can help them learn about anything they are interested in! 💡"
@@ -112,11 +112,9 @@
       },
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "📖This skill is about helping your child learn to read. \n\n2️⃣This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child.",
+      "text_1_facilitator": "📖 This skill is about helping your child learn to read. \n\n2️⃣ This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child.",
       "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        },
+        "text_1_facilitator": {},
         "text_2": {
           "my_ms": true
         }
@@ -378,9 +376,15 @@
           "eng": "Excellent! Reading with your child is a great way to help them learn!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Excellent! Reading with your child is a great way to help them learn!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. It’s not always possible to read with your child. Try to find a little bit of time every day because it will help your child learn."
         }
       },
@@ -394,6 +398,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -402,12 +409,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That’s okay. It’s not always possible to read with your child. Try to find a little bit of time every day because it will help your child learn.",
+      "quiz_1_feedback_2": "Excellent! Reading with your child is a great way to help them learn!",
+      "quiz_1_feedback_3": "That’s okay. It’s not always possible to read with your child. Try to find a little bit of time every day because it will help your child learn.",
       "quiz_1_question": "Home activity! Can you read with your child today? ⭐",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

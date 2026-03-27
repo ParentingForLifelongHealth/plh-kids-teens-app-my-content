@@ -77,8 +77,10 @@
       "quiz_1_question::eng": "⏰ Take a moment to practise taking a pause today. \n🏅 The more you practise, the easier it will become. \nCan you do it today?",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That’s great! It’s important to practise self care so we are able to deal with hard things that happen.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s OK, it can be hard to set aside time. 😣"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That’s great! It’s important to practise self care so we are able to deal with hard things that happen.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s OK, it can be hard to set aside time. 😣"
     }
   ]
 }

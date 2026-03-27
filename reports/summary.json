@@ -27,15 +27,15 @@
       },
       {
         "type": "button",
-        "count": 89
+        "count": 92
       },
       {
         "type": "combo_box",
-        "count": 21
+        "count": 24
       },
       {
         "type": "data_items",
-        "count": 118
+        "count": 119
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 98
+        "count": 97
       },
       {
         "type": "drawer",
@@ -59,11 +59,11 @@
       },
       {
         "type": "image",
-        "count": 22
+        "count": 21
       },
       {
         "type": "items",
-        "count": 17
+        "count": 15
       },
       {
         "type": "lottie_animation",
@@ -71,7 +71,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 294
+        "count": 297
       },
       {
         "type": "number_selector",
@@ -91,7 +91,7 @@
       },
       {
         "type": "plh_course_sub_item",
-        "count": 5
+        "count": 3
       },
       {
         "type": "plh_lesson_cta",
@@ -99,10 +99,6 @@
       },
       {
         "type": "plh_module_details_header",
-        "count": 1
-      },
-      {
-        "type": "progress_path",
         "count": 1
       },
       {
@@ -115,7 +111,7 @@
       },
       {
         "type": "round_button",
-        "count": 14
+        "count": 13
       },
       {
         "type": "select_text",
@@ -127,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3145
+        "count": 2831
       },
       {
         "type": "simple_checkbox",
@@ -135,7 +131,7 @@
       },
       {
         "type": "task_card",
-        "count": 7
+        "count": 4
       },
       {
         "type": "task_progress_bar",
@@ -143,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 974
+        "count": 877
       },
       {
         "type": "text",
-        "count": 181
+        "count": 196
       },
       {
         "type": "text_area",
@@ -155,7 +151,7 @@
       },
       {
         "type": "text_box",
-        "count": 17
+        "count": 22
       },
       {
         "type": "text_bubble",
@@ -167,7 +163,7 @@
       },
       {
         "type": "title",
-        "count": 50
+        "count": 49
       },
       {
         "type": "toggle_bar",
@@ -175,7 +171,7 @@
       },
       {
         "type": "update_action_list",
-        "count": 2
+        "count": 1
       },
       {
         "type": "video",
@@ -199,11 +195,11 @@
       },
       {
         "type": "emit: completed",
-        "count": 739
+        "count": 598
       },
       {
         "type": "emit: force_reload",
-        "count": 4
+        "count": 3
       },
       {
         "type": "emit: force_reprocess",
@@ -215,7 +211,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 4
+        "count": 7
       },
       {
         "type": "emit: set_language",
@@ -223,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 748
+        "count": 603
       },
       {
         "type": "feedback",
@@ -231,15 +227,19 @@
       },
       {
         "type": "go_to",
-        "count": 17
+        "count": 15
       },
       {
         "type": "nav_stack",
-        "count": 343
+        "count": 341
+      },
+      {
+        "type": "plh_parent_group",
+        "count": 1
       },
       {
         "type": "pop_up",
-        "count": 70
+        "count": 69
       },
       {
         "type": "reset_app",
@@ -251,19 +251,19 @@
       },
       {
         "type": "set_data",
-        "count": 78
+        "count": 81
       },
       {
         "type": "set_field",
-        "count": 90
+        "count": 105
       },
       {
         "type": "set_item",
-        "count": 76
+        "count": 72
       },
       {
         "type": "set_local",
-        "count": 54
+        "count": 58
       },
       {
         "type": "share",
@@ -662,6 +662,10 @@
       {
         "path": "images/icons/tablet_blue.png",
         "size_kb": 2.8
+      },
+      {
+        "path": "images/icons/tick_white.svg",
+        "size_kb": 0.3
       },
       {
         "path": "images/icons/trophy_footer.svg",
@@ -1652,12 +1656,12 @@
       },
       {
         "path": "images/homescreen/behave.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 31.6
       },
       {
         "path": "images/homescreen/budget.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 15.1
       },
       {
@@ -1672,32 +1676,32 @@
       },
       {
         "path": "images/homescreen/develop.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 35.1
       },
       {
         "path": "images/homescreen/ipv.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 27.3
       },
       {
         "path": "images/homescreen/learning.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 47.1
       },
       {
         "path": "images/homescreen/relation.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 37.3
       },
       {
         "path": "images/homescreen/safety.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 116
       },
       {
         "path": "images/homescreen/structure.svg",
-        "count": 1,
+        "count": 13,
         "size_kb": 46.9
       },
       {
@@ -1817,7 +1821,7 @@
       },
       {
         "path": "images/icons/in_progress.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 1.1
       },
       {
@@ -1862,7 +1866,7 @@
       },
       {
         "path": "images/icons/locked.png",
-        "count": 2,
+        "count": 1,
         "size_kb": 0.7
       },
       {
@@ -1947,11 +1951,6 @@
       },
       {
         "path": "images/icons/tick.svg",
-        "count": 1,
-        "size_kb": 0.3
-      },
-      {
-        "path": "images/icons/tick_white.svg",
         "count": 1,
         "size_kb": 0.3
       },
@@ -3117,7 +3116,7 @@
       {
         "type": "generator",
         "subtype": null,
-        "total": 63
+        "total": 60
       },
       {
         "type": "global",
@@ -3137,12 +3136,12 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 139
+        "total": 134
       },
       {
         "type": "template",
         "subtype": "generated",
-        "total": 815
+        "total": 671
       },
       {
         "type": "template",

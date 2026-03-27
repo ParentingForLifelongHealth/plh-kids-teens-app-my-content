@@ -276,6 +276,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -289,16 +295,24 @@
           "eng": "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃\n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. ⭐"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃\n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. ⭐"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "Managing your child’s behaviour is hard! 😣 \n\nNext time your child behaves well, praise them for it, even if it’s something small! This way, you are less likely to need to give them consequences in the first place. \n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐\n\nUsing praise and consequences not only helps you to manage your children's behaviour, but it builds a stronger and positive relationship with them at the same time."
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃\n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. ⭐",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "Managing your child’s behaviour is hard! 😣 \n\nNext time your child behaves well, praise them for it, even if it’s something small! This way, you are less likely to need to give them consequences in the first place. \n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐\n\nUsing praise and consequences not only helps you to manage your children's behaviour, but it builds a stronger and positive relationship with them at the same time."
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "Well done! 🎉 Praising your child for their actions makes them more likely to repeat this positive behaviour. This way, you are less likely to need to set consequences in the first place! A fair consequence will help your child learn that their actions impact themselves and others. It also teaches them about responsibility and respect! 😃\n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. ⭐",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "Managing your child’s behaviour is hard! 😣 \n\nNext time your child behaves well, praise them for it, even if it’s something small! This way, you are less likely to need to give them consequences in the first place. \n\nIf your child continues to misbehave, stay calm and give them a fair consequence for their behaviour. You might see it change the way they behave in the future. ⭐\n\nUsing praise and consequences not only helps you to manage your children's behaviour, but it builds a stronger and positive relationship with them at the same time."
     }
   ],
   "_source": {

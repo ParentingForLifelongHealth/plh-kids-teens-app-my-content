@@ -410,9 +410,15 @@
           "eng": "That’s great! ✨Sharing will allow us to learn together!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great! ✨Sharing will allow us to learn together!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That's OK! Sometimes it takes time to share a new parenting skill."
         }
       },
@@ -426,6 +432,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -434,12 +443,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That's OK! Sometimes it takes time to share a new parenting skill.",
+      "quiz_1_feedback_2": "That’s great! ✨Sharing will allow us to learn together!",
+      "quiz_1_feedback_3": "That's OK! Sometimes it takes time to share a new parenting skill.",
       "quiz_1_question": "Today’s home activity is to share these four steps with another member of your family. Sharing these skills will help everyone learn and feel more connected and supported. ➡️\n\nCan you share these tips today?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

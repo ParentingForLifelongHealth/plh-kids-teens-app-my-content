@@ -100,8 +100,10 @@
       "quiz_1_question::eng": "Your home activity is to invite your child to play with you. Let your child choose what they would like to play and follow their lead. Do you have time to do it today? ⭐",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Great! 💙 Letting your child choose helps build confidence, independence, and curiosity as they grow.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! It can be hard to find time. Even a short playtime where your child chooses the activity can make a big difference. You can set some time aside to play together tomorrow! 🌱"
     }
   ]
 }

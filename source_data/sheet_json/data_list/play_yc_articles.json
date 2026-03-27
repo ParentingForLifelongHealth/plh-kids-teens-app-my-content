@@ -85,8 +85,10 @@
       "quiz_1_question::eng": "For today’s home activity, ⭐ invite your child to play with you. Encourage them to ask questions and explore new things through play. Do you have time to do it today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That’s great! 💙 Use the tips you have learnt today and have fun! Playing with your child is a great way to motivate them to learn and develop new skills. ⚽",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! 💙 It can be hard to find time. You can set some time aside to play together tomorrow!"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That’s great! 💙 Use the tips you have learnt today and have fun! Playing with your child is a great way to motivate them to learn and develop new skills. ⚽",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! 💙 It can be hard to find time. You can set some time aside to play together tomorrow!"
     }
   ]
 }

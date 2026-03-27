@@ -57,8 +57,10 @@
       "quiz_1_question::eng": "For today’s home activity ⭐, can you do some counting with your child today?",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Great! 💙 Counting with your child will introduce them to numbers!",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Great! 💙 Counting with your child will introduce them to numbers!",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! If you don't have time today, try to count with your child tomorrow. This will help your child learn!"
     }
   ]
 }

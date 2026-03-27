@@ -418,9 +418,15 @@
           "eng": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐"
         }
       },
@@ -434,6 +440,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -442,12 +451,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
+      "quiz_1_feedback_2": "That’s great! Helping your child stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑",
+      "quiz_1_feedback_3": "That’s OK. Put some time aside this week to do this activity with your child. ⏰ It’s important to talk to our children about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐",
       "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nAsk your child what they do to stay safe online. 👂 You may find that they are already thinking about online safety. 💡\n\nPraise your child for any efforts they make. Can you talk with your child today? 🔔",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

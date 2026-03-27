@@ -9,44 +9,43 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 89 |
-| combo_box | 21 |
-| data_items | 118 |
+| button | 92 |
+| combo_box | 24 |
+| data_items | 119 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 98 |
+| display_group | 97 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 22 |
-| items | 17 |
+| image | 21 |
+| items | 15 |
 | lottie_animation | 4 |
-| nested_properties | 294 |
+| nested_properties | 297 |
 | number_selector | 1 |
 | plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
-| plh_course_sub_item | 5 |
+| plh_course_sub_item | 3 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
-| progress_path | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 14 |
+| round_button | 13 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3145 |
+| set_variable | 2831 |
 | simple_checkbox | 1 |
-| task_card | 7 |
+| task_card | 4 |
 | task_progress_bar | 5 |
-| template | 974 |
-| text | 181 |
+| template | 877 |
+| text | 196 |
 | text_area | 2 |
-| text_box | 17 |
+| text_box | 22 |
 | text_bubble | 11 |
 | tile_component | 1 |
-| title | 50 |
+| title | 49 |
 | toggle_bar | 5 |
-| update_action_list | 2 |
+| update_action_list | 1 |
 | video | 3 |
 | youtube | 4 |
 </details>
@@ -58,23 +57,24 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 739 |
-| emit: force_reload | 4 |
+| emit: completed | 598 |
+| emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
-| emit: server_sync | 4 |
+| emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 748 |
+| emit: uncompleted | 603 |
 | feedback | 13 |
-| go_to | 17 |
-| nav_stack | 343 |
-| pop_up | 70 |
+| go_to | 15 |
+| nav_stack | 341 |
+| plh_parent_group | 1 |
+| pop_up | 69 |
 | reset_app | 4 |
 | reset_data | 3 |
-| set_data | 78 |
-| set_field | 90 |
-| set_item | 76 |
-| set_local | 54 |
+| set_data | 81 |
+| set_field | 105 |
+| set_item | 72 |
+| set_local | 58 |
 | share | 2 |
 | task | 2 |
 | user | 3 |
@@ -188,6 +188,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/speech_bubble_blue.png | 4.2 |
 | images/icons/star_outline_white.svg | 1 |
 | images/icons/tablet_blue.png | 2.8 |
+| images/icons/tick_white.svg | 0.3 |
 | images/icons/trophy_footer.svg | 3.9 |
 | images/icons/trophy_footer_active.svg | 3.9 |
 | images/icons/verified.svg | 0.5 |
@@ -410,16 +411,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/facilitator_female.svg | 636.4 | 3 |
 | images/character_icons/facilitator_male.svg | 459.5 | 3 |
 | images/character_icons/man_in_car.svg | 1241.8 | 1 |
-| images/homescreen/behave.svg | 31.6 | 1 |
-| images/homescreen/budget.svg | 15.1 | 1 |
+| images/homescreen/behave.svg | 31.6 | 13 |
+| images/homescreen/budget.svg | 15.1 | 13 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1692.7 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 2901.6 | 1 |
-| images/homescreen/develop.svg | 35.1 | 1 |
-| images/homescreen/ipv.svg | 27.3 | 1 |
-| images/homescreen/learning.svg | 47.1 | 1 |
-| images/homescreen/relation.svg | 37.3 | 1 |
-| images/homescreen/safety.svg | 116 | 1 |
-| images/homescreen/structure.svg | 46.9 | 1 |
+| images/homescreen/develop.svg | 35.1 | 13 |
+| images/homescreen/ipv.svg | 27.3 | 13 |
+| images/homescreen/learning.svg | 47.1 | 13 |
+| images/homescreen/relation.svg | 37.3 | 13 |
+| images/homescreen/safety.svg | 116 | 13 |
+| images/homescreen/structure.svg | 46.9 | 13 |
 | images/icons/celebration.svg | 70.4 | 1 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
@@ -443,7 +444,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/home.svg | 0.4 | 1 |
 | images/icons/home_active.svg | 0.4 | 1 |
 | images/icons/home_white.svg | 0.7 | 1 |
-| images/icons/in_progress.svg | 1.1 | 2 |
+| images/icons/in_progress.svg | 1.1 | 1 |
 | images/icons/information-circle-outline.svg | 0.6 | 1 |
 | images/icons/lightbulb_blue.png | 3.6 | 56 |
 | images/icons/local_library.svg | 1.6 | 1 |
@@ -452,7 +453,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/lock-closed-outline.png | 0.9 | 1 |
 | images/icons/lock-closed-outline.svg | 0.4 | 1 |
 | images/icons/lock-open-outline.svg | 0.4 | 3 |
-| images/icons/locked.png | 0.7 | 2 |
+| images/icons/locked.png | 0.7 | 1 |
 | images/icons/log-in-outline.svg | 0.5 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 49 |
 | images/icons/parent_child_heart.svg | 3 | 49 |
@@ -470,7 +471,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/star_outline_blue.svg | 1 | 1 |
 | images/icons/thought_bubble.svg | 2.1 | 49 |
 | images/icons/tick.svg | 0.3 | 1 |
-| images/icons/tick_white.svg | 0.3 | 1 |
 | images/icons/trophy.png | 1.6 | 1 |
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 6 |
@@ -709,11 +709,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list | relax | 1 |
 | data_pipe |  | 4 |
 | data_pipe | generated | 96 |
-| generator |  | 63 |
+| generator |  | 60 |
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 139 |
-| template | generated | 815 |
+| template |  | 134 |
+| template | generated | 671 |
 | template | legal_terms | 4 |
 </details>

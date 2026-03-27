@@ -90,7 +90,7 @@
     {
       "type": "data_items",
       "name": "loop_1",
-      "value": "@data.module_tasks",
+      "value": "@data.courses",
       "action_list": [
         {
           "trigger": "data_changed",
@@ -112,10 +112,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.module_tasks",
-            "matchedExpression": "@data.module_tasks",
+            "fullExpression": "@data.courses",
+            "matchedExpression": "@data.courses",
             "type": "data",
-            "fieldName": "module_tasks"
+            "fieldName": "courses"
           }
         ],
         "parameter_list": {
@@ -142,7 +142,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.module_tasks": [
+        "@data.courses": [
           "value"
         ],
         "!@item.completed_ts": [

@@ -16,6 +16,7 @@
       "unlock": 1,
       "core": true,
       "title::eng": "One-on-One Time",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1"
     },
@@ -30,6 +31,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Kindness to Self",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_2"
     },
@@ -44,6 +46,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Give Praise",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_3"
     },
@@ -58,6 +61,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Feelings",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_4"
     },
@@ -72,6 +76,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Parenting Values",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_5"
     },
@@ -86,6 +91,7 @@
       "unlock": 6,
       "core": false,
       "title::eng": "Language Skills",
+      "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_6"
     },
@@ -100,6 +106,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading, Part 1",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_7"
     },
@@ -114,6 +121,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading, Part 2",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_8"
     },
@@ -128,6 +136,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths, Part 1",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_9"
     },
@@ -142,6 +151,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths, Part 2",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_10"
     },
@@ -156,6 +166,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_11"
     },
@@ -170,6 +181,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_12"
     },
@@ -184,6 +196,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_13"
     },
@@ -198,6 +211,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Talk to Teachers",
+      "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_14"
     },
@@ -212,6 +226,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Play & Learn",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_15"
     },
@@ -226,6 +241,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Life Lessons",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_16"
     },
@@ -240,6 +256,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_1"
     },
@@ -254,6 +271,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_2"
     },
@@ -268,6 +286,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_3"
     },
@@ -282,6 +301,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Manage Stress",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_4"
     },
@@ -296,6 +316,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Keep it Positive",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_5"
     },
@@ -310,6 +331,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Daily Routines",
+      "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_6"
     },
@@ -324,6 +346,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Family Rules",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_7"
     },
@@ -338,6 +361,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Roles at Home",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_8"
     },
@@ -352,6 +376,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Misbehaviour",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_9"
     },
@@ -366,6 +391,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Manage Demands",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_10"
     },
@@ -380,6 +406,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Manage Anger",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_11"
     },
@@ -394,6 +421,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Consequences",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_12"
     },
@@ -408,6 +436,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Problem Solving",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_13"
     },
@@ -422,6 +451,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
+      "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_14"
     },
@@ -436,6 +466,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_15"
     },
@@ -450,6 +481,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_16"
     },
@@ -464,6 +496,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Stay Safe",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_1"
     },
@@ -478,6 +511,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Stay Safe",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_2"
     },
@@ -492,6 +526,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Crises",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_3"
     },
@@ -506,6 +541,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Crises",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_4"
     },
@@ -520,6 +556,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Online Safety",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_5"
     },
@@ -534,6 +571,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Online Habits",
+      "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_6"
     },
@@ -548,6 +586,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Nutrition and Health",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_7"
     },
@@ -562,6 +601,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Respect Each Other",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_8"
     },
@@ -576,6 +616,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Team Parenting",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_9"
     },
@@ -590,6 +631,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Teamwork",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_10"
     },
@@ -604,6 +646,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Resolve Conflicts",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_11"
     },
@@ -618,6 +661,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Talk and Listen",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_12"
     },
@@ -632,6 +676,7 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Needs and Wants",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_13"
     },
@@ -646,6 +691,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Expenses",
+      "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_14"
     },
@@ -660,6 +706,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Budgeting",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_15"
     },
@@ -674,6 +721,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Savings",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_16"
     }

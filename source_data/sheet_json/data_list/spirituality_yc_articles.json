@@ -79,11 +79,13 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "quiz_1_question::eng": "⏰ Take a moment to practise taking a pause today. \n🏅 The more you practise, the easier it will become. \nCan you do it today?",
+      "quiz_1_question::eng": "Are you ready for today’s home activity? Try to spend some time today with your spouse or another caregiver of your child to identify the most important value you wish to instil in your child. ⭐ Can you do it today?",
       "quiz_1_option_1_text::eng": "Yes",
-      "quiz_1_feedback_1::eng": "That’s great! It’s important to practise self care so we are able to deal with hard things that happen.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s OK, it can be hard to set aside time. 😣"
+      "quiz_1_feedback_1::eng": "Excellent! Identifying one value together is the first step. 💙",
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Excellent! Identifying one value together is the first step. 💙",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s okay. 💙 You can take some time to discuss and identify your most important value even during your daily routines with other caregivers of your child, like while cleaning the house or having supper together."
     }
   ]
 }

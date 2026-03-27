@@ -417,9 +417,15 @@
           "eng": "Excellent! Reading with your child is a great way to help them learn!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Excellent! Reading with your child is a great way to help them learn!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay! Remember to try to find a little bit of time every day because it will help your child learn."
         }
       },
@@ -433,6 +439,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -441,12 +450,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That’s okay! Remember to try to find a little bit of time every day because it will help your child learn.",
+      "quiz_1_feedback_2": "Excellent! Reading with your child is a great way to help them learn!",
+      "quiz_1_feedback_3": "That’s okay! Remember to try to find a little bit of time every day because it will help your child learn.",
       "quiz_1_question": "Home activity! Do you have time to read with your child today? ⭐",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

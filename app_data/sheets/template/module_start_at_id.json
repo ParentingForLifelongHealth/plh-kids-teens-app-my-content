@@ -118,6 +118,11 @@
       "_nested_name": "article_id"
     },
     {
+      "name": "course_id",
+      "type": "set_variable",
+      "_nested_name": "course_id"
+    },
+    {
       "type": "data_items",
       "name": "find_last_completed",
       "value": "@local.articles_data",
@@ -133,10 +138,19 @@
             "@items[0].id"
           ],
           "_raw": "data_changed | set_local : article_id: @items[0].id"
+        },
+        {
+          "trigger": "data_changed",
+          "action_id": "set_field",
+          "args": [
+            "current_start_article_id",
+            "@items[0].id"
+          ],
+          "_raw": "data_changed | set_field : current_start_article_id: @items[0].id"
         }
       ],
       "parameter_list": {
-        "filter": "!@item.completed",
+        "filter": "!@item.completed && !@item.nested",
         "limit": "1"
       },
       "condition": "@local.article_id == \"uncomplete\"",
@@ -153,10 +167,16 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "!@item.completed",
+              "fullExpression": "!@item.completed && !@item.nested",
               "matchedExpression": "!@item.completed",
               "type": "item",
               "fieldName": "completed"
+            },
+            {
+              "fullExpression": "!@item.completed && !@item.nested",
+              "matchedExpression": "!@item.nested",
+              "type": "item",
+              "fieldName": "nested"
             }
           ]
         },
@@ -174,6 +194,9 @@
           "value"
         ],
         "!@item.completed": [
+          "parameter_list.filter"
+        ],
+        "!@item.nested": [
           "parameter_list.filter"
         ],
         "@local.article_id": [
@@ -233,6 +256,30 @@
               },
               "_dynamicDependencies": {
                 "@local.module_id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "course_id",
+              "value": "@local.course_id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "find_active_index.module.course_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.course_id",
+                    "matchedExpression": "@local.course_id",
+                    "type": "local",
+                    "fieldName": "course_id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.course_id": [
                   "value"
                 ]
               }

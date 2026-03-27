@@ -211,21 +211,15 @@
         "section_1_title": {
           "my_ms": true
         },
-        "section_1_text": {
-          "my_ms": true
-        },
+        "section_1_text": {},
         "section_2_title": {
           "my_ms": true
         },
-        "section_2_text": {
-          "my_ms": true
-        },
+        "section_2_text": {},
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {
-          "my_ms": true
-        }
+        "section_3_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -235,27 +229,27 @@
           "eng": "BE SPECIFIC"
         },
         "section_1_text": {
-          "eng": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact."
+          "eng": "⭐ Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀 Use your child’s name to get their attention, go down to their level, and make eye contact."
         },
         "section_2_title": {
           "eng": "BE REALISTIC"
         },
         "section_2_text": {
-          "eng": "⭐Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”"
+          "eng": "⭐ Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”"
         },
         "section_3_title": {
           "eng": "BE POSITIVE"
         },
         "section_3_text": {
-          "eng": "⭐Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷And remember—this takes practice. Be kind to yourself as you learn too. 💙"
+          "eng": "⭐ Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡 Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷 And remember—this takes practice. Be kind to yourself as you learn too. 💙"
         }
       },
       "section_1_title": "BE SPECIFIC",
-      "section_1_text": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",
+      "section_1_text": "⭐ Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀 Use your child’s name to get their attention, go down to their level, and make eye contact.",
       "section_2_title": "BE REALISTIC",
-      "section_2_text": "⭐Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
+      "section_2_text": "⭐ Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
       "section_3_title": "BE POSITIVE",
-      "section_3_text": "⭐Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷And remember—this takes practice. Be kind to yourself as you learn too. 💙"
+      "section_3_text": "⭐ Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡 Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷 And remember—this takes practice. Be kind to yourself as you learn too. 💙"
     },
     {
       "id": "home_activity_1",
@@ -277,6 +271,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -290,16 +290,24 @@
           "eng": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄"
     }
   ],
   "_source": {

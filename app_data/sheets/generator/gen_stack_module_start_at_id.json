@@ -93,12 +93,20 @@
               "value": "@fields.current_start_article_id"
             },
             {
+              "name": "course_id",
+              "value": "@gen.tag_course"
+            },
+            {
               "type": "nested_properties",
               "name": "module",
               "rows": [
                 {
                   "name": "show_progress_bar",
-                  "value": true
+                  "value": false
+                },
+                {
+                  "name": "course_id",
+                  "value": "@gen.tag_course"
                 }
               ]
             }

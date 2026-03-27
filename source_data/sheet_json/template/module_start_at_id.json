@@ -34,12 +34,16 @@
       "exclude_from_translation": true
     },
     {
+      "name": "course_id"
+    },
+    {
       "type": "data_items",
       "name": "find_last_completed",
       "value": "@local.articles_data",
-      "action_list": "data_changed | set_local : article_id: @items[0].id;",
-      "parameter_list": "filter: !@item.completed; \nlimit: 1",
-      "condition": "@local.article_id == \"uncomplete\""
+      "action_list": "data_changed | set_local : article_id: @items[0].id;\ndata_changed | set_field : current_start_article_id: @items[0].id;",
+      "parameter_list": "filter: !@item.completed && !@item.nested; \nlimit: 1",
+      "condition": "@local.article_id == \"uncomplete\"",
+      "comment": "if started find first not completed page"
     },
     {
       "type": "begin_items",
@@ -59,6 +63,10 @@
       "name": "module_id",
       "value": "@local.module_id",
       "exclude_from_translation": true
+    },
+    {
+      "name": "course_id",
+      "value": "@local.course_id"
     },
     {
       "name": "active_index",

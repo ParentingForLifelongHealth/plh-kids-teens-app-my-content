@@ -327,6 +327,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -340,16 +346,24 @@
           "eng": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "That's great to hear! Create one family rule with your child today. Remember, when you involve your child in making rules, they are more likely to follow them. It's a recipe for success! 🏆",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your child. 👂"
     }
   ],
   "_source": {

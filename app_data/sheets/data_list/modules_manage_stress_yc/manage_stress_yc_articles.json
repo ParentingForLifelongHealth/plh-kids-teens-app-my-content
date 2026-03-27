@@ -115,6 +115,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -128,16 +134,24 @@
           "eng": "That’s great! ⭐ The happier and better you feel, the better parent you will be."
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "That’s great! ⭐ The happier and better you feel, the better parent you will be."
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "That’s great! ⭐ The happier and better you feel, the better parent you will be.",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "That’s great! ⭐ The happier and better you feel, the better parent you will be.",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That’s okay. Try to do it soon. The happier and better you feel, the better parent you will be. 💙"
     }
   ],
   "_source": {

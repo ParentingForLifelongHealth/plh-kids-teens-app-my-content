@@ -83,8 +83,10 @@
       "quiz_1_question::eng": "Your home activity today is to praise your child. Can you try it today?",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Amazing! 🎉\n3️⃣ Look for three things that you can praise your child for every day. \n💡You can praise other adults in your household, too. Notice how they respond.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "💚 That's OK! Sometimes things take time."
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Amazing! 🎉\n3️⃣ Look for three things that you can praise your child for every day. \n💡You can praise other adults in your household, too. Notice how they respond.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "💚 That's OK! Sometimes things take time."
     }
   ]
 }

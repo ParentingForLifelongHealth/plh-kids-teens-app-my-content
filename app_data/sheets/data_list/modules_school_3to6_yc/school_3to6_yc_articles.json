@@ -181,6 +181,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -194,16 +200,24 @@
           "eng": "Excellent! See if you can practise what they learned in school at home! 😃"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Excellent! See if you can practise what they learned in school at home! 😃"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Excellent! See if you can practise what they learned in school at home! 😃",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "Excellent! See if you can practise what they learned in school at home! 😃",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃"
     }
   ],
   "_source": {

@@ -82,9 +82,11 @@
       "category_id": "home_activity",
       "quiz_1_question::eng": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
       "quiz_1_option_1_text::eng": "Yes",
-      "quiz_1_feedback_1::eng": "That’s great! Sharing the workload benefits the whole family and creates a supportive home for everyone! 🎉",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s okay. Trying something new can be hard! 💚 \n\nYou can start by discussing something small - like who helps your child with homework, or who does the dishes after dinner. Soon you’ll feel more confident doing it on your own! ⭐"
+      "quiz_1_feedback_1::eng": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That’s okay. Trying something new can be hard! 💚 \n\nYou can start by discussing something small - like who helps your child with homework, or who does the dishes after dinner. Soon you’ll feel more confident doing it on your own! ⭐",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s okay. Trying something new can be hard! 💚 \n\nYou can start by discussing something small - like who helps your child with homework, or who does the dishes after dinner. Soon you’ll feel more confident doing it on your own! ⭐"
     }
   ]
 }

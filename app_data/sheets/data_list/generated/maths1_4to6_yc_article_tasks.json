@@ -298,9 +298,15 @@
           "eng": "Great! 💙 Involving your child in activities like this and talking about numbers and amounts of things will help them learn!"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Great! 💙 Involving your child in activities like this and talking about numbers and amounts of things will help them learn!"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That's OK! If you don't have time today, try to involve your child tomorrow. Activities that use numbers and talking about amounts of things will help your child learn!"
         }
       },
@@ -314,6 +320,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
+        "quiz_1_feedback_3": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -322,12 +331,17 @@
         },
         "quiz_1_option_2_text": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "That's OK! If you don't have time today, try to involve your child tomorrow. Activities that use numbers and talking about amounts of things will help your child learn!",
+      "quiz_1_feedback_2": "Great! 💙 Involving your child in activities like this and talking about numbers and amounts of things will help them learn!",
+      "quiz_1_feedback_3": "That's OK! If you don't have time today, try to involve your child tomorrow. Activities that use numbers and talking about amounts of things will help your child learn!",
       "quiz_1_question": "Here’s a home activity for today! ⭐ Try to involve your child in an activity with numbers. For example, counting the amount of ingredients when you are cooking. Do you have time today?",
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_option_2_text": "No",
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_option_3_text": "No",
       "completed": false
     }
   ],

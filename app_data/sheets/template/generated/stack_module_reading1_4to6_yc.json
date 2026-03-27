@@ -38,6 +38,15 @@
           "_nested_name": "module.module_id"
         },
         {
+          "name": "course_id",
+          "value": "learning",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "module.course_id"
+        },
+        {
           "name": "show_progress_bar",
           "value": true,
           "exclude_from_translation": true,

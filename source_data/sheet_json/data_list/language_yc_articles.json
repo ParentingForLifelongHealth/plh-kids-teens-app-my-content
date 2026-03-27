@@ -95,8 +95,10 @@
       "quiz_1_question::eng": "Here is today’s home activity! Try to use words and gestures to describe your activities when spending time together. Make sure you communicate in a way that your child can understand. Can you do it today? ⭐",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Excellent! Using words and gestures that your child can understand to describe your activities is a great way to help them learn! 💡",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That’s okay. Try to find a time to talk to them, even if it’s just explaining something you’re doing around the house! 💡"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Excellent! Using words and gestures that your child can understand to describe your activities is a great way to help them learn! 💡",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That’s okay. Try to find a time to talk to them, even if it’s just explaining something you’re doing around the house! 💡"
     }
   ]
 }

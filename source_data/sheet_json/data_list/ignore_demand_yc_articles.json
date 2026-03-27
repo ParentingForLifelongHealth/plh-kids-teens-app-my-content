@@ -99,8 +99,10 @@
       "quiz_1_question::eng": "Here is today’s home activity! ⭐ Find one positive thing your child does today and praise them for it. If your child starts whining about something or having a tantrum, try to use the tips from this lesson to redirect, stay calm, observe, and nurture. It may not be easy to do at first, but you can do it!\n\nCan you find something to praise your child for today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it! "
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it! "
     }
   ]
 }

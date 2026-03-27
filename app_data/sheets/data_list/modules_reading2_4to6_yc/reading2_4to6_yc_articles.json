@@ -181,6 +181,12 @@
         },
         "quiz_1_feedback_2": {
           "my_ms": true
+        },
+        "quiz_1_option_3_text": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_3": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -194,16 +200,24 @@
           "eng": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝"
         },
         "quiz_1_option_2_text": {
-          "eng": "No"
+          "eng": "I think so"
         },
         "quiz_1_feedback_2": {
+          "eng": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝"
+        },
+        "quiz_1_option_3_text": {
+          "eng": "No"
+        },
+        "quiz_1_feedback_3": {
           "eng": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
         }
       },
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝",
-      "quiz_1_option_2_text": "No",
-      "quiz_1_feedback_2": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
+      "quiz_1_option_2_text": "I think so",
+      "quiz_1_feedback_2": "Excellent! Drawing and writing with your child is a great way to help them learn! 📝",
+      "quiz_1_option_3_text": "No",
+      "quiz_1_feedback_3": "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
     }
   ],
   "_source": {

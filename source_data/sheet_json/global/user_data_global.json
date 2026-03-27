@@ -10,11 +10,6 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "avatar_setting",
-      "value": "My guide is..."
-    },
-    {
-      "type": "declare_global_constant",
       "name": "user_name_setting",
       "value": "My name is..."
     },
@@ -66,7 +61,7 @@
     {
       "type": "declare_global_constant",
       "name": "content_package_setting",
-      "value": "I heard about this app..."
+      "value": "I heard about this app through..."
     },
     {
       "type": "declare_global_constant",

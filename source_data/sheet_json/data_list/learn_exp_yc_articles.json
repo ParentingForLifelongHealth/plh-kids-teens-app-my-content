@@ -88,8 +88,10 @@
       "quiz_1_question::eng": "Your home activity today is to share a story with your child about a time you learned from a mistake. It can be something from when you were a child yourself or another life lesson. ⭐\n\nDo you have time to do it today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Great! 💙 Use the tips you have learnt today to help your child learn from their mistakes.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! If you don't have time today, set some time aside tomorrow."
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Great! 💙 Use the tips you have learnt today to help your child learn from their mistakes.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! If you don't have time today, set some time aside tomorrow."
     }
   ]
 }

@@ -82,8 +82,10 @@
       "quiz_1_question::eng": "Here’s a home activity! ⭐ If you start feeling angry today, breathe in and out slowly 5 times before you do anything and notice how you feel. Can you do this today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "Great! 💙 Be proud of yourself when you manage to control your anger!",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "That's OK! If you don't have time today, practise controlling any anger you feel tomorrow. You can practise this skill any time you start feeling angry. You are a super parent! 😃"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "Great! 💙 Be proud of yourself when you manage to control your anger!",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "That's OK! If you don't have time today, practise controlling any anger you feel tomorrow. You can practise this skill any time you start feeling angry. You are a super parent! 😃"
     }
   ]
 }

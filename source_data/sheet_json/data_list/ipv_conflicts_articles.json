@@ -88,8 +88,10 @@
       "quiz_1_question::eng": "⭐ Today’s home activity is to practise taking a pause, just like on our first day together. Do you have time to practise taking a pause today?",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions.",
-      "quiz_1_option_2_text::eng": "No",
-      "quiz_1_feedback_2::eng": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙"
+      "quiz_1_option_2_text::eng": "I think so",
+      "quiz_1_feedback_2::eng": "That’s great! ✨ Taking a pause and staying calm is a great way to reduce conflicts and manage our emotions.",
+      "quiz_1_option_3_text::eng": "No",
+      "quiz_1_feedback_3::eng": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙"
     }
   ]
 }

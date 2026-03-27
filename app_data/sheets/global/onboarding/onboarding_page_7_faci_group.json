@@ -39,6 +39,38 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "join_group",
+      "value": "Connect to group",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "error_invalid_group",
+      "value": "Group not found, please check your Group ID",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "error_unknown",
+      "value": "An unknown error occured, please try again later",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "success",
+      "value": "Group successfully registered",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {
