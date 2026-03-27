@@ -41,7 +41,7 @@
           "eng": "Well done for recognising how you feel. Good to hear that you are feeling well today!"
         },
         "quiz_1_feedback_2": {
-          "eng": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!"
+          "eng": "We all have good and hard days. Remember, you are the best parent for your child and you deserve praise!"
         },
         "quiz_1_feedback_3": {
           "eng": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!"
@@ -72,9 +72,7 @@
         "quiz_1_feedback_1": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_feedback_3": {
           "my_ms": true
         },
@@ -92,7 +90,7 @@
         }
       },
       "quiz_1_feedback_1": "Well done for recognising how you feel. Good to hear that you are feeling well today!",
-      "quiz_1_feedback_2": "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!",
+      "quiz_1_feedback_2": "We all have good and hard days. Remember, you are the best parent for your child and you deserve praise!",
       "quiz_1_feedback_3": "It can be hard to cope with everything happening in our lives. Remember, you are stronger than you may think!",
       "quiz_1_question": "How are you feeling today?",
       "quiz_1_option_1_text": "Happy",

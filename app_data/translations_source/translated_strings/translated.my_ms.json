@@ -768,8 +768,20 @@
     "note": ""
   },
   {
-    "SourceText": "Think about today",
-    "text": "Fikirkan tentang hari ini",
+    "SourceText": "Are you ready for today’s home activity? Try to spend some time today with your spouse or another caregiver of your child to identify the most important value you wish to instil in your child. ⭐ Can you do it today?",
+    "text": "Dah bersedia untuk aktiviti di rumah hari ini? Cuba luangkan masa bersama pasangan atau penjaga anak anda yang lain untuk kenal pasti nilai paling penting yang anda nak tanamkan dalam diri anak anda.⭐ Boleh cuba buat hari ini?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Excellent! Identifying one value together is the first step. 💙",
+    "text": "Terbaik! Langkah pertama adalah dengan mengenal pasti satu nilai bersama. 💙",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s okay. 💙 You can take some time to discuss and identify your most important value even during your daily routines with other caregivers of your child, like while cleaning the house or having supper together.",
+    "text": "Tak apa. 💙 Anda masih boleh bincang dan kenal pasti nilai paling penting semasa rutin harian bersama penjaga anak anda yang lain. Contohnya masa kemas rumah atau makan lewat malam bersama.",
     "type": "data_list",
     "note": ""
   },
@@ -1040,6 +1052,18 @@
   {
     "SourceText": "That’s okay. There isn’t always time to speak about school properly. Ask them about school next time they have been, even if it’s just for a few minutes, or while eating together! 😃",
     "text": "Tidak mengapa. Anda mungkin tidak mempunyai masa yang sesuai untuk berbincang tentang hal sekolah. Cuba bertanya kepada mereka tentang hari persekolahan mereka, walaupun hanya sebentar, atau ketika makan bersama-sama! 😃",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In and out",
+    "text": "Tarik dan hembus",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Body scan",
+    "text": "Imbasan tubuh badan",
     "type": "data_list",
     "note": ""
   },
@@ -1746,12 +1770,6 @@
     "note": ""
   },
   {
-    "SourceText": "At this stage, children start wanting more independence and trust. 🎈\n\nThey want to make their own choices and may answer back to show that they know the correct answers. 🎨⚽\n\nAt the same time, they will show emotions in their own unique ways. 😃😒😔😣\n\nHere are some tips to support the healthy development of your child at this age. 💚",
-    "text": "Pada peringkat ini, kanak-kanak mula mahukan lebih kebebasan dan kepercayaan. 🎈\n\nAnak anda mula nak buat pilihan sendiri dan kadang-kadang cuba beri jawapan untuk tunjuk yang dia tahu jawapan yang betul. 🎨⚽\n\nPada masa yang sama, mereka akan menunjukkan emosi mereka masing-masing dengan cara yang unik. 😃😒😔😣\n\nIni adalah beberapa tip untuk menyokong perkembangan anak anda secara sihat pada umur ini. 💚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "FIND FRIENDS",
     "text": "CARI RAKAN",
     "type": "data_list",
@@ -1962,12 +1980,6 @@
     "note": ""
   },
   {
-    "SourceText": "Your song",
-    "text": "Lagu anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Children spend a lot of time online – for learning, playing, and staying connected. 🌍 Today’s skill is about how to keep your child safe online. 📱\n\nThere is so much to share. Online safety will be covered across two lessons. 2️⃣",
     "text": "Kanak-kanak banyak meluangkan masa dalam talian – untuk belajar, bermain, dan berhubung dengan orang lain. 🌍 Kemahiran hari ini adalah tentang bagaimana kita boleh pastikan anak anda selamat semasa berada dalam talian. 📱\n\nAda banyak perkara penting untuk dikongsikan. Topik keselamatan dalam talian akan dibahagikan kepada dua bahagian. 2️⃣",
     "type": "data_list",
@@ -2011,7 +2023,7 @@
   },
   {
     "SourceText": "❌ Incorrect. \n\n💡 If your child encounters something distressing or inappropriate online, they should tell you immediately so you can address the issue and get support if needed.",
-    "text": "❌Salah.\n\n💡 Jika anak anda terdedah kepada sesuatu yang mengganggunya atau tidak sesuai dalam talian, dia perlu memberitahu anda segera supaya anda boleh menangani masalah tersebut dan mendapatkan sokongan jika perlu.",
+    "text": "❌ Salah.\n\n💡 Jika anak anda terdedah kepada sesuatu yang mengganggunya atau tidak sesuai dalam talian, dia perlu memberitahu anda segera supaya anda boleh menangani masalah tersebut dan mendapatkan sokongan jika perlu.",
     "type": "data_list",
     "note": ""
   },
@@ -2029,7 +2041,7 @@
   },
   {
     "SourceText": "❌ Incorrect. \n\n🔑 Social media platforms have age restrictions for a reason. \n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions.",
-    "text": "❌Salah.\n\n🔑 Sekatan umur pada media sosial mempunyai sebab-sebab tertentu.\n\n👀 Anak-anak tidak sepatutnya mempunyai akaun media sosial mereka sendiri tanpa panduan dan pantauan daripada ibu bapa kerana mereka akan terdedah kepada kandungan atau interaksi yang tidak sesuai.",
+    "text": "❌ Salah.\n\n🔑 Sekatan umur pada media sosial mempunyai sebab-sebab tertentu.\n\n👀 Anak-anak tidak sepatutnya mempunyai akaun media sosial mereka sendiri tanpa panduan dan pantauan daripada ibu bapa kerana mereka akan terdedah kepada kandungan atau interaksi yang tidak sesuai.",
     "type": "data_list",
     "note": ""
   },
@@ -2095,7 +2107,7 @@
   },
   {
     "SourceText": "LEARN the dangers of being online",
-    "text": "KETAHUI bahaya ketika berada dalam talian",
+    "text": "BELAJAR bahaya ketika berada dalam talian",
     "type": "data_list",
     "note": ""
   },
@@ -2119,7 +2131,7 @@
   },
   {
     "SourceText": "Are you ready for today’s home activity? ⭐\n\nAsk your child what they do to stay safe online. 👂 You may find that they are already thinking about online safety. 💡\n\nPraise your child for any efforts they make. Can you talk with your child today? 🔔",
-    "text": "Adakah anda sudah bersedia untuk aktiviti di rumah pada hari ini?⭐\n\nAnak anda mungkin sudah tahu tentang keselamatan dalam talian. 👂 Anda mungkin sedar bahawa anak anda sudah pun memikirkan cara untuk memastikan keselamatannya dalam talian. 💡\n\nPuji usaha yang dilakukan oleh anak anda. Boleh anda bercakap dengan anak anda hari ini? 🔔",
+    "text": "Adakah anda sudah bersedia untuk aktiviti di rumah pada hari ini? ⭐\n\nAnak anda mungkin sudah tahu tentang keselamatan dalam talian. 👂 Anda mungkin sedar bahawa anak anda sudah pun memikirkan cara untuk memastikan keselamatannya dalam talian. 💡\n\nPuji usaha yang dilakukan oleh anak anda. Boleh anda bercakap dengan anak anda hari ini? 🔔",
     "type": "data_list",
     "note": ""
   },
@@ -2299,7 +2311,7 @@
   },
   {
     "SourceText": "🎉 You are right! \n\n🔶🔷 Sharing the workload is important to make sure things benefit the whole family! Establishing a shared routine around caregiving or housework tasks can sometimes be helpful. \n\n🌷 This also lets you talk to your spouse about how to share the workload.",
-    "text": "🎉Jawapan anda betul!\n\n🔶🔷 Pembahagian beban kerja adalah penting untuk memastikan seluruh keluarga mendapat manfaat! Menetapkan rutin bersama untuk agihan tugas penjagaan anak atau kerja-kerja rumah pun boleh membantu. \n\n🌷Ini juga memberi peluang untuk anda berbincang dengan pasangan tentang cara berkongsi beban kerja.",
+    "text": "🎉 Jawapan anda betul!\n\n🔶🔷 Pembahagian beban kerja adalah penting untuk memastikan seluruh keluarga mendapat manfaat! Menetapkan rutin bersama untuk agihan tugas penjagaan anak atau kerja-kerja rumah pun boleh membantu. \n\n🌷Ini juga memberi peluang untuk anda berbincang dengan pasangan tentang cara berkongsi beban kerja.",
     "type": "data_list",
     "note": ""
   },
@@ -2377,7 +2389,7 @@
   },
   {
     "SourceText": "😃 Having conversations about how you can share family responsibilities helps both you and your spouse understand each other better. \n💛It also shows that you care!",
-    "text": "😃 Berbincang tentang cara untuk berkongsi tanggungjawab keluarga boleh bantu anda dan pasangan lebih saling memahami. \n💛Ia juga menunjukkan bahawa anda sebenarnya peduli!",
+    "text": "😃 Berbincang tentang cara untuk berkongsi tanggungjawab keluarga boleh bantu anda dan pasangan lebih saling memahami. \n💛 Ia juga menunjukkan bahawa anda sebenarnya peduli!",
     "type": "data_list",
     "note": ""
   },
@@ -2390,12 +2402,6 @@
   {
     "SourceText": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
     "text": "Aktiviti di Rumah! ⭐ Aktiviti di rumah anda minggu ini ialah untuk berbincang dengan pasangan anda tentang bagaimana untuk berkongsi tanggungjawab keluarga secara adil di rumah! Adakah anda mempunyai masa untuk lakukannya hari ini?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "That’s great! Sharing the workload benefits the whole family and creates a supportive home for everyone! 🎉",
-    "text": "Itu sangat bagus! Bila tanggungjawab dikongsi bersama, seluruh keluarga dapat manfaatnya dan rumah pun jadi tempat yang lebih menyokong dan harmoni! 🎉",
     "type": "data_list",
     "note": ""
   },
@@ -2426,18 +2432,6 @@
   {
     "SourceText": "True or False: Talking about positive feelings is not as important as sharing negative feelings.",
     "text": "Betul atau Salah: Berbincang tentang perasaan yang positif tidak sepenting berkongsi tentang perasaan yang negatif.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "❌That’s incorrect. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
-    "text": "❌ Jawapan anda salah. \n\n6️⃣ Gembira, Sedih, Marah, Menyampah, Terkejut, dan Takut merupakan enam emosi asas. \n\n✅ Berbincang dengan anak kita tentang KESEMUA emosi tersebut merupakan perkara yang penting.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🎉That’s correct. \n\n6️⃣There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅It’s important that we talk with our children about ALL of them.",
-    "text": "🎉Jawapan anda betul. \n\n6️⃣Gembira, Sedih, Marah, Menyampah, Terkejut, dan Takut merupakan enam emosi asas. \n\n✅Berbincang dengan anak kita tentang KESEMUA emosi tersebut merupakan perkara yang penting.",
     "type": "data_list",
     "note": ""
   },
@@ -2724,12 +2718,6 @@
     "note": ""
   },
   {
-    "SourceText": "Ground & gratitude",
-    "text": "Berpijak pada realiti & bersyukur",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Today, you will continue learning about how to keep your child safe online. 📱",
     "text": "Hari ini, anda akan belajar tentang cara untuk memastikan anak anda selamat semasa menggunakan internet. 📱",
     "type": "data_list",
@@ -2988,12 +2976,6 @@
     "note": ""
   },
   {
-    "SourceText": "In and out",
-    "text": "Tarik dan hembus",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Learning how to solve problems with your child is important. 🔄 Let’s explore how today!",
     "text": "Anda mungkin setuju dengan saya: Memang sangat penting untuk mempelajari cara menyelesaikan masalah bersama anak anda. 🔄 Jom kita tengok macam mana caranya hari ini!",
     "type": "data_list",
@@ -3240,12 +3222,6 @@
     "note": ""
   },
   {
-    "SourceText": "Small things",
-    "text": "Hal-hal kecil",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Welcome back! Today, you will continue to learn about how to help your child become a better reader. \n\n📖 It is about word games and writing. 📝",
     "text": "Anda okey hari ni? Jom kita sambung belajar macam mana nak bantu anak jadi lebih pandai membaca. \n\n📖 Kita akan memberi tumpuan kepada permainan perkataan dan menulis. 📝",
     "type": "data_list",
@@ -3336,18 +3312,6 @@
     "note": ""
   },
   {
-    "SourceText": "Pause to respond",
-    "text": "Berhenti seketika untuk memberi tindak balas",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "📖This skill is about helping your child learn to read. \n\n2️⃣This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child.",
-    "text": "📖Ini adalah kemahiran untuk membantu anak anda belajar membaca. \n\n2️⃣Kemahiran ini akan mengambil masa selama 2 hari untuk diselesaikan. \n\n⭐ Pelajaran pertama kita pada hari ini ialah tentang menghayati buku dengan anak anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "The best way to help your child learn to read is to read with them!. 📖🎉\n\nChildren learn by watching, listening, and copying. When they are little, they learn new words when you read to them. Later they learn letters and letter sounds, and when they’re bigger, reading together can help them learn about anything they are interested in! 💡",
     "text": "Cara terbaik untuk membantu belajar membaca ialah dengan membaca dengannya! 📖🎉\n\nMembaca dengan anak ialah cara yang terbaik untuk membantu anak anda membaca. Kanak-kanak belajar dengan melihat, mendengar, dan meniru. Apabila anda membaca kepada mereka semasa mereka kecil, mereka belajar perkataan baharu. Kemudian, mereka akan mempelajari huruf dan bunyi huruf, dan apabila mereka besar, membaca bersama akan membantu mereka belajar apa yang mereka minat!💡",
     "type": "data_list",
@@ -3422,12 +3386,6 @@
   {
     "SourceText": "That’s okay. It’s not always possible to read with your child. Try to find a little bit of time every day because it will help your child learn.",
     "text": "Tidak mengapa. Cuba untuk meluangkan sedikit masa setiap hari kerana membaca bersama-sama dapat membantu mereka belajar membaca, walaupun kadang-kadang kita tiada masa untuk membaca bersama mereka.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Physical activity",
-    "text": "Aktiviti fizikal",
     "type": "data_list",
     "note": ""
   },
@@ -3572,12 +3530,6 @@
   {
     "SourceText": "That’s great! You can use the tips you learnt today and have fun! Spending time with your child is a great way to form a positive relationship with them. 💙",
     "text": "Bagus! Cara yang terbaik untuk membina hubungan yang sihat bersama anak anda adalah dengan meluangkan masa bersama seorang dengan seorang bersamanya. Gunakan tip yang anda telah pelajari hari ini dan berseronoklah! 💙",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "I think so",
-    "text": "Boleh rasanya",
     "type": "data_list",
     "note": ""
   },
@@ -3769,7 +3721,7 @@
   },
   {
     "SourceText": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the library for a list of community resources where you can receive help.",
-    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅Ingat, anda boleh rujuk Sumber untuk mendapatkan maklumat tentang sumber-sumber bantuan dalam komuniti anda di mana anda boleh mendapatkan bantuan.",
+    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅ Ingat, anda boleh rujuk Sumber untuk mendapatkan maklumat tentang sumber-sumber bantuan dalam komuniti anda di mana anda boleh mendapatkan bantuan.",
     "type": "data_list",
     "note": ""
   },
@@ -4183,13 +4135,13 @@
   },
   {
     "SourceText": "❌ That’s incorrect. \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
-    "text": "❌ Betul! \n\n🔵🔴 Berkongsi perasaan dan bercakap tentang kesukaran yang anda hadapi boleh menjadikan semua ahli keluarga lebih kuat dan saling menyokong! \n\n🌱 Bila anda saling mendengar dan berbual dengan pasangan, anda boleh saling menyokong dengan lebih baik dan bantu kurangkan konflik! 👂",
+    "text": "❌ Salah. \n\n🔵🔴 Berkongsi perasaan dan bercakap tentang kesukaran yang anda hadapi boleh menjadikan semua ahli keluarga lebih kuat dan saling menyokong! \n\n🌱 Bila anda saling mendengar dan berbual dengan pasangan, anda boleh saling menyokong dengan lebih baik dan bantu kurangkan konflik! 👂",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "@data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name are concerned about their grandson, @data.characters.f2_son_3.name’s language development. Lets see how they share the responsibility of caring for their grandson:",
-    "text": "@data.characters.f2_grandmother.name dan @data.characters.f2_grandfather.name berasa bimbang tentang perkembangan pertuturan cucunya, @data.characters.f2_son_3.name.Mari lihat cara mereka berkongsi tanggungjawab dengan mengambil berat perihal cucunya:",
+    "text": "@data.characters.f2_grandmother.name dan @data.characters.f2_grandfather.name berasa bimbang tentang perkembangan pertuturan cucunya, @data.characters.f2_son_3.name. Mari lihat cara mereka berkongsi tanggungjawab dengan mengambil berat perihal cucunya:",
     "type": "data_list",
     "note": "The following strings should not be translated:\n@data.characters.f2_grandmother.name\n@data.characters.f2_grandfather.name\n@data.characters.f2_son_3.name’s"
   },
@@ -4243,7 +4195,7 @@
   },
   {
     "SourceText": "🏆Talking about how we feel and the difficulties we’re facing is a sign of strength - it can help make the whole family stronger!\n\n💚 By sharing emotions you can better understand and support each other.",
-    "text": "🏆Berkongsi tentang perasaan dan cabaran yang kita hadapi adalah tanda kekuatan – ia boleh bantu menguatkan seluruh keluarga!\n\n💚 Dengan berkongsi perasaan, anda boleh memahami dan menyokong satu sama lain dengan lebih baik.",
+    "text": "🏆 Berkongsi tentang perasaan dan cabaran yang kita hadapi adalah tanda kekuatan – ia boleh bantu menguatkan seluruh keluarga!\n\n💚 Dengan berkongsi perasaan, anda boleh memahami dan menyokong satu sama lain dengan lebih baik.",
     "type": "data_list",
     "note": ""
   },
@@ -4255,7 +4207,7 @@
   },
   {
     "SourceText": "😃 Sharing your challenges with your spouse is about making them more aware of how you are feeling. \n⭐Remember, you decide how much you share, and can choose to share more at a later time.",
-    "text": "😃 Berkongsi cabaran anda dengan pasangan anda membuatkan mereka lebih peka terhadap perasaan anda.\n⭐Ingat, anda yang menentukan sejauh mana anda ingin berkongsi, dan anda sentiasa boleh pilih untuk berkongsi lebih banyak pada masa akan datang.",
+    "text": "😃 Berkongsi cabaran anda dengan pasangan anda membuatkan mereka lebih peka terhadap perasaan anda.\n⭐ Ingat, anda yang menentukan sejauh mana anda ingin berkongsi, dan anda sentiasa boleh pilih untuk berkongsi lebih banyak pada masa akan datang.",
     "type": "data_list",
     "note": ""
   },
@@ -4279,7 +4231,7 @@
   },
   {
     "SourceText": "💚It’s okay if you don't always want to share your emotions. \n🌷 You can choose to share at a later time once you feel calmer or feel ready.",
-    "text": "💚Tidak mengapa jika anda tidak mahu sentiasa berkongsi perasaan.\n🌷 Tak mengapa kalau belum bersedia. Anda boleh pilih untuk berkongsi kemudian, bila dah rasa lebih tenang atau bersedia.",
+    "text": "💚 Tidak mengapa jika anda tidak mahu sentiasa berkongsi perasaan.\n🌷 Tak mengapa kalau belum bersedia. Anda boleh pilih untuk berkongsi kemudian, bila dah rasa lebih tenang atau bersedia.",
     "type": "data_list",
     "note": ""
   },
@@ -4309,7 +4261,7 @@
   },
   {
     "SourceText": "Give Praise",
-    "text": "Nilai Keibubapaan dan Kerohanian",
+    "text": "Beri Pujian",
     "type": "data_list",
     "note": ""
   },
@@ -4567,7 +4519,7 @@
   },
   {
     "SourceText": "❌ Incorrect. \n\n😃 Parenting is not only the role of a mother - fathers play an important part too! \n\n💛 When both mothers and fathers are involved in parenting their children everyone benefits!",
-    "text": "❌Jawapan anda salah.\n\n😃 Membesarkan anak-anak bukanlah tugas ibu semata-mata - bapa juga memainkan peranan yang penting! \n\n💛 Seluruh keluarga akan mendapat manfaat apabila kedua-dua ibu bapa terlibat dalam usaha mendidik anak-anak!",
+    "text": "❌ Jawapan anda salah.\n\n😃 Membesarkan anak-anak bukanlah tugas ibu semata-mata - bapa juga memainkan peranan yang penting! \n\n💛 Seluruh keluarga akan mendapat manfaat apabila kedua-dua ibu bapa terlibat dalam usaha mendidik anak-anak!",
     "type": "data_list",
     "note": ""
   },
@@ -4682,12 +4634,6 @@
   {
     "SourceText": "Sometimes it can be hard to find time during the day. Can you think of a time when you’re less busy? 🌷\n\nFor example, maybe it is easier to do housework together later in the evening when some of the children have gone to sleep. Try to see what works for you! ⭐",
     "text": "Selalunya memang susah nak cari masa lapang ketika siang hari. Ada tak masa bila anda rasa kurang sibuk? 🌷\n\nContohnya, mungkin lebih mudah untuk membuat kerja rumah bersama-sama pada lewat malam semasa anak-anak sudah tidur. Anda boleh cuba mengikut kesesuaian anda! ⭐",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Praise yourself",
-    "text": "Pujilah diri sendiri",
     "type": "data_list",
     "note": ""
   },
@@ -5670,12 +5616,6 @@
     "note": ""
   },
   {
-    "SourceText": "Body scan",
-    "text": "Imbasan tubuh badan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Recognising how you feel is key to handling life well. Be real and kind to yourself.",
     "text": "Mengenali apa yang anda rasa adalah kunci untuk mengurus hidup dengan baik. Jadilah jujur dan bersikap baik terhadap diri sendiri.",
     "type": "data_list",
@@ -5940,8 +5880,8 @@
     "note": ""
   },
   {
-    "SourceText": "List of things",
-    "text": "Senarai benda",
+    "SourceText": "One thing today",
+    "text": "Satu perkara untuk hari ini",
     "type": "data_list",
     "note": ""
   },
@@ -6204,12 +6144,6 @@
     "note": ""
   },
   {
-    "SourceText": "Prevent anger",
-    "text": "Cegah rasa marah",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Welcome back! 📖 Today’s skill is about helping your child learn skills to prepare them for reading when they are older. ⭐",
     "text": "Hai! Selamat kembali! 📖 Hari ini kita akan belajar kemahiran yang boleh bantu anak anda bersedia untuk belajar membaca bila mereka lebih besar nanti. ⭐",
     "type": "data_list",
@@ -6396,12 +6330,6 @@
     "note": ""
   },
   {
-    "SourceText": "Feel the ground",
-    "text": "Rasakan bumi di bawah anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Being a great parent also means taking time to care for yourself every day. It starts with recognising how you feel.",
     "text": "Menjadi ibu bapa yang hebat juga bermaksud meluangkan masa untuk menjaga diri sendiri setiap hari. Ia bermula dengan mengenali apa yang anda rasa.",
     "type": "data_list",
@@ -6560,12 +6488,6 @@
   {
     "SourceText": "That's OK! If you don't have time today, try to do some adding and taking away activities with your child tomorrow.",
     "text": "Tidak mengapa! Cuba luangkan sedikit masa esok untuk melakukan aktiviti menambah dan mengurangkan bersama anak anda, jika anda tidak sempat melakukannya hari ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Angry? Take a break",
-    "text": "Rasa marah? Berhenti dulu",
     "type": "data_list",
     "note": ""
   },
@@ -6750,12 +6672,6 @@
     "note": ""
   },
   {
-    "SourceText": "One thing today",
-    "text": "Satu perkara untuk hari ini",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Today’s skill is about how you can keep control and manage your anger when dealing with stressful moments. 💚",
     "text": "Kemahiran hari ini ialah mengenai cara kita mengawal dan menguruskan kemarahan kita apabila berdepan dengan situasi yang memberi tekanan. 💚",
     "type": "data_list",
@@ -6878,12 +6794,6 @@
   {
     "SourceText": "That's OK! If you don't have time today, practise controlling any anger you feel tomorrow. You can practise this skill any time you start feeling angry. You are a super parent! 😃",
     "text": "Tidak mengapa! Anda boleh berlatih mengawal kemarahan anda esok sekiranya anda tidak sempat melakukannya hari ini. Kemahiran ini boleh diamalkan setiap kali anda mula berasa marah. Anda boleh lakukannya! 😃",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Connect",
-    "text": "Hubungkan",
     "type": "data_list",
     "note": ""
   },
@@ -7050,12 +6960,6 @@
     "note": ""
   },
   {
-    "SourceText": "Feel your feelings",
-    "text": "Rasakan perasaan anda",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Recognising how you feel helps you care for yourself well. You deserve it.",
     "text": "Bila anda sedar apa yang anda sedang rasa, barulah anda boleh menjaga diri sendiri dengan lebih baik. Anda layak mendapat penjagaan kendiri.",
     "type": "data_list",
@@ -7105,7 +7009,7 @@
   },
   {
     "SourceText": "❌ Incorrect.\n\n😣 When children are in crisis, they may fear telling others about it for many reasons. They may also be worried about others judging them or getting angry, or feel shame.\n\n💚 You can ask your child very calmly about why they seem upset. 👀\n\n👂 Assure them that you are proud of how brave they are to share their crisis with you.",
-    "text": "❌Jawapan anda salah.\n\n😣 Anak-anak mempunyai banyak sebab mengapa mereka takut untuk bercerita, terutama semasa menghadapi krisis. Mereka mungkin takut dimarahi atau dihakimi. Mungkin juga mereka berasa malu.\n\n💚 Anda boleh bertanya kepada anak anda mengapa dia nampak kecewa. 👀\n\n👂 Yakinkan anak anda bahawa anda berasa sangat bangga kerana dia berani untuk berkongsi krisisnya dengan anda.",
+    "text": "❌ Jawapan anda salah.\n\n😣 Anak-anak mempunyai banyak sebab mengapa mereka takut untuk bercerita, terutama semasa menghadapi krisis. Mereka mungkin takut dimarahi atau dihakimi. Mungkin juga mereka berasa malu.\n\n💚 Anda boleh bertanya kepada anak anda mengapa dia nampak kecewa. 👀\n\n👂 Yakinkan anak anda bahawa anda berasa sangat bangga kerana dia berani untuk berkongsi krisisnya dengan anda.",
     "type": "data_list",
     "note": ""
   },
@@ -7213,7 +7117,7 @@
   },
   {
     "SourceText": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the library for a list of community resources where you can receive help.",
-    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅Ingat, anda boleh merujuk ke sumber untuk senarai sumber komuniti di mana anda boleh mendapatkan bantuan.",
+    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅ Ingat, anda boleh merujuk ke Sumber untuk senarai sumber komuniti di mana anda boleh mendapatkan bantuan.",
     "type": "data_list",
     "note": ""
   },
@@ -7237,13 +7141,19 @@
   },
   {
     "SourceText": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
-    "text": "Hebat! 💙Ini boleh membantu anda dan anak anda untuk berhadapan dengan situasi sukar DAN mengelakkannya.",
+    "text": "Hebat! 💙 Ini boleh membantu anda dan anak anda untuk berhadapan dengan situasi sukar DAN mengelakkannya.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place.",
     "text": "Tidak mengapa! Rancang untuk memperuntukkan satu jam masa bercakap dengan anak anda dalam beberapa hari lagi. Ini boleh membantu anda dan anak anda untuk berhadapan dengan situasi sukar DAN mengelakkannya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your song",
+    "text": "Lagu anda",
     "type": "data_list",
     "note": ""
   },
@@ -7332,8 +7242,8 @@
     "note": ""
   },
   {
-    "SourceText": "Taking care of yourself",
-    "text": "Menjaga diri sendiri",
+    "SourceText": "Angry? Take a break",
+    "text": "Rasa marah? Berhenti dulu",
     "type": "data_list",
     "note": ""
   },
@@ -7524,8 +7434,8 @@
     "note": ""
   },
   {
-    "SourceText": "Take a pause",
-    "text": "Berhenti seketika",
+    "SourceText": "Physical activity",
+    "text": "Aktiviti fizikal",
     "type": "data_list",
     "note": ""
   },
@@ -7681,7 +7591,7 @@
   },
   {
     "SourceText": "😣 Sometimes others respond to us negatively when we’re having a disagreement.\n❗ In these situations, especially if you feel fearful or threatened, it may be best to walk away for a bit until everyone has calmed down.\n\nRemember, if you need help in a crisis, you can refer to the library for a list of community resources where you may find support.",
-    "text": "😣 Kadang-kadang, apabila ada selisih faham, orang lain mungkin membalas secara negatif kepada kita.\n❗ Dalam situasi seperti ini, terutamanya jika anda berasa takut dan terancam, adalah lebih baik untuk beredar dari situ buat sementara sehingga semua orang kembali tenang.\n\nIngat, jika anda memerlukan bantuan ketika mengalami krisis, anda boleh pergi ke sumber untuk menerima senarai sumber komuniti bagi mendapatkan sokongan.",
+    "text": "😣 Kadang-kadang, apabila ada selisih faham, orang lain mungkin membalas secara negatif kepada kita.\n❗ Dalam situasi seperti ini, terutamanya jika anda berasa takut dan terancam, adalah lebih baik untuk beredar dari situ buat sementara sehingga semua orang kembali tenang.\n\nIngat, jika anda memerlukan bantuan ketika mengalami krisis, anda boleh pergi ke Sumber untuk menerima senarai sumber komuniti bagi mendapatkan sokongan.",
     "type": "data_list",
     "note": ""
   },
@@ -7700,6 +7610,12 @@
   {
     "SourceText": "It can be really hard to stay calm when we’re having a disagreement with others. 🌷\n\nTry to think of something that you can do that might help like taking a couple deep breaths. 💙",
     "text": "Kadang-kadang, tidak mudah untuk kekal tenang ketika kita sedang berselisih pendapat dengan orang lain. 🌷\n\nCuba fikirkan sesuatu yang boleh membantu anda, seperti tarik nafas dalam beberapa kali. 💙",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Notice how you feel",
+    "text": "Kenal pasti perasaan anda sekarang",
     "type": "data_list",
     "note": ""
   },
@@ -7980,12 +7896,6 @@
     "note": ""
   },
   {
-    "SourceText": "Notice how you feel",
-    "text": "Kenal pasti perasaan anda sekarang",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Remember that YOU matter! Let’s check in with our emotions first.",
     "text": "Ingat bahawa diri ANDA penting! Mari kita periksa perasaan kita dahulu.",
     "type": "data_list",
@@ -8166,6 +8076,12 @@
     "note": ""
   },
   {
+    "SourceText": "Think about today",
+    "text": "Fikirkan tentang hari ini",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Looking after yourself matters. And how you feel matters too!",
     "text": "Menjaga diri sendiri pun penting juga. Dan perasaan anda pun sama penting!",
     "type": "data_list",
@@ -8322,32 +8238,14 @@
     "note": ""
   },
   {
-    "SourceText": "⭐Say the behaviour you want your child to do. For example: “Please take your shoes off when you come inside, Adam.”\n👀Use your child’s name to get their attention, go down to their level, and make eye contact.",
-    "text": "⭐ Sebutkan tingkah laku yang anda mahu anak anda lakukan. Contohnya: \"Adam, tolong buka kasut kamu apabila masuk ke dalam rumah.\"\n👀 Sebut nama anak anda untuk mendapatkan perhatiannya. Rendahkan badan anda pada paras ketinggian anak anda dan pandang matanya.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "BE REALISTIC",
     "text": "JADI REALISTIK",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "⭐Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
-    "text": "⭐ Beri arahan yang anak anda boleh ikut. \n💡 Beri satu arahan pada satu masa - lebih senang untuk anak ingat.\n⏰ Cuba beri peringatan awal: “Lagi 3 minit, dah masuk waktu tidur dan kamu kena pulangkan telefon pada ibu.”",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "BE POSITIVE",
     "text": "BERSIKAP POSITIF",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "⭐Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷And remember—this takes practice. Be kind to yourself as you learn too. 💙",
-    "text": "⭐ Gunakan ayat dan perkataan yang positif apabila memberi arahan. Contohnya, katakan 'Cakap dengan suara yang perlahan' bukannya 'Jangan menjerit.'\n💡Cakap dengan tenang tetapi tegas, seolah-olah anda yakin anak anda akan melakukan apa yang anda minta.\n🎁 Puji, puji, puji! Pastikan anda terus memuji anak anda apabila mereka mengikut arahan anda.\n🌷 Dan ingat—semua ini perlukan latihan. Sayangi diri sendiri juga sementara kamu belajar. 💙",
     "type": "data_list",
     "note": ""
   },
@@ -8360,6 +8258,12 @@
   {
     "SourceText": "Yes",
     "text": "Ya",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I think so",
+    "text": "Boleh rasanya",
     "type": "data_list",
     "note": ""
   },
@@ -8886,18 +8790,6 @@
     "note": "The string @global.app_name should not be translated."
   },
   {
-    "SourceText": "Please select your gender",
-    "text": "Sila pilih jantina anda",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "I am a...",
-    "text": "Saya seorang...",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "My facilitator's Group ID is...",
     "text": "ID Kumpulan Fasilitator saya ialah...",
     "type": "global",
@@ -9168,20 +9060,8 @@
     "note": ""
   },
   {
-    "SourceText": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below to connect to your group.",
-    "text": "**Adakah anda menyertai kumpulan keibubapaan?**\n\nJika fasilitator anda memberikan ID Kumpulan, masukkannya di bawah untuk menyambung ke kumpulan anda.",
-    "type": "global",
-    "note": ""
-  },
-  {
     "SourceText": "What is your facilitator's Group ID?",
     "text": "Apakah ID Kumpulan fasilitator anda?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter your 4 digit Group ID",
-    "text": "Sila masukkan ID Kumpulan 4 digit anda",
     "type": "global",
     "note": ""
   },
