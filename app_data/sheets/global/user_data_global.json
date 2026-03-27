@@ -106,7 +106,9 @@
       "name": "user_faciid_setting",
       "value": "My facilitator's Group ID is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
