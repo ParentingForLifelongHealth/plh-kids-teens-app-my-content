@@ -13,11 +13,16 @@
     {
       "id": "intro_1",
       "category_id": "intro",
+      "text_1_facilitator::eng": "Welcome to your first lesson with @global.app_name! 💛\n\nEach lesson will start with a short relaxing activity to help you feel calm. 🌿\nThen you’ll do a quick check-in and learn simple tips through examples.\n\nWe will end with a home practice so you can try this with your child. ⭐\n\nSmall steps each day can make a big difference.”"
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
       "text_1_facilitator::eng": "Today’s skill is about spending one-on-one time with your child 😃",
       "text_2::eng": "Spending special time with your child will make them feel valued and loved. 💙 \n\nIt also builds trust and respect, and helps your child learn new things. ✨"
     },
     {
-      "id": "intro_2",
+      "id": "intro_3",
       "category_id": "intro",
       "text_1_facilitator::eng": "Today, you will learn how one-on-one time works. Let’s begin with a question for our learning.",
       "quiz_1_question::eng": "True or False: When I spend special time with my child, I need to have a plan. I need to know what we will do together.",
@@ -84,7 +89,6 @@
     {
       "id": "home_activity_1",
       "category_id": "home_activity",
-      "text_1_facilitator::eng": "At the end of each skill, I will have a home activity for you that you can try in your own time.",
       "quiz_1_question::eng": "⭐ Your first home activity is to try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make a huge difference! Do you have time to do it today? ⏰",
       "quiz_1_option_1_text::eng": "Yes",
       "quiz_1_feedback_1::eng": "That’s great! You can use the tips you learnt today and have fun! Spending time with your child is a great way to form a positive relationship with them. 💙",

@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 94 |
+| button | 95 |
 | combo_box | 24 |
-| data_items | 119 |
+| data_items | 120 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 98 |
+| display_group | 95 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 21 |
@@ -22,7 +22,6 @@
 | lottie_animation | 4 |
 | nested_properties | 297 |
 | number_selector | 1 |
-| plh_activity_check_in | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
 | plh_course_sub_item | 3 |
@@ -33,12 +32,12 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2833 |
+| set_variable | 2822 |
 | simple_checkbox | 1 |
 | task_card | 4 |
-| task_progress_bar | 5 |
+| task_progress_bar | 4 |
 | template | 877 |
-| text | 199 |
+| text | 201 |
 | text_area | 2 |
 | text_box | 22 |
 | text_bubble | 11 |
@@ -57,16 +56,16 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 599 |
+| emit: completed | 600 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 604 |
+| emit: uncompleted | 605 |
 | feedback | 13 |
-| go_to | 15 |
-| nav_stack | 341 |
+| go_to | 16 |
+| nav_stack | 340 |
 | plh_parent_group | 2 |
 | pop_up | 70 |
 | reset_app | 4 |
@@ -74,7 +73,7 @@
 | set_data | 81 |
 | set_field | 106 |
 | set_item | 72 |
-| set_local | 59 |
+| set_local | 62 |
 | share | 2 |
 | task | 2 |
 | user | 3 |
@@ -85,8 +84,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 137821 KB | 137.8 MB |
-| unused | 48931 KB | 48.9 MB |
+| total | 137569 KB | 137.6 MB |
+| unused | 49186 KB | 49.2 MB |
 </details>
 
 <details open>
@@ -141,6 +140,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/library_top_right.svg | 9.5 |
 | images/backgrounds/mountain_trees.svg | 338.5 |
+| images/backgrounds/progress_arc.png | 255.4 |
 | images/backgrounds/progress_arc.svg | 3755.1 |
 | images/flags/gb.svg | 0.5 |
 | images/icons/balance_blue.png | 4.7 |
@@ -173,6 +173,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/hourglass_blue.png | 4.3 |
 | images/icons/in_progress_white.svg | 1.1 |
 | images/icons/key.svg | 5.5 |
+| images/icons/lock-closed-outline.svg | 0.4 |
 | images/icons/lock.svg | 0.5 |
 | images/icons/magnify_glass.svg | 1.9 |
 | images/icons/notification_bell.png | 0.9 |
@@ -256,6 +257,7 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/malay/relax_17__.mp3 | 1 |
 | audio/relax/malay/relax_18__.mp3 | 1 |
 | audio/relax/malay/relax_19__.mp3 | 1 |
+| images/backgrounds/transparent.svg | 1 |
 | images/character_icons/boyfriend.svg | 1 |
 | images/character_icons/f1_daughter_13.svg | 1 |
 | images/character_icons/f1_daughter_16.svg | 1 |
@@ -387,11 +389,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/what_letter_is_this.svg | 1302.7 | 2 |
 | images/activities/whats_new_child.svg | 1180.3 | 2 |
 | images/backgrounds/bottom_banner.svg | 338.5 | 1 |
+| images/backgrounds/complete_module.svg | 4.5 | 1 |
 | images/backgrounds/kites.svg | 4897.1 | 1 |
 | images/backgrounds/lesson-cta-bg.svg | 3.9 | 2 |
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
-| images/backgrounds/progress_arc.png | 255.4 | 1 |
 | images/character_icons/f1_daughter_2.svg | 1815.2 | 1 |
 | images/character_icons/f1_daughter_6.svg | 1429.9 | 1 |
 | images/character_icons/f1_father.svg | 1678.4 | 1 |
@@ -448,8 +450,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/local_library_white.svg | 1.9 | 1 |
 | images/icons/lock-closed-outline.png | 0.9 | 1 |
-| images/icons/lock-closed-outline.svg | 0.4 | 1 |
-| images/icons/lock-open-outline.svg | 0.4 | 3 |
+| images/icons/lock-open-outline.svg | 0.4 | 2 |
 | images/icons/locked.png | 0.7 | 1 |
 | images/icons/log-in-outline.svg | 0.5 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 49 |
@@ -714,6 +715,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 135 |
-| template | generated | 671 |
+| template | generated | 672 |
 | template | legal_terms | 4 |
 </details>

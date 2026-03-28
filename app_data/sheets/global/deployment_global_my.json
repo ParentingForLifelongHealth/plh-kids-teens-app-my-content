@@ -371,6 +371,22 @@
         "value": {}
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "back_to_home",
+      "value": "Back to Courses",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "restart",
+      "value": "Restart Lesson",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

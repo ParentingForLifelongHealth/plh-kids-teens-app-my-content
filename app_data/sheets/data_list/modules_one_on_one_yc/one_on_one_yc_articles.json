@@ -10,6 +10,20 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
+      "text_1_facilitator": "Welcome to your first lesson with @global.app_name! 💛\n\nEach lesson will start with a short relaxing activity to help you feel calm. 🌿\nThen you’ll do a quick check-in and learn simple tips through examples.\n\nWe will end with a home practice so you can try this with your child. ⭐\n\nSmall steps each day can make a big difference.”",
+      "_translations": {
+        "text_1_facilitator": {}
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "Welcome to your first lesson with @global.app_name! 💛\n\nEach lesson will start with a short relaxing activity to help you feel calm. 🌿\nThen you’ll do a quick check-in and learn simple tips through examples.\n\nWe will end with a home practice so you can try this with your child. ⭐\n\nSmall steps each day can make a big difference.”"
+        }
+      }
+    },
+    {
+      "id": "intro_2",
+      "category_id": "intro",
+      "nested": false,
       "text_1_facilitator": "Today’s skill is about spending one-on-one time with your child 😃",
       "_translations": {
         "text_1_facilitator": {
@@ -30,7 +44,7 @@
       "text_2": "Spending special time with your child will make them feel valued and loved. 💙 \n\nIt also builds trust and respect, and helps your child learn new things. ✨"
     },
     {
-      "id": "intro_2",
+      "id": "intro_3",
       "category_id": "intro",
       "nested": false,
       "text_1_facilitator": "Today, you will learn how one-on-one time works. Let’s begin with a question for our learning.",
@@ -254,11 +268,8 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "text_1_facilitator": "At the end of each skill, I will have a home activity for you that you can try in your own time.",
+      "quiz_1_question": "⭐ Your first home activity is to try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make a huge difference! Do you have time to do it today? ⏰",
       "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        },
         "quiz_1_question": {
           "my_ms": true
         },
@@ -282,9 +293,6 @@
         }
       },
       "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "At the end of each skill, I will have a home activity for you that you can try in your own time."
-        },
         "quiz_1_question": {
           "eng": "⭐ Your first home activity is to try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make a huge difference! Do you have time to do it today? ⏰"
         },
@@ -307,7 +315,6 @@
           "eng": "That's OK! If you don't have time today, you can set some time aside tomorrow."
         }
       },
-      "quiz_1_question": "⭐ Your first home activity is to try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make a huge difference! Do you have time to do it today? ⏰",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "That’s great! You can use the tips you learnt today and have fun! Spending time with your child is a great way to form a positive relationship with them. 💙",
       "quiz_1_option_2_text": "I think so",
