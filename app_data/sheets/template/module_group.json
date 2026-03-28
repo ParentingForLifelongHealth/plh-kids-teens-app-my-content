@@ -280,7 +280,7 @@
                 "completed_text": "@global.completed_text",
                 "locked_text": "@global.locked_text"
               },
-              "condition": "!@item.started_ts && !@item.completed_ts",
+              "condition": false,
               "_nested_name": "plh_course_accordion_16.loop_modules.not_started_button",
               "_dynamicFields": {
                 "value": [
@@ -374,21 +374,7 @@
                       "fieldName": "locked_text"
                     }
                   ]
-                },
-                "condition": [
-                  {
-                    "fullExpression": "!@item.started_ts && !@item.completed_ts",
-                    "matchedExpression": "!@item.started_ts",
-                    "type": "item",
-                    "fieldName": "started_ts"
-                  },
-                  {
-                    "fullExpression": "!@item.started_ts && !@item.completed_ts",
-                    "matchedExpression": "!@item.completed_ts",
-                    "type": "item",
-                    "fieldName": "completed_ts"
-                  }
-                ]
+                }
               },
               "_dynamicDependencies": {
                 "@item.title": [
@@ -403,8 +389,7 @@
                   "action_list.1._raw"
                 ],
                 "!@item.started_ts": [
-                  "parameter_list.highlighted",
-                  "condition"
+                  "parameter_list.highlighted"
                 ],
                 "@local.all_locked": [
                   "parameter_list.locked"
@@ -417,9 +402,6 @@
                 ],
                 "@global.locked_text": [
                   "parameter_list.locked_text"
-                ],
-                "!@item.completed_ts": [
-                  "condition"
                 ]
               }
             },
@@ -469,7 +451,7 @@
                 "completed_text": "@global.completed_text",
                 "locked_text": "@global.locked_text"
               },
-              "condition": "!!@item.started_ts && !@item.completed_ts",
+              "condition": "!@item.completed_ts",
               "_nested_name": "plh_course_accordion_16.loop_modules.in_progress_button",
               "_dynamicFields": {
                 "value": [
@@ -566,13 +548,7 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "!!@item.started_ts && !@item.completed_ts",
-                    "matchedExpression": "!@item.started_ts",
-                    "type": "item",
-                    "fieldName": "started_ts"
-                  },
-                  {
-                    "fullExpression": "!!@item.started_ts && !@item.completed_ts",
+                    "fullExpression": "!@item.completed_ts",
                     "matchedExpression": "!@item.completed_ts",
                     "type": "item",
                     "fieldName": "completed_ts"
@@ -592,8 +568,7 @@
                   "action_list.2._raw"
                 ],
                 "!@item.started_ts": [
-                  "parameter_list.highlighted",
-                  "condition"
+                  "parameter_list.highlighted"
                 ],
                 "@local.all_locked": [
                   "parameter_list.locked"
