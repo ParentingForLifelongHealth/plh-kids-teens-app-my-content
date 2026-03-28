@@ -231,6 +231,16 @@
       "name": "all_complete_image",
       "value": "images/icons/celebration.svg",
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "back_to_home",
+      "value": "Back to Courses"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "restart",
+      "value": "Restart Lesson"
     }
   ]
 }

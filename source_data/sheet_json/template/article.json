@@ -396,7 +396,7 @@
     {
       "name": "gender",
       "value": "_m",
-      "condition": "@fields.user_gender == \"man\"",
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
       "exclude_from_translation": true
     },
     {

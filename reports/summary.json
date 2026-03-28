@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 94
+        "count": 95
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 119
+        "count": 120
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 98
+        "count": 95
       },
       {
         "type": "drawer",
@@ -75,10 +75,6 @@
       },
       {
         "type": "number_selector",
-        "count": 1
-      },
-      {
-        "type": "plh_activity_check_in",
         "count": 1
       },
       {
@@ -123,7 +119,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2833
+        "count": 2822
       },
       {
         "type": "simple_checkbox",
@@ -135,7 +131,7 @@
       },
       {
         "type": "task_progress_bar",
-        "count": 5
+        "count": 4
       },
       {
         "type": "template",
@@ -143,7 +139,7 @@
       },
       {
         "type": "text",
-        "count": 199
+        "count": 201
       },
       {
         "type": "text_area",
@@ -195,7 +191,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 599
+        "count": 600
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +215,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 604
+        "count": 605
       },
       {
         "type": "feedback",
@@ -227,11 +223,11 @@
       },
       {
         "type": "go_to",
-        "count": 15
+        "count": 16
       },
       {
         "type": "nav_stack",
-        "count": 341
+        "count": 340
       },
       {
         "type": "plh_parent_group",
@@ -263,7 +259,7 @@
       },
       {
         "type": "set_local",
-        "count": 59
+        "count": 62
       },
       {
         "type": "share",
@@ -283,13 +279,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "137821 KB",
-        "MB": "137.8 MB"
+        "KB": "137569 KB",
+        "MB": "137.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "48931 KB",
-        "MB": "48.9 MB"
+        "KB": "49186 KB",
+        "MB": "49.2 MB"
       }
     ]
   },
@@ -476,6 +472,10 @@
         "size_kb": 338.5
       },
       {
+        "path": "images/backgrounds/progress_arc.png",
+        "size_kb": 255.4
+      },
+      {
         "path": "images/backgrounds/progress_arc.svg",
         "size_kb": 3755.1
       },
@@ -602,6 +602,10 @@
       {
         "path": "images/icons/key.svg",
         "size_kb": 5.5
+      },
+      {
+        "path": "images/icons/lock-closed-outline.svg",
+        "size_kb": 0.4
       },
       {
         "path": "images/icons/lock.svg",
@@ -920,6 +924,11 @@
       },
       {
         "path": "audio/relax/malay/relax_19__.mp3",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/backgrounds/transparent.svg",
         "count": 1,
         "missing": true
       },
@@ -1538,6 +1547,11 @@
         "size_kb": 338.5
       },
       {
+        "path": "images/backgrounds/complete_module.svg",
+        "count": 1,
+        "size_kb": 4.5
+      },
+      {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
         "size_kb": 4897.1
@@ -1556,11 +1570,6 @@
         "path": "images/backgrounds/mountains_trees.svg",
         "count": 1,
         "size_kb": 23.2
-      },
-      {
-        "path": "images/backgrounds/progress_arc.png",
-        "count": 1,
-        "size_kb": 255.4
       },
       {
         "path": "images/character_icons/f1_daughter_2.svg",
@@ -1843,13 +1852,8 @@
         "size_kb": 0.9
       },
       {
-        "path": "images/icons/lock-closed-outline.svg",
-        "count": 1,
-        "size_kb": 0.4
-      },
-      {
         "path": "images/icons/lock-open-outline.svg",
-        "count": 3,
+        "count": 2,
         "size_kb": 0.4
       },
       {
@@ -3144,7 +3148,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 671
+        "total": 672
       },
       {
         "type": "template",

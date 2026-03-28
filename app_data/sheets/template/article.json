@@ -1440,22 +1440,22 @@
       "_translations": {
         "value": {}
       },
-      "condition": "@fields.user_gender == \"man\"",
+      "condition": "@fields.facilitator_id== \"facilitator_male\"",
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "gender",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@fields.user_gender == \"man\"",
-            "matchedExpression": "@fields.user_gender",
+            "fullExpression": "@fields.facilitator_id== \"facilitator_male\"",
+            "matchedExpression": "@fields.facilitator_id",
             "type": "fields",
-            "fieldName": "user_gender"
+            "fieldName": "facilitator_id"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@fields.user_gender": [
+        "@fields.facilitator_id": [
           "condition"
         ]
       }
