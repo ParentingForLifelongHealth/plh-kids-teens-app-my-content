@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "library_section_essential_tools",
+  "flow_name": "library_tools_element",
   "status": "released",
   "rows": [
     {
@@ -33,52 +33,32 @@
       "exclude_from_translation": true
     },
     {
-      "type": "begin_template",
-      "name": "header",
-      "value": "section_header",
-      "action_list": "uncompleted | emit: uncompleted; ",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "title",
-      "value": "@local.display_title",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "end_template"
+      "name": "course_id"
     },
     {
       "type": "begin_items",
       "name": "loop_modules",
-      "value": "@data.courses",
+      "value": "@data.module_tasks",
+      "parameter_list": "filter: @item.tag_course == @local.course_id && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));\nsort: number;",
       "comment": "filter: (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));"
     },
     {
-      "type": "title",
-      "value": "@item.title"
+      "name": "tile_image",
+      "value": "@item.image_asset"
     },
     {
-      "type": "begin_template",
-      "value": "library_tools_element"
+      "name": "background",
+      "value": "var(--plh-module-list-item-background-1)"
     },
     {
-      "name": "course_id",
-      "value": "@item.id"
-    },
-    {
-      "type": "end_template"
+      "type": "plh_module_list_item",
+      "name": "plh_module_list_item",
+      "value": "@item.title",
+      "action_list": "click | nav_stack: open | template: @local.article_prefix@item.id@local.article_suffix, header: false;",
+      "parameter_list": "module_image_asset: @local.tile_image;\nnav_image_asset: @local.nav_image_asset;\nlocked_image_asset: @local.locked_image_asset;\ncompleted_image_asset: @local.completed_image_asset;\ncompleted: FALSE;\nis_locked: FALSE;\nhighlighted: FALSE;\nbackground: @local.background;"
     },
     {
       "type": "end_items"
-    },
-    {
-      "type": "begin_display_grid",
-      "name": "grid",
-      "parameter_list": "item_width: 170px; \nitem_border: none;",
-      "condition": false
-    },
-    {
-      "type": "end_display_grid"
     }
   ]
 }

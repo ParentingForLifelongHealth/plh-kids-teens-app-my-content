@@ -18,7 +18,7 @@
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 21 |
-| items | 15 |
+| items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
 | number_selector | 1 |
@@ -27,22 +27,22 @@
 | plh_course_sub_item | 3 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
+| plh_module_list_item | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2822 |
+| set_variable | 2831 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 877 |
+| template | 878 |
 | text | 201 |
 | text_area | 2 |
 | text_box | 22 |
 | text_bubble | 11 |
-| tile_component | 1 |
-| title | 50 |
+| title | 51 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -714,7 +714,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 135 |
+| template |  | 136 |
 | template | generated | 672 |
 | template | legal_terms | 4 |
 </details>
