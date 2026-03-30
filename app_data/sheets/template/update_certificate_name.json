@@ -1,0 +1,193 @@
+{
+  "flow_type": "template",
+  "flow_name": "update_certificate_name",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "certificate_name_input_question",
+      "value": "@global.certificate_name_question",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "certificate_name_input_question",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.certificate_name_question",
+            "matchedExpression": "@global.certificate_name_question",
+            "type": "global",
+            "fieldName": "certificate_name_question"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.certificate_name_question": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text_box",
+      "name": "certificate_name_input",
+      "value": "@fields.certificate_name",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "certificate_name_input",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields.certificate_name",
+            "matchedExpression": "@fields.certificate_name",
+            "type": "fields",
+            "fieldName": "certificate_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.certificate_name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "completed_enabled",
+      "value": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "completed_enabled",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)",
+            "matchedExpression": "@local.certificate_name_input",
+            "type": "local",
+            "fieldName": "certificate_name_input"
+          },
+          {
+            "fullExpression": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)",
+            "matchedExpression": "@local.certificate_name_input.length",
+            "type": "local",
+            "fieldName": "certificate_name_input"
+          },
+          {
+            "fullExpression": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)",
+            "matchedExpression": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)",
+            "type": "calc",
+            "fieldName": "@local.certificate_name_input && @local.certificate_name_input.length > 0"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.certificate_name_input": [
+          "value"
+        ],
+        "@local.certificate_name_input.length": [
+          "value"
+        ],
+        "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "certificate_name",
+            "@local.certificate_name_input"
+          ],
+          "_raw": "click | set_field: certificate_name: @local.certificate_name_input"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed"
+        }
+      ],
+      "parameter_list": {
+        "style": "navigation",
+        "disabled": "!@local.completed_enabled"
+      },
+      "style_list": [
+        "flex: 1"
+      ],
+      "_nested_name": "button_completed",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.continue",
+            "matchedExpression": "@global.continue",
+            "type": "global",
+            "fieldName": "continue"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "@local.certificate_name_input",
+                  "matchedExpression": "@local.certificate_name_input",
+                  "type": "local",
+                  "fieldName": "certificate_name_input"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field: certificate_name: @local.certificate_name_input",
+                "matchedExpression": "@local.certificate_name_input",
+                "type": "local",
+                "fieldName": "certificate_name_input"
+              }
+            ]
+          }
+        },
+        "parameter_list": {
+          "disabled": [
+            {
+              "fullExpression": "!@local.completed_enabled",
+              "matchedExpression": "!@local.completed_enabled",
+              "type": "local",
+              "fieldName": "completed_enabled"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@global.continue": [
+          "value"
+        ],
+        "@local.certificate_name_input": [
+          "action_list.0.args.1",
+          "action_list.0._raw"
+        ],
+        "!@local.completed_enabled": [
+          "parameter_list.disabled"
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "templates/MY certificates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+  }
+}

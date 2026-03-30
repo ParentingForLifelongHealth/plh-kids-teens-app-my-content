@@ -605,6 +605,22 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "share",
+      "value": "Share",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "download",
+      "value": "Download",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "facilitator_setting",
       "value": "Facilitator",
       "_translations": {
@@ -691,6 +707,30 @@
         "value": {
           "my_ms": true
         }
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "change_certificate_name",
+      "value": "Change name",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_name_question",
+      "value": "What name should be on your certificate?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "library_certificates",
+      "value": "My Certificates",
+      "_translations": {
+        "value": {}
       }
     }
   ],

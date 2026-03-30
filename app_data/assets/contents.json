@@ -711,6 +711,10 @@
     "md5Checksum": "da7bbdc1985249219cfb178f5d1ea514",
     "size_kb": 7.3
   },
+  "images/icons/download.svg": {
+    "md5Checksum": "1b792cf72d591e778ede91c054b1f2a7",
+    "size_kb": 0.7
+  },
   "images/icons/expand_circle_right.png": {
     "md5Checksum": "668d46c68a50b5862ae016cc05b8fa42",
     "size_kb": 0.9
@@ -991,6 +995,10 @@
     "md5Checksum": "2dcaa7591fb14ab116033fe228ea2c14",
     "size_kb": 2.4
   },
+  "images/icons/share.svg": {
+    "md5Checksum": "bcd488ad5bdf7532613f888c59ac03be",
+    "size_kb": 4.2
+  },
   "images/icons/single_speech_blue.png": {
     "md5Checksum": "87f2ce452f41009826491a6d8f430d3c",
     "size_kb": 3.3
@@ -1070,6 +1078,10 @@
   "images/icons/world.svg": {
     "md5Checksum": "8063b977998a73ce347c65c8a5ae2ded",
     "size_kb": 6.2
+  },
+  "images/jasper_1.jpg": {
+    "md5Checksum": "8ed1f2802b37a7a11382ebabcdd9dfd0",
+    "size_kb": 527.3
   },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",

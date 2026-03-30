@@ -1,0 +1,31 @@
+{
+  "flow_type": "template",
+  "flow_name": "update_certificate_name",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "certificate_name_input_question",
+      "value": "@global.certificate_name_question",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_box",
+      "name": "certificate_name_input",
+      "value": "@fields.certificate_name",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "completed_enabled",
+      "value": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)"
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "@global.continue",
+      "action_list": "click | set_field: certificate_name: @local.certificate_name_input;\nclick | emit: completed;",
+      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
+      "style_list": "flex: 1"
+    }
+  ]
+}

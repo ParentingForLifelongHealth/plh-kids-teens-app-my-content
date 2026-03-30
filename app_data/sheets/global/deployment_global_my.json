@@ -387,6 +387,16 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback",
+      "value": "Feedback",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
     }
   ],
   "_source": {
