@@ -21,7 +21,7 @@
       "type": "data_items",
       "value": "@data.courses",
       "action_list": "data_changed | set_local : has_core_course: @items.length;",
-      "parameter_list": "filter: @item.core && !@item.completed;"
+      "parameter_list": "filter: @item.core && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
     },
     {
       "type": "data_items",
@@ -77,7 +77,7 @@
       "type": "begin_data_items",
       "name": "core_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: @item.core && !@item.completed",
+      "parameter_list": "filter: @item.core && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
       "condition": "@local.has_core_course > 0",
       "exclude_from_translation": true,
       "comments": "filter: @item.core && !@item.completed;"
@@ -133,7 +133,7 @@
       "type": "begin_data_items",
       "name": "other_courses",
       "value": "@data.courses",
-      "parameter_list": "filter: !@item.core && !@item.completed",
+      "parameter_list": "filter: !@item.core && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
       "exclude_from_translation": true,
       "comments": "filter: !@item.core && !@item.completed;"
     },
