@@ -605,6 +605,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "facilitator_setting",
+      "value": "Facilitator",
+      "_translations": {
+        "value": {
+          "my_ms": true
+        }
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "language",
       "value": "Language",
       "_translations": {

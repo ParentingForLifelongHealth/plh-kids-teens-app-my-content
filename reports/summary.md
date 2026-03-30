@@ -33,12 +33,12 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2831 |
+| set_variable | 2802 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 878 |
-| text | 201 |
+| text | 197 |
 | text_area | 2 |
 | text_box | 22 |
 | text_bubble | 11 |
@@ -73,7 +73,7 @@
 | set_data | 81 |
 | set_field | 106 |
 | set_item | 72 |
-| set_local | 62 |
+| set_local | 63 |
 | share | 2 |
 | task | 2 |
 | user | 3 |
@@ -84,8 +84,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 137569 KB | 137.6 MB |
-| unused | 49186 KB | 49.2 MB |
+| total | 137571 KB | 137.6 MB |
+| unused | 49185 KB | 49.2 MB |
 </details>
 
 <details open>
@@ -151,7 +151,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 |
 | images/icons/clock_blue.png | 4.5 |
 | images/icons/document.svg | 7.3 |
-| images/icons/expand_circle_right.png | 0.9 |
 | images/icons/expand_circle_right.svg | 0.5 |
 | images/icons/eye_blue.png | 4.2 |
 | images/icons/faces/angry.svg | 1.1 |
@@ -427,6 +426,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond_blue.png | 4.7 | 94 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline.svg | 0.5 | 1 |
+| images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 64 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 64 |
@@ -457,6 +457,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/parent_child_heart.svg | 3 | 49 |
 | images/icons/pause.svg | 0.7 | 49 |
 | images/icons/pencil.svg | 1.1 | 49 |
+| images/icons/people-outline.svg | 0.9 | 1 |
 | images/icons/person-circle-outline.svg | 0.8 | 1 |
 | images/icons/picture_book.svg | 1.8 | 49 |
 | images/icons/question_mark_blue.svg | 0.8 | 1 |

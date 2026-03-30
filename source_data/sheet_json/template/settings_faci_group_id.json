@@ -4,6 +4,10 @@
   "status": "released",
   "rows": [
     {
+      "name": "success",
+      "value": false
+    },
+    {
       "type": "begin_display_group",
       "name": "dg_row"
     },
@@ -20,6 +24,16 @@
       "action_list": "click | set_field: faci_group_id: @local.faci_group_id_input;\nclick | emit: completed;",
       "condition": "@local.success",
       "parameter_list": "icon_src: chevron-back;\nvariant: navigation"
+    },
+    {
+      "type": "text",
+      "value": "no success",
+      "condition": "!@local.success"
+    },
+    {
+      "type": "text",
+      "value": "success",
+      "condition": "@local.success"
     },
     {
       "type": "title",
@@ -66,7 +80,7 @@
       "type": "button",
       "value": "@global.update_group",
       "action_list": "click | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender;",
-      "parameter_list": "disabled: !@local.valid_faci_group_id;"
+      "parameter_list": "disabled: !@local.valid_faci_group_id_input;"
     },
     {
       "type": "text",
@@ -100,6 +114,10 @@
       "name": "success",
       "value": "@local.result?.success",
       "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "value": "!@local.success\n@local.success"
     }
   ]
 }

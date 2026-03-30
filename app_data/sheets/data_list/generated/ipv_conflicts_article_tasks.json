@@ -308,7 +308,7 @@
           "eng": "TAKE A PAUSE"
         },
         "section_2_text": {
-          "eng": "⏸ On our first day together, you learned to close your eyes, breathe deep, and take a pause. \n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!"
+          "eng": "⏸ You’ve been practising taking a pause at the start of each skill.  You know how to breathe deeply, and give yourself a moment.\n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!"
         },
         "section_3_title": {
           "eng": "WALK AWAY IF NECESSARY"
@@ -333,9 +333,7 @@
         "section_2_title": {
           "my_ms": true
         },
-        "section_2_text": {
-          "my_ms": true
-        },
+        "section_2_text": {},
         "section_3_title": {
           "my_ms": true
         },
@@ -353,7 +351,7 @@
       "section_1_title": "COUNT TO 10",
       "section_1_text": "😣 It can sometimes be really hard to stay calm when we’re having a disagreement with others. \n🔟 Try to think of something that you can do that might help, like taking deep breaths or counting to ten.",
       "section_2_title": "TAKE A PAUSE",
-      "section_2_text": "⏸ On our first day together, you learned to close your eyes, breathe deep, and take a pause. \n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!",
+      "section_2_text": "⏸ You’ve been practising taking a pause at the start of each skill.  You know how to breathe deeply, and give yourself a moment.\n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!",
       "section_3_title": "WALK AWAY IF NECESSARY",
       "section_3_text": "😣 Sometimes others respond to us negatively when we’re having a disagreement.\n❗ In these situations, especially if you feel fearful or threatened, it may be best to walk away for a bit until everyone has calmed down.\n\nRemember, if you need help in a crisis, you can refer to the library for a list of community resources where you may find support.",
       "completed": false
