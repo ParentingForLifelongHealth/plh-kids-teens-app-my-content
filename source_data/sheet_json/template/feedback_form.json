@@ -70,9 +70,13 @@
       "value": "@local.text_feedback_valid"
     },
     {
+      "name": "toast_message",
+      "value": "Thanks! This helps us improve your experience on the app"
+    },
+    {
       "type": "button",
       "value": "Submit Feedback",
-      "action_list": "click | add_data | \n_list_id: feedback_data,\ntext: @local.text_feedback,\nwhere: @local.where,\nspecify_location: @local.specify_location,\ntimestamp: @calc(timestamp());\nclick | emit: completed;\nclick | toast | message: Thanks! This helps us improve your experience on the app;",
+      "action_list": "click | add_data | \n_list_id: feedback_data,\ntext: @local.text_feedback,\nwhere: @local.where,\nspecify_location: @local.specify_location,\ntimestamp: @calc(timestamp());\nclick | emit: completed;\nclick | toast | message: @local.toast_message;",
       "parameter_list": "disabled: !@local.valid;\nstyle: flexible;",
       "style_list": "margin-bottom: 24px;\npadding: 12px 24px"
     }

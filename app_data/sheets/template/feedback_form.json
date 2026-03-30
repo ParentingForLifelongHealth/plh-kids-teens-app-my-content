@@ -270,6 +270,15 @@
       }
     },
     {
+      "name": "toast_message",
+      "value": "Thanks! This helps us improve your experience on the app",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "toast_message"
+    },
+    {
       "type": "button",
       "value": "Submit Feedback",
       "_translations": {
@@ -301,9 +310,9 @@
           "trigger": "click",
           "action_id": "toast",
           "args": [],
-          "_raw": "click | toast | message: Thanks! This helps us improve your experience on the app",
+          "_raw": "click | toast | message: @local.toast_message",
           "params": {
-            "message": "Thanks! This helps us improve your experience on the app"
+            "message": "@local.toast_message"
           }
         }
       ],
@@ -315,8 +324,8 @@
         "margin-bottom: 24px",
         "padding: 12px 24px"
       ],
-      "name": "button_16",
-      "_nested_name": "button_16",
+      "name": "button_17",
+      "_nested_name": "button_17",
       "_dynamicFields": {
         "action_list": {
           "0": {
@@ -380,6 +389,26 @@
                 }
               ]
             }
+          },
+          "2": {
+            "_raw": [
+              {
+                "fullExpression": "click | toast | message: @local.toast_message",
+                "matchedExpression": "@local.toast_message",
+                "type": "local",
+                "fieldName": "toast_message"
+              }
+            ],
+            "params": {
+              "message": [
+                {
+                  "fullExpression": "@local.toast_message",
+                  "matchedExpression": "@local.toast_message",
+                  "type": "local",
+                  "fieldName": "toast_message"
+                }
+              ]
+            }
           }
         },
         "parameter_list": {
@@ -409,6 +438,10 @@
         "@calc(timestamp())": [
           "action_list.0._raw",
           "action_list.0.params.timestamp"
+        ],
+        "@local.toast_message": [
+          "action_list.2._raw",
+          "action_list.2.params.message"
         ],
         "!@local.valid": [
           "parameter_list.disabled"
