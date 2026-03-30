@@ -7,9 +7,28 @@
     {
       "id": "relation",
       "core": true,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/relation.svg",
       "completed": false,
@@ -28,9 +47,26 @@
     {
       "id": "learning",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/learning.svg",
       "completed": false,
@@ -49,9 +85,28 @@
     {
       "id": "develop",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/develop.svg",
       "completed": false,
@@ -70,9 +125,28 @@
     {
       "id": "structure",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/structure.svg",
       "completed": false,
@@ -91,9 +165,28 @@
     {
       "id": "behave",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/behave.svg",
       "completed": false,
@@ -112,9 +205,28 @@
     {
       "id": "safety",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/safety.svg",
       "completed": false,
@@ -133,9 +245,25 @@
     {
       "id": "ipv",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "married",
+        "partner",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/ipv.svg",
       "completed": false,
@@ -154,9 +282,28 @@
     {
       "id": "budget",
       "core": false,
-      "tag_list": [
-        "child",
-        "teen"
+      "age_list": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "child_gender_list": [
+        "male",
+        "female",
+        "opt_out"
+      ],
+      "caregiver_relationship_list": [
+        "single",
+        "married",
+        "partner",
+        "divorced",
+        "widow",
+        "opt_out"
       ],
       "image_asset": "images/homescreen/budget.svg",
       "completed": false,
