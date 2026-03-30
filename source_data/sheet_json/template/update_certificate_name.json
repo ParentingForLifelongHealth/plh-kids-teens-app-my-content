@@ -17,7 +17,8 @@
     },
     {
       "name": "completed_enabled",
-      "value": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)"
+      "value": "@calc(@local.certificate_name_input && @local.certificate_name_input.length > 0)",
+      "exclude_from_translation": true
     },
     {
       "type": "button",
