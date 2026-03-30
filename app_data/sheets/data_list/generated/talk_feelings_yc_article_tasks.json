@@ -180,8 +180,12 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n6️⃣ There are six basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. \n\n✅ It’s important that we talk with our children about ALL of them.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
