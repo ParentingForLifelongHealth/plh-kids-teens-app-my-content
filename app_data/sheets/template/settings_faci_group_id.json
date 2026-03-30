@@ -4,6 +4,12 @@
   "status": "released",
   "rows": [
     {
+      "name": "success",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "success"
+    },
+    {
       "type": "display_group",
       "name": "dg_row",
       "rows": [
@@ -107,6 +113,56 @@
               "action_list.0.args.1",
               "action_list.0._raw"
             ],
+            "@local.success": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "value": "no success",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!@local.success",
+          "name": "text_3",
+          "_nested_name": "dg_row.text_3",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@local.success",
+                "matchedExpression": "!@local.success",
+                "type": "local",
+                "fieldName": "success"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.success": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "value": "success",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "@local.success",
+          "name": "text_4",
+          "_nested_name": "dg_row.text_4",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@local.success",
+                "matchedExpression": "@local.success",
+                "type": "local",
+                "fieldName": "success"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
             "@local.success": [
               "condition"
             ]
@@ -377,10 +433,10 @@
         }
       ],
       "parameter_list": {
-        "disabled": "!@local.valid_faci_group_id"
+        "disabled": "!@local.valid_faci_group_id_input"
       },
-      "name": "button_10",
-      "_nested_name": "button_10",
+      "name": "button_11",
+      "_nested_name": "button_11",
       "_dynamicFields": {
         "value": [
           {
@@ -471,10 +527,10 @@
         "parameter_list": {
           "disabled": [
             {
-              "fullExpression": "!@local.valid_faci_group_id",
-              "matchedExpression": "!@local.valid_faci_group_id",
+              "fullExpression": "!@local.valid_faci_group_id_input",
+              "matchedExpression": "!@local.valid_faci_group_id_input",
               "type": "local",
-              "fieldName": "valid_faci_group_id"
+              "fieldName": "valid_faci_group_id_input"
             }
           ]
         }
@@ -503,7 +559,7 @@
           "action_list.1._raw",
           "action_list.1.params.gender"
         ],
-        "!@local.valid_faci_group_id": [
+        "!@local.valid_faci_group_id_input": [
           "parameter_list.disabled"
         ]
       }
@@ -520,8 +576,8 @@
       ],
       "condition": "@local.result?.error && !@local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_11",
-      "_nested_name": "text_11",
+      "name": "text_12",
+      "_nested_name": "text_12",
       "_dynamicFields": {
         "value": [
           {
@@ -570,8 +626,8 @@
       ],
       "condition": "@local.result?.error && @local.result?.message == \"User group not found\" && @local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_12",
-      "_nested_name": "text_12",
+      "name": "text_13",
+      "_nested_name": "text_13",
       "_dynamicFields": {
         "value": [
           {
@@ -627,8 +683,8 @@
       ],
       "condition": "@local.result?.error && @local.result?.message !== \"User group not found\"  && @local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_13",
-      "_nested_name": "text_13",
+      "name": "text_14",
+      "_nested_name": "text_14",
       "_dynamicFields": {
         "value": [
           {
@@ -684,8 +740,8 @@
       ],
       "condition": "@local.result?.success",
       "exclude_from_translation": true,
-      "name": "text_14",
-      "_nested_name": "text_14",
+      "name": "text_15",
+      "_nested_name": "text_15",
       "_dynamicFields": {
         "value": [
           {
@@ -734,6 +790,39 @@
       },
       "_dynamicDependencies": {
         "@local.result": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "value": "!@local.success\n@local.success",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_17",
+      "_nested_name": "text_17",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "!@local.success\n@local.success",
+            "matchedExpression": "!@local.success",
+            "type": "local",
+            "fieldName": "success"
+          },
+          {
+            "fullExpression": "!@local.success\n@local.success",
+            "matchedExpression": "@local.success",
+            "type": "local",
+            "fieldName": "success"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.success": [
+          "value"
+        ],
+        "@local.success": [
           "value"
         ]
       }

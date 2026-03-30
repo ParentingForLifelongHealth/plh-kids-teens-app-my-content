@@ -113,6 +113,16 @@
       "_nested_name": "course_id"
     },
     {
+      "name": "nav_image",
+      "value": "images/icons/expand_circle_right.png",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "nav_image"
+    },
+    {
       "type": "items",
       "name": "loop_modules",
       "value": "@data.module_tasks",
@@ -177,13 +187,12 @@
           ],
           "parameter_list": {
             "module_image_asset": "@local.tile_image",
-            "nav_image_asset": "@local.nav_image_asset",
-            "locked_image_asset": "@local.locked_image_asset",
-            "completed_image_asset": "@local.completed_image_asset",
+            "nav_image_asset": "@local.nav_image",
+            "locked_image_asset": "@local.nav_image",
+            "completed_image_asset": "@local.nav_image",
             "completed": "FALSE",
             "is_locked": "FALSE",
-            "highlighted": "FALSE",
-            "background": "@local.background"
+            "highlighted": "FALSE"
           },
           "_nested_name": "loop_modules.plh_module_list_item",
           "_dynamicFields": {
@@ -252,34 +261,26 @@
               ],
               "nav_image_asset": [
                 {
-                  "fullExpression": "@local.nav_image_asset",
-                  "matchedExpression": "@local.nav_image_asset",
+                  "fullExpression": "@local.nav_image",
+                  "matchedExpression": "@local.nav_image",
                   "type": "local",
-                  "fieldName": "nav_image_asset"
+                  "fieldName": "nav_image"
                 }
               ],
               "locked_image_asset": [
                 {
-                  "fullExpression": "@local.locked_image_asset",
-                  "matchedExpression": "@local.locked_image_asset",
+                  "fullExpression": "@local.nav_image",
+                  "matchedExpression": "@local.nav_image",
                   "type": "local",
-                  "fieldName": "locked_image_asset"
+                  "fieldName": "nav_image"
                 }
               ],
               "completed_image_asset": [
                 {
-                  "fullExpression": "@local.completed_image_asset",
-                  "matchedExpression": "@local.completed_image_asset",
+                  "fullExpression": "@local.nav_image",
+                  "matchedExpression": "@local.nav_image",
                   "type": "local",
-                  "fieldName": "completed_image_asset"
-                }
-              ],
-              "background": [
-                {
-                  "fullExpression": "@local.background",
-                  "matchedExpression": "@local.background",
-                  "type": "local",
-                  "fieldName": "background"
+                  "fieldName": "nav_image"
                 }
               ]
             }
@@ -303,17 +304,10 @@
             "@local.tile_image": [
               "parameter_list.module_image_asset"
             ],
-            "@local.nav_image_asset": [
-              "parameter_list.nav_image_asset"
-            ],
-            "@local.locked_image_asset": [
-              "parameter_list.locked_image_asset"
-            ],
-            "@local.completed_image_asset": [
+            "@local.nav_image": [
+              "parameter_list.nav_image_asset",
+              "parameter_list.locked_image_asset",
               "parameter_list.completed_image_asset"
-            ],
-            "@local.background": [
-              "parameter_list.background"
             ]
           }
         }

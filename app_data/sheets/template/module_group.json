@@ -145,6 +145,7 @@
       "parameter_list": {
         "locked": "@local.all_locked",
         "image_asset": "@local.course_image",
+        "image_alignment": "centre",
         "sub_items_name": "@global.sub_items_name",
         "completed": "@local.completed_course",
         "open": "(@fields.last_opened == @local.course)"

@@ -36,6 +36,11 @@
       "name": "course_id"
     },
     {
+      "name": "nav_image",
+      "value": "images/icons/expand_circle_right.png",
+      "exclude_from_translation": true
+    },
+    {
       "type": "begin_items",
       "name": "loop_modules",
       "value": "@data.module_tasks",
@@ -55,7 +60,7 @@
       "name": "plh_module_list_item",
       "value": "@item.title",
       "action_list": "click | nav_stack: open | template: @local.article_prefix@item.id@local.article_suffix, header: false;",
-      "parameter_list": "module_image_asset: @local.tile_image;\nnav_image_asset: @local.nav_image_asset;\nlocked_image_asset: @local.locked_image_asset;\ncompleted_image_asset: @local.completed_image_asset;\ncompleted: FALSE;\nis_locked: FALSE;\nhighlighted: FALSE;\nbackground: @local.background;"
+      "parameter_list": "module_image_asset: @local.tile_image;\nnav_image_asset: @local.nav_image;\nlocked_image_asset: @local.nav_image;\ncompleted_image_asset: @local.nav_image;\ncompleted: FALSE;\nis_locked: FALSE;\nhighlighted: FALSE;"
     },
     {
       "type": "end_items"

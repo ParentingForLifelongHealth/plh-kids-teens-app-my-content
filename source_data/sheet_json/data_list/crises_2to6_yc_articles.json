@@ -32,7 +32,7 @@
       "text_1_facilitator::eng": "@data.characters.f1_son_5.name looks upset. Let’s see how his father, @data.characters.f1_father.name responds:",
       "image_asset": "images/yc_modules/crises_2to6_yc_1.svg",
       "character_1_id": "f1_son_5",
-      "character_1_text::eng": "@data.characters.f1_son_5.name: I don't want to play with Aiman today.",
+      "character_1_text::eng": "I don't want to play with Aiman today.",
       "character_2_id": "f1_father",
       "character_2_text::eng": "What happened, @data.characters.f1_son_5.name? I thought you and Aiman were friends. Do you want to talk about it?"
     },

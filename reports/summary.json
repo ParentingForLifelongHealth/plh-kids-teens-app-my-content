@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2831
+        "count": 2802
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 201
+        "count": 197
       },
       {
         "type": "text_area",
@@ -259,7 +259,7 @@
       },
       {
         "type": "set_local",
-        "count": 62
+        "count": 63
       },
       {
         "type": "share",
@@ -279,12 +279,12 @@
     "data": [
       {
         "assets": "total",
-        "KB": "137569 KB",
+        "KB": "137571 KB",
         "MB": "137.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "49186 KB",
+        "KB": "49185 KB",
         "MB": "49.2 MB"
       }
     ]
@@ -514,10 +514,6 @@
       {
         "path": "images/icons/document.svg",
         "size_kb": 7.3
-      },
-      {
-        "path": "images/icons/expand_circle_right.png",
-        "size_kb": 0.9
       },
       {
         "path": "images/icons/expand_circle_right.svg",
@@ -1737,6 +1733,11 @@
         "size_kb": 0.5
       },
       {
+        "path": "images/icons/expand_circle_right.png",
+        "count": 1,
+        "size_kb": 0.9
+      },
+      {
         "path": "images/icons/expand_circle_right_blue.svg",
         "count": 2,
         "size_kb": 2.1
@@ -1885,6 +1886,11 @@
         "path": "images/icons/pencil.svg",
         "count": 49,
         "size_kb": 1.1
+      },
+      {
+        "path": "images/icons/people-outline.svg",
+        "count": 1,
+        "size_kb": 0.9
       },
       {
         "path": "images/icons/person-circle-outline.svg",

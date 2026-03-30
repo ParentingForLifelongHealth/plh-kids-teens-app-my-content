@@ -31,6 +31,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "faci_group_icon",
+      "value": "images/icons/people-outline.svg"
+    },
+    {
       "name": "about_icon",
       "value": "images/icons/information-circle-outline.svg",
       "exclude_from_translation": true
@@ -85,8 +89,8 @@
     {
       "type": "button",
       "name": "button_faci_group_id",
-      "value": "Faci",
-      "parameter_list": "variant: card;\nicon: @local.profile_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
+      "value": "@global.facilitator_setting",
+      "parameter_list": "variant: card;\nicon: @local.faci_group_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
       "action_list": "click | pop_up: settings_faci_group_id | fullscreen: true, showCloseButton: false;",
       "exclude_from_translation": true
     },

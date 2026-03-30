@@ -305,6 +305,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "facilitator_setting",
+      "value": "Facilitator"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "language",
       "value": "Language"
     },

@@ -51,6 +51,15 @@
       "_nested_name": "user_id_icon"
     },
     {
+      "name": "faci_group_icon",
+      "value": "images/icons/people-outline.svg",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "faci_group_icon"
+    },
+    {
       "name": "about_icon",
       "value": "images/icons/information-circle-outline.svg",
       "_translations": {
@@ -291,13 +300,13 @@
         {
           "type": "button",
           "name": "button_faci_group_id",
-          "value": "Faci",
+          "value": "@global.facilitator_setting",
           "_translations": {
             "value": {}
           },
           "parameter_list": {
             "variant": "card",
-            "icon": "@local.profile_icon",
+            "icon": "@local.faci_group_icon",
             "icon_secondary_asset": "@local.next_icon_asset",
             "style": "no-background",
             "text_align": "left"
@@ -319,13 +328,21 @@
           "exclude_from_translation": true,
           "_nested_name": "dg_account.button_faci_group_id",
           "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.facilitator_setting",
+                "matchedExpression": "@global.facilitator_setting",
+                "type": "global",
+                "fieldName": "facilitator_setting"
+              }
+            ],
             "parameter_list": {
               "icon": [
                 {
-                  "fullExpression": "@local.profile_icon",
-                  "matchedExpression": "@local.profile_icon",
+                  "fullExpression": "@local.faci_group_icon",
+                  "matchedExpression": "@local.faci_group_icon",
                   "type": "local",
-                  "fieldName": "profile_icon"
+                  "fieldName": "faci_group_icon"
                 }
               ],
               "icon_secondary_asset": [
@@ -339,7 +356,10 @@
             }
           },
           "_dynamicDependencies": {
-            "@local.profile_icon": [
+            "@global.facilitator_setting": [
+              "value"
+            ],
+            "@local.faci_group_icon": [
               "parameter_list.icon"
             ],
             "@local.next_icon_asset": [
