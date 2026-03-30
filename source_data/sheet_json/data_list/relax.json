@@ -7,6 +7,7 @@
   "rows": [
     {
       "id": "relax_1",
+      "in_library": "yes",
       "title::eng": "Physical activity",
       "lottie_asset": "lottie/relax/square_flow.json",
       "to_delete": "relax_1_m.mp3",
@@ -68,7 +69,6 @@
     },
     {
       "id": "relax_5",
-      "in_library": "yes",
       "title::eng": "In and out",
       "lottie_asset": "lottie/relax/blue_dots.json",
       "to_delete": "relax_5_m.mp3",
@@ -84,6 +84,7 @@
     },
     {
       "id": "relax_6",
+      "in_library": "yes",
       "title::eng": "Think about today",
       "lottie_asset": "lottie/relax/square_flow.json",
       "to_delete": "relax_6_m.mp3",
@@ -129,7 +130,6 @@
     },
     {
       "id": "relax_9",
-      "in_library": "yes",
       "title::eng": "Body scan",
       "lottie_asset": "lottie/relax/square_flow.json",
       "to_delete": "relax_9_m.mp3",
@@ -190,6 +190,7 @@
     },
     {
       "id": "relax_13",
+      "in_library": "yes",
       "title::eng": "Your song",
       "lottie_asset": "lottie/relax/heart.json",
       "to_delete": "relax_13__.mp3",
@@ -220,6 +221,7 @@
     },
     {
       "id": "relax_15",
+      "in_library": "yes",
       "title::eng": "Notice how you feel",
       "lottie_asset": "lottie/relax/square_flow.json",
       "to_delete": "relax_15__.mp3",
@@ -235,6 +237,7 @@
     },
     {
       "id": "relax_16",
+      "in_library": "yes",
       "title::eng": "Angry? Take a break",
       "lottie_asset": "lottie/relax/blue_dots.json",
       "to_delete": "relax_16__.mp3",

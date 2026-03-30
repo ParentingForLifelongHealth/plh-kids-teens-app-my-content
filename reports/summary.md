@@ -33,11 +33,11 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2802 |
+| set_variable | 2814 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 878 |
+| template | 884 |
 | text | 197 |
 | text_area | 2 |
 | text_box | 22 |
@@ -65,7 +65,7 @@
 | emit: uncompleted | 605 |
 | feedback | 13 |
 | go_to | 16 |
-| nav_stack | 340 |
+| nav_stack | 346 |
 | plh_parent_group | 2 |
 | pop_up | 70 |
 | reset_app | 4 |
@@ -239,20 +239,20 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/english/relax_10__.mp3 | 1 |
 | audio/relax/english/relax_11__.mp3 | 1 |
 | audio/relax/english/relax_12__.mp3 | 1 |
-| audio/relax/english/relax_13__.mp3 | 9 |
+| audio/relax/english/relax_13__.mp3 | 10 |
 | audio/relax/english/relax_14__.mp3 | 1 |
-| audio/relax/english/relax_15__.mp3 | 9 |
-| audio/relax/english/relax_16__.mp3 | 9 |
+| audio/relax/english/relax_15__.mp3 | 10 |
+| audio/relax/english/relax_16__.mp3 | 10 |
 | audio/relax/english/relax_17__.mp3 | 1 |
 | audio/relax/english/relax_18__.mp3 | 1 |
 | audio/relax/english/relax_19__.mp3 | 1 |
 | audio/relax/malay/relax_10__.mp3 | 1 |
 | audio/relax/malay/relax_11__.mp3 | 1 |
 | audio/relax/malay/relax_12__.mp3 | 1 |
-| audio/relax/malay/relax_13__.mp3 | 9 |
+| audio/relax/malay/relax_13__.mp3 | 10 |
 | audio/relax/malay/relax_14__.mp3 | 1 |
-| audio/relax/malay/relax_15__.mp3 | 9 |
-| audio/relax/malay/relax_16__.mp3 | 9 |
+| audio/relax/malay/relax_15__.mp3 | 10 |
+| audio/relax/malay/relax_16__.mp3 | 10 |
 | audio/relax/malay/relax_17__.mp3 | 1 |
 | audio/relax/malay/relax_18__.mp3 | 1 |
 | audio/relax/malay/relax_19__.mp3 | 1 |
@@ -279,22 +279,22 @@ Assets that have references within sheets but do not appear in app-data
 | relax_10__.mp3 | 1 |
 | relax_11__.mp3 | 1 |
 | relax_12__.mp3 | 1 |
-| relax_13__.mp3 | 9 |
+| relax_13__.mp3 | 10 |
 | relax_14__.mp3 | 1 |
-| relax_15__.mp3 | 9 |
-| relax_16__.mp3 | 9 |
+| relax_15__.mp3 | 10 |
+| relax_16__.mp3 | 10 |
 | relax_17__.mp3 | 1 |
 | relax_18__.mp3 | 1 |
 | relax_19__.mp3 | 1 |
-| relax_1_m.mp3 | 9 |
+| relax_1_m.mp3 | 10 |
 | relax_2_m.mp3 | 1 |
 | relax_3_m.mp3 | 10 |
 | relax_4_m.mp3 | 1 |
-| relax_5_m.mp3 | 2 |
-| relax_6_m.mp3 | 9 |
+| relax_5_m.mp3 | 1 |
+| relax_6_m.mp3 | 10 |
 | relax_7_m.mp3 | 1 |
 | relax_8_m.mp3 | 1 |
-| relax_9_m.mp3 | 2 |
+| relax_9_m.mp3 | 1 |
 </details>
 
 <details >
@@ -307,59 +307,59 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/english/relax_10_f.mp3 | 613.1 | 1 |
 | audio/relax/english/relax_11_f.mp3 | 412.7 | 1 |
 | audio/relax/english/relax_12_f.mp3 | 911.8 | 1 |
-| audio/relax/english/relax_13_f.mp3 | 671.4 | 9 |
+| audio/relax/english/relax_13_f.mp3 | 671.4 | 10 |
 | audio/relax/english/relax_14_f.mp3 | 405.7 | 1 |
-| audio/relax/english/relax_15_f.mp3 | 451 | 9 |
-| audio/relax/english/relax_16_f.mp3 | 378.8 | 9 |
+| audio/relax/english/relax_15_f.mp3 | 451 | 10 |
+| audio/relax/english/relax_16_f.mp3 | 378.8 | 10 |
 | audio/relax/english/relax_17_f.mp3 | 512.7 | 1 |
 | audio/relax/english/relax_18_f.mp3 | 1253.1 | 1 |
 | audio/relax/english/relax_19_f.mp3 | 1763.3 | 1 |
-| audio/relax/english/relax_1_f.mp3 | 1857.1 | 9 |
-| audio/relax/english/relax_1_m.mp3 | 1516.5 | 9 |
+| audio/relax/english/relax_1_f.mp3 | 1857.1 | 10 |
+| audio/relax/english/relax_1_m.mp3 | 1516.5 | 10 |
 | audio/relax/english/relax_2_f.mp3 | 707.3 | 1 |
 | audio/relax/english/relax_2_m.mp3 | 591.7 | 1 |
 | audio/relax/english/relax_3_f.mp3 | 346.5 | 10 |
 | audio/relax/english/relax_3_m.mp3 | 361.6 | 10 |
 | audio/relax/english/relax_4_f.mp3 | 338.4 | 1 |
 | audio/relax/english/relax_4_m.mp3 | 426.1 | 1 |
-| audio/relax/english/relax_5_f.mp3 | 286.5 | 2 |
-| audio/relax/english/relax_5_m.mp3 | 312.4 | 2 |
-| audio/relax/english/relax_6_f.mp3 | 576.3 | 9 |
-| audio/relax/english/relax_6_m.mp3 | 487.8 | 9 |
+| audio/relax/english/relax_5_f.mp3 | 286.5 | 1 |
+| audio/relax/english/relax_5_m.mp3 | 312.4 | 1 |
+| audio/relax/english/relax_6_f.mp3 | 576.3 | 10 |
+| audio/relax/english/relax_6_m.mp3 | 487.8 | 10 |
 | audio/relax/english/relax_7_f.mp3 | 549 | 1 |
 | audio/relax/english/relax_7_m.mp3 | 437 | 1 |
 | audio/relax/english/relax_8_f.mp3 | 626.1 | 1 |
 | audio/relax/english/relax_8_m.mp3 | 500.9 | 1 |
-| audio/relax/english/relax_9_f.mp3 | 951 | 2 |
-| audio/relax/english/relax_9_m.mp3 | 1082 | 2 |
+| audio/relax/english/relax_9_f.mp3 | 951 | 1 |
+| audio/relax/english/relax_9_m.mp3 | 1082 | 1 |
 | audio/relax/malay/relax_10_f.mp3 | 1197.1 | 1 |
 | audio/relax/malay/relax_11_f.mp3 | 449.4 | 1 |
 | audio/relax/malay/relax_12_f.mp3 | 1224.1 | 1 |
-| audio/relax/malay/relax_13_f.mp3 | 829.8 | 9 |
+| audio/relax/malay/relax_13_f.mp3 | 829.8 | 10 |
 | audio/relax/malay/relax_14_f.mp3 | 438.4 | 1 |
-| audio/relax/malay/relax_15_f.mp3 | 612.7 | 9 |
-| audio/relax/malay/relax_16_f.mp3 | 475.9 | 9 |
+| audio/relax/malay/relax_15_f.mp3 | 612.7 | 10 |
+| audio/relax/malay/relax_16_f.mp3 | 475.9 | 10 |
 | audio/relax/malay/relax_17_f.mp3 | 693.1 | 1 |
 | audio/relax/malay/relax_18_f.mp3 | 1481.2 | 1 |
 | audio/relax/malay/relax_19_f.mp3 | 2101.6 | 1 |
-| audio/relax/malay/relax_1_f.mp3 | 2313.1 | 9 |
-| audio/relax/malay/relax_1_m.mp3 | 2431 | 9 |
+| audio/relax/malay/relax_1_f.mp3 | 2313.1 | 10 |
+| audio/relax/malay/relax_1_m.mp3 | 2431 | 10 |
 | audio/relax/malay/relax_2_f.mp3 | 628.6 | 1 |
 | audio/relax/malay/relax_2_m.mp3 | 913.5 | 1 |
 | audio/relax/malay/relax_3_f.mp3 | 504.1 | 10 |
 | audio/relax/malay/relax_3_m.mp3 | 605.3 | 10 |
 | audio/relax/malay/relax_4_f.mp3 | 493.9 | 1 |
 | audio/relax/malay/relax_4_m.mp3 | 554.7 | 1 |
-| audio/relax/malay/relax_5_f.mp3 | 750.6 | 2 |
-| audio/relax/malay/relax_5_m.mp3 | 684.5 | 2 |
-| audio/relax/malay/relax_6_f.mp3 | 782.4 | 9 |
-| audio/relax/malay/relax_6_m.mp3 | 807.3 | 9 |
+| audio/relax/malay/relax_5_f.mp3 | 750.6 | 1 |
+| audio/relax/malay/relax_5_m.mp3 | 684.5 | 1 |
+| audio/relax/malay/relax_6_f.mp3 | 782.4 | 10 |
+| audio/relax/malay/relax_6_m.mp3 | 807.3 | 10 |
 | audio/relax/malay/relax_7_f.mp3 | 994.7 | 1 |
 | audio/relax/malay/relax_7_m.mp3 | 989.8 | 1 |
 | audio/relax/malay/relax_8_f.mp3 | 788.2 | 1 |
 | audio/relax/malay/relax_8_m.mp3 | 900.8 | 1 |
-| audio/relax/malay/relax_9_f.mp3 | 1492.2 | 2 |
-| audio/relax/malay/relax_9_m.mp3 | 1726.9 | 2 |
+| audio/relax/malay/relax_9_f.mp3 | 1492.2 | 1 |
+| audio/relax/malay/relax_9_m.mp3 | 1726.9 | 1 |
 | images/activities/a_friendly_chat.svg | 1350.7 | 2 |
 | images/activities/active_counting.svg | 1457 | 2 |
 | images/activities/active_songs.svg | 1271 | 2 |
@@ -638,10 +638,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/checkmark.json | 23.6 | 1 |
 | lottie/gift_box.json | 674.5 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 13 |
-| lottie/relax/heart.json | 46.7 | 11 |
+| lottie/relax/heart.json | 46.7 | 12 |
 | lottie/relax/looping_rings.json | 10.4 | 13 |
 | lottie/relax/soothing_waves.json | 7.6 | 1 |
-| lottie/relax/square_flow.json | 5.9 | 32 |
+| lottie/relax/square_flow.json | 5.9 | 34 |
 </details>
 
 <details >
@@ -716,6 +716,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 136 |
-| template | generated | 672 |
+| template | generated | 675 |
 | template | legal_terms | 4 |
 </details>

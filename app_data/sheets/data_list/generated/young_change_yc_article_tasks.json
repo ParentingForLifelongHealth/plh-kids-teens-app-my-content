@@ -5,6 +5,7 @@
   "rows": [
     {
       "id": "relax_16",
+      "in_library": "yes",
       "lottie_asset": "lottie/relax/blue_dots.json",
       "to_delete": "relax_16__.mp3",
       "media_asset_gb_en_m": "audio/relax/english/relax_16__.mp3",
