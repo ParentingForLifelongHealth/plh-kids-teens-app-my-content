@@ -59,6 +59,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "completed_enabled",
       "_dynamicFields": {
