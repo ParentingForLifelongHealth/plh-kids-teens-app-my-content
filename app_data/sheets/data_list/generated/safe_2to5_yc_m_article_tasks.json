@@ -210,11 +210,15 @@
         "quiz_2_feedback_2": {
           "my_ms": true
         },
-        "quiz_2_option_3_text": {},
+        "quiz_2_option_3_text": {
+          "my_ms": true
+        },
         "quiz_2_feedback_3": {
           "my_ms": true
         },
-        "quiz_2_option_4_text": {},
+        "quiz_2_option_4_text": {
+          "my_ms": true
+        },
         "quiz_2_feedback_4": {
           "my_ms": true
         }

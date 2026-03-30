@@ -44,11 +44,15 @@
         "quiz_1_option_1_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
         "quiz_1_option_2_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_2_question": {
           "my_ms": true
         },
