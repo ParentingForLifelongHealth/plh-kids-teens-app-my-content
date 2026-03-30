@@ -557,7 +557,7 @@
     },
     {
       "name": "has_last_completed",
-      "value": 0,
+      "value": -1,
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "has_last_completed"
@@ -1352,7 +1352,7 @@
             "sort": "number",
             "limit": "1"
           },
-          "condition": "(@local.has_in_progress == 0) && (@local.has_next_module == 0)",
+          "condition": "(@local.has_in_progress == 0) && ((@local.has_last_completed == 0) || (@local.has_next_module == 0))",
           "exclude_from_translation": true,
           "_nested_name": "display_group_19.get_first_item",
           "_dynamicFields": {
@@ -1430,13 +1430,19 @@
             },
             "condition": [
               {
-                "fullExpression": "(@local.has_in_progress == 0) && (@local.has_next_module == 0)",
+                "fullExpression": "(@local.has_in_progress == 0) && ((@local.has_last_completed == 0) || (@local.has_next_module == 0))",
                 "matchedExpression": "@local.has_in_progress",
                 "type": "local",
                 "fieldName": "has_in_progress"
               },
               {
-                "fullExpression": "(@local.has_in_progress == 0) && (@local.has_next_module == 0)",
+                "fullExpression": "(@local.has_in_progress == 0) && ((@local.has_last_completed == 0) || (@local.has_next_module == 0))",
+                "matchedExpression": "@local.has_last_completed",
+                "type": "local",
+                "fieldName": "has_last_completed"
+              },
+              {
+                "fullExpression": "(@local.has_in_progress == 0) && ((@local.has_last_completed == 0) || (@local.has_next_module == 0))",
                 "matchedExpression": "@local.has_next_module",
                 "type": "local",
                 "fieldName": "has_next_module"
@@ -1478,6 +1484,9 @@
               "parameter_list.filter"
             ],
             "@local.has_in_progress": [
+              "condition"
+            ],
+            "@local.has_last_completed": [
               "condition"
             ],
             "@local.has_next_module": [
