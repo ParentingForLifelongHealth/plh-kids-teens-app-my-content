@@ -14,7 +14,7 @@
 | data_items | 120 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 95 |
+| display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 21 |
@@ -30,15 +30,15 @@
 | plh_module_list_item | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 15 |
+| round_button | 17 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2814 |
+| set_variable | 2812 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 884 |
-| text | 197 |
+| text | 198 |
 | text_area | 2 |
 | text_box | 22 |
 | text_bubble | 11 |
@@ -56,13 +56,13 @@
 | --- | --- |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 600 |
+| emit: completed | 601 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 605 |
+| emit: uncompleted | 606 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 346 |
@@ -71,7 +71,7 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 81 |
-| set_field | 106 |
+| set_field | 107 |
 | set_item | 72 |
 | set_local | 63 |
 | share | 2 |
