@@ -241,6 +241,11 @@
       "type": "declare_global_constant",
       "name": "restart",
       "value": "Restart Lesson"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback",
+      "value": "Feedback"
     }
   ]
 }

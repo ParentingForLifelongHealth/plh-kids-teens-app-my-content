@@ -305,6 +305,16 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "type": "declare_global_constant",
       "name": "facilitator_setting",
       "value": "Facilitator"
     },
@@ -347,6 +357,21 @@
       "type": "declare_global_constant",
       "name": "module_completion_encouragement",
       "value": "Nice work! Complete the open lessons to unlock more."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "change_certificate_name",
+      "value": "Change name"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificate_name_question",
+      "value": "What name should be on your certificate?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "library_certificates",
+      "value": "My Certificates"
     }
   ]
 }

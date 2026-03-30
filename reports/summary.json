@@ -27,11 +27,11 @@
       },
       {
         "type": "button",
-        "count": 95
+        "count": 101
       },
       {
         "type": "combo_box",
-        "count": 24
+        "count": 25
       },
       {
         "type": "data_items",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 96
+        "count": 97
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 21
+        "count": 22
       },
       {
         "type": "items",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2812
+        "count": 2824
       },
       {
         "type": "simple_checkbox",
@@ -139,19 +139,19 @@
       },
       {
         "type": "template",
-        "count": 884
+        "count": 885
       },
       {
         "type": "text",
-        "count": 198
+        "count": 201
       },
       {
         "type": "text_area",
-        "count": 2
+        "count": 3
       },
       {
         "type": "text_box",
-        "count": 22
+        "count": 24
       },
       {
         "type": "text_bubble",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 51
+        "count": 52
       },
       {
         "type": "toggle_bar",
@@ -182,6 +182,10 @@
   "template_actions": {
     "data": [
       {
+        "type": "add_data",
+        "count": 1
+      },
+      {
         "type": "app_update",
         "count": 1
       },
@@ -191,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 601
+        "count": 603
       },
       {
         "type": "emit: force_reload",
@@ -215,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 606
+        "count": 607
       },
       {
         "type": "feedback",
@@ -235,7 +239,7 @@
       },
       {
         "type": "pop_up",
-        "count": 70
+        "count": 72
       },
       {
         "type": "reset_app",
@@ -251,7 +255,7 @@
       },
       {
         "type": "set_field",
-        "count": 107
+        "count": 109
       },
       {
         "type": "set_item",
@@ -263,11 +267,15 @@
       },
       {
         "type": "share",
-        "count": 2
+        "count": 3
       },
       {
         "type": "task",
         "count": 2
+      },
+      {
+        "type": "toast",
+        "count": 1
       },
       {
         "type": "user",
@@ -279,8 +287,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "137571 KB",
-        "MB": "137.6 MB"
+        "KB": "138104 KB",
+        "MB": "138.1 MB"
       },
       {
         "assets": "unused",
@@ -502,10 +510,6 @@
       {
         "path": "images/icons/cancel.svg",
         "size_kb": 1.7
-      },
-      {
-        "path": "images/icons/chatbubble-ellipses-outline.svg",
-        "size_kb": 0.8
       },
       {
         "path": "images/icons/clock_blue.png",
@@ -996,11 +1000,6 @@
       {
         "path": "images/faces/sad.svg",
         "count": 9,
-        "missing": true
-      },
-      {
-        "path": "images/icons/share.svg",
-        "count": 2,
         "missing": true
       },
       {
@@ -1703,6 +1702,11 @@
         "size_kb": 70.4
       },
       {
+        "path": "images/icons/chatbubble-ellipses-outline.svg",
+        "count": 1,
+        "size_kb": 0.8
+      },
+      {
         "path": "images/icons/diamond-outline.svg",
         "count": 2,
         "size_kb": 0.6
@@ -1731,6 +1735,11 @@
         "path": "images/icons/document-text-outline.svg",
         "count": 1,
         "size_kb": 0.5
+      },
+      {
+        "path": "images/icons/download.svg",
+        "count": 1,
+        "size_kb": 0.7
       },
       {
         "path": "images/icons/expand_circle_right.png",
@@ -1923,6 +1932,11 @@
         "size_kb": 2.4
       },
       {
+        "path": "images/icons/share.svg",
+        "count": 3,
+        "size_kb": 4.2
+      },
+      {
         "path": "images/icons/smile_eyes_down.svg",
         "count": 51,
         "size_kb": 0.9
@@ -1971,6 +1985,11 @@
         "path": "images/icons/trophy_large.svg",
         "count": 1,
         "size_kb": 2.2
+      },
+      {
+        "path": "images/jasper_1.jpg",
+        "count": 1,
+        "size_kb": 527.3
       },
       {
         "path": "images/logos/app_logo.png",
@@ -2819,7 +2838,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 15
+        "total": 17
       },
       {
         "type": "data_list",
@@ -3149,7 +3168,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 136
+        "total": 139
       },
       {
         "type": "template",

@@ -1,0 +1,225 @@
+{
+  "flow_type": "template",
+  "flow_name": "certificate",
+  "status": "released",
+  "rows": [
+    {
+      "name": "image_path",
+      "value": "images/jasper_1.jpg",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "image_path"
+    },
+    {
+      "name": "certificate_to_print",
+      "value": "test",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "certificate_to_print"
+    },
+    {
+      "type": "text",
+      "value": "Certificate with name @fields.certificate_name\n\n\n{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "name": "text_4",
+      "_nested_name": "text_4",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "Certificate with name @fields.certificate_name\n\n\n{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}",
+            "matchedExpression": "@fields.certificate_name",
+            "type": "fields",
+            "fieldName": "certificate_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.certificate_name": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "value": "@local.image_path",
+      "_translations": {
+        "value": {}
+      },
+      "name": "image_5",
+      "_nested_name": "image_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.image_path",
+            "matchedExpression": "@local.image_path",
+            "type": "local",
+            "fieldName": "image_path"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.image_path": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "style_list": [
+        "justify-content: center"
+      ],
+      "rows": [
+        {
+          "type": "button",
+          "name": "download_button",
+          "value": "@global.download",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "icon": "images/icons/download.svg",
+            "style": "navigation"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "display_group_6.download_button",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.download",
+                "matchedExpression": "@global.download",
+                "type": "global",
+                "fieldName": "download"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.download": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "share_button",
+          "value": "@global.share",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "share",
+              "args": [
+                "file",
+                "@local.image_path"
+              ],
+              "_raw": "click | share: file: @local.image_path"
+            }
+          ],
+          "parameter_list": {
+            "icon": "images/icons/share.svg",
+            "style": "navigation"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "display_group_6.share_button",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.share",
+                "matchedExpression": "@global.share",
+                "type": "global",
+                "fieldName": "share"
+              }
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.image_path",
+                      "matchedExpression": "@local.image_path",
+                      "type": "local",
+                      "fieldName": "image_path"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | share: file: @local.image_path",
+                    "matchedExpression": "@local.image_path",
+                    "type": "local",
+                    "fieldName": "image_path"
+                  }
+                ]
+              }
+            }
+          },
+          "_dynamicDependencies": {
+            "@global.share": [
+              "value"
+            ],
+            "@local.image_path": [
+              "action_list.0.args.1",
+              "action_list.0._raw"
+            ]
+          }
+        }
+      ],
+      "name": "display_group_6",
+      "_nested_name": "display_group_6"
+    },
+    {
+      "type": "button",
+      "name": "button_update_name",
+      "value": "<u>@global.change_certificate_name</u>",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "update_certificate_name"
+          ],
+          "_raw": "click | pop_up: update_certificate_name"
+        }
+      ],
+      "parameter_list": {
+        "variant": "card",
+        "style": "no-background"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "button_update_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "<u>@global.change_certificate_name</u>",
+            "matchedExpression": "@global.change_certificate_name",
+            "type": "global",
+            "fieldName": "change_certificate_name"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.change_certificate_name": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "templates/MY certificates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+  }
+}

@@ -779,6 +779,15 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
+                "certificate_name",
+                "@local.user_name_input"
+              ],
+              "_raw": "click | set_field: certificate_name: @local.user_name_input"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
                 "user_gender",
                 "@local.user_gender_select"
               ],
@@ -844,6 +853,26 @@
                 "args": {
                   "1": [
                     {
+                      "fullExpression": "@local.user_name_input",
+                      "matchedExpression": "@local.user_name_input",
+                      "type": "local",
+                      "fieldName": "user_name_input"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: certificate_name: @local.user_name_input",
+                    "matchedExpression": "@local.user_name_input",
+                    "type": "local",
+                    "fieldName": "user_name_input"
+                  }
+                ]
+              },
+              "2": {
+                "args": {
+                  "1": [
+                    {
                       "fullExpression": "@local.user_gender_select",
                       "matchedExpression": "@local.user_gender_select",
                       "type": "local",
@@ -860,7 +889,7 @@
                   }
                 ]
               },
-              "2": {
+              "3": {
                 "args": {
                   "1": [
                     {
@@ -898,15 +927,17 @@
             ],
             "@local.user_name_input": [
               "action_list.0.args.1",
-              "action_list.0._raw"
-            ],
-            "@local.user_gender_select": [
+              "action_list.0._raw",
               "action_list.1.args.1",
               "action_list.1._raw"
             ],
-            "@local.user_location_select": [
+            "@local.user_gender_select": [
               "action_list.2.args.1",
               "action_list.2._raw"
+            ],
+            "@local.user_location_select": [
+              "action_list.3.args.1",
+              "action_list.3._raw"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"

@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 95 |
-| combo_box | 24 |
+| button | 101 |
+| combo_box | 25 |
 | data_items | 120 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 96 |
+| display_group | 97 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 21 |
+| image | 22 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -33,16 +33,16 @@
 | round_button | 17 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2812 |
+| set_variable | 2824 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 884 |
-| text | 198 |
-| text_area | 2 |
-| text_box | 22 |
+| template | 885 |
+| text | 201 |
+| text_area | 3 |
+| text_box | 24 |
 | text_bubble | 11 |
-| title | 51 |
+| title | 52 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -54,28 +54,30 @@
 
 | type | count |
 | --- | --- |
+| add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 601 |
+| emit: completed | 603 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 606 |
+| emit: uncompleted | 607 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 346 |
 | plh_parent_group | 2 |
-| pop_up | 70 |
+| pop_up | 72 |
 | reset_app | 4 |
 | reset_data | 3 |
 | set_data | 81 |
-| set_field | 107 |
+| set_field | 109 |
 | set_item | 72 |
 | set_local | 63 |
-| share | 2 |
+| share | 3 |
 | task | 2 |
+| toast | 1 |
 | user | 3 |
 </details>
 
@@ -84,7 +86,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 137571 KB | 137.6 MB |
+| total | 138104 KB | 138.1 MB |
 | unused | 49185 KB | 49.2 MB |
 </details>
 
@@ -148,7 +150,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/book_outline_white.svg | 0.7 |
 | images/icons/brain_blue.png | 5.2 |
 | images/icons/cancel.svg | 1.7 |
-| images/icons/chatbubble-ellipses-outline.svg | 0.8 |
 | images/icons/clock_blue.png | 4.5 |
 | images/icons/document.svg | 7.3 |
 | images/icons/expand_circle_right.svg | 0.5 |
@@ -271,7 +272,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/faces/happy.svg | 9 |
 | images/faces/neutral.svg | 9 |
 | images/faces/sad.svg | 9 |
-| images/icons/share.svg | 2 |
 | images/logos/plh_logomark.png | 1 |
 | make_a_monthly_budget_yc_1.svg | 2 |
 | make_a_monthly_budget_yc_2.svg | 2 |
@@ -420,12 +420,14 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/safety.svg | 116 | 13 |
 | images/homescreen/structure.svg | 46.9 | 13 |
 | images/icons/celebration.svg | 70.4 | 1 |
+| images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/diamond_blue.png | 4.7 | 94 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline.svg | 0.5 | 1 |
+| images/icons/download.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 64 |
@@ -464,6 +466,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/settings.svg | 2.4 | 1 |
 | images/icons/settings_active.svg | 2.4 | 1 |
 | images/icons/settings_white.svg | 2.4 | 1 |
+| images/icons/share.svg | 4.2 | 3 |
 | images/icons/smile_eyes_down.svg | 0.9 | 51 |
 | images/icons/smile_eyes_up.svg | 1 | 98 |
 | images/icons/star_filled_blue.png | 5.1 | 92 |
@@ -474,6 +477,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 6 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
+| images/jasper_1.jpg | 527.3 | 1 |
 | images/logos/app_logo.png | 12.8 | 2 |
 | images/logos/favicon.svg | 8.8 | 1 |
 | images/logos/idems.png | 42.7 | 1 |
@@ -649,7 +653,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 15 |
+| data_list |  | 17 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
@@ -715,7 +719,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 136 |
+| template |  | 139 |
 | template | generated | 675 |
 | template | legal_terms | 4 |
 </details>

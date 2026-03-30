@@ -50,6 +50,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "feedback_icon",
+      "value": "images/icons/chatbubble-ellipses-outline.svg"
+    },
+    {
       "type": "title",
       "name": "settings",
       "value": "@global.settings",
@@ -151,6 +155,13 @@
       "parameter_list": "variant: card;\nicon: @local.privacy_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
       "action_list": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false;",
       "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_feedback",
+      "value": "@global.feedback",
+      "parameter_list": "variant: card;\nicon: @local.feedback_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
+      "action_list": "click | pop_up: feedback_form | fullscreen: true, showCloseButton: false;"
     },
     {
       "type": "end_display_group",
