@@ -52,10 +52,6 @@
       "value": "@item.image_asset"
     },
     {
-      "name": "background",
-      "value": "var(--plh-module-list-item-background-1)"
-    },
-    {
       "type": "plh_module_list_item",
       "name": "plh_module_list_item",
       "value": "@item.title",

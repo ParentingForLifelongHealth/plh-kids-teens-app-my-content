@@ -4,10 +4,6 @@
   "status": "released",
   "rows": [
     {
-      "name": "success",
-      "value": false
-    },
-    {
       "type": "begin_display_group",
       "name": "dg_row"
     },
@@ -27,7 +23,7 @@
     },
     {
       "type": "text",
-      "value": "no success",
+      "value": "no success ",
       "condition": "!@local.success"
     },
     {
@@ -54,14 +50,14 @@
       "name": "faci_group_id_input",
       "value": "@fields.faci_group_id",
       "condition": "!!@fields.faci_group_id",
-      "parameter_list": "placeholder: @global.placeholder_faci_group_id",
+      "parameter_list": "placeholder: @global.placeholder_user_facilitator_group",
       "exclude_from_translation": true
     },
     {
       "type": "text_box",
       "name": "faci_group_id_input",
       "condition": "!@fields.faci_group_id",
-      "parameter_list": "placeholder: @global.placeholder_faci_group_id",
+      "parameter_list": "placeholder: @global.placeholder_user_facilitator_group",
       "exclude_from_translation": true
     },
     {
@@ -116,8 +112,32 @@
       "exclude_from_translation": true
     },
     {
+      "type": "begin_display_group"
+    },
+    {
+      "type": "round_button",
+      "action_list": "click | emit: uncompleted",
+      "condition": "!@local.success",
+      "parameter_list": "icon_src: chevron-back;\nvariant: navigation"
+    },
+    {
+      "type": "round_button",
+      "action_list": "click | set_field: faci_group_id: @local.faci_group_id_input;\nclick | emit: completed;",
+      "condition": "@local.success",
+      "parameter_list": "icon_src: chevron-back;\nvariant: navigation"
+    },
+    {
       "type": "text",
-      "value": "!@local.success\n@local.success"
+      "value": "no success ",
+      "condition": "!@local.success"
+    },
+    {
+      "type": "text",
+      "value": "success ",
+      "condition": "@local.success"
+    },
+    {
+      "type": "end_display_group"
     }
   ]
 }

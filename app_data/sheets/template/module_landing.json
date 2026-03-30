@@ -192,22 +192,26 @@
     {
       "name": "no_completed",
       "value": 0,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "no_completed"
     },
     {
       "name": "total",
       "value": 0,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "total"
     },
     {
       "name": "course_id",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "course_id"
     },
     {
       "name": "course_name",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "course_name"
     },
@@ -232,6 +236,7 @@
         "filter": "@item.id == @local.module_id",
         "limit": "1"
       },
+      "exclude_from_translation": true,
       "name": "data_items_15",
       "_nested_name": "data_items_15",
       "_dynamicFields": {
@@ -293,6 +298,7 @@
         "filter": "@item.tag_course == @local.course_id && @item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
       },
       "condition": "!!@local.course_id",
+      "exclude_from_translation": true,
       "name": "data_items_16",
       "_nested_name": "data_items_16",
       "_dynamicFields": {
@@ -455,6 +461,7 @@
         "filter": "@item.tag_course == @local.course_id  && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
       },
       "condition": "!!@local.course_id",
+      "exclude_from_translation": true,
       "name": "data_items_17",
       "_nested_name": "data_items_17",
       "_dynamicFields": {
@@ -609,6 +616,7 @@
         "limit": "1"
       },
       "condition": "!!@local.course_id",
+      "exclude_from_translation": true,
       "name": "data_items_18",
       "_nested_name": "data_items_18",
       "_dynamicFields": {
@@ -656,6 +664,7 @@
         "value": {}
       },
       "condition": false,
+      "exclude_from_translation": true,
       "name": "text_19",
       "_nested_name": "text_19",
       "_dynamicFields": {
@@ -681,6 +690,7 @@
         "value": {}
       },
       "condition": false,
+      "exclude_from_translation": true,
       "name": "text_20",
       "_nested_name": "text_20",
       "_dynamicFields": {
@@ -706,6 +716,7 @@
         "value": {}
       },
       "condition": false,
+      "exclude_from_translation": true,
       "name": "text_21",
       "_nested_name": "text_21",
       "_dynamicFields": {

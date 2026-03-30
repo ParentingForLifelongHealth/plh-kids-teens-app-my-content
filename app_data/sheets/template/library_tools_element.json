@@ -156,15 +156,6 @@
           }
         },
         {
-          "name": "background",
-          "value": "var(--plh-module-list-item-background-1)",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "loop_modules.background"
-        },
-        {
           "type": "plh_module_list_item",
           "name": "plh_module_list_item",
           "value": "@item.title",

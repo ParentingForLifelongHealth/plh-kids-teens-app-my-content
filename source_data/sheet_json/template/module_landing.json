@@ -62,59 +62,70 @@
     },
     {
       "name": "no_completed",
-      "value": 0
+      "value": 0,
+      "exclude_from_translation": true
     },
     {
       "name": "total",
-      "value": 0
+      "value": 0,
+      "exclude_from_translation": true
     },
     {
-      "name": "course_id"
+      "name": "course_id",
+      "exclude_from_translation": true
     },
     {
-      "name": "course_name"
+      "name": "course_name",
+      "exclude_from_translation": true
     },
     {
       "type": "data_items",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : course_id: @items[0].tag_course;",
-      "parameter_list": "filter: @item.id == @local.module_id;\nlimit: 1;"
+      "parameter_list": "filter: @item.id == @local.module_id;\nlimit: 1;",
+      "exclude_from_translation": true
     },
     {
       "type": "data_items",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : no_completed: @items.length;",
       "parameter_list": "filter: @item.tag_course == @local.course_id && @item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
-      "condition": "!!@local.course_id"
+      "condition": "!!@local.course_id",
+      "exclude_from_translation": true
     },
     {
       "type": "data_items",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : total: @items.length;",
       "parameter_list": "filter: @item.tag_course == @local.course_id  && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
-      "condition": "!!@local.course_id"
+      "condition": "!!@local.course_id",
+      "exclude_from_translation": true
     },
     {
       "type": "data_items",
       "value": "courses",
       "action_list": "data_changed | set_local : course_name: @items[0].title;",
       "parameter_list": "filter: @item.id == @local.course_id;\nlimit: 1;",
-      "condition": "!!@local.course_id"
+      "condition": "!!@local.course_id",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "tag: @local.module_row.tag_course",
-      "condition": false
+      "condition": false,
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "comp: @local.no_completed",
-      "condition": false
+      "condition": false,
+      "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "total: @local.total",
-      "condition": false
+      "condition": false,
+      "exclude_from_translation": true
     },
     {
       "type": "text",
