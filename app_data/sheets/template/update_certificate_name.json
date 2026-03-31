@@ -4,6 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "name": "n_reprints",
+      "type": "set_variable",
+      "_nested_name": "n_reprints"
+    },
+    {
       "type": "data_items",
       "name": "get_n_reprints",
       "value": "@data.certificate_user_data",
@@ -95,6 +100,30 @@
           "value"
         ],
         "@calc(@local.n_reprints +1)": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "value": "@local.n_reprints_increased",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_5",
+      "_nested_name": "title_5",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.n_reprints_increased",
+            "matchedExpression": "@local.n_reprints_increased",
+            "type": "local",
+            "fieldName": "n_reprints_increased"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.n_reprints_increased": [
           "value"
         ]
       }
@@ -211,10 +240,14 @@
         },
         {
           "trigger": "click",
-          "action_id": "click",
+          "action_id": "set_data",
           "args": [],
-          "_raw": "click | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
-          "params": {}
+          "_raw": "click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+          "params": {
+            "_list_id": "certificate_user_data",
+            "_id": "@fields.cert_to_print",
+            "n_reprints": "@local.n_reprints_increased"
+          }
         },
         {
           "trigger": "click",
@@ -267,18 +300,36 @@
           "1": {
             "_raw": [
               {
-                "fullExpression": "click | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+                "fullExpression": "click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
                 "matchedExpression": "@fields.cert_to_print",
                 "type": "fields",
                 "fieldName": "cert_to_print"
               },
               {
-                "fullExpression": "click | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+                "fullExpression": "click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
                 "matchedExpression": "@local.n_reprints_increased",
                 "type": "local",
                 "fieldName": "n_reprints_increased"
               }
-            ]
+            ],
+            "params": {
+              "_id": [
+                {
+                  "fullExpression": "@fields.cert_to_print",
+                  "matchedExpression": "@fields.cert_to_print",
+                  "type": "fields",
+                  "fieldName": "cert_to_print"
+                }
+              ],
+              "n_reprints": [
+                {
+                  "fullExpression": "@local.n_reprints_increased",
+                  "matchedExpression": "@local.n_reprints_increased",
+                  "type": "local",
+                  "fieldName": "n_reprints_increased"
+                }
+              ]
+            }
           }
         },
         "parameter_list": {
@@ -301,10 +352,12 @@
           "action_list.0._raw"
         ],
         "@fields.cert_to_print": [
-          "action_list.1._raw"
+          "action_list.1._raw",
+          "action_list.1.params._id"
         ],
         "@local.n_reprints_increased": [
-          "action_list.1._raw"
+          "action_list.1._raw",
+          "action_list.1.params.n_reprints"
         ],
         "!@local.completed_enabled": [
           "parameter_list.disabled"

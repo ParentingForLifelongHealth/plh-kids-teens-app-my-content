@@ -4,6 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "name": "n_reprints",
+      "type": "set_variable",
+      "_nested_name": "n_reprints"
+    },
+    {
       "name": "certificate_to_print",
       "value": "test",
       "_translations": {
@@ -86,26 +91,32 @@
     },
     {
       "type": "text",
-      "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
+      "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text_5",
-      "_nested_name": "text_5",
+      "name": "text_6",
+      "_nested_name": "text_6",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
             "matchedExpression": "@fields.certificate_name",
             "type": "fields",
             "fieldName": "certificate_name"
           },
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
             "matchedExpression": "@fields.cert_to_print",
             "type": "fields",
             "fieldName": "cert_to_print"
+          },
+          {
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
           }
         ]
       },
@@ -115,32 +126,20 @@
         ],
         "@fields.cert_to_print": [
           "value"
+        ],
+        "@local.n_reprints": [
+          "value"
         ]
       }
     },
     {
       "type": "image",
-      "value": "@local.image_path",
+      "value": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/project%2FPLH%2Fsubproject%2FParentText_v2%2Fdeployment%2FMalaysia%2FresourceGroup%2Freward2%2Fbadge_learning.jpg?alt=media&token=653bcc73-d8ca-4de9-b012-f6a2c7d0b8a2",
       "_translations": {
         "value": {}
       },
-      "name": "image_6",
-      "_nested_name": "image_6",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.image_path",
-            "matchedExpression": "@local.image_path",
-            "type": "local",
-            "fieldName": "image_path"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.image_path": [
-          "value"
-        ]
-      }
+      "name": "image_7",
+      "_nested_name": "image_7"
     },
     {
       "type": "display_group",
@@ -170,7 +169,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_7.download_button",
+          "_nested_name": "display_group_8.download_button",
           "_dynamicFields": {
             "value": [
               {
@@ -236,7 +235,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_7.share_button",
+          "_nested_name": "display_group_8.share_button",
           "_dynamicFields": {
             "value": [
               {
@@ -280,8 +279,8 @@
           }
         }
       ],
-      "name": "display_group_7",
-      "_nested_name": "display_group_7"
+      "name": "display_group_8",
+      "_nested_name": "display_group_8"
     },
     {
       "type": "button",
@@ -303,7 +302,7 @@
       "parameter_list": {
         "variant": "card"
       },
-      "condition": "@local.n_reprints <=2",
+      "condition": "(@local.n_reprints <=2)",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -317,7 +316,7 @@
         ],
         "condition": [
           {
-            "fullExpression": "@local.n_reprints <=2",
+            "fullExpression": "(@local.n_reprints <=2)",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
@@ -353,7 +352,7 @@
       "parameter_list": {
         "variant": "card"
       },
-      "condition": "@local.n_reprints >2",
+      "condition": "(@local.n_reprints >2)",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -367,7 +366,7 @@
         ],
         "condition": [
           {
-            "fullExpression": "@local.n_reprints >2",
+            "fullExpression": "(@local.n_reprints >2)",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"

@@ -1,0 +1,26 @@
+{
+  "flow_type": "template",
+  "flow_name": "no_more_reprints",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "value": "Max number of reprints reached",
+      "_translations": {
+        "value": {}
+      },
+      "style_list": [
+        "color: #FF0000",
+        "font-size: 14px"
+      ],
+      "exclude_from_translation": true,
+      "name": "title_2",
+      "_nested_name": "title_2"
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "templates/MY certificates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+  }
+}

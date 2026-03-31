@@ -1495,7 +1495,7 @@
   },
   {
     "SourceText": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nChildline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999",
-    "text": "Pusat Perkhidmatan Wanita/ Women’s Centre for Change (WCC). Talian Bantuan Kaunseling: 011-3108 4001\n\nPertubuhan Pertolongan Wanita/ Women's Aid Organisation (WAO) (memberi sokongan kepada mangsa keganasan rumah tangga). Talian Utama: 03-3000 8858\n\nPersatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n\nChildline Malaysia (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak).\nTalian Kasih: 15999",
+    "text": "Pusat Perkhidmatan Wanita/ Women’s Centre for Change (WCC). Talian Bantuan Kaunseling: 011-3108 4001\n\nPertubuhan Pertolongan Wanita/ Women's Aid Organisation (WAO) (memberi sokongan kepada mangsa keganasan rumah tangga). Talian Utama: 03-3000 8858\n\nPersatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n\nChildline Malaysia (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999",
     "type": "data_list",
     "note": ""
   },
@@ -1556,6 +1556,12 @@
   {
     "SourceText": "Take a Pause",
     "text": "Berikan semua perhatian anda terhadap anak anda. ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Parents of Young Children",
+    "text": "Ibu Bapa Kanak-Kanak",
     "type": "data_list",
     "note": ""
   },
@@ -6751,7 +6757,7 @@
   },
   {
     "SourceText": "Welcome to your first lesson with @global.app_name! 💛\n\nEach lesson will start with a short relaxing activity to help you feel calm. 🌿\nThen you’ll do a quick check-in and learn simple tips through examples.\n\nWe will end with a home practice so you can try this with your child. ⭐\n\nSmall steps each day can make a big difference.”",
-    "text": "Selamat datang ke pelajaran pertama anda bersama @global.app_name! 💛\n\nSetiap pelajaran akan bermula dengan aktiviti ringkas untuk membantu anda berasa tenang. 🌿\nKemudian, anda akan membuat semakan ringkas/check-in tentang diri anda dan belajar beberapa tip mudah melalui contoh yang dekat dengan kehidupan seharian kita.\n\nKita akan akhiri pelajaran kita dengan latihan di rumah supaya anda boleh mencubanya bersama anak anda. ⭐\n\nLangkah kecil setiap hari boleh membawa perubahan besar.",
+    "text": "Selamat datang ke pelajaran pertama anda bersama @global.app_name! 💛\n\nSetiap pelajaran akan bermula dengan aktiviti ringkas untuk membantu anda berasa tenang. 🌿\nKemudian, anda akan membuat semakan ringkas/check-in tentang diri anda dan belajar beberapa tip mudah melalui contoh yang dekat dengan kehidupan seharian kita.\n\nKita akan akhiri pelajaran kita dengan latihan di rumah supaya anda boleh mencubanya bersama anak anda. ⭐\n\nLangkah kecil setiap hari boleh membawa perubahan besar dan bermakna.",
     "type": "data_list",
     "note": "The string @global.app_name! should not be translated."
   },
@@ -8382,6 +8388,12 @@
     "note": ""
   },
   {
+    "SourceText": "⏰ Ask your child to do something else, distract them, before the behaviour begins or gets worse.\n💡 This is much easier than using consequences after they do something!",
+    "text": "⏰ Minta anak anda buat perkara lain, alihkan perhatiannya, sebelum kelakuan negatif bermula atau menjadi lebih teruk.\n💡 Ini jauh lebih mudah daripada menggunakan akibat untuk membuat anak anda fahami pengajaran setelah dia melakukan sesuatu yang negatif!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "BE CLEAR",
     "text": "JELAS",
     "type": "data_list",
@@ -9360,6 +9372,12 @@
     "note": ""
   },
   {
+    "SourceText": "⏸ You’ve been practising taking a pause at the start of each skill.  You know how to breathe deeply, and give yourself a moment.\n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!",
+    "text": "⏸ Anda telah berlatih untuk berhenti seketika pada permulaan setiap kemahiran. Kini anda tahu cara bernafas dengan dalam dan berhenti seketika.\n😃 Berhenti seketika sebelum bertindak balas boleh membantu kita kekal tenang dan mengambil tindakan yang lebih bernas.\n🌷 Bila rasa marah atau tertekan, cuba ambil masa untuk berhenti seketika macam yang kita dah pelajari sebelum ini!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "WALK AWAY IF NECESSARY",
     "text": "PERGI JIKA PERLU",
     "type": "data_list",
@@ -9918,6 +9936,12 @@
     "note": ""
   },
   {
+    "SourceText": "Download",
+    "text": "Muat turun",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Facilitator",
     "text": "Fasilitator",
     "type": "global",
@@ -9968,6 +9992,24 @@
   {
     "SourceText": "Nice work! Complete the open lessons to unlock more.",
     "text": "Syabas! Selesaikan pelajaran yang belum selesai untuk membuka lebih banyak pilihan pelajaran yang lain.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Change name",
+    "text": "Tukar nama",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "What name should be on your certificate?",
+    "text": "Apakah nama pilihan anda untuk dipaparkan pada sijil anda?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "My Certificates",
+    "text": "Sijil Saya",
     "type": "global",
     "note": ""
   },
@@ -10064,6 +10106,18 @@
   {
     "SourceText": "You have completed all your parenting skills. Well done!",
     "text": "Syabas! Anda telah menyelesaikan kesemua kemahiran keibubapaan anda. ",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Back to Courses",
+    "text": "Kembali ke Kursus",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Restart Lesson",
+    "text": "Mulakan Semula Pelajaran",
     "type": "global",
     "note": ""
   },
@@ -10506,6 +10560,12 @@
     "note": ""
   },
   {
+    "SourceText": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+    "text": "Anda telah melengkapkan @local.no_completed daripada @local.total kemahiran dalam @local.course_name",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@local.no_completed\n@local.total\n@local.course_name"
+  },
+  {
     "SourceText": "Submit",
     "text": "Hantar",
     "type": "template",
@@ -10576,6 +10636,42 @@
     "text": "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)",
     "type": "template",
     "note": "The following strings should not be translated:\n@local.faci_group_id_input\n@local.faci_group_id_input\n!@local.faci_group_id_input\n@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
+  },
+  {
+    "SourceText": "no success",
+    "text": "tidak berjaya",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "success",
+    "text": "berjaya",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Feedback Form",
+    "text": "Borang Maklum Balas",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Feedback",
+    "text": "Maklum Balas Anda",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Tell us what's on your mind...",
+    "text": "Kongsikan apa yang sedang anda fikirkan...",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Where?",
+    "text": "Di mana?",
+    "type": "template",
+    "note": ""
   },
   {
     "SourceText": "Change countdown days",

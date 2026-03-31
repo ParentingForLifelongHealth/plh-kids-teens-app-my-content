@@ -22,7 +22,9 @@
           "name": "title",
           "value": "Feedback Form",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "settings_header.title"
@@ -34,7 +36,9 @@
       "type": "text",
       "value": "Your Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_4",
       "_nested_name": "text_4"
@@ -43,7 +47,9 @@
       "name": "feedback_placeholder",
       "value": "Tell us what's on your mind...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "feedback_placeholder"
@@ -110,7 +116,9 @@
       "type": "text",
       "value": "Where?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_8",
       "_nested_name": "text_8"
@@ -119,7 +127,9 @@
       "name": "where_placeholder",
       "value": "Where?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "where_placeholder"
