@@ -9,9 +9,9 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 102 |
+| button | 103 |
 | combo_box | 25 |
-| data_items | 121 |
+| data_items | 123 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
@@ -33,7 +33,7 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2829 |
+| set_variable | 2830 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -57,6 +57,7 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
+| click | 1 |
 | emit: completed | 602 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
@@ -68,14 +69,14 @@
 | go_to | 16 |
 | nav_stack | 346 |
 | plh_parent_group | 2 |
-| pop_up | 73 |
+| pop_up | 74 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 81 |
 | set_field | 109 |
 | set_item | 72 |
-| set_local | 63 |
+| set_local | 65 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -650,7 +651,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 17 |
+| data_list |  | 18 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |

@@ -10,8 +10,12 @@
       "image": "images/icons/question_mark_blue.svg",
       "title": "Support Contacts",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -28,7 +32,9 @@
       "image": "images/icons/star_outline_blue.svg",
       "title": "Essential Tools",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -41,7 +47,9 @@
       "image": "images/icons/smile_eyes_down.svg",
       "title": "Take a Pause",
       "_translations": {
-        "title": {}
+        "title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

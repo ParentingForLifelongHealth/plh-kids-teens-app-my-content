@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 102
+        "count": 103
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 121
+        "count": 123
       },
       {
         "type": "debug_toggle",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2829
+        "count": 2830
       },
       {
         "type": "simple_checkbox",
@@ -194,6 +194,10 @@
         "count": 3
       },
       {
+        "type": "click",
+        "count": 1
+      },
+      {
         "type": "emit: completed",
         "count": 602
       },
@@ -239,7 +243,7 @@
       },
       {
         "type": "pop_up",
-        "count": 73
+        "count": 74
       },
       {
         "type": "reset_app",
@@ -267,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 63
+        "count": 65
       },
       {
         "type": "share",
@@ -2825,7 +2829,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 17
+        "total": 18
       },
       {
         "type": "data_list",

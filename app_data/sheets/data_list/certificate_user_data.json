@@ -1,0 +1,27 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "certificate_user_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": "relation",
+      "url": "url_relation",
+      "n_reprints": 0
+    },
+    {
+      "id": "develop",
+      "url": "url_develop",
+      "n_reprints": 0
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "templates/MY certificates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+  },
+  "_metadata": {
+    "n_reprints": {
+      "type": "number"
+    }
+  }
+}

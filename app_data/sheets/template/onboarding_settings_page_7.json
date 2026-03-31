@@ -379,8 +379,11 @@
       "name": "valid_faci_group_id_input_or_null",
       "value": "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "valid_faci_group_id_input_or_null",
       "_dynamicFields": {

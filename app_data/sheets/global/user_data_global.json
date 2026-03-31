@@ -18,7 +18,9 @@
       "name": "user_name_setting",
       "value": "My name is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -26,7 +28,9 @@
       "name": "user_gender_setting",
       "value": "My gender is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -34,7 +38,9 @@
       "name": "user_location_setting",
       "value": "I live in...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -42,7 +48,9 @@
       "name": "user_relationship_setting",
       "value": "My relationship status is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -50,7 +58,9 @@
       "name": "user_ethnicity_setting",
       "value": "My ethnicity is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -58,7 +68,9 @@
       "name": "household_children_setting",
       "value": "In my home I care for this number of children...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -66,7 +78,9 @@
       "name": "child_name_setting",
       "value": "My child's name is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -74,7 +88,9 @@
       "name": "child_gender_setting",
       "value": "My child is a...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -82,7 +98,9 @@
       "name": "child_age_setting",
       "value": "The age of my child is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -90,7 +108,9 @@
       "name": "user_type_setting",
       "value": "My role is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -98,7 +118,9 @@
       "name": "content_package_setting",
       "value": "I heard about this app through...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -106,7 +128,9 @@
       "name": "faci_group_id_setting",
       "value": "My facilitator's group ID is...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -114,7 +138,9 @@
       "name": "update_group",
       "value": "Update",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -122,7 +148,9 @@
       "name": "faci_group_id_setting_title",
       "value": "Facilitator Group ID",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

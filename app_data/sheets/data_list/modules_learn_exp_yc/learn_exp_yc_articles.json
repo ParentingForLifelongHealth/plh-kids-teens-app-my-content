@@ -215,7 +215,9 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "my_ms": true
+        },
         "section_4_title": {
           "my_ms": true
         },

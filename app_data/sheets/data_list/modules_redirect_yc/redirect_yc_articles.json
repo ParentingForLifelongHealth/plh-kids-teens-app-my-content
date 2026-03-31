@@ -157,7 +157,9 @@
       "nested": false,
       "character_1_text": "We can play with the ball later. Right now, I’d really love your help.",
       "_translations": {
-        "character_1_text": {},
+        "character_1_text": {
+          "my_ms": true
+        },
         "character_2_text": {
           "my_ms": true
         },

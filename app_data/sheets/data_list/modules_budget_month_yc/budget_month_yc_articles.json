@@ -154,7 +154,9 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "media_title": {}
+        "media_title": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

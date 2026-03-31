@@ -261,7 +261,9 @@
       "nested": false,
       "quiz_1_question": "⭐ Today’s home activity is to practise taking a pause. Do you have time to practise taking a pause today?",
       "_translations": {
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "my_ms": true
+        },
         "quiz_1_option_1_text": {
           "my_ms": true
         },

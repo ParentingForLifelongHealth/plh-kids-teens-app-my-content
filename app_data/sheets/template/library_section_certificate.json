@@ -1,11 +1,11 @@
 {
   "flow_type": "template",
-  "flow_name": "library_certificate",
+  "flow_name": "library_section_certificate",
   "status": "released",
   "rows": [
     {
       "name": "library_id",
-      "value": "certificates",
+      "value": "certificate",
       "_translations": {
         "value": {}
       },
