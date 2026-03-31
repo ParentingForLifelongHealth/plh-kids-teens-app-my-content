@@ -12,7 +12,9 @@
       "nested": false,
       "text_1_facilitator": "📖 This skill is about helping your child learn to read. \n\n2️⃣ This skill will take 2 days to complete. \n\n⭐ Our first lesson today is about enjoying books with your child.",
       "_translations": {
-        "text_1_facilitator": {},
+        "text_1_facilitator": {
+          "my_ms": true
+        },
         "text_2": {
           "my_ms": true
         }

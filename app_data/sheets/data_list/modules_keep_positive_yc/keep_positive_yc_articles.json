@@ -211,15 +211,21 @@
         "section_1_title": {
           "my_ms": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "my_ms": true
+        },
         "section_2_title": {
           "my_ms": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "my_ms": true
+        },
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

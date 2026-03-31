@@ -270,7 +270,9 @@
       "nested": false,
       "media_title": "youtube",
       "_translations": {
-        "media_title": {},
+        "media_title": {
+          "my_ms": true
+        },
         "quiz_1_question": {},
         "section_1_title": {
           "my_ms": true

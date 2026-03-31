@@ -73,7 +73,9 @@
         "quiz_1_feedback_1": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_1_feedback_3": {
           "my_ms": true
         },
@@ -257,7 +259,9 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "media_title": {}
+        "media_title": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Uc8lj2RJFoU",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=PGFqnL9u3XE",

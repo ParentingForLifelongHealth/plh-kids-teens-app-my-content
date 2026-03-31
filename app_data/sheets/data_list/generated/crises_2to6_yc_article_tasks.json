@@ -197,7 +197,9 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "character_1_text": {},
+        "character_1_text": {
+          "my_ms": true
+        },
         "character_2_text": {
           "my_ms": true
         }

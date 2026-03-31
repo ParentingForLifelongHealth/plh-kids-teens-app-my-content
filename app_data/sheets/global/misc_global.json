@@ -608,7 +608,9 @@
       "name": "share",
       "value": "Share",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

@@ -13,8 +13,12 @@
       "attached_single_doc": "https://docs.google.com/document/d/18KvgNsmolCmlFmf3DWNfHrxL4Ko3kpYaUsJV7bkA26o",
       "title": "An emergency",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -33,8 +37,12 @@
       ],
       "title": "A mental health referral",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -53,8 +61,12 @@
       ],
       "title": "A health referral",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -73,8 +85,12 @@
       ],
       "title": "A referral related to violence",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -93,8 +109,12 @@
       ],
       "title": "A referral related to natural disasters",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -113,8 +133,12 @@
       ],
       "title": "A challenge with drugs",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -133,8 +157,12 @@
       ],
       "title": "A challenge in my family",
       "_translations": {
-        "title": {},
-        "introduction": {}
+        "title": {
+          "my_ms": true
+        },
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

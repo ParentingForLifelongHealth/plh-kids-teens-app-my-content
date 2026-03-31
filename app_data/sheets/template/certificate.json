@@ -23,14 +23,76 @@
       "_nested_name": "image_path"
     },
     {
+      "type": "data_items",
+      "name": "get_n_reprints",
+      "value": "@data.certificate_user_data",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "n_reprints",
+            "@items[0]?.n_reprints"
+          ],
+          "_raw": "data_changed | set_local : n_reprints: @items[0]?.n_reprints"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.id == @fields.cert_to_print",
+        "limit": "1"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "get_n_reprints",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.certificate_user_data",
+            "matchedExpression": "@data.certificate_user_data",
+            "type": "data",
+            "fieldName": "certificate_user_data"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@fields.cert_to_print",
+              "type": "fields",
+              "fieldName": "cert_to_print"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.certificate_user_data": [
+          "value"
+        ],
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@fields.cert_to_print": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
       "type": "text",
       "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text_4",
-      "_nested_name": "text_4",
+      "name": "text_5",
+      "_nested_name": "text_5",
       "_dynamicFields": {
         "value": [
           {
@@ -62,8 +124,8 @@
       "_translations": {
         "value": {}
       },
-      "name": "image_5",
-      "_nested_name": "image_5",
+      "name": "image_6",
+      "_nested_name": "image_6",
       "_dynamicFields": {
         "value": [
           {
@@ -108,7 +170,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_6.download_button",
+          "_nested_name": "display_group_7.download_button",
           "_dynamicFields": {
             "value": [
               {
@@ -174,7 +236,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_6.share_button",
+          "_nested_name": "display_group_7.share_button",
           "_dynamicFields": {
             "value": [
               {
@@ -218,8 +280,8 @@
           }
         }
       ],
-      "name": "display_group_6",
-      "_nested_name": "display_group_6"
+      "name": "display_group_7",
+      "_nested_name": "display_group_7"
     },
     {
       "type": "button",
@@ -239,9 +301,9 @@
         }
       ],
       "parameter_list": {
-        "variant": "card",
-        "style": "no-background"
+        "variant": "card"
       },
+      "condition": "@local.n_reprints <=2",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -252,11 +314,72 @@
             "type": "global",
             "fieldName": "change_certificate_name"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.n_reprints <=2",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@global.change_certificate_name": [
           "value"
+        ],
+        "@local.n_reprints": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "button_update_name",
+      "value": "<u>@global.change_certificate_name</u>",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "no_more_reprints"
+          ],
+          "_raw": "click | pop_up: no_more_reprints"
+        }
+      ],
+      "parameter_list": {
+        "variant": "card"
+      },
+      "condition": "@local.n_reprints >2",
+      "exclude_from_translation": true,
+      "_nested_name": "button_update_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "<u>@global.change_certificate_name</u>",
+            "matchedExpression": "@global.change_certificate_name",
+            "type": "global",
+            "fieldName": "change_certificate_name"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.n_reprints >2",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.change_certificate_name": [
+          "value"
+        ],
+        "@local.n_reprints": [
+          "condition"
         ]
       }
     }

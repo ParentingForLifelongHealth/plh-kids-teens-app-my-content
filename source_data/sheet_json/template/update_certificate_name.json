@@ -4,6 +4,19 @@
   "status": "released",
   "rows": [
     {
+      "type": "data_items",
+      "name": "get_n_reprints",
+      "value": "@data.certificate_user_data",
+      "action_list": "data_changed | set_local : n_reprints: @items[0]?.n_reprints;",
+      "parameter_list": "filter:  @item.id == @fields.cert_to_print;\nlimit: 1;",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "n_reprints_increased",
+      "value": "@calc(@local.n_reprints +1)",
+      "exclude_from_translation": true
+    },
+    {
       "type": "title",
       "name": "certificate_name_input_question",
       "value": "@global.certificate_name_question",
@@ -24,9 +37,10 @@
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
-      "action_list": "click | set_field: certificate_name: @local.certificate_name_input;\nclick | emit: completed;",
+      "action_list": "click | set_field: certificate_name: @local.certificate_name_input;\nclick | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
-      "style_list": "flex: 1"
+      "style_list": "flex: 1",
+      "exclude_from_translation": true
     }
   ]
 }

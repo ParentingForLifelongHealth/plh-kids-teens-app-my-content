@@ -13,6 +13,14 @@
       "value": " images/onboarding/loving_parent.svg"
     },
     {
+      "type": "data_items",
+      "name": "get_n_reprints",
+      "value": "@data.certificate_user_data",
+      "action_list": "data_changed | set_local : n_reprints: @items[0]?.n_reprints;",
+      "parameter_list": "filter:  @item.id == @fields.cert_to_print;\nlimit: 1;",
+      "exclude_from_translation": true
+    },
+    {
       "type": "text",
       "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
       "exclude_from_translation": true,
@@ -50,7 +58,17 @@
       "name": "button_update_name",
       "value": "<u>@global.change_certificate_name</u>",
       "action_list": "click | pop_up: update_certificate_name;",
-      "parameter_list": "variant: card;\nstyle: no-background;",
+      "parameter_list": "variant: card;",
+      "condition": "@local.n_reprints <=2",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_update_name",
+      "value": "<u>@global.change_certificate_name</u>",
+      "action_list": "click | pop_up: no_more_reprints;",
+      "parameter_list": "variant: card;",
+      "condition": "@local.n_reprints >2",
       "exclude_from_translation": true
     }
   ]

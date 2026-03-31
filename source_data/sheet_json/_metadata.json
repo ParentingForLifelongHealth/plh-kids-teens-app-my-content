@@ -70,6 +70,15 @@
   },
   {
     "flow_type": "data_list",
+    "flow_name": "certificate_user_data",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_name": "characters",
     "_source": {
       "name": "kids_teens_my",
@@ -2019,20 +2028,20 @@
   },
   {
     "flow_type": "template",
-    "flow_name": "library_certificate",
-    "_source": {
-      "name": "kids_teens_my",
-      "path": "templates/MY certificates.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
-    }
-  },
-  {
-    "flow_type": "template",
     "flow_name": "library_essential_tool",
     "_source": {
       "name": "kids_teens_global V2",
       "path": "templates/PLH articles template generators.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1ynKeAsmx46aHGzTbT1BaqRXDPi6cxbUOsovcu5c0rdU"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "library_section_certificate",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
     }
   },
   {

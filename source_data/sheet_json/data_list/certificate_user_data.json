@@ -1,0 +1,17 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "certificate_user_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": "relation",
+      "url": "url_relation",
+      "n_reprints": 0
+    },
+    {
+      "id": "develop",
+      "url": "url_develop",
+      "n_reprints": 0
+    }
+  ]
+}

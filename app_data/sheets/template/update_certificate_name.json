@@ -4,6 +4,102 @@
   "status": "released",
   "rows": [
     {
+      "type": "data_items",
+      "name": "get_n_reprints",
+      "value": "@data.certificate_user_data",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "n_reprints",
+            "@items[0]?.n_reprints"
+          ],
+          "_raw": "data_changed | set_local : n_reprints: @items[0]?.n_reprints"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.id == @fields.cert_to_print",
+        "limit": "1"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "get_n_reprints",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.certificate_user_data",
+            "matchedExpression": "@data.certificate_user_data",
+            "type": "data",
+            "fieldName": "certificate_user_data"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@fields.cert_to_print",
+              "type": "fields",
+              "fieldName": "cert_to_print"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.certificate_user_data": [
+          "value"
+        ],
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@fields.cert_to_print": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "name": "n_reprints_increased",
+      "value": "@calc(@local.n_reprints +1)",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "n_reprints_increased",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(@local.n_reprints +1)",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "@calc(@local.n_reprints +1)",
+            "matchedExpression": "@calc(@local.n_reprints +1)",
+            "type": "calc",
+            "fieldName": "@local.n_reprints +1"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.n_reprints": [
+          "value"
+        ],
+        "@calc(@local.n_reprints +1)": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "title",
       "name": "certificate_name_input_question",
       "value": "@global.certificate_name_question",
@@ -115,6 +211,13 @@
         },
         {
           "trigger": "click",
+          "action_id": "click",
+          "args": [],
+          "_raw": "click | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+          "params": {}
+        },
+        {
+          "trigger": "click",
           "action_id": "emit",
           "args": [
             "completed"
@@ -129,6 +232,7 @@
       "style_list": [
         "flex: 1"
       ],
+      "exclude_from_translation": true,
       "_nested_name": "button_completed",
       "_dynamicFields": {
         "value": [
@@ -159,6 +263,22 @@
                 "fieldName": "certificate_name_input"
               }
             ]
+          },
+          "1": {
+            "_raw": [
+              {
+                "fullExpression": "click | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+                "matchedExpression": "@fields.cert_to_print",
+                "type": "fields",
+                "fieldName": "cert_to_print"
+              },
+              {
+                "fullExpression": "click | click | set_data | \n_list_id: certificate_user_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+                "matchedExpression": "@local.n_reprints_increased",
+                "type": "local",
+                "fieldName": "n_reprints_increased"
+              }
+            ]
           }
         },
         "parameter_list": {
@@ -179,6 +299,12 @@
         "@local.certificate_name_input": [
           "action_list.0.args.1",
           "action_list.0._raw"
+        ],
+        "@fields.cert_to_print": [
+          "action_list.1._raw"
+        ],
+        "@local.n_reprints_increased": [
+          "action_list.1._raw"
         ],
         "!@local.completed_enabled": [
           "parameter_list.disabled"

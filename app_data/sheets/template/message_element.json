@@ -186,7 +186,9 @@
               "name": "button",
               "value": "Share",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "action_list": [
                 {
@@ -251,7 +253,9 @@
               "name": "button",
               "value": "Share",
               "_translations": {
-                "value": {}
+                "value": {
+                  "my_ms": true
+                }
               },
               "action_list": [
                 {
