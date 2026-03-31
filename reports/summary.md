@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 101 |
+| button | 102 |
 | combo_box | 25 |
-| data_items | 120 |
+| data_items | 121 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 22 |
+| image | 23 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -33,7 +33,7 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2826 |
+| set_variable | 2829 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -68,12 +68,12 @@
 | go_to | 16 |
 | nav_stack | 346 |
 | plh_parent_group | 2 |
-| pop_up | 72 |
+| pop_up | 73 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 81 |
-| set_field | 108 |
+| set_field | 109 |
 | set_item | 72 |
 | set_local | 63 |
 | share | 3 |
@@ -267,7 +267,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/friend_female_2.svg | 1 |
 | images/character_icons/girlfriend.svg | 1 |
 | images/character_icons/man_threat.svg | 1 |
-| images/jasper_1.jpg | 1 |
 | images/logos/plh_logomark.png | 1 |
 | make_a_monthly_budget_yc_1.svg | 2 |
 | make_a_monthly_budget_yc_2.svg | 2 |
@@ -386,7 +385,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/bottom_banner.svg | 338.5 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
 | images/backgrounds/kites.svg | 4897.1 | 1 |
-| images/backgrounds/lesson-cta-bg.svg | 3.9 | 2 |
+| images/backgrounds/lesson-cta-bg.svg | 4 | 2 |
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
 | images/character_icons/f1_daughter_2.svg | 1815.2 | 1 |
@@ -452,7 +451,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/local_library_white.svg | 1.9 | 1 |
 | images/icons/lock-closed-outline.png | 0.9 | 1 |
 | images/icons/lock-open-outline.svg | 0.4 | 2 |
-| images/icons/locked.png | 0.7 | 1 |
+| images/icons/locked.png | 0.7 | 2 |
 | images/icons/log-in-outline.svg | 0.5 | 1 |
 | images/icons/magnifying_glass.svg | 0.9 | 49 |
 | images/icons/parent_child_heart.svg | 3 | 49 |
@@ -717,7 +716,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 5 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 139 |
+| template |  | 140 |
 | template | generated | 675 |
 | template | legal_terms | 4 |
 </details>
