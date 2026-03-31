@@ -14,7 +14,7 @@
 | data_items | 120 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 97 |
+| display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -30,15 +30,15 @@
 | plh_module_list_item | 1 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
-| round_button | 17 |
+| round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2825 |
+| set_variable | 2826 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 885 |
-| text | 201 |
+| text | 197 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 603 |
+| emit: completed | 602 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 607 |
+| emit: uncompleted | 606 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 346 |
@@ -71,8 +71,9 @@
 | pop_up | 72 |
 | reset_app | 4 |
 | reset_data | 3 |
+| save_to_device | 1 |
 | set_data | 81 |
-| set_field | 109 |
+| set_field | 108 |
 | set_item | 72 |
 | set_local | 63 |
 | share | 3 |
@@ -86,8 +87,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 138104 KB | 138.1 MB |
-| unused | 49185 KB | 49.2 MB |
+| total | 137579 KB | 137.6 MB |
+| unused | 49183 KB | 49.2 MB |
 </details>
 
 <details open>
@@ -158,9 +159,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/faces/confused.svg | 1.8 |
 | images/icons/faces/happier.svg | 0.6 |
 | images/icons/faces/happiest.svg | 1.3 |
-| images/icons/faces/happy.svg | 0.6 |
-| images/icons/faces/neutral.svg | 0.5 |
-| images/icons/faces/sad.svg | 0.6 |
 | images/icons/faces/sadder.svg | 1.1 |
 | images/icons/faces/saddest.svg | 2 |
 | images/icons/faces/scared.svg | 2.1 |
@@ -269,9 +267,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/friend_female_2.svg | 1 |
 | images/character_icons/girlfriend.svg | 1 |
 | images/character_icons/man_threat.svg | 1 |
-| images/faces/happy.svg | 9 |
-| images/faces/neutral.svg | 9 |
-| images/faces/sad.svg | 9 |
+| images/jasper_1.jpg | 1 |
 | images/logos/plh_logomark.png | 1 |
 | make_a_monthly_budget_yc_1.svg | 2 |
 | make_a_monthly_budget_yc_2.svg | 2 |
@@ -430,8 +426,11 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/download.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
+| images/icons/faces/happy.svg | 0.6 | 9 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 64 |
+| images/icons/faces/neutral.svg | 0.5 | 9 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 64 |
+| images/icons/faces/sad.svg | 0.6 | 9 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 64 |
 | images/icons/globe-outline.svg | 0.8 | 1 |
 | images/icons/heart-outline.png | 1.5 | 1 |
@@ -477,7 +476,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 6 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
-| images/jasper_1.jpg | 527.3 | 1 |
 | images/logos/app_logo.png | 12.8 | 2 |
 | images/logos/favicon.svg | 8.8 | 1 |
 | images/logos/idems.png | 42.7 | 1 |
@@ -492,7 +490,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/upm.png | 120.8 | 1 |
 | images/onboarding/frustrated.svg | 27.3 | 1 |
 | images/onboarding/join_parents.svg | 116 | 1 |
-| images/onboarding/loving_parent.svg | 46.9 | 1 |
+| images/onboarding/loving_parent.svg | 46.9 | 2 |
 | images/yc_modules/budget_savings_yc_1.svg | 64.9 | 2 |
 | images/yc_modules/budget_savings_yc_2.svg | 71.4 | 2 |
 | images/yc_modules/budget_savings_yc_3.svg | 48.7 | 2 |

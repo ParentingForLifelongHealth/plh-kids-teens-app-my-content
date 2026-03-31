@@ -24,14 +24,23 @@
       "_nested_name": "certificate_to_print"
     },
     {
+      "name": "image_path",
+      "value": "images/onboarding/loving_parent.svg",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "image_path"
+    },
+    {
       "type": "text",
       "value": "Certificate with name @fields.certificate_name\n\n\n{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text_4",
-      "_nested_name": "text_4",
+      "name": "text_5",
+      "_nested_name": "text_5",
       "_dynamicFields": {
         "value": [
           {
@@ -54,8 +63,8 @@
       "_translations": {
         "value": {}
       },
-      "name": "image_5",
-      "_nested_name": "image_5",
+      "name": "image_6",
+      "_nested_name": "image_6",
       "_dynamicFields": {
         "value": [
           {
@@ -85,12 +94,22 @@
           "_translations": {
             "value": {}
           },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "save_to_device",
+              "args": [
+                "@local.image_path"
+              ],
+              "_raw": "click | save_to_device: @local.image_path"
+            }
+          ],
           "parameter_list": {
             "icon": "images/icons/download.svg",
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_6.download_button",
+          "_nested_name": "display_group_7.download_button",
           "_dynamicFields": {
             "value": [
               {
@@ -99,11 +118,37 @@
                 "type": "global",
                 "fieldName": "download"
               }
-            ]
+            ],
+            "action_list": {
+              "0": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.image_path",
+                      "matchedExpression": "@local.image_path",
+                      "type": "local",
+                      "fieldName": "image_path"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | save_to_device: @local.image_path",
+                    "matchedExpression": "@local.image_path",
+                    "type": "local",
+                    "fieldName": "image_path"
+                  }
+                ]
+              }
+            }
           },
           "_dynamicDependencies": {
             "@global.download": [
               "value"
+            ],
+            "@local.image_path": [
+              "action_list.0.args.0",
+              "action_list.0._raw"
             ]
           }
         },
@@ -130,7 +175,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_6.share_button",
+          "_nested_name": "display_group_7.share_button",
           "_dynamicFields": {
             "value": [
               {
@@ -174,8 +219,8 @@
           }
         }
       ],
-      "name": "display_group_6",
-      "_nested_name": "display_group_6"
+      "name": "display_group_7",
+      "_nested_name": "display_group_7"
     },
     {
       "type": "button",

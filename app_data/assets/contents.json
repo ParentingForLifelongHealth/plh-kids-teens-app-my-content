@@ -712,7 +712,7 @@
     "size_kb": 7.3
   },
   "images/icons/download.svg": {
-    "md5Checksum": "1b792cf72d591e778ede91c054b1f2a7",
+    "md5Checksum": "99649f74f86479e3c1edda853cf56106",
     "size_kb": 0.7
   },
   "images/icons/expand_circle_right.png": {
@@ -1078,10 +1078,6 @@
   "images/icons/world.svg": {
     "md5Checksum": "8063b977998a73ce347c65c8a5ae2ded",
     "size_kb": 6.2
-  },
-  "images/jasper_1.jpg": {
-    "md5Checksum": "8ed1f2802b37a7a11382ebabcdd9dfd0",
-    "size_kb": 527.3
   },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",

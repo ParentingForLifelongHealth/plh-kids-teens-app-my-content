@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_my");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.1.39",
+  content_tag_latest: "1.1.40",
 };
 
 
@@ -65,7 +65,6 @@ config.app_config.APP_SIDEMENU_DEFAULTS.title = "MalaysiaApp";
 config.app_config.APP_HEADER_DEFAULTS.title = "MalaysiaApp";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
-config.app_config.APP_FOOTER_DEFAULTS.background = "primary";
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from MalaysiaApp";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from MalaysiaApp";
 config.app_config.APP_THEMES.available = ["plh_kids_teens_za"];

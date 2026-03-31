@@ -4,6 +4,11 @@
   "status": "released",
   "rows": [
     {
+      "name": "success",
+      "value": "@local.result?.success",
+      "exclude_from_translation": true
+    },
+    {
       "type": "begin_display_group",
       "name": "dg_row"
     },
@@ -20,16 +25,6 @@
       "action_list": "click | set_field: faci_group_id: @local.faci_group_id_input;\nclick | emit: completed;",
       "condition": "@local.success",
       "parameter_list": "icon_src: chevron-back;\nvariant: navigation"
-    },
-    {
-      "type": "text",
-      "value": "no success ",
-      "condition": "!@local.success"
-    },
-    {
-      "type": "text",
-      "value": "success",
-      "condition": "@local.success"
     },
     {
       "type": "title",
@@ -105,39 +100,6 @@
       "style_list": "color: green;\nfont-size: 14px",
       "condition": "@local.result?.success",
       "exclude_from_translation": true
-    },
-    {
-      "name": "success",
-      "value": "@local.result?.success",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "begin_display_group"
-    },
-    {
-      "type": "round_button",
-      "action_list": "click | emit: uncompleted",
-      "condition": "!@local.success",
-      "parameter_list": "icon_src: chevron-back;\nvariant: navigation"
-    },
-    {
-      "type": "round_button",
-      "action_list": "click | set_field: faci_group_id: @local.faci_group_id_input;\nclick | emit: completed;",
-      "condition": "@local.success",
-      "parameter_list": "icon_src: chevron-back;\nvariant: navigation"
-    },
-    {
-      "type": "text",
-      "value": "no success ",
-      "condition": "!@local.success"
-    },
-    {
-      "type": "text",
-      "value": "success ",
-      "condition": "@local.success"
-    },
-    {
-      "type": "end_display_group"
     }
   ]
 }
