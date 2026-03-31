@@ -7,9 +7,9 @@
   "rows": [
     {
       "id": "relation",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How is one-on-one time going?",
       "_translations": {
@@ -68,9 +68,9 @@
     },
     {
       "id": "learning",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "When you involve your child, how does it go?",
       "_translations": {
@@ -129,9 +129,9 @@
     },
     {
       "id": "learning",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "When you involve your child, how does it go?",
       "_translations": {
@@ -190,9 +190,9 @@
     },
     {
       "id": "develop",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "Are you finding it easy to support your child's development every day?",
       "_translations": {
@@ -251,9 +251,9 @@
     },
     {
       "id": "structure",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did the conversation about household rules go with your child?",
       "_translations": {
@@ -312,9 +312,9 @@
     },
     {
       "id": "behave",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did managing the challenging behaviour go?",
       "_translations": {
@@ -373,9 +373,9 @@
     },
     {
       "id": "safety",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How has talking about safety been with your child?",
       "_translations": {
@@ -434,9 +434,9 @@
     },
     {
       "id": "ipv",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did sharing household tasks with your spouse go?",
       "_translations": {
@@ -495,9 +495,9 @@
     },
     {
       "id": "budget",
-      "happy_image_asset": "images/faces/happy.svg",
-      "ok_image_asset": "images/faces/neutral.svg",
-      "sad_image_asset": "images/faces/sad.svg",
+      "happy_image_asset": "images/icons/faces/happy.svg",
+      "ok_image_asset": "images/icons/faces/neutral.svg",
+      "sad_image_asset": "images/icons/faces/sad.svg",
       "attached_single_doc_1": "https://docs.google.com/document/d/1eJNU-MCk21ZCkoYR5uw2-mlEPSTmne6CqvHiydw2Rac",
       "notification_text": "How did the budget planning go?",
       "_translations": {

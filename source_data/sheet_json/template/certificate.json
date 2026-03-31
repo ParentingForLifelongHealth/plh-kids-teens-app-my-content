@@ -14,6 +14,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "image_path",
+      "value": " images/onboarding/loving_parent.svg"
+    },
+    {
       "type": "text",
       "value": "Certificate with name @fields.certificate_name\n\n\n{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}",
       "exclude_from_translation": true
@@ -30,6 +34,7 @@
       "type": "button",
       "name": "download_button",
       "value": "@global.download",
+      "action_list": "click | save_to_device: @local.image_path",
       "parameter_list": "icon: images/icons/download.svg;\nstyle: navigation;",
       "exclude_from_translation": true
     },
