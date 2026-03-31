@@ -25,7 +25,7 @@ config.google_drive.assets_folders = [
 
 config.android = {
   app_id:'international.idems.plh_kids_teens_my',
-  app_name:'Malaysia',
+  app_name:'Naungan Kasih',
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
@@ -35,7 +35,7 @@ config.android = {
 
 config.ios = {
   app_id:"international.idems.plh_kids_teens_my",
-  app_name:"Malaysia",
+  app_name:"Naungan Kasih",
   zoom_enabled: true
 };
 
@@ -61,12 +61,12 @@ config.api.db_name = "plh_kids_teens_my";
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "MalaysiaApp";
-config.app_config.APP_HEADER_DEFAULTS.title = "MalaysiaApp";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "Naungan Kasih";
+config.app_config.APP_HEADER_DEFAULTS.title = "Naungan Kasih";
 config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
-config.app_config.NOTIFICATION_DEFAULTS.title = "New message from MalaysiaApp";
-config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from MalaysiaApp";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Naungan Kasih";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Naungan Kasih";
 config.app_config.APP_THEMES.available = ["plh_kids_teens_za"];
 config.app_config.APP_THEMES.defaultThemeName = "plh_kids_teens_za";
 config.error_logging = { dsn: "https://644cb52e67f24a09b3fda5d50233e6e9@app.glitchtip.com/19943" };
