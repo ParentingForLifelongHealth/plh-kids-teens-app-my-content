@@ -377,7 +377,9 @@
       "name": "back_to_home",
       "value": "Back to Courses",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -385,7 +387,9 @@
       "name": "restart",
       "value": "Restart Lesson",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

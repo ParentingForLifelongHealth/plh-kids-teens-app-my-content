@@ -33,7 +33,7 @@
     {
       "type": "begin_button",
       "value": "@item.title",
-      "action_list": "click | set_field: cert_to_print: @item.id;\nclick | pop_up: certificate | fullscreen: true, showCloseButton: true;",
+      "action_list": "click | set_field: cert_to_print: @item.id;\nclick | pop_up: certificate | fullscreen: true, showCloseButton: true, transparent: false;",
       "parameter_list": "variant: card-portrait;\nimage_asset: @item.image_asset;\ndisabled: !@item.completed;",
       "exclude_from_translation": true
     },

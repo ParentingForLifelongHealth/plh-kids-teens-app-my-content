@@ -740,7 +740,9 @@
       "name": "summary_text",
       "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "style_list": [
         "text-align: center"

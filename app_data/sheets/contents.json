@@ -13231,6 +13231,15 @@
         "url": "https://docs.google.com/spreadsheets/d/12uVS4kd0g9A1cNLzpBt8avZ2biX4YGXgSciLMvBnsgs"
       }
     },
+    "no_more_reprints": {
+      "flow_type": "template",
+      "flow_name": "no_more_reprints",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "templates/MY certificates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+      }
+    },
     "onboarding_footer": {
       "flow_type": "template",
       "flow_name": "onboarding_footer",

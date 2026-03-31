@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2830
+        "count": 2832
       },
       {
         "type": "simple_checkbox",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 52
+        "count": 54
       },
       {
         "type": "toggle_bar",
@@ -192,10 +192,6 @@
       {
         "type": "auth",
         "count": 3
-      },
-      {
-        "type": "click",
-        "count": 1
       },
       {
         "type": "emit: completed",
@@ -259,7 +255,7 @@
       },
       {
         "type": "set_data",
-        "count": 81
+        "count": 82
       },
       {
         "type": "set_field",
@@ -3159,7 +3155,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 140
+        "total": 141
       },
       {
         "type": "template",

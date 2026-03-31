@@ -113,10 +113,11 @@
               "args": [
                 "certificate"
               ],
-              "_raw": "click | pop_up: certificate | fullscreen: true, showCloseButton: true",
+              "_raw": "click | pop_up: certificate | fullscreen: true, showCloseButton: true, transparent: false",
               "params": {
                 "fullscreen": true,
-                "showCloseButton": true
+                "showCloseButton": true,
+                "transparent": false
               }
             }
           ],

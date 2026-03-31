@@ -618,7 +618,9 @@
       "name": "download",
       "value": "Download",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -716,7 +718,9 @@
       "name": "change_certificate_name",
       "value": "Change name",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -724,7 +728,9 @@
       "name": "certificate_name_question",
       "value": "What name should be on your certificate?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -732,7 +738,9 @@
       "name": "library_certificates",
       "value": "My Certificates",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
