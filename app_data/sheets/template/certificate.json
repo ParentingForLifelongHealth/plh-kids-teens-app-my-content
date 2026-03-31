@@ -4,16 +4,6 @@
   "status": "released",
   "rows": [
     {
-      "name": "image_path",
-      "value": "images/jasper_1.jpg",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
-      "type": "set_variable",
-      "_nested_name": "image_path"
-    },
-    {
       "name": "certificate_to_print",
       "value": "test",
       "_translations": {
@@ -34,25 +24,34 @@
     },
     {
       "type": "text",
-      "value": "Certificate with name @fields.certificate_name\n\n\n{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}",
+      "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text_5",
-      "_nested_name": "text_5",
+      "name": "text_4",
+      "_nested_name": "text_4",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\n\n\n{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}",
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
             "matchedExpression": "@fields.certificate_name",
             "type": "fields",
             "fieldName": "certificate_name"
+          },
+          {
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print",
+            "matchedExpression": "@fields.cert_to_print",
+            "type": "fields",
+            "fieldName": "cert_to_print"
           }
         ]
       },
       "_dynamicDependencies": {
         "@fields.certificate_name": [
+          "value"
+        ],
+        "@fields.cert_to_print": [
           "value"
         ]
       }
@@ -63,8 +62,8 @@
       "_translations": {
         "value": {}
       },
-      "name": "image_6",
-      "_nested_name": "image_6",
+      "name": "image_5",
+      "_nested_name": "image_5",
       "_dynamicFields": {
         "value": [
           {
@@ -109,7 +108,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_7.download_button",
+          "_nested_name": "display_group_6.download_button",
           "_dynamicFields": {
             "value": [
               {
@@ -175,7 +174,7 @@
             "style": "navigation"
           },
           "exclude_from_translation": true,
-          "_nested_name": "display_group_7.share_button",
+          "_nested_name": "display_group_6.share_button",
           "_dynamicFields": {
             "value": [
               {
@@ -219,8 +218,8 @@
           }
         }
       ],
-      "name": "display_group_7",
-      "_nested_name": "display_group_7"
+      "name": "display_group_6",
+      "_nested_name": "display_group_6"
     },
     {
       "type": "button",

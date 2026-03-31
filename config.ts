@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_my");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.1.40",
+  content_tag_latest: "1.1.41",
 };
 
 
@@ -67,8 +67,8 @@ config.app_config.APP_HEADER_DEFAULTS.hidden = true;
 config.app_config.APP_FOOTER_DEFAULTS.template = "footer";
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Naungan Kasih";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Naungan Kasih";
-config.app_config.APP_THEMES.available = ["plh_kids_teens_za"];
-config.app_config.APP_THEMES.defaultThemeName = "plh_kids_teens_za";
+config.app_config.APP_THEMES.available = ["plh_kids_teens_my"];
+config.app_config.APP_THEMES.defaultThemeName = "plh_kids_teens_my";
 config.error_logging = { dsn: "https://644cb52e67f24a09b3fda5d50233e6e9@app.glitchtip.com/19943" };
 
 
