@@ -69,7 +69,7 @@
         }
       ],
       "parameter_list": {
-        "filter": "@item.id == @fields.cert_to_print",
+        "filter": "@item._id == @fields.cert_to_print",
         "limit": "1"
       },
       "exclude_from_translation": true,
@@ -86,13 +86,13 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "@item.id == @fields.cert_to_print",
-              "matchedExpression": "@item.id",
+              "fullExpression": "@item._id == @fields.cert_to_print",
+              "matchedExpression": "@item._id",
               "type": "item",
-              "fieldName": "id"
+              "fieldName": "_id"
             },
             {
-              "fullExpression": "@item.id == @fields.cert_to_print",
+              "fullExpression": "@item._id == @fields.cert_to_print",
               "matchedExpression": "@fields.cert_to_print",
               "type": "fields",
               "fieldName": "cert_to_print"
@@ -104,7 +104,7 @@
         "@data.certificate_reprints_data": [
           "value"
         ],
-        "@item.id": [
+        "@item._id": [
           "parameter_list.filter"
         ],
         "@fields.cert_to_print": [
@@ -181,7 +181,7 @@
     },
     {
       "type": "title",
-      "value": "@local.n_reprints_increased",
+      "value": "reprints: @local.n_reprints\nreprints incr: @local.n_reprints_increased",
       "_translations": {
         "value": {}
       },
@@ -190,7 +190,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.n_reprints_increased",
+            "fullExpression": "reprints: @local.n_reprints\nreprints incr: @local.n_reprints_increased",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "reprints: @local.n_reprints\nreprints incr: @local.n_reprints_increased",
             "matchedExpression": "@local.n_reprints_increased",
             "type": "local",
             "fieldName": "n_reprints_increased"
@@ -198,6 +204,9 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.n_reprints": [
+          "value"
+        ],
         "@local.n_reprints_increased": [
           "value"
         ]
@@ -317,10 +326,10 @@
           "trigger": "click",
           "action_id": "add_data",
           "args": [],
-          "_raw": "click | add_data | \n_list_id: certificate_reprints_data,\nid: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+          "_raw": "click | add_data | \n_list_id: certificate_reprints_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
           "params": {
             "_list_id": "certificate_reprints_data",
-            "id": "@fields.cert_to_print",
+            "_id": "@fields.cert_to_print",
             "n_reprints": "@local.n_reprints_increased"
           }
         },
@@ -392,20 +401,20 @@
           "1": {
             "_raw": [
               {
-                "fullExpression": "click | add_data | \n_list_id: certificate_reprints_data,\nid: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+                "fullExpression": "click | add_data | \n_list_id: certificate_reprints_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
                 "matchedExpression": "@fields.cert_to_print",
                 "type": "fields",
                 "fieldName": "cert_to_print"
               },
               {
-                "fullExpression": "click | add_data | \n_list_id: certificate_reprints_data,\nid: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
+                "fullExpression": "click | add_data | \n_list_id: certificate_reprints_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased",
                 "matchedExpression": "@local.n_reprints_increased",
                 "type": "local",
                 "fieldName": "n_reprints_increased"
               }
             ],
             "params": {
-              "id": [
+              "_id": [
                 {
                   "fullExpression": "@fields.cert_to_print",
                   "matchedExpression": "@fields.cert_to_print",
@@ -531,7 +540,7 @@
         ],
         "@fields.cert_to_print": [
           "action_list.1._raw",
-          "action_list.1.params.id",
+          "action_list.1.params._id",
           "action_list.2._raw",
           "action_list.2.params.id"
         ],
