@@ -5,7 +5,7 @@
   "rows": [
     {
       "type": "title",
-      "value": "Max number of reprints reached",
+      "value": "@global.certificate_max_reprints_reached",
       "_translations": {
         "value": {}
       },
@@ -15,7 +15,22 @@
       ],
       "exclude_from_translation": true,
       "name": "title_2",
-      "_nested_name": "title_2"
+      "_nested_name": "title_2",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.certificate_max_reprints_reached",
+            "matchedExpression": "@global.certificate_max_reprints_reached",
+            "type": "global",
+            "fieldName": "certificate_max_reprints_reached"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.certificate_max_reprints_reached": [
+          "value"
+        ]
+      }
     }
   ],
   "_source": {

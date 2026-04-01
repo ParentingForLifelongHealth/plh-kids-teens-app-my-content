@@ -111,13 +111,12 @@
               "trigger": "click",
               "action_id": "pop_up",
               "args": [
-                "certificate"
+                "show_certificate"
               ],
-              "_raw": "click | pop_up: certificate | fullscreen: true, showCloseButton: true, transparent: false",
+              "_raw": "click | pop_up: show_certificate | fullscreen: true, showCloseButton: true",
               "params": {
                 "fullscreen": true,
-                "showCloseButton": true,
-                "transparent": false
+                "showCloseButton": true
               }
             }
           ],

@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 103
+        "count": 106
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 123
+        "count": 125
       },
       {
         "type": "debug_toggle",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 23
+        "count": 24
       },
       {
         "type": "items",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2832
+        "count": 2842
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 197
+        "count": 198
       },
       {
         "type": "text_area",
@@ -183,7 +183,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 1
+        "count": 2
       },
       {
         "type": "app_update",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 602
+        "count": 603
       },
       {
         "type": "emit: force_reload",
@@ -234,6 +234,10 @@
         "count": 346
       },
       {
+        "type": "plh_certificate",
+        "count": 3
+      },
+      {
         "type": "plh_parent_group",
         "count": 2
       },
@@ -255,11 +259,11 @@
       },
       {
         "type": "set_data",
-        "count": 82
+        "count": 83
       },
       {
         "type": "set_field",
-        "count": 109
+        "count": 110
       },
       {
         "type": "set_item",
@@ -267,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 65
+        "count": 67
       },
       {
         "type": "share",
@@ -2050,7 +2054,7 @@
       },
       {
         "path": "images/onboarding/loving_parent.svg",
-        "count": 2,
+        "count": 1,
         "size_kb": 46.9
       },
       {
@@ -2825,7 +2829,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 18
+        "total": 19
       },
       {
         "type": "data_list",
@@ -3140,7 +3144,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 5
+        "total": 6
       },
       {
         "type": "global",
@@ -3155,7 +3159,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 141
+        "total": 142
       },
       {
         "type": "template",

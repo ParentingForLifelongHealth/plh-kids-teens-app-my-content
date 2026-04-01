@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "certificate",
+  "flow_name": "show_certificate",
   "status": "released",
   "rows": [
     {
@@ -9,28 +9,76 @@
       "_nested_name": "n_reprints"
     },
     {
-      "name": "certificate_to_print",
-      "value": "test",
-      "_translations": {
-        "value": {}
-      },
-      "exclude_from_translation": true,
+      "name": "image_url",
       "type": "set_variable",
-      "_nested_name": "certificate_to_print"
+      "_nested_name": "image_url"
     },
     {
-      "name": "image_path",
-      "value": "images/onboarding/loving_parent.svg",
+      "type": "data_items",
+      "name": "get_image_url",
+      "value": "@data.certificate_data",
       "_translations": {
         "value": {}
       },
-      "type": "set_variable",
-      "_nested_name": "image_path"
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "image_url",
+            "@items[0]?.url"
+          ],
+          "_raw": "data_changed | set_local : image_url: @items[0]?.url"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.id == @fields.cert_to_print",
+        "limit": "1"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "get_image_url",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.certificate_data",
+            "matchedExpression": "@data.certificate_data",
+            "type": "data",
+            "fieldName": "certificate_data"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@fields.cert_to_print",
+              "type": "fields",
+              "fieldName": "cert_to_print"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.certificate_data": [
+          "value"
+        ],
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@fields.cert_to_print": [
+          "parameter_list.filter"
+        ]
+      }
     },
     {
       "type": "data_items",
       "name": "get_n_reprints",
-      "value": "@data.certificate_user_data",
+      "value": "@data.certificate_reprints_data",
       "_translations": {
         "value": {}
       },
@@ -54,10 +102,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.certificate_user_data",
-            "matchedExpression": "@data.certificate_user_data",
+            "fullExpression": "@data.certificate_reprints_data",
+            "matchedExpression": "@data.certificate_reprints_data",
             "type": "data",
-            "fieldName": "certificate_user_data"
+            "fieldName": "certificate_reprints_data"
           }
         ],
         "parameter_list": {
@@ -78,7 +126,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.certificate_user_data": [
+        "@data.certificate_reprints_data": [
           "value"
         ],
         "@item.id": [
@@ -91,7 +139,7 @@
     },
     {
       "type": "text",
-      "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
+      "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
       "_translations": {
         "value": {}
       },
@@ -101,22 +149,28 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
             "matchedExpression": "@fields.certificate_name",
             "type": "fields",
             "fieldName": "certificate_name"
           },
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
             "matchedExpression": "@fields.cert_to_print",
             "type": "fields",
             "fieldName": "cert_to_print"
           },
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints",
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
+            "matchedExpression": "@local.image_url",
+            "type": "local",
+            "fieldName": "image_url"
           }
         ]
       },
@@ -129,17 +183,35 @@
         ],
         "@local.n_reprints": [
           "value"
+        ],
+        "@local.image_url": [
+          "value"
         ]
       }
     },
     {
       "type": "image",
-      "value": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/project%2FPLH%2Fsubproject%2FParentText_v2%2Fdeployment%2FMalaysia%2FresourceGroup%2Freward2%2Fbadge_learning.jpg?alt=media&token=653bcc73-d8ca-4de9-b012-f6a2c7d0b8a2",
+      "value": "@local.image_url",
       "_translations": {
         "value": {}
       },
       "name": "image_7",
-      "_nested_name": "image_7"
+      "_nested_name": "image_7",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.image_url",
+            "matchedExpression": "@local.image_url",
+            "type": "local",
+            "fieldName": "image_url"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.image_url": [
+          "value"
+        ]
+      }
     },
     {
       "type": "display_group",
@@ -159,9 +231,9 @@
               "trigger": "click",
               "action_id": "save_to_device",
               "args": [
-                "@local.image_path"
+                "@local.image_url"
               ],
-              "_raw": "click | save_to_device: @local.image_path"
+              "_raw": "click | save_to_device: @local.image_url"
             }
           ],
           "parameter_list": {
@@ -184,19 +256,19 @@
                 "args": {
                   "0": [
                     {
-                      "fullExpression": "@local.image_path",
-                      "matchedExpression": "@local.image_path",
+                      "fullExpression": "@local.image_url",
+                      "matchedExpression": "@local.image_url",
                       "type": "local",
-                      "fieldName": "image_path"
+                      "fieldName": "image_url"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | save_to_device: @local.image_path",
-                    "matchedExpression": "@local.image_path",
+                    "fullExpression": "click | save_to_device: @local.image_url",
+                    "matchedExpression": "@local.image_url",
                     "type": "local",
-                    "fieldName": "image_path"
+                    "fieldName": "image_url"
                   }
                 ]
               }
@@ -206,7 +278,7 @@
             "@global.download": [
               "value"
             ],
-            "@local.image_path": [
+            "@local.image_url": [
               "action_list.0.args.0",
               "action_list.0._raw"
             ]
@@ -225,9 +297,9 @@
               "action_id": "share",
               "args": [
                 "file",
-                "@local.image_path"
+                "@local.image_url"
               ],
-              "_raw": "click | share: file: @local.image_path"
+              "_raw": "click | share: file: @local.image_url"
             }
           ],
           "parameter_list": {
@@ -250,19 +322,19 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "@local.image_path",
-                      "matchedExpression": "@local.image_path",
+                      "fullExpression": "@local.image_url",
+                      "matchedExpression": "@local.image_url",
                       "type": "local",
-                      "fieldName": "image_path"
+                      "fieldName": "image_url"
                     }
                   ]
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | share: file: @local.image_path",
-                    "matchedExpression": "@local.image_path",
+                    "fullExpression": "click | share: file: @local.image_url",
+                    "matchedExpression": "@local.image_url",
                     "type": "local",
-                    "fieldName": "image_path"
+                    "fieldName": "image_url"
                   }
                 ]
               }
@@ -272,7 +344,7 @@
             "@global.share": [
               "value"
             ],
-            "@local.image_path": [
+            "@local.image_url": [
               "action_list.0.args.1",
               "action_list.0._raw"
             ]
@@ -281,6 +353,53 @@
       ],
       "name": "display_group_8",
       "_nested_name": "display_group_8"
+    },
+    {
+      "type": "text",
+      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+      "_translations": {
+        "value": {}
+      },
+      "name": "text_10",
+      "_nested_name": "text_10",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "matchedExpression": "@global.max_n_cert_reprints",
+            "type": "global",
+            "fieldName": "max_n_cert_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "matchedExpression": "@global.max_n_cert_reprints",
+            "type": "global",
+            "fieldName": "max_n_cert_reprints"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.n_reprints": [
+          "value",
+          "value"
+        ],
+        "@global.max_n_cert_reprints": [
+          "value",
+          "value"
+        ]
+      }
     },
     {
       "type": "button",
@@ -300,9 +419,10 @@
         }
       ],
       "parameter_list": {
-        "variant": "card"
+        "variant": "card",
+        "style": "no-background"
       },
-      "condition": "(@local.n_reprints <=2)",
+      "condition": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -316,8 +436,20 @@
         ],
         "condition": [
           {
-            "fullExpression": "(@local.n_reprints <=2)",
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
             "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+            "matchedExpression": "@global.max_n_cert_reprints",
+            "type": "global",
+            "fieldName": "max_n_cert_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+            "matchedExpression": "!@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
           }
@@ -328,6 +460,12 @@
           "value"
         ],
         "@local.n_reprints": [
+          "condition"
+        ],
+        "@global.max_n_cert_reprints": [
+          "condition"
+        ],
+        "!@local.n_reprints": [
           "condition"
         ]
       }
@@ -350,9 +488,10 @@
         }
       ],
       "parameter_list": {
-        "variant": "card"
+        "variant": "card",
+        "style": "no-background"
       },
-      "condition": "(@local.n_reprints >2)",
+      "condition": "(@local.n_reprints >@global.max_n_cert_reprints)",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -366,10 +505,16 @@
         ],
         "condition": [
           {
-            "fullExpression": "(@local.n_reprints >2)",
+            "fullExpression": "(@local.n_reprints >@global.max_n_cert_reprints)",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints >@global.max_n_cert_reprints)",
+            "matchedExpression": "@global.max_n_cert_reprints",
+            "type": "global",
+            "fieldName": "max_n_cert_reprints"
           }
         ]
       },
@@ -378,6 +523,9 @@
           "value"
         ],
         "@local.n_reprints": [
+          "condition"
+        ],
+        "@global.max_n_cert_reprints": [
           "condition"
         ]
       }

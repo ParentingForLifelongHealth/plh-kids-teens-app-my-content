@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 103 |
+| button | 106 |
 | combo_box | 25 |
-| data_items | 123 |
+| data_items | 125 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 23 |
+| image | 24 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -33,12 +33,12 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2832 |
+| set_variable | 2842 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 885 |
-| text | 197 |
+| text | 198 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
@@ -54,10 +54,10 @@
 
 | type | count |
 | --- | --- |
-| add_data | 1 |
+| add_data | 2 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 602 |
+| emit: completed | 603 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -67,15 +67,16 @@
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 346 |
+| plh_certificate | 3 |
 | plh_parent_group | 2 |
 | pop_up | 74 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 82 |
-| set_field | 109 |
+| set_data | 83 |
+| set_field | 110 |
 | set_item | 72 |
-| set_local | 65 |
+| set_local | 67 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -489,7 +490,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/logos/upm.png | 120.8 | 1 |
 | images/onboarding/frustrated.svg | 27.3 | 1 |
 | images/onboarding/join_parents.svg | 116 | 1 |
-| images/onboarding/loving_parent.svg | 46.9 | 2 |
+| images/onboarding/loving_parent.svg | 46.9 | 1 |
 | images/yc_modules/budget_savings_yc_1.svg | 64.9 | 2 |
 | images/yc_modules/budget_savings_yc_2.svg | 71.4 | 2 |
 | images/yc_modules/budget_savings_yc_3.svg | 48.7 | 2 |
@@ -650,7 +651,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 18 |
+| data_list |  | 19 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
@@ -713,10 +714,10 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 96 |
 | generator |  | 60 |
-| global |  | 5 |
+| global |  | 6 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 141 |
+| template |  | 142 |
 | template | generated | 675 |
 | template | legal_terms | 4 |
 </details>
