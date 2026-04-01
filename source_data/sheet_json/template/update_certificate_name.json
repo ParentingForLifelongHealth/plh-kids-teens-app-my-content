@@ -23,7 +23,7 @@
       "name": "get_n_reprints",
       "value": "@data.certificate_reprints_data",
       "action_list": "data_changed | set_local : n_reprints: @items[0]?.n_reprints;",
-      "parameter_list": "filter:  @item.id == @fields.cert_to_print;\nlimit: 1;",
+      "parameter_list": "filter:  @item._id == @fields.cert_to_print;\nlimit: 1;",
       "exclude_from_translation": true
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "type": "title",
-      "value": "@local.n_reprints_increased"
+      "value": "reprints: @local.n_reprints\nreprints incr: @local.n_reprints_increased"
     },
     {
       "type": "title",
@@ -63,7 +63,7 @@
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
-      "action_list": "click | set_field: certificate_name: @local.certificate_name_input;\nclick | add_data | \n_list_id: certificate_reprints_data,\nid: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased;\nclick | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @local.certificate_name_input,\nid: @fields.cert_to_print,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: result;\nclick | emit: completed;",
+      "action_list": "click | set_field: certificate_name: @local.certificate_name_input;\nclick | add_data | \n_list_id: certificate_reprints_data,\n_id: @fields.cert_to_print, \nn_reprints: @local.n_reprints_increased;\nclick | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @local.certificate_name_input,\nid: @fields.cert_to_print,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: result;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "condition": "!@local.n_reprints",
       "style_list": "flex: 1",

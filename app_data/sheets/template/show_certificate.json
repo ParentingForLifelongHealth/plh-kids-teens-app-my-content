@@ -94,7 +94,7 @@
         }
       ],
       "parameter_list": {
-        "filter": "@item.id == @fields.cert_to_print",
+        "filter": "@item._id == @fields.cert_to_print",
         "limit": "1"
       },
       "exclude_from_translation": true,
@@ -111,13 +111,13 @@
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "@item.id == @fields.cert_to_print",
-              "matchedExpression": "@item.id",
+              "fullExpression": "@item._id == @fields.cert_to_print",
+              "matchedExpression": "@item._id",
               "type": "item",
-              "fieldName": "id"
+              "fieldName": "_id"
             },
             {
-              "fullExpression": "@item.id == @fields.cert_to_print",
+              "fullExpression": "@item._id == @fields.cert_to_print",
               "matchedExpression": "@fields.cert_to_print",
               "type": "fields",
               "fieldName": "cert_to_print"
@@ -129,7 +129,7 @@
         "@data.certificate_reprints_data": [
           "value"
         ],
-        "@item.id": [
+        "@item._id": [
           "parameter_list.filter"
         ],
         "@fields.cert_to_print": [

@@ -126,6 +126,12 @@
     "note": ""
   },
   {
+    "SourceText": "Your data is important to us. This privacy policy sets out our policies for the collection, use, and disclosure of personal data in the use of @global.app_name_full (or “App”).\n\nPlease read this privacy policy carefully. By downloading or using the app, you confirm to be informed concerning the collection and use of personal data in relation to this policy. We will not use or share your personal data with anyone except as described in this privacy policy.\n\nThe terms used in this privacy policy have the same meanings as in our terms and conditions, unless otherwise defined in this privacy policy.",
+    "text": "Data anda penting bagi kami. Dasar privasi ini menetapkan dasar kami untuk pengumpulan, penggunaan dan pendedahan data peribadi dalam penggunaan @global.app_name_full (atau “Apl”).\n\nSila baca dasar privasi ini dengan teliti. Dengan memuat turun atau menggunakan Apl, anda mengesahkan untuk dimaklumkan mengenai pengumpulan dan penggunaan data peribadi berhubung dengan dasar ini. Kami tidak akan menggunakan atau berkongsi data peribadi anda dengan sesiapa kecuali seperti yang diterangkan dalam dasar privasi ini.\n\nTerma yang digunakan dalam dasar privasi ini mempunyai maksud yang sama seperti dalam terma dan syarat kami, melainkan ditakrifkan sebaliknya dalam dasar privasi ini.",
+    "type": "data_list",
+    "note": "The string @global.app_name_full should not be translated."
+  },
+  {
     "SourceText": "Data Controller",
     "text": "Pengawal Data",
     "type": "data_list",
@@ -895,13 +901,13 @@
   },
   {
     "SourceText": "My child chose a competitive activity. I won and then they got angry.",
-    "text": "Anak saya memilih untuk melakukan aktiviti yang bercirikan pertandingan. Saya menang dan mereka jadi marah.",
+    "text": "Anak saya memilih untuk melakukan aktiviti yang bercirikan pertandingan. Saya menang dan anak saya jadi marah.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "⚽ Competitive games can be hard for children (and adults!) if they don’t like losing.\n\n🏆 When they have calmed down, talk with your children about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.",
-    "text": "⚽ Permainan yang bersifat ‘siapa menang, siapa kalah’ memang boleh jadi sukar untuk anak (dan orang dewasa!) kalau mereka tak suka kalah atau berkongsi.\n\n🏆 Bila anak anda sudah tenang, berbual dengannya tentang bagaimana rupa ‘menang dengan baik’ dan ‘kalah dengan baik’.\n\n📝 Kemudian, cadangkan aktiviti lain yang boleh dibuat bersama sebagai satu pasukan, bukan berlawan antara satu sama lain.",
+    "text": "⚽ Permainan yang bersifat ‘siapa menang, siapa kalah’ memang boleh jadi sukar untuk anak (dan orang dewasa!) jika anak tak suka kalah atau berkongsi.\n\n🏆 Bila anak anda sudah tenang, berbual dengannya tentang bagaimana rupa ‘menang dengan baik’ dan ‘kalah dengan baik’.\n\n📝 Kemudian, cadangkan aktiviti lain yang boleh dibuat bersama sebagai satu pasukan, bukan berlawan antara satu sama lain.",
     "type": "data_list",
     "note": ""
   },
@@ -1027,13 +1033,13 @@
   },
   {
     "SourceText": "😣 You may be hurt because your child does not want to spend time with you.\n\n⏰ Sometimes, your child just needs time to engage with you. It helps to remain calm, patient, and kind while you try to connect with your child.\n\n🌱 As children grow, they may want independence from you. That’s normal! You can support them to find friends based on their interests.",
-    "text": "😣 Anda mungkin terluka kerana anak anda tidak mahu meluangkan masa bersama anda.\n\n⏰ Kadangkala, anak anda hanya perlukan sedikit masa untuk menyesuaikan dirinya dengan anda. Ia membantu anak anda untuk kekal tenang, sabar dan baik semasa anda cuba berhubung dengannya.\n\n🌱 Semasa kanak-kanak membesar, mereka mungkin mahukan kebebasan daripada anda. Itu adalah perkara biasa! Anda boleh menyokong mereka dengan membantu mereka mencari rakan yang mempunyai minat serupa.",
+    "text": "😣 Anda mungkin sedih kerana anak anda tidak mahu meluangkan masa bersama anda.\n\n⏰ Kadangkala, anak anda hanya perlukan sedikit masa untuk menyesuaikan dirinya dengan anda. Ia membantu anak anda untuk kekal tenang, sabar dan baik semasa anda cuba berhubung dengannya.\n\n🌱 Semasa kanak-kanak membesar, mereka mungkin mahukan kebebasan daripada anda. Itu adalah perkara biasa! Anda boleh menyokong mereka dengan membantu mereka mencari rakan yang mempunyai minat serupa.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "My child keeps getting hurt from exploring or making new friends.",
-    "text": "Anak saya kerap tercedera akibat melasak atau suka berkenalan dengan rakan baharu.",
+    "text": "Anak saya kerap tercedera kerana seuka meneroka atau suka berkenalan dengan rakan baharu.",
     "type": "data_list",
     "note": ""
   },
@@ -1051,7 +1057,7 @@
   },
   {
     "SourceText": "⚽ Competitive games can be hard for children (and adults!) if they don’t like losing or sharing.\n\n🏆 When they have calmed down, talk with your child about what winning well and losing well might look like.\n\n📝 Suggest other activities that you can do to work together instead of against each other.",
-    "text": "⚽ Permainan yang bersifat ‘siapa menang, siapa kalah’ memang boleh jadi sukar untuk anak (dan orang dewasa!) kalau mereka tak suka kalah atau berkongsi.\n\n🏆 Bila anak anda sudah tenang, berbual dengannya tentang bagaimana rupa ‘menang dengan baik’ dan ‘kalah dengan baik’.\n\n📝 Kemudian, cadangkan aktiviti lain yang boleh dibuat bersama sebagai satu pasukan, bukan berlawan antara satu sama lain.",
+    "text": "⚽ Permainan yang bersifat ‘siapa menang, siapa kalah’ memang boleh jadi sukar untuk anak (dan orang dewasa!) kalau anak tak suka kalah atau berkongsi.\n\n🏆 Bila anak anda sudah tenang, berbual dengannya tentang bagaimana rupa ‘menang dengan baik’ dan ‘kalah dengan baik’.\n\n📝 Kemudian, cadangkan aktiviti lain yang boleh dibuat bersama sebagai satu pasukan, bukan berlawan antara satu sama lain.",
     "type": "data_list",
     "note": ""
   },
@@ -1555,7 +1561,7 @@
   },
   {
     "SourceText": "Take a Pause",
-    "text": "Berikan semua perhatian anda terhadap anak anda. ",
+    "text": "Berhenti Seketika",
     "type": "data_list",
     "note": ""
   },
@@ -3109,7 +3115,7 @@
   },
   {
     "SourceText": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
-    "text": "✅Betul! \n\n✨ Setiap kanak-kanak adalah unik dan akan membesar mengikut perkembangannya sendiri. Sesetengah kanak-kanak mungkin akan membesar dengan lebih cepat berbanding rakan mereka, namun ada juga yang memerlukan lebih banyak masa untuk membesar.\n\n💚 Penting untuk anda bersabar dan sentiasa menyokong anak anda, sambil ingat bahawa setiap anak ada perjalanan perkembangan yang tersendiri.\n\n❗Sentiasa ingat bahawa isu berkaitan perkembangan anak tidak selalunya jelas, dan bukanlah salah anda jika anda tidak menyedari keadaan anak anda pada peringkat awal.\n\n🚩 Dapatkan pandangan daripada pakar jika anda risau mengenai perkembangan anak anda.",
+    "text": "✅ Betul! \n\n✨ Setiap kanak-kanak adalah unik dan akan membesar mengikut perkembangannya sendiri. Sesetengah kanak-kanak mungkin akan membesar dengan lebih cepat berbanding rakan mereka, namun ada juga yang memerlukan lebih banyak masa untuk membesar.\n\n💚 Penting untuk anda bersabar dan sentiasa menyokong anak anda, sambil ingat bahawa setiap anak ada perjalanan perkembangan yang tersendiri.\n\n❗Sentiasa ingat bahawa isu berkaitan perkembangan anak tidak selalunya jelas, dan bukanlah salah anda jika anda tidak menyedari keadaan anak anda pada peringkat awal.\n\n🚩 Dapatkan pandangan daripada pakar jika anda risau mengenai perkembangan anak anda.",
     "type": "data_list",
     "note": ""
   },
@@ -3571,7 +3577,7 @@
   },
   {
     "SourceText": "💡 Make sure you focus on something your child has done well.\n🙂You can show your praise with a big smile or words. You can also clap, hug, or tickle your child to show you appreciate them.\n☀️ Keeping it positive reminds your child that you notice them and care.",
-    "text": "💡 Pastikan anda memberi tumpuan kepada kelakuan baik anak anda.\n🙂Untuk menunjukkan bahawa anda menghargai anak anda, anda boleh memuji mereka dengan senyuman yang lebar atau dengan perkataan. Begitu juga dengan menepuk tangan, memeluk atau menggeletek anak anda semasa memujinya.\n☀️ Anak anda dapat mengetahui bahawa anda perhatikan dan sayangkannya apabila anda sentiasa positif.",
+    "text": "💡 Pastikan anda memberi tumpuan kepada kelakuan baik anak anda.\n🙂 Untuk menunjukkan bahawa anda menghargai anak anda, anda boleh memuji mereka dengan senyuman yang lebar atau dengan perkataan. Begitu juga dengan menepuk tangan, memeluk atau menggeletek anak anda semasa memujinya.\n☀️ Anak anda dapat mengetahui bahawa anda perhatikan dan sayangkannya apabila anda sentiasa positif.",
     "type": "data_list",
     "note": ""
   },
@@ -4543,7 +4549,7 @@
   },
   {
     "SourceText": "Home",
-    "text": "Rumah",
+    "text": "Utama",
     "type": "data_list",
     "note": ""
   },
@@ -4933,7 +4939,7 @@
   },
   {
     "SourceText": "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. Try to communicate in a way that your child can understand. \n⭐ Books with words help to understand letters and sounds!\n🎵 Focus on words that rhyme, repeat, and start with the same letter, like “big black boot.”",
-    "text": "💡 Buku-buku tanpa perkataan membantu dalam imaginasi, idea, dan mempelajari perkataan baharu. Namakan dan terangkan apa yang ada dalam gambar itu bersama-sama. \n⭐ Buku-buku yang menggunakan perkataan boleh membantu untuk memahami huruf, bunyi, dan bagaimana rupa bentuk perkataan yang berlainan.\n🎵 Beri perhatian kepada perkataan yang berirama, ulang, dan mula dengan huruf yang sama, seperti \"banyak bola besar.\"",
+    "text": "💡 Buku-buku tanpa perkataan membantu dalam imaginasi, idea, dan mempelajari perkataan baharu. Namakan dan terangkan apa yang ada dalam gambar itu bersama-sama. \n⭐ Buku-buku yang menggunakan perkataan boleh membantu untuk memahami huruf, bunyi, dan bagaimana rupa bentuk perkataan yang berlainan.\n🎵 Beri perhatian kepada perkataan yang berirama, berulang, dan mula dengan huruf yang sama, seperti \"banyak bola besar.\"",
     "type": "data_list",
     "note": ""
   },
@@ -6883,7 +6889,7 @@
   },
   {
     "SourceText": "Focus on your child\n\n📺 Switch off the TV, put aside phones, and remove distractions.\n👀 Look at your child. Nod or say “I see” to show you are really paying attention. \n💛 Accept your child and avoid judgement.\n💡 Respond to your child when they communicate with you. your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them.",
-    "text": "Beri tumpuan pada anak anda\n\n📺Matikan TV, ketepikan telefon bimbit, dan elakkan gangguan.\n👀 Perhatikan anak anda. Untuk menunjukkan anda betul-betul memberikan perhatian pada anak anda, angguk atau berkata \"Saya nampak\". \n💛 Hormati perasaan anak anda dan elakkan daripada menghakiminya.\n💡 Untuk berkomunikasi dengan anda, anak anda mungkin menggunakan gerak isyarat, ayat penuh, pergerakan dan juga bunyi. Bertindak balas terhadap anak anda apabila dia berkomunikasi dengan anda. Ia menunjukkan anda benar-benar memberi perhatian kepadanya.",
+    "text": "Beri tumpuan pada anak anda\n\n📺 Matikan TV, ketepikan telefon bimbit, dan elakkan gangguan.\n👀 Perhatikan anak anda. Untuk menunjukkan anda betul-betul memberikan perhatian pada anak anda, angguk atau berkata \"Saya nampak\". \n💛 Hormati perasaan anak anda dan elakkan daripada menghakiminya.\n💡 Untuk berkomunikasi dengan anda, anak anda mungkin menggunakan gerak isyarat, ayat penuh, pergerakan dan juga bunyi. Bertindak balas terhadap anak anda apabila dia berkomunikasi dengan anda. Ia menunjukkan anda benar-benar memberi perhatian kepadanya.",
     "type": "data_list",
     "note": ""
   },
@@ -6908,12 +6914,6 @@
   {
     "SourceText": "Today’s skill is about encouraging your child to eat nutritious food and practise healthy eating habits. 🍚",
     "text": "Kemahiran ini tentang menggalakkan anak-anak untuk makan makanan berkhasiat dan mengamalkan tabiat pemakanan yang sihat. 🍚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Children are exposed to lots of different food in their lives. 🎂☕\n\nSome are good for children’s development, while others are not. 🍅\n\nDid you know that children can be trained at home to eat balanced and nutritious meals in moderate amounts, especially in the early years? 🍞\n\nWith your support, children can practise healthy eating habits from a young age. 💛",
-    "text": "Anak-anak akan terdedah kepada pelbagai jenis makanan dalam hidup mereka. 🎂☕\n\nAda yang baik untuk perkembangan kanak-kanak, dan ada juga yang kurang sesuai. 🍅\n\nTahukah anda bahawa kanak-kanak boleh dilatih di rumah untuk makan secara seimbang dan berkhasiat dalam jumlah yang sederhana, terutamanya sejak kecil lagi? 🍞\n\nAnak-anak boleh mula membiasakan diri dengan tabiat pemakanan sihat sejak kecil lagi dengan sokongan anda. 💛",
     "type": "data_list",
     "note": ""
   },
@@ -9613,7 +9613,7 @@
   },
   {
     "SourceText": "Home",
-    "text": "Rumah",
+    "text": "Utama",
     "type": "global",
     "note": ""
   },
