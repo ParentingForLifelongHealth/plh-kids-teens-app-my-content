@@ -1,0 +1,56 @@
+{
+  "flow_type": "template",
+  "flow_name": "create_certificate",
+  "status": "released",
+  "rows": [
+    {
+      "name": "lang",
+      "value": "spa"
+    },
+    {
+      "name": "certificate_template_pt1",
+      "value": "mexico_@fields.cert_to_print"
+    },
+    {
+      "name": "certificate_template_pt2",
+      "value": "_c_@local.lang"
+    },
+    {
+      "name": "certificate_template",
+      "value": "grid"
+    },
+    {
+      "name": "certificate_data_list",
+      "value": "certificate_data"
+    },
+    {
+      "name": "certificate_name",
+      "value": "@fields.certificate_name @fields.cert_to_print"
+    },
+    {
+      "type": "button",
+      "value": "Generate Certificate",
+      "action_list": "click | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @local.certificate_name,\nid: @fields.cert_to_print,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: result;"
+    },
+    {
+      "type": "button",
+      "value": "set reprints",
+      "action_list": "click | set_data | \n_list_id: certificate_data,\n_id: @fields.cert_to_print, \nn_reprints: 0;"
+    },
+    {
+      "name": "image_url"
+    },
+    {
+      "type": "data_items",
+      "name": "get_image_url",
+      "value": "@data.certificate_data",
+      "action_list": "data_changed | set_local : image_url: @items[0]?.url;",
+      "parameter_list": "filter:  @item.id == @fields.cert_to_print;\nlimit: 1;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "image",
+      "value": "@local.image_url"
+    }
+  ]
+}
