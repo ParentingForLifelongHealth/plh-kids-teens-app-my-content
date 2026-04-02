@@ -73,8 +73,8 @@
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 73 |
-| set_field | 118 |
+| set_data | 81 |
+| set_field | 117 |
 | set_item | 72 |
 | set_local | 66 |
 | share | 3 |
