@@ -1,12 +1,12 @@
 {
-  "flow_name": "article_budget_exp_yc_explore_6",
+  "flow_name": "activity_superhero_costume",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "article",
-      "value": "article",
+      "name": "activity",
+      "value": "activity",
       "action_list": [
         {
           "trigger": "completed",
@@ -27,26 +27,16 @@
       ],
       "rows": [
         {
-          "name": "article_id",
-          "value": "explore_6",
+          "name": "activity_id",
+          "value": "superhero_costume",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "article.article_id"
-        },
-        {
-          "name": "module_id",
-          "value": "budget_exp_yc",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "article.module_id"
+          "_nested_name": "activity.activity_id"
         }
       ],
-      "_nested_name": "article"
+      "_nested_name": "activity"
     }
   ]
 }

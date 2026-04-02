@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2842
+        "count": 2856
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 885
+        "count": 900
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 603
+        "count": 618
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 606
+        "count": 621
       },
       {
         "type": "feedback",
@@ -1096,6 +1096,21 @@
       {
         "path": "relax_9_m.mp3",
         "count": 1,
+        "missing": true
+      },
+      {
+        "path": "talk_monthly_expenses_yc_1.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "talk_monthly_expenses_yc_2.svg",
+        "count": 2,
+        "missing": true
+      },
+      {
+        "path": "talk_monthly_expenses_yc_3.svg",
+        "count": 2,
         "missing": true
       }
     ]
@@ -3164,7 +3179,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 675
+        "total": 690
       },
       {
         "type": "template",

@@ -33,11 +33,11 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2842 |
+| set_variable | 2856 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 885 |
+| template | 900 |
 | text | 198 |
 | text_area | 3 |
 | text_box | 24 |
@@ -57,13 +57,13 @@
 | add_data | 2 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 603 |
+| emit: completed | 618 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 606 |
+| emit: uncompleted | 621 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 346 |
@@ -291,6 +291,9 @@ Assets that have references within sheets but do not appear in app-data
 | relax_7_m.mp3 | 1 |
 | relax_8_m.mp3 | 1 |
 | relax_9_m.mp3 | 1 |
+| talk_monthly_expenses_yc_1.svg | 2 |
+| talk_monthly_expenses_yc_2.svg | 2 |
+| talk_monthly_expenses_yc_3.svg | 2 |
 </details>
 
 <details >
@@ -718,6 +721,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 142 |
-| template | generated | 675 |
+| template | generated | 690 |
 | template | legal_terms | 4 |
 </details>

@@ -46,21 +46,18 @@
       "id": "develop",
       "notification_text::eng": "Are you finding it easy to support your child's development every day?",
       "text_goal::eng": "Your goal was to support your child's development.",
-      "reply_no::eng": "That is okay. You will learn more about the importance of child development in this goal. Supporting your child’s development will help them live a safe and healthy life.",
       "reply_happy::eng": "That is great to hear! 😃 Supporting your child’s development will help them live a safe and healthy life."
     },
     {
       "id": "structure",
       "notification_text::eng": "How did the conversation about household rules go with your child?",
       "text_goal::eng": "Your goal was to set some structure at home.",
-      "reply_no::eng": "That is okay. You will learn more about setting and keeping household rules during this goal. This will give them a sense of safety and security needed to thrive.",
       "reply_happy::eng": "That is great to hear! 💙 Helping your child follow household rules gives them a sense of safety and security needed to thrive."
     },
     {
       "id": "behave",
       "notification_text::eng": "How did managing the challenging behaviour go?",
       "text_goal::eng": "Your goal was to learn to manage your child's behaviour.",
-      "reply_no::eng": "That is okay. You will learn more about managing your child’s behaviour in this goal.",
       "reply_happy::eng": "It sounds like your child tends to behave well, which is great to hear! 💙"
     },
     {
@@ -74,14 +71,12 @@
       "id": "ipv",
       "notification_text::eng": "How did sharing household tasks with your spouse go?",
       "text_goal::eng": "Your goal was to share household tasks with your spouse. ",
-      "reply_no::eng": "That is okay. You will learn more about the importance of sharing caregiving and household tasks in this goal.",
       "reply_happy::eng": "That’s great to hear! Sharing tasks equally helps everyone feel valued."
     },
     {
       "id": "budget",
       "notification_text::eng": "How did the budget planning go?",
       "text_goal::eng": "Your goal was to plan a budget.",
-      "reply_no::eng": "That is okay. You will learn more about creating a family budget in this goal. Let’s get started.",
       "reply_happy::eng": "That’s amazing! 🎉 Keep doing this - your family will be better for it."
     }
   ]

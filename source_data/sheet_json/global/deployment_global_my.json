@@ -240,7 +240,7 @@
     {
       "type": "declare_global_constant",
       "name": "restart",
-      "value": "Restart Lesson"
+      "value": "Restart Skill"
     },
     {
       "type": "declare_global_constant",

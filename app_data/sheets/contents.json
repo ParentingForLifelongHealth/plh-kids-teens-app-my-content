@@ -3397,11 +3397,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_budget_exp_yc_explore_6",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_budget_exp_yc_home_activity_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -4487,6 +4482,86 @@
         },
         {
           "flow_name": "activity_emotions_expert",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_act_animal",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_lap_bounce",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_echo_songs",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_circle_dance",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_picture_puzzle",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_superhero_costume",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_hot_cold",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_round_round",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_peg_pretend",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_freeze_statue",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_bake_time",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_silly_characters",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_tricky_tower",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_skipping_rope_song",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_unseen_guesses",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_emotion_cards",
           "flow_subtype": "generated",
           "flow_type": "template"
         }
@@ -8669,6 +8744,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_act_animal": {
+      "flow_name": "activity_act_animal",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_active_counting": {
       "flow_name": "activity_active_counting",
       "flow_subtype": "generated",
@@ -8681,6 +8761,11 @@
     },
     "activity_animals": {
       "flow_name": "activity_animals",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_bake_time": {
+      "flow_name": "activity_bake_time",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -8714,6 +8799,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_circle_dance": {
+      "flow_name": "activity_circle_dance",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_color_hunt": {
       "flow_name": "activity_color_hunt",
       "flow_subtype": "generated",
@@ -8721,6 +8811,16 @@
     },
     "activity_cooking_with_maths": {
       "flow_name": "activity_cooking_with_maths",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_echo_songs": {
+      "flow_name": "activity_echo_songs",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_emotion_cards": {
+      "flow_name": "activity_emotion_cards",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -8749,6 +8849,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_freeze_statue": {
+      "flow_name": "activity_freeze_statue",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_games_with_pictures": {
       "flow_name": "activity_games_with_pictures",
       "flow_subtype": "generated",
@@ -8769,6 +8874,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_hot_cold": {
+      "flow_name": "activity_hot_cold",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_i_spy": {
       "flow_name": "activity_i_spy",
       "flow_subtype": "generated",
@@ -8776,6 +8886,11 @@
     },
     "activity_im_a_writer": {
       "flow_name": "activity_im_a_writer",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_lap_bounce": {
+      "flow_name": "activity_lap_bounce",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -8829,6 +8944,16 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_peg_pretend": {
+      "flow_name": "activity_peg_pretend",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_picture_puzzle": {
+      "flow_name": "activity_picture_puzzle",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_play_books_2to3": {
       "flow_name": "activity_play_books_2to3",
       "flow_subtype": "generated",
@@ -8854,6 +8979,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_round_round": {
+      "flow_name": "activity_round_round",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_secret_handshake": {
       "flow_name": "activity_secret_handshake",
       "flow_subtype": "generated",
@@ -8869,13 +8999,28 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_silly_characters": {
+      "flow_name": "activity_silly_characters",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_simon_says": {
       "flow_name": "activity_simon_says",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_skipping_rope_song": {
+      "flow_name": "activity_skipping_rope_song",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_story_telling": {
       "flow_name": "activity_story_telling",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_superhero_costume": {
+      "flow_name": "activity_superhero_costume",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -8886,6 +9031,16 @@
     },
     "activity_treasure_hunt": {
       "flow_name": "activity_treasure_hunt",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_tricky_tower": {
+      "flow_name": "activity_tricky_tower",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_unseen_guesses": {
+      "flow_name": "activity_unseen_guesses",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -8931,11 +9086,6 @@
     },
     "article_budget_exp_yc_explore_5": {
       "flow_name": "article_budget_exp_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "article_budget_exp_yc_explore_6": {
-      "flow_name": "article_budget_exp_yc_explore_6",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
