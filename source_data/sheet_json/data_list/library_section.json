@@ -20,6 +20,11 @@
       "id": "relax",
       "title::eng": "Take a Pause",
       "image": "images/icons/smile_eyes_down.svg"
+    },
+    {
+      "id": "certificate",
+      "title::eng": "My Certificates",
+      "image": "images/icons/document-text-outline.svg"
     }
   ]
 }

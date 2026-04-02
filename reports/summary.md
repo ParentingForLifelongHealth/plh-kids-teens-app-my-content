@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 106 |
+| button | 102 |
 | combo_box | 25 |
-| data_items | 125 |
+| data_items | 124 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 24 |
+| image | 22 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -27,22 +27,22 @@
 | plh_course_sub_item | 3 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
-| plh_module_list_item | 1 |
+| plh_module_list_item | 2 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2856 |
+| set_variable | 2883 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 900 |
+| template | 886 |
 | text | 198 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
-| title | 54 |
+| title | 53 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -54,29 +54,29 @@
 
 | type | count |
 | --- | --- |
-| add_data | 2 |
+| add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 618 |
+| emit: completed | 617 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 621 |
+| emit: uncompleted | 622 |
 | feedback | 13 |
 | go_to | 16 |
-| nav_stack | 346 |
-| plh_certificate | 3 |
+| nav_stack | 330 |
+| plh_certificate | 9 |
 | plh_parent_group | 2 |
-| pop_up | 74 |
+| pop_up | 82 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 83 |
-| set_field | 110 |
+| set_data | 73 |
+| set_field | 118 |
 | set_item | 72 |
-| set_local | 67 |
+| set_local | 66 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 137579 KB | 137.6 MB |
-| unused | 49183 KB | 49.2 MB |
+| unused | 52299 KB | 52.3 MB |
 </details>
 
 <details open>
@@ -141,6 +141,9 @@ Assets that appear in app-data but do not have references within sheets
 | audio/yc/rules_audio_2.mp3 | 237.1 |
 | audio/yc/solve_audio_1.mp3 | 161.6 |
 | audio/yc/solve_audio_2.mp3 | 187.6 |
+| certificates/MY Certificate Text.pptx | 446.2 |
+| certificates/Malaysia Certificate_V2_English.jpg | 1321.5 |
+| certificates/Malaysia Certificate_V2_Malay.jpg | 1348.2 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/library_top_right.svg | 9.5 |
 | images/backgrounds/mountain_trees.svg | 338.5 |
@@ -256,7 +259,6 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/malay/relax_17__.mp3 | 1 |
 | audio/relax/malay/relax_18__.mp3 | 1 |
 | audio/relax/malay/relax_19__.mp3 | 1 |
-| images/backgrounds/transparent.svg | 1 |
 | images/character_icons/boyfriend.svg | 1 |
 | images/character_icons/f1_daughter_13.svg | 1 |
 | images/character_icons/f1_daughter_16.svg | 1 |
@@ -359,33 +361,33 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | audio/relax/malay/relax_8_m.mp3 | 900.8 | 1 |
 | audio/relax/malay/relax_9_f.mp3 | 1492.2 | 1 |
 | audio/relax/malay/relax_9_m.mp3 | 1726.9 | 1 |
-| images/activities/a_friendly_chat.svg | 1350.7 | 2 |
-| images/activities/active_counting.svg | 1457 | 2 |
-| images/activities/active_songs.svg | 1271 | 2 |
-| images/activities/animals.svg | 1322.5 | 2 |
-| images/activities/be_an_artist.svg | 1224.3 | 2 |
-| images/activities/be_the_narrator.svg | 1599.2 | 2 |
-| images/activities/categorise_organise.svg | 1362.2 | 2 |
-| images/activities/cooking_with_maths.svg | 1477.2 | 2 |
-| images/activities/follow_instructions.svg | 1866.2 | 2 |
-| images/activities/follow_the_leader.svg | 1403.1 | 2 |
-| images/activities/games_with_pictures.svg | 1661.9 | 2 |
-| images/activities/get_active_child.svg | 1677.2 | 2 |
-| images/activities/i_spy.svg | 1465.6 | 2 |
-| images/activities/im_a_writer.svg | 1208.4 | 2 |
-| images/activities/make_story_child.svg | 1659.1 | 2 |
-| images/activities/one_on_one_time.svg | 1575 | 2 |
-| images/activities/pass_ball_child.svg | 1709.2 | 2 |
-| images/activities/play_books_2to3.svg | 1857.7 | 2 |
-| images/activities/play_books_4to6.svg | 1661.9 | 2 |
-| images/activities/play_with_clothes.svg | 1418.5 | 2 |
-| images/activities/play_with_veggies.svg | 1289.5 | 2 |
-| images/activities/riddles.svg | 1403.2 | 2 |
-| images/activities/shapes_everywhere.svg | 1368.2 | 2 |
-| images/activities/story_telling.svg | 1337.2 | 2 |
-| images/activities/thinking_games.svg | 1052.6 | 2 |
-| images/activities/what_letter_is_this.svg | 1302.7 | 2 |
-| images/activities/whats_new_child.svg | 1180.3 | 2 |
+| images/activities/a_friendly_chat.svg | 1350.7 | 4 |
+| images/activities/active_counting.svg | 1457 | 4 |
+| images/activities/active_songs.svg | 1271 | 4 |
+| images/activities/animals.svg | 1322.5 | 4 |
+| images/activities/be_an_artist.svg | 1224.3 | 4 |
+| images/activities/be_the_narrator.svg | 1599.2 | 4 |
+| images/activities/categorise_organise.svg | 1362.2 | 6 |
+| images/activities/cooking_with_maths.svg | 1477.2 | 6 |
+| images/activities/follow_instructions.svg | 1866.2 | 6 |
+| images/activities/follow_the_leader.svg | 1403.1 | 4 |
+| images/activities/games_with_pictures.svg | 1661.9 | 4 |
+| images/activities/get_active_child.svg | 1677.2 | 4 |
+| images/activities/i_spy.svg | 1465.6 | 6 |
+| images/activities/im_a_writer.svg | 1208.4 | 4 |
+| images/activities/make_story_child.svg | 1659.1 | 4 |
+| images/activities/one_on_one_time.svg | 1575 | 6 |
+| images/activities/pass_ball_child.svg | 1709.2 | 4 |
+| images/activities/play_books_2to3.svg | 1857.7 | 6 |
+| images/activities/play_books_4to6.svg | 1661.9 | 6 |
+| images/activities/play_with_clothes.svg | 1418.5 | 4 |
+| images/activities/play_with_veggies.svg | 1289.5 | 4 |
+| images/activities/riddles.svg | 1403.2 | 6 |
+| images/activities/shapes_everywhere.svg | 1368.2 | 4 |
+| images/activities/story_telling.svg | 1337.2 | 4 |
+| images/activities/thinking_games.svg | 1052.6 | 4 |
+| images/activities/what_letter_is_this.svg | 1302.7 | 6 |
+| images/activities/whats_new_child.svg | 1180.3 | 6 |
 | images/backgrounds/bottom_banner.svg | 338.5 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
 | images/backgrounds/kites.svg | 4897.1 | 1 |
@@ -425,15 +427,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond_active.png | 1.7 | 1 |
 | images/icons/diamond_blue.png | 4.7 | 94 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
-| images/icons/document-text-outline.svg | 0.5 | 1 |
+| images/icons/document-text-outline.svg | 0.5 | 2 |
 | images/icons/download.svg | 0.7 | 1 |
 | images/icons/expand_circle_right.png | 0.9 | 1 |
 | images/icons/expand_circle_right_blue.svg | 2.1 | 2 |
-| images/icons/faces/happy.svg | 0.6 | 9 |
+| images/icons/faces/happy.svg | 0.6 | 8 |
 | images/icons/faces/happy_face_new.svg | 1.4 | 64 |
-| images/icons/faces/neutral.svg | 0.5 | 9 |
+| images/icons/faces/neutral.svg | 0.5 | 8 |
 | images/icons/faces/ok_face_new.svg | 0.5 | 64 |
-| images/icons/faces/sad.svg | 0.6 | 9 |
+| images/icons/faces/sad.svg | 0.6 | 8 |
 | images/icons/faces/sad_face_new.svg | 1.5 | 64 |
 | images/icons/globe-outline.svg | 0.8 | 1 |
 | images/icons/heart-outline.png | 1.5 | 1 |

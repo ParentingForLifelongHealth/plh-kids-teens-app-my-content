@@ -8089,18 +8089,13 @@
         "output_flow_subtype": "generated"
       },
       "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/hp_review_dependencies.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1dBv9uje5UWm3cXwHfRRBf29cqBoOC34ZYc1A3vGehSE"
+        "name": "kids_teens_my",
+        "path": "templates/MY hp generator.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1XG0m1n0KJ1dlE5YDq6k7Ae2BzkFBfCpGKg49wbKMDSQ"
       },
       "_output_flows": [
         {
           "flow_name": "stack_hp_review_relation",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
-          "flow_name": "stack_hp_review_learning",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -8604,6 +8599,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1c9Kl1wQZOV3WnwaKKszxqorREoDeZF3WXSIi7AMlAmM"
       }
     },
+    "certificate_list_item": {
+      "flow_type": "template",
+      "flow_name": "certificate_list_item",
+      "_source": {
+        "name": "kids_teens_my",
+        "path": "templates/MY certificates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+      }
+    },
     "check_field_value": {
       "flow_type": "template",
       "flow_name": "check_field_value",
@@ -8629,15 +8633,6 @@
         "name": "kids_teens_global V2",
         "path": "templates/module_list.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
-      }
-    },
-    "create_certificate": {
-      "flow_type": "template",
-      "flow_name": "create_certificate",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "templates/MY certificates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
       }
     },
     "debug_activity_unlocking": {

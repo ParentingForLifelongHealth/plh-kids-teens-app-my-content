@@ -52,7 +52,7 @@
       "type": "plh_module_details_header",
       "name": "plh_module_details_header",
       "value": "@local.module_row.title",
-      "parameter_list": "background_image_asset: @local.bg_illustration;\nmodule_image_asset: images/backgrounds/transparent.svg;",
+      "parameter_list": "background_image_asset: @local.bg_illustration;",
       "exclude_from_translation": true,
       "comments": "background_image_asset: @local.bg_illustration;\nmodule_image_asset: @local.module_row.image_asset;"
     },

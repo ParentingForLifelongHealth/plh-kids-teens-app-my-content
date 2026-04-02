@@ -36,13 +36,6 @@
       "reply_happy::eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
     },
     {
-      "id": "learning",
-      "notification_text::eng": "When you involve your child, how does it go?",
-      "text_goal::eng": "Your goal was to involve your child in an activity to help them learn.",
-      "reply_no::eng": "That is okay. Try to find time to do it more with them this week!",
-      "reply_happy::eng": "That’s great to hear! 🎉 Preparing your child for success in school will help them do well!"
-    },
-    {
       "id": "develop",
       "notification_text::eng": "Are you finding it easy to support your child's development every day?",
       "text_goal::eng": "Your goal was to support your child's development.",

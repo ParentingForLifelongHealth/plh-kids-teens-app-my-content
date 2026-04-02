@@ -97,6 +97,7 @@
         "filter": "@item._id == @fields.cert_to_print",
         "limit": "1"
       },
+      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "get_n_reprints",
       "_dynamicFields": {
@@ -143,6 +144,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "exclude_from_translation": true,
       "name": "text_6",
       "_nested_name": "text_6",
@@ -360,6 +362,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": false,
       "name": "text_10",
       "_nested_name": "text_10",
       "_dynamicFields": {
