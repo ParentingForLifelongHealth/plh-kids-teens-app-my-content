@@ -8631,15 +8631,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
       }
     },
-    "create_certificate": {
-      "flow_type": "template",
-      "flow_name": "create_certificate",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "templates/MY certificates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
-      }
-    },
     "debug_activity_unlocking": {
       "flow_type": "template",
       "flow_name": "debug_activity_unlocking",

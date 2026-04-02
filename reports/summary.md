@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 106 |
+| button | 102 |
 | combo_box | 25 |
-| data_items | 125 |
+| data_items | 124 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 96 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 24 |
+| image | 22 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -27,13 +27,13 @@
 | plh_course_sub_item | 3 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
-| plh_module_list_item | 1 |
+| plh_module_list_item | 2 |
 | qr_code | 1 |
 | radio_button_grid | 9 |
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2856 |
+| set_variable | 2849 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -42,7 +42,7 @@
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
-| title | 54 |
+| title | 53 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -54,10 +54,10 @@
 
 | type | count |
 | --- | --- |
-| add_data | 2 |
+| add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 618 |
+| emit: completed | 617 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
@@ -67,16 +67,16 @@
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 346 |
-| plh_certificate | 3 |
+| plh_certificate | 1 |
 | plh_parent_group | 2 |
 | pop_up | 74 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 83 |
-| set_field | 110 |
+| set_data | 81 |
+| set_field | 109 |
 | set_item | 72 |
-| set_local | 67 |
+| set_local | 66 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 137579 KB | 137.6 MB |
-| unused | 49183 KB | 49.2 MB |
+| unused | 52299 KB | 52.3 MB |
 </details>
 
 <details open>
@@ -141,6 +141,9 @@ Assets that appear in app-data but do not have references within sheets
 | audio/yc/rules_audio_2.mp3 | 237.1 |
 | audio/yc/solve_audio_1.mp3 | 161.6 |
 | audio/yc/solve_audio_2.mp3 | 187.6 |
+| certificates/MY Certificate Text.pptx | 446.2 |
+| certificates/Malaysia Certificate_V2_English.jpg | 1321.5 |
+| certificates/Malaysia Certificate_V2_Malay.jpg | 1348.2 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/library_top_right.svg | 9.5 |
 | images/backgrounds/mountain_trees.svg | 338.5 |
@@ -256,7 +259,6 @@ Assets that have references within sheets but do not appear in app-data
 | audio/relax/malay/relax_17__.mp3 | 1 |
 | audio/relax/malay/relax_18__.mp3 | 1 |
 | audio/relax/malay/relax_19__.mp3 | 1 |
-| images/backgrounds/transparent.svg | 1 |
 | images/character_icons/boyfriend.svg | 1 |
 | images/character_icons/f1_daughter_13.svg | 1 |
 | images/character_icons/f1_daughter_16.svg | 1 |
@@ -720,7 +722,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 6 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 142 |
+| template |  | 141 |
 | template | generated | 690 |
 | template | legal_terms | 4 |
 </details>

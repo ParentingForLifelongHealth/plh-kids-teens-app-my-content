@@ -152,8 +152,7 @@
             "value": {}
           },
           "parameter_list": {
-            "background_image_asset": "@local.bg_illustration",
-            "module_image_asset": "images/backgrounds/transparent.svg"
+            "background_image_asset": "@local.bg_illustration"
           },
           "exclude_from_translation": true,
           "_nested_name": "dg_top.plh_module_details_header",

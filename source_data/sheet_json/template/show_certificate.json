@@ -23,11 +23,13 @@
       "value": "@data.certificate_reprints_data",
       "action_list": "data_changed | set_local : n_reprints: @items[0]?.n_reprints;",
       "parameter_list": "filter:  @item._id == @fields.cert_to_print;\nlimit: 1;",
+      "condition": false,
       "exclude_from_translation": true
     },
     {
       "type": "text",
       "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
+      "condition": false,
       "exclude_from_translation": true,
       "comments": "{\n\"name\", fields.certificate_name,\n\"template\", (lower(fields.deployment_prog_name) & \"_\" & fields.certificate_to_print &\"_\" & fields.content_group_id & \"_\" & contact.language )\n}"
     },
@@ -60,7 +62,8 @@
     },
     {
       "type": "text",
-      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)"
+      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+      "condition": false
     },
     {
       "type": "button",

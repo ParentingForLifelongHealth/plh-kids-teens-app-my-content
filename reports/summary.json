@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 106
+        "count": 102
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 125
+        "count": 124
       },
       {
         "type": "debug_toggle",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 24
+        "count": 22
       },
       {
         "type": "items",
@@ -99,7 +99,7 @@
       },
       {
         "type": "plh_module_list_item",
-        "count": 1
+        "count": 2
       },
       {
         "type": "qr_code",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2856
+        "count": 2849
       },
       {
         "type": "simple_checkbox",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 54
+        "count": 53
       },
       {
         "type": "toggle_bar",
@@ -183,7 +183,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 2
+        "count": 1
       },
       {
         "type": "app_update",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 618
+        "count": 617
       },
       {
         "type": "emit: force_reload",
@@ -235,7 +235,7 @@
       },
       {
         "type": "plh_certificate",
-        "count": 3
+        "count": 1
       },
       {
         "type": "plh_parent_group",
@@ -259,11 +259,11 @@
       },
       {
         "type": "set_data",
-        "count": 83
+        "count": 81
       },
       {
         "type": "set_field",
-        "count": 110
+        "count": 109
       },
       {
         "type": "set_item",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 67
+        "count": 66
       },
       {
         "type": "share",
@@ -300,8 +300,8 @@
       },
       {
         "assets": "unused",
-        "KB": "49183 KB",
-        "MB": "49.2 MB"
+        "KB": "52299 KB",
+        "MB": "52.3 MB"
       }
     ]
   },
@@ -474,6 +474,18 @@
       {
         "path": "audio/yc/solve_audio_2.mp3",
         "size_kb": 187.6
+      },
+      {
+        "path": "certificates/MY Certificate Text.pptx",
+        "size_kb": 446.2
+      },
+      {
+        "path": "certificates/Malaysia Certificate_V2_English.jpg",
+        "size_kb": 1321.5
+      },
+      {
+        "path": "certificates/Malaysia Certificate_V2_Malay.jpg",
+        "size_kb": 1348.2
       },
       {
         "path": "images/backgrounds/homescreen_pattern.svg",
@@ -920,11 +932,6 @@
       },
       {
         "path": "audio/relax/malay/relax_19__.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/backgrounds/transparent.svg",
         "count": 1,
         "missing": true
       },
@@ -3174,7 +3181,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 142
+        "total": 141
       },
       {
         "type": "template",
