@@ -249,8 +249,12 @@
       "exclude_from_translation": true
     },
     {
+      "name": "start_at_id",
+      "value": "_start_at_id"
+    },
+    {
       "name": "target_template",
-      "value": "module_landing_@local.module_id",
+      "value": "stack_module_@local.module_id@local.start_at_id",
       "exclude_from_translation": true
     },
     {
@@ -278,6 +282,10 @@
       "name": "template",
       "value": "@local.target_template",
       "exclude_from_translation": true
+    },
+    {
+      "name": "pop_up",
+      "value": true
     },
     {
       "name": "action_text",

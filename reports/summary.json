@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 106
+        "count": 102
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 125
+        "count": 124
       },
       {
         "type": "debug_toggle",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 24
+        "count": 22
       },
       {
         "type": "items",
@@ -99,7 +99,7 @@
       },
       {
         "type": "plh_module_list_item",
-        "count": 1
+        "count": 2
       },
       {
         "type": "qr_code",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2856
+        "count": 2883
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 900
+        "count": 886
       },
       {
         "type": "text",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 54
+        "count": 53
       },
       {
         "type": "toggle_bar",
@@ -183,7 +183,7 @@
     "data": [
       {
         "type": "add_data",
-        "count": 2
+        "count": 1
       },
       {
         "type": "app_update",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 618
+        "count": 617
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 621
+        "count": 622
       },
       {
         "type": "feedback",
@@ -231,11 +231,11 @@
       },
       {
         "type": "nav_stack",
-        "count": 346
+        "count": 330
       },
       {
         "type": "plh_certificate",
-        "count": 3
+        "count": 9
       },
       {
         "type": "plh_parent_group",
@@ -243,7 +243,7 @@
       },
       {
         "type": "pop_up",
-        "count": 74
+        "count": 82
       },
       {
         "type": "reset_app",
@@ -259,11 +259,11 @@
       },
       {
         "type": "set_data",
-        "count": 83
+        "count": 73
       },
       {
         "type": "set_field",
-        "count": 110
+        "count": 118
       },
       {
         "type": "set_item",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 67
+        "count": 66
       },
       {
         "type": "share",
@@ -300,8 +300,8 @@
       },
       {
         "assets": "unused",
-        "KB": "49183 KB",
-        "MB": "49.2 MB"
+        "KB": "52299 KB",
+        "MB": "52.3 MB"
       }
     ]
   },
@@ -474,6 +474,18 @@
       {
         "path": "audio/yc/solve_audio_2.mp3",
         "size_kb": 187.6
+      },
+      {
+        "path": "certificates/MY Certificate Text.pptx",
+        "size_kb": 446.2
+      },
+      {
+        "path": "certificates/Malaysia Certificate_V2_English.jpg",
+        "size_kb": 1321.5
+      },
+      {
+        "path": "certificates/Malaysia Certificate_V2_Malay.jpg",
+        "size_kb": 1348.2
       },
       {
         "path": "images/backgrounds/homescreen_pattern.svg",
@@ -920,11 +932,6 @@
       },
       {
         "path": "audio/relax/malay/relax_19__.mp3",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/backgrounds/transparent.svg",
         "count": 1,
         "missing": true
       },
@@ -1399,137 +1406,137 @@
       },
       {
         "path": "images/activities/a_friendly_chat.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1350.7
       },
       {
         "path": "images/activities/active_counting.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1457
       },
       {
         "path": "images/activities/active_songs.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1271
       },
       {
         "path": "images/activities/animals.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1322.5
       },
       {
         "path": "images/activities/be_an_artist.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1224.3
       },
       {
         "path": "images/activities/be_the_narrator.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1599.2
       },
       {
         "path": "images/activities/categorise_organise.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1362.2
       },
       {
         "path": "images/activities/cooking_with_maths.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1477.2
       },
       {
         "path": "images/activities/follow_instructions.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1866.2
       },
       {
         "path": "images/activities/follow_the_leader.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1403.1
       },
       {
         "path": "images/activities/games_with_pictures.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1661.9
       },
       {
         "path": "images/activities/get_active_child.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1677.2
       },
       {
         "path": "images/activities/i_spy.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1465.6
       },
       {
         "path": "images/activities/im_a_writer.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1208.4
       },
       {
         "path": "images/activities/make_story_child.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1659.1
       },
       {
         "path": "images/activities/one_on_one_time.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1575
       },
       {
         "path": "images/activities/pass_ball_child.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1709.2
       },
       {
         "path": "images/activities/play_books_2to3.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1857.7
       },
       {
         "path": "images/activities/play_books_4to6.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1661.9
       },
       {
         "path": "images/activities/play_with_clothes.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1418.5
       },
       {
         "path": "images/activities/play_with_veggies.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1289.5
       },
       {
         "path": "images/activities/riddles.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1403.2
       },
       {
         "path": "images/activities/shapes_everywhere.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1368.2
       },
       {
         "path": "images/activities/story_telling.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1337.2
       },
       {
         "path": "images/activities/thinking_games.svg",
-        "count": 2,
+        "count": 4,
         "size_kb": 1052.6
       },
       {
         "path": "images/activities/what_letter_is_this.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1302.7
       },
       {
         "path": "images/activities/whats_new_child.svg",
-        "count": 2,
+        "count": 6,
         "size_kb": 1180.3
       },
       {
@@ -1729,7 +1736,7 @@
       },
       {
         "path": "images/icons/document-text-outline.svg",
-        "count": 1,
+        "count": 2,
         "size_kb": 0.5
       },
       {
@@ -1749,7 +1756,7 @@
       },
       {
         "path": "images/icons/faces/happy.svg",
-        "count": 9,
+        "count": 8,
         "size_kb": 0.6
       },
       {
@@ -1759,7 +1766,7 @@
       },
       {
         "path": "images/icons/faces/neutral.svg",
-        "count": 9,
+        "count": 8,
         "size_kb": 0.5
       },
       {
@@ -1769,7 +1776,7 @@
       },
       {
         "path": "images/icons/faces/sad.svg",
-        "count": 9,
+        "count": 8,
         "size_kb": 0.6
       },
       {

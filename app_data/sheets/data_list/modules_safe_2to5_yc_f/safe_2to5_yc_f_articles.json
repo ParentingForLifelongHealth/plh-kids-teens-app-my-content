@@ -73,6 +73,12 @@
         },
         "quiz_2_feedback_3": {
           "my_ms": true
+        },
+        "quiz_2_option_4_text": {
+          "my_ms": true
+        },
+        "quiz_2_feedback_4": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
@@ -110,9 +116,15 @@
           "eng": "⭐ That’s right. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
         },
         "quiz_2_option_3_text": {
-          "eng": "Tell them not to lie about things like this | Go and shout at the person who did it"
+          "eng": "Tell them not to lie about things like this"
         },
         "quiz_2_feedback_3": {
+          "eng": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
+        },
+        "quiz_2_option_4_text": {
+          "eng": "Go and shout at the person who did it"
+        },
+        "quiz_2_feedback_4": {
           "eng": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
         }
       },
@@ -126,8 +138,10 @@
       "quiz_2_feedback_1": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
       "quiz_2_option_2_text": "Appreciate them for being brave to share with you and report the person if necessary",
       "quiz_2_feedback_2": "⭐ That’s right. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
-      "quiz_2_option_3_text": "Tell them not to lie about things like this | Go and shout at the person who did it",
-      "quiz_2_feedback_3": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
+      "quiz_2_option_3_text": "Tell them not to lie about things like this",
+      "quiz_2_feedback_3": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
+      "quiz_2_option_4_text": "Go and shout at the person who did it",
+      "quiz_2_feedback_4": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic."
     },
     {
       "id": "explore_1",

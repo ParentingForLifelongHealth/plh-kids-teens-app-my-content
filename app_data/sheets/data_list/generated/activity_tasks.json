@@ -1173,6 +1173,7 @@
     },
     {
       "id": "blanket_forts",
+      "image_asset": "images/activities/cooking_with_maths.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1215,6 +1216,7 @@
     },
     {
       "id": "body_outline",
+      "image_asset": "images/activities/follow_instructions.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1255,6 +1257,7 @@
     },
     {
       "id": "catch_it",
+      "image_asset": "images/activities/one_on_one_time.svg",
       "activity_group_list": [
         "quick",
         "active"
@@ -1297,6 +1300,7 @@
     },
     {
       "id": "color_hunt",
+      "image_asset": "images/activities/play_books_4to6.svg",
       "activity_group_list": [
         "group"
       ],
@@ -1337,6 +1341,7 @@
     },
     {
       "id": "flip_blanket",
+      "image_asset": "images/activities/play_books_2to3.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1378,6 +1383,7 @@
     },
     {
       "id": "guess_animal",
+      "image_asset": "images/activities/i_spy.svg",
       "activity_group_list": [
         "quick"
       ],
@@ -1418,6 +1424,7 @@
     },
     {
       "id": "happy_things",
+      "image_asset": "images/activities/categorise_organise.svg",
       "activity_group_list": [
         "calm"
       ],
@@ -1458,6 +1465,7 @@
     },
     {
       "id": "letter_hunt",
+      "image_asset": "images/activities/what_letter_is_this.svg",
       "activity_group_list": [
         "active"
       ],
@@ -1497,6 +1505,7 @@
     },
     {
       "id": "obstacle_race",
+      "image_asset": "images/activities/riddles.svg",
       "activity_group_list": [
         "active"
       ],
@@ -1535,6 +1544,7 @@
     },
     {
       "id": "paper_ball",
+      "image_asset": "images/activities/whats_new_child.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1575,6 +1585,7 @@
     },
     {
       "id": "pattern",
+      "image_asset": "images/activities/make_story_child.svg",
       "activity_group_list": [
         "quick"
       ],
@@ -1616,6 +1627,7 @@
     },
     {
       "id": "secret_handshake",
+      "image_asset": "images/activities/play_with_clothes.svg",
       "activity_group_list": [
         "quick"
       ],
@@ -1656,6 +1668,7 @@
     },
     {
       "id": "shadow_play",
+      "image_asset": "images/activities/play_with_veggies.svg",
       "activity_group_list": [
         "active"
       ],
@@ -1695,6 +1708,7 @@
     },
     {
       "id": "simon_says",
+      "image_asset": "images/activities/animals.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1735,6 +1749,7 @@
     },
     {
       "id": "treasure_hunt",
+      "image_asset": "images/activities/active_counting.svg",
       "activity_group_list": [
         "quick"
       ],
@@ -1776,6 +1791,7 @@
     },
     {
       "id": "what_we_see",
+      "image_asset": "images/activities/thinking_games.svg",
       "activity_group_list": [
         "active"
       ],
@@ -1815,6 +1831,7 @@
     },
     {
       "id": "nature_bingo",
+      "image_asset": "images/activities/games_with_pictures.svg",
       "activity_group_list": [
         "active"
       ],
@@ -1855,6 +1872,7 @@
     },
     {
       "id": "mystery_bag",
+      "image_asset": "images/activities/shapes_everywhere.svg",
       "activity_group_list": [
         "quick",
         "calm"
@@ -1894,6 +1912,7 @@
     },
     {
       "id": "olympic_challenge",
+      "image_asset": "images/activities/story_telling.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1939,6 +1958,7 @@
     },
     {
       "id": "freeze_dance",
+      "image_asset": "images/activities/im_a_writer.svg",
       "activity_group_list": [
         "active",
         "group"
@@ -1984,6 +2004,7 @@
     },
     {
       "id": "emotions_expert",
+      "image_asset": "images/activities/a_friendly_chat.svg",
       "activity_group_list": [
         "calm"
       ],
@@ -2025,6 +2046,7 @@
     },
     {
       "id": "act_animal",
+      "image_asset": "images/activities/get_active_child.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2065,6 +2087,7 @@
     },
     {
       "id": "lap_bounce",
+      "image_asset": "images/activities/pass_ball_child.svg",
       "child_age_list": [
         "0",
         "1",
@@ -2095,6 +2118,7 @@
     },
     {
       "id": "echo_songs",
+      "image_asset": "images/activities/active_songs.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2125,6 +2149,7 @@
     },
     {
       "id": "circle_dance",
+      "image_asset": "images/activities/follow_the_leader.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2160,6 +2185,7 @@
     },
     {
       "id": "picture_puzzle",
+      "image_asset": "images/activities/be_the_narrator.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2197,6 +2223,7 @@
     },
     {
       "id": "superhero_costume",
+      "image_asset": "images/activities/be_an_artist.svg",
       "child_age_list": [
         "3",
         "4",
@@ -2228,6 +2255,7 @@
     },
     {
       "id": "hot_cold",
+      "image_asset": "images/activities/cooking_with_maths.svg",
       "child_age_list": [
         "3",
         "4",
@@ -2266,6 +2294,7 @@
     },
     {
       "id": "round_round",
+      "image_asset": "images/activities/follow_instructions.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2293,6 +2322,7 @@
     },
     {
       "id": "peg_pretend",
+      "image_asset": "images/activities/one_on_one_time.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2330,6 +2360,7 @@
     },
     {
       "id": "freeze_statue",
+      "image_asset": "images/activities/play_books_4to6.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2364,6 +2395,7 @@
     },
     {
       "id": "bake_time",
+      "image_asset": "images/activities/play_books_2to3.svg",
       "child_age_list": [
         "6",
         "7",
@@ -2395,6 +2427,7 @@
     },
     {
       "id": "silly_characters",
+      "image_asset": "images/activities/i_spy.svg",
       "child_age_list": [
         "6",
         "7",
@@ -2431,7 +2464,7 @@
     },
     {
       "id": "tricky_tower",
-      "image_asset": "",
+      "image_asset": "images/activities/categorise_organise.svg",
       "child_age_list": [
         "5",
         "6",
@@ -2469,6 +2502,7 @@
     },
     {
       "id": "skipping_rope_song",
+      "image_asset": "images/activities/what_letter_is_this.svg",
       "child_age_list": [
         "6",
         "7",
@@ -2500,6 +2534,7 @@
     },
     {
       "id": "unseen_guesses",
+      "image_asset": "images/activities/riddles.svg",
       "child_age_list": [
         "2",
         "3",
@@ -2540,6 +2575,7 @@
     },
     {
       "id": "emotion_cards",
+      "image_asset": "images/activities/whats_new_child.svg",
       "child_age_list": [
         "2",
         "3",

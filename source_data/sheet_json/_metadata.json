@@ -1411,6 +1411,15 @@
   },
   {
     "flow_type": "generator",
+    "flow_name": "stack_hp_review_gen",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY hp generator.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1XG0m1n0KJ1dlE5YDq6k7Ae2BzkFBfCpGKg49wbKMDSQ"
+    }
+  },
+  {
+    "flow_type": "generator",
     "flow_name": "talk_feelings_yc_article_gen",
     "_source": {
       "name": "kids_teens_my",
@@ -1767,6 +1776,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "certificate_list_item",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY certificates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "check_field_value",
     "_source": {
       "name": "library_field_values",
@@ -1790,15 +1808,6 @@
       "name": "kids_teens_global V2",
       "path": "templates/module_list.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
-    }
-  },
-  {
-    "flow_type": "template",
-    "flow_name": "create_certificate",
-    "_source": {
-      "name": "kids_teens_my",
-      "path": "templates/MY certificates.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
     }
   },
   {

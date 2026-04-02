@@ -56,6 +56,21 @@
           "eng": "Take a Pause"
         }
       }
+    },
+    {
+      "id": "certificate",
+      "image": "images/icons/document-text-outline.svg",
+      "title": "My Certificates",
+      "_translations": {
+        "title": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "My Certificates"
+        }
+      }
     }
   ],
   "_source": {

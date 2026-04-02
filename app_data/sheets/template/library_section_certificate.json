@@ -9,7 +9,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": true,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "library_id"
     },
@@ -19,7 +19,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": true,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "library_id_concat",
       "_dynamicFields": {
@@ -44,7 +44,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": true,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "library_row",
       "_dynamicFields": {
@@ -69,7 +69,7 @@
       "_translations": {
         "value": {}
       },
-      "condition": true,
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "display_title",
       "_dynamicFields": {
@@ -89,135 +89,174 @@
       }
     },
     {
+      "type": "template",
+      "name": "header",
+      "value": "section_header",
+      "action_list": [
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "title",
+          "value": "@local.display_title",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "header.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.display_title",
+                "matchedExpression": "@local.display_title",
+                "type": "local",
+                "fieldName": "display_title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.display_title": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "header"
+    },
+    {
       "type": "data_items",
       "name": "core_courses",
       "value": "@data.courses",
+      "parameter_list": {
+        "filter": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))"
+      },
       "exclude_from_translation": true,
       "rows": [
         {
-          "type": "button",
-          "value": "@item.title",
-          "action_list": [
-            {
-              "trigger": "click",
-              "action_id": "set_field",
-              "args": [
-                "cert_to_print",
-                "@item.id"
-              ],
-              "_raw": "click | set_field: cert_to_print: @item.id"
-            },
-            {
-              "trigger": "click",
-              "action_id": "pop_up",
-              "args": [
-                "show_certificate"
-              ],
-              "_raw": "click | pop_up: show_certificate | fullscreen: true, showCloseButton: true",
-              "params": {
-                "fullscreen": true,
-                "showCloseButton": true
-              }
-            }
-          ],
-          "parameter_list": {
-            "variant": "card-portrait",
-            "image_asset": "@item.image_asset",
-            "disabled": "!@item.completed"
-          },
-          "exclude_from_translation": true,
+          "type": "template",
+          "value": "certificate_list_item",
           "rows": [
             {
-              "type": "image",
-              "value": "images/icons/locked.png",
+              "name": "course_name",
+              "value": "@item.title",
               "_translations": {
                 "value": {}
               },
-              "condition": "!@item.completed;",
-              "name": "image_1",
-              "_nested_name": "core_courses.button_1_@item.id.image_1",
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "core_courses.certificate_list_item_@item.id.course_name",
               "_dynamicFields": {
-                "condition": [
+                "value": [
                   {
-                    "fullExpression": "!@item.completed;",
-                    "matchedExpression": "!@item.completed",
+                    "fullExpression": "@item.title",
+                    "matchedExpression": "@item.title",
                     "type": "item",
-                    "fieldName": "completed"
+                    "fieldName": "title"
                   }
                 ],
                 "_nested_name": [
                   {
-                    "fullExpression": "core_courses.button_1_@item.id.image_1",
-                    "matchedExpression": "@item.id.image_1",
+                    "fullExpression": "core_courses.certificate_list_item_@item.id.course_name",
+                    "matchedExpression": "@item.id.course_name",
                     "type": "item",
                     "fieldName": "id"
                   }
                 ]
               },
               "_dynamicDependencies": {
-                "!@item.completed": [
-                  "condition"
+                "@item.title": [
+                  "value"
                 ],
-                "@item.id.image_1": [
+                "@item.id.course_name": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
+              "name": "asset",
+              "value": "@item.image_asset",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "core_courses.certificate_list_item_@item.id.asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.image_asset",
+                    "matchedExpression": "@item.image_asset",
+                    "type": "item",
+                    "fieldName": "image_asset"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "core_courses.certificate_list_item_@item.id.asset",
+                    "matchedExpression": "@item.id.asset",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.image_asset": [
+                  "value"
+                ],
+                "@item.id.asset": [
+                  "_nested_name"
+                ]
+              }
+            },
+            {
+              "name": "curr_cert",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "core_courses.certificate_list_item_@item.id.curr_cert",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ],
+                "_nested_name": [
+                  {
+                    "fullExpression": "core_courses.certificate_list_item_@item.id.curr_cert",
+                    "matchedExpression": "@item.id.curr_cert",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ],
+                "@item.id.curr_cert": [
                   "_nested_name"
                 ]
               }
             }
           ],
-          "name": "button_1_@item.id",
-          "_nested_name": "core_courses.button_1_@item.id",
+          "name": "certificate_list_item_@item.id",
+          "_nested_name": "core_courses.certificate_list_item_@item.id",
           "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@item.title",
-                "matchedExpression": "@item.title",
-                "type": "item",
-                "fieldName": "title"
-              }
-            ],
-            "action_list": {
-              "0": {
-                "args": {
-                  "1": [
-                    {
-                      "fullExpression": "@item.id",
-                      "matchedExpression": "@item.id",
-                      "type": "item",
-                      "fieldName": "id"
-                    }
-                  ]
-                },
-                "_raw": [
-                  {
-                    "fullExpression": "click | set_field: cert_to_print: @item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
-                ]
-              }
-            },
-            "parameter_list": {
-              "image_asset": [
-                {
-                  "fullExpression": "@item.image_asset",
-                  "matchedExpression": "@item.image_asset",
-                  "type": "item",
-                  "fieldName": "image_asset"
-                }
-              ],
-              "disabled": [
-                {
-                  "fullExpression": "!@item.completed",
-                  "matchedExpression": "!@item.completed",
-                  "type": "item",
-                  "fieldName": "completed"
-                }
-              ]
-            },
             "name": [
               {
-                "fullExpression": "button_1_@item.id",
+                "fullExpression": "certificate_list_item_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -225,7 +264,7 @@
             ],
             "_nested_name": [
               {
-                "fullExpression": "core_courses.button_1_@item.id",
+                "fullExpression": "core_courses.certificate_list_item_@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -233,20 +272,9 @@
             ]
           },
           "_dynamicDependencies": {
-            "@item.title": [
-              "value"
-            ],
             "@item.id": [
-              "action_list.0.args.1",
-              "action_list.0._raw",
               "name",
               "_nested_name"
-            ],
-            "@item.image_asset": [
-              "parameter_list.image_asset"
-            ],
-            "!@item.completed": [
-              "parameter_list.disabled"
             ]
           }
         }
@@ -260,11 +288,96 @@
             "type": "data",
             "fieldName": "courses"
           }
-        ]
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.age_list",
+              "type": "item",
+              "fieldName": "age_list"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@item.age_list.includes",
+              "type": "item",
+              "fieldName": "age_list"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@fields.child_age",
+              "type": "fields",
+              "fieldName": "child_age"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.child_gender_list",
+              "type": "item",
+              "fieldName": "child_gender_list"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@item.child_gender_list.includes",
+              "type": "item",
+              "fieldName": "child_gender_list"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@fields.child_gender",
+              "type": "fields",
+              "fieldName": "child_gender"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "!@item.caregiver_relationship_list",
+              "type": "item",
+              "fieldName": "caregiver_relationship_list"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@item.caregiver_relationship_list.includes",
+              "type": "item",
+              "fieldName": "caregiver_relationship_list"
+            },
+            {
+              "fullExpression": "(!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+              "matchedExpression": "@fields.user_relationship",
+              "type": "fields",
+              "fieldName": "user_relationship"
+            }
+          ]
+        }
       },
       "_dynamicDependencies": {
         "@data.courses": [
           "value"
+        ],
+        "!@item.age_list": [
+          "parameter_list.filter"
+        ],
+        "@item.age_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.child_age": [
+          "parameter_list.filter"
+        ],
+        "!@item.child_gender_list": [
+          "parameter_list.filter"
+        ],
+        "@item.child_gender_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.child_gender": [
+          "parameter_list.filter"
+        ],
+        "!@item.caregiver_relationship_list": [
+          "parameter_list.filter"
+        ],
+        "@item.caregiver_relationship_list.includes": [
+          "parameter_list.filter"
+        ],
+        "@fields.user_relationship": [
+          "parameter_list.filter"
         ]
       }
     }

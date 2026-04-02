@@ -10,8 +10,23 @@
   },
   "rows": [
     {
+      "name": "underscore",
+      "value": "_"
+    },
+    {
+      "name": "certificate_template",
+      "value": "@gen.id@local.underscore@fields._app_language"
+    },
+    {
+      "name": "certificate_data_list",
+      "value": "certificate_data"
+    },
+    {
+      "name": "result"
+    },
+    {
       "type": "data_items",
-      "name": "check_if_already_unlocked_activity",
+      "name": "get_check_in",
       "value": "hp_check_in",
       "parameter_list": [
         "filter: @item.id == \"@gen.id\"",
@@ -21,19 +36,33 @@
       "rows": [
         {
           "type": "template",
-          "name": "if_no",
-          "value": "hp_review_with_activity",
+          "name": "if_yes",
+          "value": "hp_review",
           "action_list": [
             {
               "trigger": "completed",
-              "action_id": "set_data",
-              "args": [],
-              "_raw": "completed | set_data | _list_id: hp_check_in, _id: @gen.id, unlocked_activity: TRUE",
+              "action_id": "plh_certificate",
+              "args": [
+                "generate"
+              ],
+              "_raw": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: @gen.id,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
               "params": {
-                "_list_id": "hp_check_in",
-                "_id": "@gen.id",
-                "unlocked_activity": true
+                "url": "@global.certificator_url",
+                "name": "@fields.user_name",
+                "id": "@gen.id",
+                "certificate_template": "@local.certificate_template",
+                "certificate_data_list": "@local.certificate_data_list",
+                "result_local_variable_name": "@local.result"
               }
+            },
+            {
+              "trigger": "completed",
+              "action_id": "set_field",
+              "args": [
+                "cert_to_print",
+                "@item.id"
+              ],
+              "_raw": "completed | set_field: cert_to_print: @item.id"
             },
             {
               "trigger": "completed",
@@ -47,12 +76,9 @@
               "trigger": "completed",
               "action_id": "pop_up",
               "args": [
-                "unlock_play"
+                "show_certificate"
               ],
-              "_raw": "completed | pop_up: unlock_play | variant: plh_completion",
-              "params": {
-                "variant": "plh_completion"
-              }
+              "_raw": "completed | pop_up: show_certificate"
             },
             {
               "trigger": "uncompleted",
@@ -64,50 +90,6 @@
             }
           ],
           "exclude_from_translation": true,
-          "condition": "!@item.unlocked_activity",
-          "rows": [
-            {
-              "type": "template",
-              "name": "hp_review",
-              "value": "hp_review",
-              "rows": [
-                {
-                  "name": "row_id",
-                  "value": "@gen.id",
-                  "exclude_from_translation": true
-                },
-                {
-                  "name": "completion_icon",
-                  "value": "@global.first_completion_icon"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "template",
-          "name": "if_yes",
-          "value": "hp_review",
-          "action_list": [
-            {
-              "trigger": "completed",
-              "action_id": "nav_stack",
-              "args": [
-                "close_top"
-              ],
-              "_raw": "completed | nav_stack: close_top"
-            },
-            {
-              "trigger": "uncompleted",
-              "action_id": "nav_stack",
-              "args": [
-                "close_top"
-              ],
-              "_raw": "uncompleted | nav_stack: close_top"
-            }
-          ],
-          "exclude_from_translation": true,
-          "condition": "@item.unlocked_activity",
           "rows": [
             {
               "name": "row_id",
@@ -116,26 +98,36 @@
             },
             {
               "name": "completion_icon",
-              "value": "@global.subsequent_completion_icon"
+              "value": "@global.first_completion_icon"
             }
           ]
+        }
+      ]
+    },
+    {
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "pop_up",
+          "args": [
+            "unlock_play"
+          ],
+          "_raw": "completed | pop_up: unlock_play | variant: plh_completion",
+          "params": {
+            "variant": "plh_completion"
+          }
         }
       ]
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/hp_review_dependencies.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1dBv9uje5UWm3cXwHfRRBf29cqBoOC34ZYc1A3vGehSE"
+    "name": "kids_teens_my",
+    "path": "templates/MY hp generator.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1XG0m1n0KJ1dlE5YDq6k7Ae2BzkFBfCpGKg49wbKMDSQ"
   },
   "_output_flows": [
     {
       "flow_name": "stack_hp_review_relation",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    {
-      "flow_name": "stack_hp_review_learning",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

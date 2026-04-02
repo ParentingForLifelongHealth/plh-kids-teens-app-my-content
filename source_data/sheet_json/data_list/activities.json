@@ -255,6 +255,7 @@
     {
       "id": "blanket_forts",
       "title::eng": "Blanket Forts",
+      "image_asset": "images/activities/cooking_with_maths.svg",
       "intro_text::eng": "Let's create your very own cosy hideaway! Gather old blankets, pillows, and a few chairs or a table. If you want to add a little magic, grab a torch to light up your fort.",
       "steps_text::eng": "🔵 To build your fort, place two chairs facing each other or use a table. Drape the blanket over the top to make a roof. Use heavy books, water bottles, or clothes pegs to hold it in place.\n🔴 Make it comfortable inside with pillows, folded clothes, or a mat. Bring in a favourite toy or book to enjoy together.\n💚 Now crawl inside and relax! Your fort is a special space for reading, playing, or quiet time.\nBuilding a blanket fort helps children be creative and enjoy simple moments!",
       "activity_group_list": "active; group",
@@ -263,6 +264,7 @@
     {
       "id": "body_outline",
       "title::eng": "Body Outline",
+      "image_asset": "images/activities/follow_instructions.svg",
       "intro_text::eng": "This fun game helps your toddler learn about their body. ",
       "steps_text::eng": "Use a big piece of paper (or cardboard) and help them lie down. Trace around their body with a pencil. \n👃 As you go, ask them to point to and name different body parts. For example, you can say, “Where’s your nose?” or “Can you point to your feet?” As they point, encourage them to name each part. \n🎨You can also add stickers or colour in the outline to make it more creative and engaging!\n🌱 The benefits of this activity include improving body awareness, expanding vocabulary, and developing fine motor skills. ",
       "activity_group_list": "active; group",
@@ -271,6 +273,7 @@
     {
       "id": "catch_it",
       "title::eng": "Can you catch it? ",
+      "image_asset": "images/activities/one_on_one_time.svg",
       "intro_text::eng": "Let’s see if you can follow instructions while catching a ball, or even a rolled-up pair of socks! This game will train your concentration and coordination. You can adjust the rules to make it perfect for every age!",
       "steps_text::eng": "👫 Stand a few meters apart and gently toss the ball to each other. After a few throws, add rules!\n⚽ When the thrower shouts ‘one’, the catcher has to catch the ball with their right hand and put their left foot out. If the thrower shouts ‘two’, the catcher catches with their left hand and puts their right foot out.\n😊 Once you’re confident, add some extra rules! If the thrower shouts ‘three’, the catcher has to catch with their right hand and put their right foot out. And if the thrower shouts ‘four’, the catcher catches with their left hand and puts their left foot out.\n\nFor the game to work, make sure the number is called before you throw the ball, so the catcher has time to react!\n",
       "activity_group_list": "quick; active",
@@ -279,6 +282,7 @@
     {
       "id": "color_hunt",
       "title::eng": "Colour Hunt",
+      "image_asset": "images/activities/play_books_4to6.svg",
       "intro_text::eng": "Get ready for a colourful adventure using simple items at home–blocks, crayons, or markers work perfectly. ",
       "steps_text::eng": "🌈 Put all the coloured objects in a bag. Each player picks one object to start.\n\n🔍 The challenge: Find three objects around the house that match the colour of your block. Place your block next to each match and shout “Match!”\n\n🔄 Once you’ve found three matches, grab a new block and start the hunt again!\n\nColour Hunt helps children focus, solve problems, and move around–all while having fun with colours.",
       "activity_group_list": "group",
@@ -287,6 +291,7 @@
     {
       "id": "flip_blanket",
       "title::eng": "Flip the blanket",
+      "image_asset": "images/activities/play_books_2to3.svg",
       "intro_text::eng": "Can you and your child flip a blanket while standing on it? This fun and challenging game will get everyone thinking creatively and working as a team to solve the problem.",
       "steps_text::eng": "🔵 Lay a blanket on the floor. Everyone stands on it–don’t step off!\n\n🤔 Work together to flip the blanket over without touching the floor. Try different ideas and strategies.\n\n💚 If someone steps off, no worries–start again and try a new approach.\n\n💬 While playing, talk about your ideas: How are you working together? What’s working and what’s not?\n\n🌟 Flip the Blanket is a fun way to build teamwork, creative thinking, problem-solving, and perseverance!",
       "activity_group_list": "active; group",
@@ -295,6 +300,7 @@
     {
       "id": "guess_animal",
       "title::eng": "Guess the animal",
+      "image_asset": "images/activities/i_spy.svg",
       "intro_text::eng": "Get ready to put your animal knowledge to the test in this exciting guessing game! Perfect for small or large groups, this game sharpens your reasoning skills and strengthens your memory while having fun.",
       "steps_text::eng": "🦁 One person secretly picks an animal. The others ask questions to guess it, like, “Is it a mammal?”or “Can it fly?”. Keep going until someone guesses correctly. The person who gets it right goes next!\n\n🌟 For added fun, younger kids can join by acting out the animal to give extra clues!",
       "activity_group_list": "quick",
@@ -303,6 +309,7 @@
     {
       "id": "happy_things",
       "title::eng": "Things that make me happy ",
+      "image_asset": "images/activities/categorise_organise.svg",
       "intro_text::eng": "Let’s take some time to appreciate the little things that make us feel happy every day.",
       "steps_text::eng": "😊 Talk about the little things that made you happy today–a friend, a pet, a book, or a game.\n\n📦 Pick at least three items that represents what makes you happy and put them in a special box or container. If you have more than three, go ahead and add them too.\n\n🎨 If the items are big or you cannot find something to represent them, draw them on a piece of paper.\n\n💬 Once everything is in the box, discuss what you and your child chose. Ask them why these things make them happy. It’s a great way to get them talking about positive emotions.",
       "activity_group_list": "calm",
@@ -311,6 +318,7 @@
     {
       "id": "letter_hunt",
       "title::eng": "Letter Hunt",
+      "image_asset": "images/activities/what_letter_is_this.svg",
       "intro_text::eng": "Turn your next supermarket trip into a fun learning game! ",
       "steps_text::eng": "🔍 As you shop, pick a letter and talk about the items on your list that start with that letter. Ask your child to find other things in the supermarket that start with the same letter.\n\n📝 This simple activity helps build your child’s letter recognition and vocabulary while keeping them engaged during the supermarket trip. It’s a fun, interactive way to learn about letters and sounds in real-world situations, turning a simple task into an exciting educational game!",
       "activity_group_list": "active",
@@ -319,6 +327,7 @@
     {
       "id": "obstacle_race",
       "title::eng": "Mini Obstacle Race",
+      "image_asset": "images/activities/riddles.svg",
       "intro_text::eng": "Get ready to set up an exciting adventure in your home!",
       "steps_text::eng": "🏠  Using soft play equipment, pillows, chairs and skipping ropes, create a fun and safe obstacle race for your child to explore.\n\n🤸 Let your toddler crawl, jump, and climb through the obstacles safely.\n\n💪 This helps build coordination, balance, and strength while boosting confidence.\n\n🌟 It’s an easy, playful way to promote physical development while having a great time together!",
       "activity_group_list": "active",
@@ -327,6 +336,7 @@
     {
       "id": "paper_ball",
       "title::eng": "Paper Ball Game",
+      "image_asset": "images/activities/whats_new_child.svg",
       "intro_text::eng": "Get ready to test your child’s aim and decision-making skills with this simple yet exciting game. ",
       "steps_text::eng": "📝 Use paper to make small balls and colour each one differently.\n\n🎯 Make a goal using a table, basket, or floor marking.\n\n🤹 Take turns tossing the balls toward the goal. Whoever lands closest or scores wins the round!\n\n💪 This fun game helps children improve coordination, aim, and decision-making–all while having a friendly competition.",
       "activity_group_list": "active; group",
@@ -335,6 +345,7 @@
     {
       "id": "pattern",
       "title::eng": "Pattern Discovery",
+      "image_asset": "images/activities/make_story_child.svg",
       "intro_text::eng": "Did you know that patterns are all around us? They are on clothes, in nature, and around your home. ",
       "steps_text::eng": "🌟 Explore patterns together–whether it's the rows of trees outside or the design on their clothes. At home, try making patterns with simple items like rocks or fruits.\n\n🟦 Draw a pattern using simple shapes and ask your child questions like: “What comes next?’” or “Can you create your own pattern?” Remember to encourage and celebrate their curiosity as they explore the world of patterns!",
       "activity_group_list": "quick",
@@ -343,6 +354,7 @@
     {
       "id": "secret_handshake",
       "title::eng": "Secret Handshake ",
+      "image_asset": "images/activities/play_with_clothes.svg",
       "intro_text::eng": "Let’s make a special, fun, and unique handshake that only you and your child share.",
       "steps_text::eng": "🤝 Sit down together and talk about the kind of handshake you want. Should it be quick and silly, or cool and complicated? It’s up to you! You can start by choosing a few simple moves like clapping patterns or high fives.\n\n💃 Next, practice adding different steps. Maybe a spin, a shoulder tap, or even a fun dance move! Keep practising until the two of you have your secret handshake down perfectly. And remember, the more creative and playful, the better!\n\n✨ Once you’ve mastered your moves, make your secret handshake a part of your routine! Use it as a fun greeting, before bedtime, or anytime you want to feel that special connection.\n\nThis isn’t just about having fun–it helps build your child’s confidence and teamwork skills while creating a special tradition you both can enjoy.",
       "activity_group_list": "quick",
@@ -351,6 +363,7 @@
     {
       "id": "shadow_play",
       "title::eng": "Shadow Play",
+      "image_asset": "images/activities/play_with_veggies.svg",
       "intro_text::eng": "Shadow Play boosts creativity, focus, and understanding of cause and effect!",
       "steps_text::eng": "🔦 In a dark room, shine a flashlight on your hand to cast shadows on the wall.\n\n🐰 Make fun shapes–bunnies, birds, or anything your imagination create–and invite your child to copy or try their own.\n\n👫 Let your little one take the flashlight too and see how shadows change with movement.",
       "activity_group_list": "active",
@@ -359,6 +372,7 @@
     {
       "id": "simon_says",
       "title::eng": "Leader Says",
+      "image_asset": "images/activities/animals.svg",
       "intro_text::eng": "This classic game is a great way to help your child build listening skills, focus on following directions, and have fun at the same time!\n",
       "steps_text::eng": "🗣️ One person is the Leader and gives commands. Your child should only follow commands that start with “Leader says”.\n\n🤸 For example: “Leader says jump” → jump! But just “Jump” → don’t move.\n\n🔄 Take turns! Let your child be the Leader and give the commands too.\n\n🌟 This fun game helps children practice listening, self-control, and quick thinking!\n\n",
       "activity_group_list": "active; group",
@@ -367,6 +381,7 @@
     {
       "id": "treasure_hunt",
       "title::eng": "Treasure Hunt",
+      "image_asset": "images/activities/active_counting.svg",
       "intro_text::eng": "This fun-filled game is perfect for challenging problem-solving and communication skills while keeping everyone engaged with exciting clues!",
       "steps_text::eng": "💚 Hide a toy, ball, or small object somewhere in the house.\n\n👂 Give clues to help others find it: “in front of the chair,” “behind the table,” or “above the shelf.” Say “getting warm!” if they’re close and “colder…” if they’re going the wrong way.\n\n🔄 Take turns hiding and searching. For more fun, hide multiple items and make a simple treasure map with drawings!\n",
       "activity_group_list": "quick",
@@ -375,6 +390,7 @@
     {
       "id": "what_we_see",
       "title::eng": "What We See",
+      "image_asset": "images/activities/thinking_games.svg",
       "intro_text::eng": "Get ready to turn your home into a scavenger hunt with this fun and interactive spelling game!",
       "steps_text::eng": "📝 Start by writing down each letter of the alphabet–one letter per piece of paper. Once you've finished, place the papers face down so you can’t see the letters.\n\n🔤 Flip a letter and find objects around the house that start with that letter. Place the object next to the paper.\n\n♻️ Keep going until you’ve gone through all the letters.",
       "activity_group_list": "active",
@@ -383,6 +399,7 @@
     {
       "id": "nature_bingo",
       "title::eng": "Nature Game ",
+      "image_asset": "images/activities/games_with_pictures.svg",
       "intro_text::eng": "Let’s have some fun exploring the world around you with a nature-themed game! This activity helps boost concentration and flexible thinking, and you can play it anywhere–at the playground, or even on a walk.",
       "steps_text::eng": "🌿 Draw a 3×3 grid on paper and fill it with things you might see in nature–trees, flowers, rocks, birds, or clouds.\n\n🚶 Go outside and search for the items on your card. Mark each one when you find it.\n\n🏆 You decide when you win! Maybe it’s when you’ve marked off a whole line, or perhaps when you’ve found everything on your card. It’s up to you!",
       "activity_group_list": "active",
@@ -391,6 +408,7 @@
     {
       "id": "mystery_bag",
       "title::eng": "Mystery Bag",
+      "image_asset": "images/activities/shapes_everywhere.svg",
       "intro_text::eng": "This versatile game is perfect for engaging your toddler’s senses and building vocabulary!",
       "steps_text::eng": "👜 Put different objects in a bag. Let your child reach in, feel, and guess what they are before taking them out.\n\n🔍 When they pull out an item, describe what they see: Is it smooth, bumpy, soft, or bright?",
       "activity_group_list": "quick; calm",
@@ -399,6 +417,7 @@
     {
       "id": "olympic_challenge",
       "title::eng": "Olympic Challenge",
+      "image_asset": "images/activities/story_telling.svg",
       "intro_text::eng": "Get ready to get your body moving!",
       "steps_text::eng": "📝 Cut small, card-sized pieces of paper. On each card, write down or draw different age-appropriate, fun activities like “jump on one leg,” “shake hands,” or “do push-ups.” Place the cards face down on the floor. \n\n🔢 Do the same with bottle caps numbering them from 1 to 10. These numbers will tell you how many times to do the activity.\n\n🤸 Now, it’s time to play! Take turns picking one card and one numbered bottle cap. The card will tell you what activity to do, and the number will tell you how many times. For example, you might have to do 8 push-ups or jump on one leg 5 times.\n\n🌟 Keep taking turns and completing the tasks until all the activities are done, or play as long as you’d like!\n",
       "activity_group_list": "active; group",
@@ -407,6 +426,7 @@
     {
       "id": "freeze_dance",
       "title::eng": "Freeze Dance",
+      "image_asset": "images/activities/im_a_writer.svg",
       "intro_text::eng": "Get ready to dance and freeze with this exciting activity that toddlers love! ",
       "steps_text::eng": "🎵 Play some music and let your child dance or move however they like.\n\n✋ When the music stops, they must freeze in place–no moving!\n\n🌟 Freeze Dance helps children practice listening, self-control, and following directions–all while having fun!",
       "activity_group_list": "active; group",
@@ -415,6 +435,7 @@
     {
       "id": "emotions_expert",
       "title::eng": "Guess the emotion!",
+      "image_asset": "images/activities/a_friendly_chat.svg",
       "intro_text::eng": "Let’s have some fun expressing feelings! ",
       "steps_text::eng": "😃  Ask your child, “What does it look like when we’re happy, angry, or surprised?” Then, take turns acting out different emotions and guessing what the other person is feeling.\n\n🌟 This isn’t just a game–it’s a chance for your child to learn how to recognize emotions in others. By understanding facial expressions, they’ll strengthen their connections with others and develop empathy.\n\n🌿 So, get ready to act out some emotions and enjoy this special play activity together!",
       "activity_group_list": "calm",
@@ -423,6 +444,7 @@
     {
       "id": "act_animal",
       "title::eng": "Animal Acting",
+      "image_asset": "images/activities/get_active_child.svg",
       "intro_text::eng": "Get ready to roar like a lion or hop like a kangaroo! 🧸  ",
       "steps_text::eng": "📝 To start, write the names of animals on small pieces of paper and put them in a box or container.\n\n👋 Take turns picking a piece of paper and acting out the animal - can you mimic its sounds and movements? Roar, jump, crawl, or fly just like the animal you picked!\n\n🎉 For older kids, turn it into a fun guessing game - see if others can guess which animal you’re pretending to be!\n",
       "tips_text::eng": "\nThis active game helps kids develop physical skills while also supporting speech and language development in a fun way 💚\n",
@@ -432,6 +454,7 @@
     {
       "id": "lap_bounce",
       "title::eng": "Lap Rhyme Bounce",
+      "image_asset": "images/activities/pass_ball_child.svg",
       "intro_text::eng": "This rhythmic lap game builds bonding, listening, and body awareness - just like caregivers have done with little ones for generations 💙\n \n",
       "steps_text::eng": "🧸 Sit your baby gently on your lap and bounce them up and down while chanting a simple rhyme you remember from childhood.\n\n😃You can speed up or slow down the bounce for extra fun. Add facial expressions or tickles for extra giggles!",
       "child_age_list": "0; 1; 2"
@@ -439,6 +462,7 @@
     {
       "id": "echo_songs",
       "title::eng": "Echo Songs",
+      "image_asset": "images/activities/active_songs.svg",
       "intro_text::eng": "These traditional-style echo songs build turn-taking, memory, and early conversation skills - all through playful singing 🎵",
       "steps_text::eng": "😃 Try a simple call-and-response chant with your child. You say a line, and they copy it back.\n \n👂 For example:\nYou: “Hello there!”\nChild: “Hello there!”\nYou: “How are you?”\nChild: “How are you?”\n \n💚 Use your own words and language.",
       "child_age_list": "2; 3; 4"
@@ -446,6 +470,7 @@
     {
       "id": "circle_dance",
       "title::eng": "Circle Clap and Dance",
+      "image_asset": "images/activities/follow_the_leader.svg",
       "intro_text::eng": "This joyful game builds social confidence, movement skills, and musical rhythm - all while connecting to culture 💛",
       "steps_text::eng": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “Shosholoza… ku lezontaba…”\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
@@ -453,6 +478,7 @@
     {
       "id": "picture_puzzle",
       "title::eng": "Picture Puzzle ",
+      "image_asset": "images/activities/be_the_narrator.svg",
       "intro_text::eng": "Get ready to turn a picture into a fun jigsaw puzzle that boosts memory and direction skills! 🎨 \n\nIt’s a quick and fun way to strengthen memory and problem-solving skills! ✨",
       "steps_text::eng": "📝 You’ll need scissors and a picture from a paper or magazine - or a picture that you have drawn yourself.\n\n💡 First, cut the picture into at least three pieces. Older children can try cutting up the pieces for younger children if they already know how to use scissors safely.\n\n🔷 Now, flip the pieces face down so you can’t see the picture.\n\n✅ Your challenge? Rebuild the picture together by turning over one piece at a time and putting it back together.\n\n👀 If your child needs a little help, ask guiding questions like, 'Where do you think this piece goes?'",
       "attribution::eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/photo-puzzle ",
@@ -461,6 +487,7 @@
     {
       "id": "superhero_costume",
       "title::eng": "Superhero Costume Raffle ",
+      "image_asset": "images/activities/be_an_artist.svg",
       "intro_text::eng": "You can transform into superheroes with this fun and imaginative dressing-up game! 👑 ",
       "steps_text::eng": "2️⃣ Here’s what you’ll need: Two items of clothing for each person playing, and a pillowcase or bag to hold them.\n\n🎁 Start by placing all the clothes in the pillowcase. \n\n👀 Hand the pillowcase to the smallest player first. Make sure their eyes are shut, then let them pull out one item of clothing. \n\n🔄 Next, pass the case around until everyone gets two items of clothing. \n\n✨ Now, everyone takes turns to imagine what superpower their pieces of clothing give them. Maybe a scarf makes you fly, or a hat gives you super speed - it’s totally up to your imagination!\n\n🚗 Now it’s time to play! Put on your superpower clothes and act out a story together, like saving the world from a monster. \n;\nIt’s a fantastic way to encourage creative thinking, flexible language skills, and playful bonding 💛\n\nAdapted from Learning Through Play: https://learningthroughplay.com/let-s-play/superhero-costume-lottery ",
       "child_age_list": "3; 4; 5; 6"
@@ -468,6 +495,7 @@
     {
       "id": "hot_cold",
       "title::eng": "Hot or cold",
+      "image_asset": "images/activities/cooking_with_maths.svg",
       "intro_text::eng": "Ready to hunt for hidden treasure using clues? 🎁 ",
       "steps_text::eng": "⚽ Here’s what you’ll need: something easy to hide, like toys or balls. \n\n👀 One player hides an object, while the others close their eyes. The player who hid the object will now give clues to help the others find it. \n\n☀️ When the person searching is getting close to where the object is hidden, the hider can say “getting warm!” or “hot!”, and when the searcher is going in the wrong direction, the hider can say “getting colder…”.\n\n🔄 Take turns hiding objects and giving clues - it’s fun for everyone to get involved!\n\n💡 For an extra challenge, hide multiple objects around the house and create a treasure map. \n",
       "attribution::eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/treasure-hunt ",
@@ -476,12 +504,14 @@
     {
       "id": "round_round",
       "title::eng": "Round & Round",
+      "image_asset": "images/activities/follow_instructions.svg",
       "intro_text::eng": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know – it could be one from your childhood like “Ring-a-Rosy” or “Sawa Sonke”, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!\n",
       "child_age_list": "2; 3; 4; 5; 6"
     },
     {
       "id": "peg_pretend",
       "title::eng": "Peg and Pretend",
+      "image_asset": "images/activities/one_on_one_time.svg",
       "intro_text::eng": "Get creative with easy household items! 🧸 ",
       "steps_text::eng": "👋 Grab 10 clothing pegs – or more if you have – and build a shape by pegging them together. Let your child build their own creation too!\n\n🎨 Ask your child what their shape could be. A bug? A spaceship? A crocodile? Act out a little story using the peg creations.\n\n🔄 Then build something new and let the next story begin!",
       "attribution::eng": "Adapted from UNICEF Playbox: https://www.youtube.com/watch?v=yYt2ziDgvRI",
@@ -490,6 +520,7 @@
     {
       "id": "freeze_statue",
       "title::eng": "Freeze Like a Statue",
+      "image_asset": "images/activities/play_books_4to6.svg",
       "intro_text::eng": "This activity encourages creativity, role-play, and imagination - while building confidence through leading and observing ⭐",
       "steps_text::eng": "👀 Let your child shape you into a frozen statue - you might be a tree, a happy, sad or angry person, or anything else they imagine!\n\n🚩 You can even invite others to join and let your child shape you all into a frozen scene, like a classroom, a soccer match, or something completely silly.\n\n📱 Once the statue is ready, your child can be the ‘photographer’ and take a pretend (or real!) picture. \n\n🔄 Then swap roles and let them be the statue next.",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8"
@@ -497,6 +528,7 @@
     {
       "id": "bake_time",
       "title::eng": "Baking Time",
+      "image_asset": "images/activities/play_books_2to3.svg",
       "intro_text::eng": "Baking isn’t just about creating something delicious - it’s a fun and exciting way to learn new skills while exploring creativity 🍞 ",
       "steps_text::eng": "📖 Here’s how to get started: Pick a simple recipe, like bread or cookies. \n\n👋 Let your child help with all the steps - mixing ingredients, whisking the batter, and stirring everything together. \n\n🎨 If you are making bread or cookies, invite your child to make shapes with the dough. Don’t be afraid to get messy!\n\n🚩 Once your treats are baking, the fun continues with cleaning up the mess! \n\n✅ Once your goodies are ready, let your children take over again make the food look nice and serve it.\n\n😃 Finally, enjoy the results together! ",
       "child_age_list": "6; 7; 8; 9"
@@ -504,6 +536,7 @@
     {
       "id": "silly_characters",
       "title::eng": "Create Silly Characters",
+      "image_asset": "images/activities/i_spy.svg",
       "intro_text::eng": "This game builds creativity, nurtures imagination, and helps teach kids to collaborate – while having lots of laughs! 🌈",
       "steps_text::eng": "🎨 All you need to play this game is a piece of paper and a pen or pencil.\n\n1️⃣ The first person draws the top (head, hat, hair) of a character. This can be as serious or silly as you want it to be.\n\n🔄 Fold the drawing to cover up what has been drawn but leave two lines to show where the next person who is drawing should pick up.\n\n2️⃣ Pass the paper on to the next person, who, without seeing what has already been drawn, will contribute the next set of features to the character: The shoulders or tummy. Fold the paper back to cover up the image and pass it on.\n\n📝 Repeat until someone has drawn the feet of the character and then open your drawing up to see the masterpiece you have created together!",
       "attribution::eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/co-drawing ",
@@ -512,7 +545,7 @@
     {
       "id": "tricky_tower",
       "title::eng": "Tricky Tower",
-      "image_asset": "\n\n",
+      "image_asset": "images/activities/categorise_organise.svg",
       "intro_text::eng": "Here is an exciting activity that will test your child’s ability to estimate risks, work as a team, and think creatively - all while having fun and developing fine motor skills ⭐ ",
       "steps_text::eng": "🔶 Start by giving your child building blocks or something else they can stack. \n\n👋 Ask them to build a tower by stacking the blocks, using just one hand. This challenge helps build focus and concentration as they balance the blocks carefully.\n\n⬆️ If other children or adults are around, you can make it into a match to see who can build the tallest tower the fastest.\n\n🔄 Make the game even more challenging by asking your child to using their non-dominant hand. They’ll have to balance their wish to build the tallest tower with the risk of the tower collapsing.",
       "attribution::eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/tricky-tower ",
@@ -521,6 +554,7 @@
     {
       "id": "skipping_rope_song",
       "title::eng": "Skipping Rope Song",
+      "image_asset": "images/activities/what_letter_is_this.svg",
       "intro_text::eng": "Let’s get moving with a skipping game. 🎈\n \nThis energetic game builds coordination, confidence, and teamwork. 🌈",
       "steps_text::eng": "🎈 Find a long rope or make one from tied-up tights or string. \n\n2️⃣ Two people turn the rope while one jumps in the middle. \n\n🎵 Sing a song together as they jump – do you remember one from your childhood or can you use a different song you all know? \n\n🏆 You can add fun moves like hopping, clapping, or even dancing while skipping. \n\n💛 Then switch places so everyone gets a turn.",
       "child_age_list": "6; 7; 8; 9 "
@@ -528,6 +562,7 @@
     {
       "id": "unseen_guesses",
       "title::eng": "Unseen Guesses ",
+      "image_asset": "images/activities/riddles.svg",
       "intro_text::eng": "You can do this activity when you are together with at least three people in total. 3️⃣  \n\nThis game is not only fun but also helps children develop strong communication skills and teaches them how to work together to achieve a goal. 💚",
       "steps_text::eng": "👀 Ask your child and another child/adult to sit next to each other. Blindfold both using a scarf or hat. \n\n🚗 Give your child an object and ask them to feel it and describe it, without saying the name of the object!\n\n🎁 The other person’s job is to figure out what the object is based on the description. \n\n✅ The “guesser” can ask questions, but the “speaker” can only answer with \"yes\" or \"no\".\n\n🔄 After each round, swap roles and play again, giving everyone a chance to be the “speaker” and “guesser” and the one to provides the object.",
       "attribution::eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/unseen-guesses ",
@@ -536,6 +571,7 @@
     {
       "id": "emotion_cards",
       "title::eng": "Emotion Cards",
+      "image_asset": "images/activities/whats_new_child.svg",
       "intro_text::eng": "Create cards of the main six emotions with Your Child: happy, sad, angry, disgusted, surprised, afraid 😃😔😣",
       "steps_text::eng": "🔶 Draw, cut-out pictures from magazines, or take photos of family members showing different emotions. \n\n📝 Label each emotion and describe how each family member feels those emotions. \n\n🚩 Put the cards in a spot everyone agrees on, and use it throughout the day to name how everyone is feeling. For example, after school, everyone can point out the emotion they are experiencing. \n\n💡 This can help everyone in the family become experts in understanding themselves and be aware of what their bodies need! 💛",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
