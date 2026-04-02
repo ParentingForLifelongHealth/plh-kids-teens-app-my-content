@@ -921,15 +921,6 @@
           "trigger": "click",
           "action_id": "set_field",
           "args": [
-            "countdown_days",
-            "0"
-          ],
-          "_raw": "click | set_field: countdown_days: 0"
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_field",
-          "args": [
             "user_data_completed",
             true
           ],
@@ -952,7 +943,6 @@
           "_raw": "click | emit: completed"
         }
       ],
-      "condition": "@local.user_type_select == \"facilitator\"",
       "parameter_list": {
         "style": "navigation",
         "disabled": "!@local.completed_enabled"
@@ -1110,14 +1100,6 @@
             ]
           }
         },
-        "condition": [
-          {
-            "fullExpression": "@local.user_type_select == \"facilitator\"",
-            "matchedExpression": "@local.user_type_select",
-            "type": "local",
-            "fieldName": "user_type_select"
-          }
-        ],
         "parameter_list": {
           "disabled": [
             {
@@ -1155,8 +1137,7 @@
         ],
         "@local.user_type_select": [
           "action_list.5.args.1",
-          "action_list.5._raw",
-          "condition"
+          "action_list.5._raw"
         ],
         "@local.content_package_select": [
           "action_list.6.args.1",
@@ -1273,7 +1254,7 @@
           "_raw": "click | emit: completed"
         }
       ],
-      "condition": "@local.user_type_select != \"facilitator\"",
+      "condition": false,
       "parameter_list": {
         "style": "navigation",
         "disabled": "!@local.completed_enabled"
@@ -1431,14 +1412,6 @@
             ]
           }
         },
-        "condition": [
-          {
-            "fullExpression": "@local.user_type_select != \"facilitator\"",
-            "matchedExpression": "@local.user_type_select",
-            "type": "local",
-            "fieldName": "user_type_select"
-          }
-        ],
         "parameter_list": {
           "disabled": [
             {
@@ -1476,8 +1449,7 @@
         ],
         "@local.user_type_select": [
           "action_list.5.args.1",
-          "action_list.5._raw",
-          "condition"
+          "action_list.5._raw"
         ],
         "@local.content_package_select": [
           "action_list.6.args.1",
