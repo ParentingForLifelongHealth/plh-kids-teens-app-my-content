@@ -36,6 +36,8 @@ config.android = {
 config.ios = {
   app_id:"international.idems.plh_kids_teens_my",
   app_name:"Naungan Kasih",
+  logo_asset_path: "./app_data/assets/android/icon-foreground.png",
+  logo_background_color: "#0E3A5A",
   zoom_enabled: true
 };
 
