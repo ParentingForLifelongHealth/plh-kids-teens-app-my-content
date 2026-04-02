@@ -42,34 +42,25 @@
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Let's get started with an activity!"
-        }
-      }
-    },
-    {
-      "id": "explore_2",
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen.",
-      "_translations": {
-        "text_1_facilitator": {
+        },
+        "text_2": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "text_1_facilitator": {
+          "eng": "Let's get started with an activity!"
+        },
+        "text_2": {
           "eng": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen."
         }
-      }
+      },
+      "text_2": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen."
     },
     {
-      "id": "explore_3",
+      "id": "explore_2",
       "category_id": "explore",
-      "image_asset": "talk_monthly_expenses_yc_1",
+      "image_asset": "talk_monthly_expenses_yc_1.svg",
       "nested": false,
       "text_1_facilitator": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
       "_translations": {
@@ -84,9 +75,9 @@
       }
     },
     {
-      "id": "explore_4",
+      "id": "explore_3",
       "category_id": "explore",
-      "image_asset": "talk_monthly_expenses_yc_2",
+      "image_asset": "talk_monthly_expenses_yc_2.svg",
       "nested": false,
       "text_1_facilitator": "📝 Write next to each picture how much each thing costs.",
       "_translations": {
@@ -101,9 +92,9 @@
       }
     },
     {
-      "id": "explore_5",
+      "id": "explore_4",
       "category_id": "explore",
-      "image_asset": "talk_monthly_expenses_yc_3",
+      "image_asset": "talk_monthly_expenses_yc_3.svg",
       "nested": false,
       "text_1_facilitator": "💰 Add up how much money you have to spend each month.",
       "_translations": {
@@ -118,7 +109,7 @@
       }
     },
     {
-      "id": "explore_6",
+      "id": "explore_5",
       "category_id": "explore",
       "nested": false,
       "text_1_facilitator": "Take a picture of the paper or save it for Step 3! ⭐",

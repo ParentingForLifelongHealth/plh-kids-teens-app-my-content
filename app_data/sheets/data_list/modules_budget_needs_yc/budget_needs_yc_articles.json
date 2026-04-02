@@ -99,11 +99,9 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "quiz_1_question": "Today’s home activity is to discuss your wants and needs with your family. ⭐Do you have time to do it today?",
+      "quiz_1_question": "Today’s home activity is to discuss your wants and needs with your family. ⭐ Do you have time to do it today?",
       "_translations": {
-        "quiz_1_question": {
-          "my_ms": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "my_ms": true
         },
@@ -125,7 +123,7 @@
       },
       "_translatedFields": {
         "quiz_1_question": {
-          "eng": "Today’s home activity is to discuss your wants and needs with your family. ⭐Do you have time to do it today?"
+          "eng": "Today’s home activity is to discuss your wants and needs with your family. ⭐ Do you have time to do it today?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"

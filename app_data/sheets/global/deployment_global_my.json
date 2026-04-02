@@ -385,11 +385,9 @@
     {
       "type": "declare_global_constant",
       "name": "restart",
-      "value": "Restart Lesson",
+      "value": "Restart Skill",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
