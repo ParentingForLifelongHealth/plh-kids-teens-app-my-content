@@ -589,7 +589,8 @@
         "title": {
           "my_ms": true
         },
-        "intro_text": {
+        "intro_text": {},
+        "steps_text": {
           "my_ms": true
         }
       },
@@ -598,10 +599,14 @@
           "eng": "Animals"
         },
         "intro_text": {
+          "eng": "Get ready to explore animals with your child! 🧸"
+        },
+        "steps_text": {
           "eng": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird\n\n💡All the animals we can think of - think about groups of animals!\nWhat are all the animals we can think of that have feathers?\nWhat are all the animals we can think of that eat plants? 🌱\nWhat are all the animals we can think of that lay eggs?\n\n😃 Counting rabbits\n🔟 Find 10 rocks and put them in a line, tell your child that they are rabbits!\nAsk your child to count the rabbits!\nPut the rabbits into 2 equal piles. Ask your child to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have”"
         }
       },
-      "intro_text": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird\n\n💡All the animals we can think of - think about groups of animals!\nWhat are all the animals we can think of that have feathers?\nWhat are all the animals we can think of that eat plants? 🌱\nWhat are all the animals we can think of that lay eggs?\n\n😃 Counting rabbits\n🔟 Find 10 rocks and put them in a line, tell your child that they are rabbits!\nAsk your child to count the rabbits!\nPut the rabbits into 2 equal piles. Ask your child to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have”"
+      "intro_text": "Get ready to explore animals with your child! 🧸",
+      "steps_text": "🧸 Active animals: Take turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird\n\n💡All the animals we can think of - think about groups of animals!\nWhat are all the animals we can think of that have feathers?\nWhat are all the animals we can think of that eat plants? 🌱\nWhat are all the animals we can think of that lay eggs?\n\n😃 Counting rabbits\n🔟 Find 10 rocks and put them in a line, tell your child that they are rabbits!\nAsk your child to count the rabbits!\nPut the rabbits into 2 equal piles. Ask your child to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have”"
     },
     {
       "id": "active_counting",
@@ -883,6 +888,8 @@
         "active"
       ],
       "child_age_list": [
+        "2",
+        "3",
         "4",
         "5",
         "6",
@@ -1220,7 +1227,8 @@
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7"
       ],
       "title": "Colour Hunt",
       "_translations": {
@@ -1637,7 +1645,10 @@
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "title": "Treasure Hunt",
       "_translations": {
@@ -2037,7 +2048,10 @@
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "title": "Picture Puzzle",
       "_translations": {
@@ -2068,16 +2082,21 @@
       "id": "superhero_costume",
       "image_asset": "images/activities/be_an_artist.svg",
       "child_age_list": [
+        "2",
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "title": "Superhero Costume Raffle",
       "_translations": {
         "title": {},
         "intro_text": {},
-        "steps_text": {}
+        "steps_text": {},
+        "attribution": {}
       },
       "_translatedFields": {
         "title": {
@@ -2087,16 +2106,21 @@
           "eng": "You can transform into superheroes with this fun and imaginative dressing-up game! 👑"
         },
         "steps_text": {
-          "eng": "2️⃣ Here’s what you’ll need: Two items of clothing for each person playing, and a pillowcase or bag to hold them.\n\n🎁 Start by placing all the clothes in the pillowcase. \n\n👀 Hand the pillowcase to the smallest player first. Make sure their eyes are shut, then let them pull out one item of clothing. \n\n🔄 Next, pass the case around until everyone gets two items of clothing. \n\n✨ Now, everyone takes turns to imagine what superpower their pieces of clothing give them. Maybe a scarf makes you fly, or a hat gives you super speed - it’s totally up to your imagination!\n\n🚗 Now it’s time to play! Put on your superpower clothes and act out a story together, like saving the world from a monster. \n;\nIt’s a fantastic way to encourage creative thinking, flexible language skills, and playful bonding 💛\n\nAdapted from Learning Through Play: https://learningthroughplay.com/let-s-play/superhero-costume-lottery"
+          "eng": "2️⃣ Here’s what you’ll need: Two items of clothing for each person playing, and a pillowcase or bag to hold them.\n\n🎁 Start by placing all the clothes in the pillowcase. \n\n👀 Hand the pillowcase to the smallest player first. Make sure their eyes are shut, then let them pull out one item of clothing. \n\n🔄 Next, pass the case around until everyone gets two items of clothing. \n\n✨ Now, everyone takes turns to imagine what superpower their pieces of clothing give them. Maybe a scarf makes you fly, or a hat gives you super speed - it’s totally up to your imagination!\n\n🚗 Now it’s time to play! Put on your superpower clothes and act out a story together, like saving the world from a monster."
+        },
+        "attribution": {
+          "eng": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/superhero-costume-lottery"
         }
       },
       "intro_text": "You can transform into superheroes with this fun and imaginative dressing-up game! 👑",
-      "steps_text": "2️⃣ Here’s what you’ll need: Two items of clothing for each person playing, and a pillowcase or bag to hold them.\n\n🎁 Start by placing all the clothes in the pillowcase. \n\n👀 Hand the pillowcase to the smallest player first. Make sure their eyes are shut, then let them pull out one item of clothing. \n\n🔄 Next, pass the case around until everyone gets two items of clothing. \n\n✨ Now, everyone takes turns to imagine what superpower their pieces of clothing give them. Maybe a scarf makes you fly, or a hat gives you super speed - it’s totally up to your imagination!\n\n🚗 Now it’s time to play! Put on your superpower clothes and act out a story together, like saving the world from a monster. \n;\nIt’s a fantastic way to encourage creative thinking, flexible language skills, and playful bonding 💛\n\nAdapted from Learning Through Play: https://learningthroughplay.com/let-s-play/superhero-costume-lottery"
+      "steps_text": "2️⃣ Here’s what you’ll need: Two items of clothing for each person playing, and a pillowcase or bag to hold them.\n\n🎁 Start by placing all the clothes in the pillowcase. \n\n👀 Hand the pillowcase to the smallest player first. Make sure their eyes are shut, then let them pull out one item of clothing. \n\n🔄 Next, pass the case around until everyone gets two items of clothing. \n\n✨ Now, everyone takes turns to imagine what superpower their pieces of clothing give them. Maybe a scarf makes you fly, or a hat gives you super speed - it’s totally up to your imagination!\n\n🚗 Now it’s time to play! Put on your superpower clothes and act out a story together, like saving the world from a monster.",
+      "attribution": "Adapted from Learning Through Play: https://learningthroughplay.com/let-s-play/superhero-costume-lottery"
     },
     {
       "id": "hot_cold",
       "image_asset": "images/activities/cooking_with_maths.svg",
       "child_age_list": [
+        "2",
         "3",
         "4",
         "5",
@@ -2137,22 +2161,28 @@
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7"
       ],
       "title": "Round & Round",
       "_translations": {
         "title": {},
-        "intro_text": {}
+        "intro_text": {},
+        "steps_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Round & Round"
         },
         "intro_text": {
-          "eng": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know – it could be one from your childhood like “Ring-a-Rosy” or “Sawa Sonke”, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!"
+          "eng": "Get moving with this activity! 🎵"
+        },
+        "steps_text": {
+          "eng": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know – it could be one from your childhood, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!"
         }
       },
-      "intro_text": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know – it could be one from your childhood like “Ring-a-Rosy” or “Sawa Sonke”, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!"
+      "intro_text": "Get moving with this activity! 🎵",
+      "steps_text": "👋 Grab each other’s hands and form a circle. \n\n🎵 Walk round and round while you sing a song you know – it could be one from your childhood, or a favourite your child loves. \n\n🎉 As you go round, add some silly moves to make it even more fun. Try hopping on one leg, see if you can put your leg over the next person’s arm, or gently fall to the ground when the song finishes. \n\n🔄 Take turns choosing the next move or song!"
     },
     {
       "id": "peg_pretend",
@@ -2418,6 +2448,98 @@
       },
       "intro_text": "Create cards of the main six emotions with Your Child: happy, sad, angry, disgusted, surprised, afraid 😃😔😣",
       "steps_text": "🔶 Draw, cut-out pictures from magazines, or take photos of family members showing different emotions. \n\n📝 Label each emotion and describe how each family member feels those emotions. \n\n🚩 Put the cards in a spot everyone agrees on, and use it throughout the day to name how everyone is feeling. For example, after school, everyone can point out the emotion they are experiencing. \n\n💡 This can help everyone in the family become experts in understanding themselves and be aware of what their bodies need! 💛"
+    },
+    {
+      "id": "i_spy_letters",
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "I Spy Letters!",
+      "_translations": {
+        "title": {},
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I Spy Letters!"
+        },
+        "intro_text": {
+          "eng": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!"
+        },
+        "steps_text": {
+          "eng": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!\n;\nChoose an object or a thing around you, and don’t tell your child what it is. It should be something that your child knows the word for. For example “ball” ⚽\n\n👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”\n\nYour child should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅\n;\nPlay this game with as many objects as possible and as many different letters! Help your child to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓"
+        }
+      },
+      "intro_text": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!",
+      "steps_text": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!\n;\nChoose an object or a thing around you, and don’t tell your child what it is. It should be something that your child knows the word for. For example “ball” ⚽\n\n👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”\n\nYour child should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅\n;\nPlay this game with as many objects as possible and as many different letters! Help your child to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓"
+    },
+    {
+      "id": "clap_sing",
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "Clap & Sing Game",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Clap & Sing Game"
+        },
+        "intro_text": {
+          "eng": "These clapping games have been popular among children from generation to generation, and help build rhythm, timing, memory, and laughter ✨"
+        },
+        "steps_text": {
+          "eng": "🎵 Sit face-to-face with your child and try a fun clapping rhyme together. \n\n👋 Clap your hands, then each other’s, and repeat with a rhythm and song from your childhood – or make up a new one.\n\n💚 Follow the words with a simple clapping pattern. You can swap in your own words or names to make it even more fun!"
+        }
+      },
+      "intro_text": "These clapping games have been popular among children from generation to generation, and help build rhythm, timing, memory, and laughter ✨",
+      "steps_text": "🎵 Sit face-to-face with your child and try a fun clapping rhyme together. \n\n👋 Clap your hands, then each other’s, and repeat with a rhythm and song from your childhood – or make up a new one.\n\n💚 Follow the words with a simple clapping pattern. You can swap in your own words or names to make it even more fun!"
+    },
+    {
+      "id": "story_stones",
+      "child_age_list": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "title": "Story Stones",
+      "_translations": {
+        "title": {},
+        "intro_text": {},
+        "steps_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Story Stones"
+        },
+        "intro_text": {
+          "eng": "This solo storytelling tradition helps children express feelings, practise language, and explore imagination - all through play and pretend 💛\n\nIt’s a beautiful, calming game rooted in traditional storytelling 🌙"
+        },
+        "steps_text": {
+          "eng": "🔴 Sit quietly with a handful of small stones. \n\n📖 Let your child imagine what the stones are, move them around and tell a story in their own words. It might be about animals, people, dreams, or anything they imagine.\n\n👂You can listen quietly or help shape the story together."
+        }
+      },
+      "intro_text": "This solo storytelling tradition helps children express feelings, practise language, and explore imagination - all through play and pretend 💛\n\nIt’s a beautiful, calming game rooted in traditional storytelling 🌙",
+      "steps_text": "🔴 Sit quietly with a handful of small stones. \n\n📖 Let your child imagine what the stones are, move them around and tell a story in their own words. It might be about animals, people, dreams, or anything they imagine.\n\n👂You can listen quietly or help shape the story together."
     }
   ],
   "_source": {

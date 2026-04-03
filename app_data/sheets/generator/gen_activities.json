@@ -364,6 +364,21 @@
       "flow_name": "activity_emotion_cards",
       "flow_subtype": "generated",
       "flow_type": "template"
+    },
+    {
+      "flow_name": "activity_i_spy_letters",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "activity_clap_sing",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "activity_story_stones",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     }
   ]
 }

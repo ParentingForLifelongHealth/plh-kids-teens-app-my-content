@@ -25,7 +25,7 @@
     },
     {
       "type": "data_items",
-      "value": "@data.courses",
+      "value": "@data.hp_check_in",
       "_translations": {
         "value": {}
       },
@@ -35,9 +35,9 @@
           "action_id": "set_local",
           "args": [
             "is_completed",
-            "@items[0]?.completed"
+            "@items[0]?.unlocked_activity"
           ],
-          "_raw": "data_changed | set_local : is_completed: @items[0]?.completed"
+          "_raw": "data_changed | set_local : is_completed: @items[0]?.unlocked_activity"
         }
       ],
       "parameter_list": {
@@ -50,10 +50,10 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.courses",
-            "matchedExpression": "@data.courses",
+            "fullExpression": "@data.hp_check_in",
+            "matchedExpression": "@data.hp_check_in",
             "type": "data",
-            "fieldName": "courses"
+            "fieldName": "hp_check_in"
           }
         ],
         "parameter_list": {
@@ -74,7 +74,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.courses": [
+        "@data.hp_check_in": [
           "value"
         ],
         "@item.id": [

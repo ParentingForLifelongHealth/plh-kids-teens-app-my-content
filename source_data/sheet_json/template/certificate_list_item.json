@@ -17,11 +17,11 @@
     },
     {
       "type": "data_items",
-      "value": "@data.courses",
-      "action_list": "data_changed | set_local : is_completed: @items[0]?.completed;",
+      "value": "@data.hp_check_in",
+      "action_list": "data_changed | set_local : is_completed: @items[0]?.unlocked_activity;",
       "parameter_list": "filter:  @item.id == @local.curr_cert;\nlimit: 1;",
       "exclude_from_translation": true,
-      "comments": "@data.hp_check_in;\n\ndata_changed | set_local : is_locked: @items[0]?.unlocked_activity;"
+      "comments": "\n\ndata_changed | set_local : is_locked: @items[0]?.unlocked_activity;"
     },
     {
       "type": "plh_module_list_item",

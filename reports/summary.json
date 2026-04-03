@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2883
+        "count": 2886
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 886
+        "count": 889
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 617
+        "count": 620
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 622
+        "count": 625
       },
       {
         "type": "feedback",
@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "137579 KB",
-        "MB": "137.6 MB"
+        "KB": "142747 KB",
+        "MB": "142.7 MB"
       },
       {
         "assets": "unused",
-        "KB": "52299 KB",
-        "MB": "52.3 MB"
+        "KB": "47130 KB",
+        "MB": "47.1 MB"
       }
     ]
   },
@@ -748,16 +748,8 @@
         "size_kb": 2522
       },
       {
-        "path": "images/yc_modules/make_a_monthly_budget_yc_1.svg",
-        "size_kb": 1013.3
-      },
-      {
         "path": "images/yc_modules/make_a_monthly_budget_yc_2.jpg",
         "size_kb": 288.1
-      },
-      {
-        "path": "images/yc_modules/make_a_monthly_budget_yc_2.svg",
-        "size_kb": 1213.5
       },
       {
         "path": "images/yc_modules/make_a_monthly_budget_yc_3.jpg",
@@ -800,24 +792,12 @@
         "size_kb": 2150.1
       },
       {
-        "path": "images/yc_modules/talk_monthly_expenses_yc_1.svg",
-        "size_kb": 972.7
-      },
-      {
         "path": "images/yc_modules/talk_monthly_expenses_yc_2.jpg",
         "size_kb": 2224.2
       },
       {
-        "path": "images/yc_modules/talk_monthly_expenses_yc_2.svg",
-        "size_kb": 982.9
-      },
-      {
         "path": "images/yc_modules/talk_monthly_expenses_yc_3.jpg",
         "size_kb": 2272.7
-      },
-      {
-        "path": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
-        "size_kb": 986.3
       },
       {
         "path": "images/yc_modules/teach_consequences_yc_5.svg",
@@ -996,16 +976,6 @@
         "missing": true
       },
       {
-        "path": "make_a_monthly_budget_yc_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "make_a_monthly_budget_yc_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
         "path": "make_a_monthly_budget_yc_3.svg",
         "count": 2,
         "missing": true
@@ -1103,21 +1073,6 @@
       {
         "path": "relax_9_m.mp3",
         "count": 1,
-        "missing": true
-      },
-      {
-        "path": "talk_monthly_expenses_yc_1.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "talk_monthly_expenses_yc_2.svg",
-        "count": 2,
-        "missing": true
-      },
-      {
-        "path": "talk_monthly_expenses_yc_3.svg",
-        "count": 2,
         "missing": true
       }
     ]
@@ -2450,6 +2405,16 @@
         "size_kb": 49
       },
       {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_1.svg",
+        "count": 2,
+        "size_kb": 1013.3
+      },
+      {
+        "path": "images/yc_modules/make_a_monthly_budget_yc_2.svg",
+        "count": 2,
+        "size_kb": 1213.5
+      },
+      {
         "path": "images/yc_modules/managing_anger_yc_1.svg",
         "count": 2,
         "size_kb": 78.9
@@ -2743,6 +2708,21 @@
         "path": "images/yc_modules/talk_feelings_yc_4.svg",
         "count": 2,
         "size_kb": 50
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_1.svg",
+        "count": 2,
+        "size_kb": 972.7
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_2.svg",
+        "count": 2,
+        "size_kb": 982.9
+      },
+      {
+        "path": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
+        "count": 2,
+        "size_kb": 986.3
       },
       {
         "path": "images/yc_modules/teach_consequences_yc_1.svg",
@@ -3186,7 +3166,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 690
+        "total": 693
       },
       {
         "type": "template",

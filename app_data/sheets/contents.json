@@ -4564,6 +4564,21 @@
           "flow_name": "activity_emotion_cards",
           "flow_subtype": "generated",
           "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_i_spy_letters",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_clap_sing",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "activity_story_stones",
+          "flow_subtype": "generated",
+          "flow_type": "template"
         }
       ]
     },
@@ -8799,6 +8814,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "activity_clap_sing": {
+      "flow_name": "activity_clap_sing",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "activity_color_hunt": {
       "flow_name": "activity_color_hunt",
       "flow_subtype": "generated",
@@ -8876,6 +8896,11 @@
     },
     "activity_i_spy": {
       "flow_name": "activity_i_spy",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_i_spy_letters": {
+      "flow_name": "activity_i_spy_letters",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -9006,6 +9031,11 @@
     },
     "activity_skipping_rope_song": {
       "flow_name": "activity_skipping_rope_song",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "activity_story_stones": {
+      "flow_name": "activity_story_stones",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
