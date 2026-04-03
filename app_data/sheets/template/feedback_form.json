@@ -175,7 +175,9 @@
       "name": "location_placeholder",
       "value": "Please specify the location",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "location_placeholder"
@@ -283,7 +285,9 @@
       "name": "toast_message",
       "value": "Thanks! This helps us improve your experience on the app",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "toast_message"
@@ -292,7 +296,9 @@
       "type": "button",
       "value": "Submit Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "action_list": [
         {

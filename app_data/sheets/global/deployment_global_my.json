@@ -384,7 +384,9 @@
       "name": "restart",
       "value": "Restart Skill",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
