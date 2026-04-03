@@ -454,14 +454,15 @@
           "args": [
             "join_remote"
           ],
-          "_raw": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender",
+          "_raw": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
           "params": {
             "access_code": "@local.faci_group_id_input",
             "app_user_id": "@fields._app_user_id",
             "auth_user_id": "@fields._auth_user_id",
             "result_local_variable_name": "result",
             "name": "@fields.user_name",
-            "gender": "@fields.user_gender"
+            "gender": "@fields.user_gender",
+            "timestamp": "@calc(now())"
           }
         }
       ],
@@ -483,34 +484,40 @@
           "1": {
             "_raw": [
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@local.faci_group_id_input",
                 "type": "local",
                 "fieldName": "faci_group_id_input"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields._app_user_id",
                 "type": "fields",
                 "fieldName": "_app_user_id"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields._auth_user_id",
                 "type": "fields",
                 "fieldName": "_auth_user_id"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields.user_name",
                 "type": "fields",
                 "fieldName": "user_name"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields.user_gender",
                 "type": "fields",
                 "fieldName": "user_gender"
+              },
+              {
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "matchedExpression": "@calc(now())",
+                "type": "calc",
+                "fieldName": "now()"
               }
             ],
             "params": {
@@ -553,6 +560,14 @@
                   "type": "fields",
                   "fieldName": "user_gender"
                 }
+              ],
+              "timestamp": [
+                {
+                  "fullExpression": "@calc(now())",
+                  "matchedExpression": "@calc(now())",
+                  "type": "calc",
+                  "fieldName": "now()"
+                }
               ]
             }
           }
@@ -591,6 +606,10 @@
         "@fields.user_gender": [
           "action_list.1._raw",
           "action_list.1.params.gender"
+        ],
+        "@calc(now())": [
+          "action_list.1._raw",
+          "action_list.1.params.timestamp"
         ],
         "!@local.valid_faci_group_id_input": [
           "parameter_list.disabled"
