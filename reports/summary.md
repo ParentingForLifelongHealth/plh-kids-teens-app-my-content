@@ -33,11 +33,11 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2883 |
+| set_variable | 2886 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 886 |
+| template | 889 |
 | text | 198 |
 | text_area | 3 |
 | text_box | 24 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 617 |
+| emit: completed | 620 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 622 |
+| emit: uncompleted | 625 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 330 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 137579 KB | 137.6 MB |
-| unused | 52299 KB | 52.3 MB |
+| total | 142747 KB | 142.7 MB |
+| unused | 47130 KB | 47.1 MB |
 </details>
 
 <details open>
@@ -209,9 +209,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/yc_modules/ignore_demanding_yc_5.svg | 56.5 |
 | images/yc_modules/learn_experience_yc_5.svg | 44.5 |
 | images/yc_modules/make_a_monthly_budget_yc_1.jpg | 2522 |
-| images/yc_modules/make_a_monthly_budget_yc_1.svg | 1013.3 |
 | images/yc_modules/make_a_monthly_budget_yc_2.jpg | 288.1 |
-| images/yc_modules/make_a_monthly_budget_yc_2.svg | 1213.5 |
 | images/yc_modules/make_a_monthly_budget_yc_3.jpg | 2787.5 |
 | images/yc_modules/make_a_monthly_budget_yc_3.svg | 1204.4 |
 | images/yc_modules/safe_touch_2to5_yc_f_5.svg | 42.3 |
@@ -222,11 +220,8 @@ Assets that appear in app-data but do not have references within sheets
 | images/yc_modules/take_a_pause_1_4.svg | 32.5 |
 | images/yc_modules/take_a_pause_1_5.svg | 15.3 |
 | images/yc_modules/talk_monthly_expenses_yc_1.jpg | 2150.1 |
-| images/yc_modules/talk_monthly_expenses_yc_1.svg | 972.7 |
 | images/yc_modules/talk_monthly_expenses_yc_2.jpg | 2224.2 |
-| images/yc_modules/talk_monthly_expenses_yc_2.svg | 982.9 |
 | images/yc_modules/talk_monthly_expenses_yc_3.jpg | 2272.7 |
-| images/yc_modules/talk_monthly_expenses_yc_3.svg | 986.3 |
 | images/yc_modules/teach_consequences_yc_5.svg | 67.5 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
@@ -271,8 +266,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/girlfriend.svg | 1 |
 | images/character_icons/man_threat.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
-| make_a_monthly_budget_yc_1.svg | 2 |
-| make_a_monthly_budget_yc_2.svg | 2 |
 | make_a_monthly_budget_yc_3.svg | 2 |
 | relax_10__.mp3 | 1 |
 | relax_11__.mp3 | 1 |
@@ -293,9 +286,6 @@ Assets that have references within sheets but do not appear in app-data
 | relax_7_m.mp3 | 1 |
 | relax_8_m.mp3 | 1 |
 | relax_9_m.mp3 | 1 |
-| talk_monthly_expenses_yc_1.svg | 2 |
-| talk_monthly_expenses_yc_2.svg | 2 |
-| talk_monthly_expenses_yc_3.svg | 2 |
 </details>
 
 <details >
@@ -570,6 +560,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/yc_modules/learn_experience_yc_2.svg | 56.9 | 2 |
 | images/yc_modules/learn_experience_yc_3.svg | 48.7 | 2 |
 | images/yc_modules/learn_experience_yc_4.svg | 49 | 2 |
+| images/yc_modules/make_a_monthly_budget_yc_1.svg | 1013.3 | 2 |
+| images/yc_modules/make_a_monthly_budget_yc_2.svg | 1213.5 | 2 |
 | images/yc_modules/managing_anger_yc_1.svg | 78.9 | 2 |
 | images/yc_modules/managing_anger_yc_2.svg | 83.9 | 2 |
 | images/yc_modules/managing_anger_yc_3.svg | 71.9 | 2 |
@@ -629,6 +621,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/yc_modules/talk_feelings_yc_2.svg | 64.9 | 2 |
 | images/yc_modules/talk_feelings_yc_3.svg | 66.9 | 2 |
 | images/yc_modules/talk_feelings_yc_4.svg | 50 | 2 |
+| images/yc_modules/talk_monthly_expenses_yc_1.svg | 972.7 | 2 |
+| images/yc_modules/talk_monthly_expenses_yc_2.svg | 982.9 | 2 |
+| images/yc_modules/talk_monthly_expenses_yc_3.svg | 986.3 | 2 |
 | images/yc_modules/teach_consequences_yc_1.svg | 63.1 | 2 |
 | images/yc_modules/teach_consequences_yc_2.svg | 65.1 | 2 |
 | images/yc_modules/teach_consequences_yc_3.svg | 64.1 | 2 |
@@ -723,6 +718,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 142 |
-| template | generated | 690 |
+| template | generated | 693 |
 | template | legal_terms | 4 |
 </details>
