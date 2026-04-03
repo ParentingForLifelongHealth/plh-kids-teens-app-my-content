@@ -70,7 +70,7 @@
     {
       "type": "button",
       "value": "@global.update_group",
-      "action_list": "click | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender;",
+      "action_list": "click | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());;",
       "parameter_list": "disabled: !@local.valid_faci_group_id_input;"
     },
     {
