@@ -7,7 +7,9 @@
       "name": "library_id",
       "value": "certificate",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",

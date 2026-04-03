@@ -1923,11 +1923,21 @@
       ],
       "title": "Animal Acting",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "tips_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "tips_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1961,9 +1971,15 @@
       ],
       "title": "Lap Rhyme Bounce",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1989,9 +2005,15 @@
       ],
       "title": "Echo Songs",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2022,9 +2044,15 @@
       ],
       "title": "Circle Clap and Dance",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2055,10 +2083,18 @@
       ],
       "title": "Picture Puzzle",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2093,8 +2129,12 @@
       ],
       "title": "Superhero Costume Raffle",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
         "steps_text": {},
         "attribution": {}
       },
@@ -2130,10 +2170,18 @@
       ],
       "title": "Hot or cold",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2166,7 +2214,9 @@
       ],
       "title": "Round & Round",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "intro_text": {},
         "steps_text": {}
       },
@@ -2196,10 +2246,18 @@
       ],
       "title": "Peg and Pretend",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2233,9 +2291,15 @@
       ],
       "title": "Freeze Like a Statue",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2262,9 +2326,15 @@
       ],
       "title": "Baking Time",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2291,10 +2361,18 @@
       ],
       "title": "Create Silly Characters",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2326,10 +2404,18 @@
       ],
       "title": "Tricky Tower",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2360,9 +2446,15 @@
       ],
       "title": "Skipping Rope Song",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2393,10 +2485,18 @@
       ],
       "title": "Unseen Guesses",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {},
-        "attribution": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2431,9 +2531,15 @@
       ],
       "title": "Emotion Cards",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

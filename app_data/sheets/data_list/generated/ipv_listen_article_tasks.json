@@ -307,11 +307,15 @@
         "section_1_title": {
           "my_ms": true
         },
-        "section_1_text": {},
+        "section_1_text": {
+          "my_ms": true
+        },
         "section_2_title": {
           "my_ms": true
         },
-        "section_2_text": {},
+        "section_2_text": {
+          "my_ms": true
+        },
         "section_3_title": {
           "my_ms": true
         },
@@ -321,7 +325,9 @@
         "section_4_title": {
           "my_ms": true
         },
-        "section_4_text": {}
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=BvCmFOliAcQ",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=no-aLOcVRso",
