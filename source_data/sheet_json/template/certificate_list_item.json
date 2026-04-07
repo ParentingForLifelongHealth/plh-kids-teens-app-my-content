@@ -26,7 +26,7 @@
     {
       "type": "plh_module_list_item",
       "value": "@local.course_name",
-      "action_list": "click | set_field: cert_to_print: @local.curr_cert;\nclick | pop_up: show_certificate | fullscreen: true, showCloseButton: true;",
+      "action_list": "click | set_field: cert_to_print: @local.curr_cert;\nclick | pop_up: show_certificate | fullscreen: false, showCloseButton: true;",
       "parameter_list": "module_image_asset:@local.asset;\nis_locked:  !@local.is_completed;\nlocked_image_asset: images/icons/locked.png;",
       "exclude_from_translation": true
     }

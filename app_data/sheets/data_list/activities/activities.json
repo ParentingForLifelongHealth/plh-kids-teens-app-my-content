@@ -589,7 +589,9 @@
         "title": {
           "my_ms": true
         },
-        "intro_text": {},
+        "intro_text": {
+          "my_ms": true
+        },
         "steps_text": {
           "my_ms": true
         }
@@ -2135,8 +2137,12 @@
         "intro_text": {
           "my_ms": true
         },
-        "steps_text": {},
-        "attribution": {}
+        "steps_text": {
+          "my_ms": true
+        },
+        "attribution": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2217,8 +2223,12 @@
         "title": {
           "my_ms": true
         },
-        "intro_text": {},
-        "steps_text": {}
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2567,11 +2577,15 @@
       ],
       "title": "I Spy Letters!",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "intro_text": {
           "my_ms": true
         },
-        "steps_text": {}
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2599,9 +2613,15 @@
       ],
       "title": "Clap & Sing Game",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -2629,9 +2649,15 @@
       ],
       "title": "Story Stones",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "steps_text": {}
+        "title": {
+          "my_ms": true
+        },
+        "intro_text": {
+          "my_ms": true
+        },
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
