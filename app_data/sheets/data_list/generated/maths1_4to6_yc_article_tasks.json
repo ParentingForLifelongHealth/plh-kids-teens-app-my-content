@@ -267,7 +267,9 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=Nzac4YiwGNw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=RGqRpeHQVdg",
