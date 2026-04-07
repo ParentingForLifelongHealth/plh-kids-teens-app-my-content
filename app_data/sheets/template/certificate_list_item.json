@@ -107,9 +107,9 @@
           "args": [
             "show_certificate"
           ],
-          "_raw": "click | pop_up: show_certificate | fullscreen: true, showCloseButton: true",
+          "_raw": "click | pop_up: show_certificate | fullscreen: false, showCloseButton: true",
           "params": {
-            "fullscreen": true,
+            "fullscreen": false,
             "showCloseButton": true
           }
         }
