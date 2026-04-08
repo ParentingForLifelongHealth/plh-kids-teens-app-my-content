@@ -10,7 +10,7 @@
 | apple_sign_in_button | 2 |
 | audio | 3 |
 | button | 102 |
-| combo_box | 25 |
+| combo_box | 22 |
 | data_items | 124 |
 | debug_toggle | 1 |
 | display_grid | 4 |
@@ -33,14 +33,14 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2886 |
+| set_variable | 2890 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 889 |
-| text | 198 |
+| template | 891 |
+| text | 202 |
 | text_area | 3 |
-| text_box | 24 |
+| text_box | 23 |
 | text_bubble | 11 |
 | title | 53 |
 | toggle_bar | 5 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 620 |
+| emit: completed | 622 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 625 |
+| emit: uncompleted | 627 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 330 |
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 142747 KB | 142.7 MB |
-| unused | 47130 KB | 47.1 MB |
+| unused | 47090 KB | 47.1 MB |
 </details>
 
 <details open>
@@ -100,7 +100,7 @@ Assets that appear in app-data but do not have references within sheets
 | path | size_kb |
 | --- | --- |
 | android/icon-background.png | 21.4 |
-| android/icon-foreground.png | 58.3 |
+| android/icon-foreground.png | 18.4 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
 | audio/relax/english/relax_10_m.mp3 | 587.6 |
@@ -415,7 +415,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/diamond-outline.svg | 0.6 | 2 |
 | images/icons/diamond.png | 1.8 | 1 |
 | images/icons/diamond_active.png | 1.7 | 1 |
-| images/icons/diamond_blue.png | 4.7 | 94 |
+| images/icons/diamond_blue.png | 4.7 | 98 |
 | images/icons/document-lock-outline.svg | 0.7 | 1 |
 | images/icons/document-text-outline.svg | 0.5 | 2 |
 | images/icons/download.svg | 0.7 | 1 |
@@ -433,7 +433,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/heart_filled.png | 1.4 | 1 |
 | images/icons/heart_filled.svg | 1.4 | 1 |
 | images/icons/heart_filled_active.png | 1.5 | 1 |
-| images/icons/heart_filled_blue.png | 4.9 | 92 |
+| images/icons/heart_filled_blue.png | 4.9 | 96 |
 | images/icons/heart_filled_red.png | 1.4 | 3 |
 | images/icons/heart_filled_red.svg | 0.4 | 1 |
 | images/icons/home.svg | 0.4 | 1 |
@@ -463,7 +463,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/share.svg | 4.2 | 3 |
 | images/icons/smile_eyes_down.svg | 0.9 | 51 |
 | images/icons/smile_eyes_up.svg | 1 | 98 |
-| images/icons/star_filled_blue.png | 5.1 | 92 |
+| images/icons/star_filled_blue.png | 5.1 | 96 |
 | images/icons/star_outline_blue.svg | 1 | 1 |
 | images/icons/thought_bubble.svg | 2.1 | 49 |
 | images/icons/tick.svg | 0.3 | 1 |
@@ -718,6 +718,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 142 |
-| template | generated | 693 |
+| template | generated | 695 |
 | template | legal_terms | 4 |
 </details>

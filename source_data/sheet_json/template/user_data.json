@@ -33,7 +33,7 @@
       "exclude_from_translation": true
     },
     {
-      "type": "combo_box",
+      "type": "text",
       "name": "user_gender_select",
       "value": "@fields.user_gender",
       "parameter_list": "answer_list: @data.user_gender;\ndisabled: true",
@@ -57,7 +57,7 @@
       "value": "@global.user_relationship_setting"
     },
     {
-      "type": "combo_box",
+      "type": "text",
       "name": "user_relationship_select",
       "value": "@fields.user_relationship",
       "parameter_list": "answer_list: @data.user_relationship;\ndisabled: true",
@@ -120,7 +120,7 @@
       "exclude_from_translation": true
     },
     {
-      "type": "combo_box",
+      "type": "text",
       "name": "child_gender_select",
       "value": "@fields.child_gender",
       "parameter_list": "answer_list: @data.child_gender;\ndisabled: true",
@@ -133,7 +133,7 @@
       "exclude_from_translation": true
     },
     {
-      "type": "text_box",
+      "type": "text",
       "name": "child_age_input",
       "value": "@fields.child_age",
       "parameter_list": "disabled: true;",

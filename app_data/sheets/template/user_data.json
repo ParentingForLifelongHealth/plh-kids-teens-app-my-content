@@ -122,7 +122,7 @@
       }
     },
     {
-      "type": "combo_box",
+      "type": "text",
       "name": "user_gender_select",
       "value": "@fields.user_gender",
       "_translations": {
@@ -253,7 +253,7 @@
       }
     },
     {
-      "type": "combo_box",
+      "type": "text",
       "name": "user_relationship_select",
       "value": "@fields.user_relationship",
       "_translations": {
@@ -595,7 +595,7 @@
       }
     },
     {
-      "type": "combo_box",
+      "type": "text",
       "name": "child_gender_select",
       "value": "@fields.child_gender",
       "_translations": {
@@ -662,7 +662,7 @@
       }
     },
     {
-      "type": "text_box",
+      "type": "text",
       "name": "child_age_input",
       "value": "@fields.child_age",
       "_translations": {
