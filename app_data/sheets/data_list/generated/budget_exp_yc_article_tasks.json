@@ -148,10 +148,6 @@
         }
       },
       "text_2": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen.",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=oTGt-_2lJ_E",
       "completed": false
     },
     {
@@ -229,7 +225,7 @@
       "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "3️⃣ Here are the three steps to start your family budget!"
+          "eng": "5️⃣ Here are the five steps to talk about your monthly expenses!"
         },
         "section_1_title": {
           "eng": "IDENTIFY NEEDS"
@@ -252,11 +248,9 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
+      "text_1_facilitator": "5️⃣ Here are the five steps to talk about your monthly expenses!",
       "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        },
+        "text_1_facilitator": {},
         "section_1_title": {
           "my_ms": true
         },
@@ -276,6 +270,10 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=oTGt-_2lJ_E",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",

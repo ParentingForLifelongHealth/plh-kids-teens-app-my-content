@@ -128,6 +128,10 @@
       "exclude_from_translation": true
     },
     {
+      "type": "begin_display_group",
+      "parameter_list": "style: column;\nvariant: inline_padding;"
+    },
+    {
       "type": "text",
       "name": "summary_text",
       "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
@@ -139,15 +143,19 @@
       "name": "button_home",
       "value": "@global.back_to_home",
       "action_list": "click | go_to: home_screen;",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comments": "style: flexible"
     },
     {
       "type": "button",
       "name": "button_restart",
-      "value": "@global.restart",
+      "value": "<u>@global.restart</u>",
       "action_list": "click | nav_stack: open | template: stack_module_@local.module_id, header: false;",
       "parameter_list": "variant: card;\nstyle: no-background;",
       "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group"
     }
   ]
 }

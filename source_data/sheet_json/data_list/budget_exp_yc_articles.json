@@ -21,11 +21,7 @@
       "category_id": "explore",
       "text_1_facilitator::eng": "Let's get started with an activity!",
       "text_2::eng": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen.",
-      "media_type": "youtube",
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=oTGt-_2lJ_E"
+      "media_type": "youtube"
     },
     {
       "id": "explore_2",
@@ -53,7 +49,11 @@
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "3️⃣ Here are the three steps to start your family budget!",
+      "text_1_facilitator::eng": "5️⃣ Here are the five steps to talk about your monthly expenses!",
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=oTGt-_2lJ_E",
       "section_1_title::eng": "IDENTIFY NEEDS",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_1_text::eng": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
