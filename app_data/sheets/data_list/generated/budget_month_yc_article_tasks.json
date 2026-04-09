@@ -249,10 +249,6 @@
           "my_ms": true
         }
       },
-      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Uc8lj2RJFoU",
-      "youtube_my_ms_f": "https://www.youtube.com/watch?v=PGFqnL9u3XE",
-      "youtube_gb_en_m": "https://www.youtube.com/watch?v=pDSxS0_x9Qg",
-      "youtube_my_ms_m": "https://www.youtube.com/watch?v=SssjGUHD7go",
       "media_title": "Here is a video to help guide you on this exercise.",
       "completed": false
     },
@@ -260,7 +256,7 @@
       "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "3️⃣ Here are the three steps to start your family budget!"
+          "eng": "5️⃣ Here are the five steps to make a monthly budget!"
         },
         "section_1_title": {
           "eng": "IDENTIFY NEEDS"
@@ -283,11 +279,9 @@
       },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
+      "text_1_facilitator": "5️⃣ Here are the five steps to make a monthly budget!",
       "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        },
+        "text_1_facilitator": {},
         "section_1_title": {
           "my_ms": true
         },
@@ -307,6 +301,10 @@
           "my_ms": true
         }
       },
+      "youtube_gb_en_f": "https://www.youtube.com/watch?v=Uc8lj2RJFoU",
+      "youtube_my_ms_f": "https://www.youtube.com/watch?v=PGFqnL9u3XE",
+      "youtube_gb_en_m": "https://www.youtube.com/watch?v=pDSxS0_x9Qg",
+      "youtube_my_ms_m": "https://www.youtube.com/watch?v=SssjGUHD7go",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",

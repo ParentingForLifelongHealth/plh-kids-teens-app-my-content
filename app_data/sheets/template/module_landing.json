@@ -735,156 +735,167 @@
       }
     },
     {
-      "type": "text",
-      "name": "summary_text",
-      "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-      "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      },
-      "style_list": [
-        "text-align: center"
-      ],
-      "exclude_from_translation": false,
-      "_nested_name": "summary_text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-            "matchedExpression": "@local.no_completed",
-            "type": "local",
-            "fieldName": "no_completed"
-          },
-          {
-            "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-            "matchedExpression": "@local.total",
-            "type": "local",
-            "fieldName": "total"
-          },
-          {
-            "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
-            "matchedExpression": "@local.course_name",
-            "type": "local",
-            "fieldName": "course_name"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.no_completed": [
-          "value"
-        ],
-        "@local.total": [
-          "value"
-        ],
-        "@local.course_name": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "button_home",
-      "value": "@global.back_to_home",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "home_screen"
-          ],
-          "_raw": "click | go_to: home_screen"
-        }
-      ],
-      "exclude_from_translation": true,
-      "_nested_name": "button_home",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.back_to_home",
-            "matchedExpression": "@global.back_to_home",
-            "type": "global",
-            "fieldName": "back_to_home"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.back_to_home": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "button_restart",
-      "value": "@global.restart",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "nav_stack",
-          "args": [
-            "open"
-          ],
-          "_raw": "click | nav_stack: open | template: stack_module_@local.module_id, header: false",
-          "params": {
-            "template": "stack_module_@local.module_id",
-            "header": false
-          }
-        }
-      ],
+      "type": "display_group",
       "parameter_list": {
-        "variant": "card",
-        "style": "no-background"
+        "style": "column",
+        "variant": "inline_padding"
       },
-      "exclude_from_translation": true,
-      "_nested_name": "button_restart",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.restart",
-            "matchedExpression": "@global.restart",
-            "type": "global",
-            "fieldName": "restart"
-          }
-        ],
-        "action_list": {
-          "0": {
-            "_raw": [
+      "rows": [
+        {
+          "type": "text",
+          "name": "summary_text",
+          "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+          "_translations": {
+            "value": {
+              "my_ms": true
+            }
+          },
+          "style_list": [
+            "text-align: center"
+          ],
+          "exclude_from_translation": false,
+          "_nested_name": "display_group_22.summary_text",
+          "_dynamicFields": {
+            "value": [
               {
-                "fullExpression": "click | nav_stack: open | template: stack_module_@local.module_id, header: false",
-                "matchedExpression": "@local.module_id",
+                "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+                "matchedExpression": "@local.no_completed",
                 "type": "local",
-                "fieldName": "module_id"
+                "fieldName": "no_completed"
+              },
+              {
+                "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+                "matchedExpression": "@local.total",
+                "type": "local",
+                "fieldName": "total"
+              },
+              {
+                "fullExpression": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+                "matchedExpression": "@local.course_name",
+                "type": "local",
+                "fieldName": "course_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.no_completed": [
+              "value"
+            ],
+            "@local.total": [
+              "value"
+            ],
+            "@local.course_name": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_home",
+          "value": "@global.back_to_home",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "home_screen"
+              ],
+              "_raw": "click | go_to: home_screen"
+            }
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "display_group_22.button_home",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@global.back_to_home",
+                "matchedExpression": "@global.back_to_home",
+                "type": "global",
+                "fieldName": "back_to_home"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@global.back_to_home": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_restart",
+          "value": "<u>@global.restart</u>",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "nav_stack",
+              "args": [
+                "open"
+              ],
+              "_raw": "click | nav_stack: open | template: stack_module_@local.module_id, header: false",
+              "params": {
+                "template": "stack_module_@local.module_id",
+                "header": false
+              }
+            }
+          ],
+          "parameter_list": {
+            "variant": "card",
+            "style": "no-background"
+          },
+          "exclude_from_translation": true,
+          "_nested_name": "display_group_22.button_restart",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "<u>@global.restart</u>",
+                "matchedExpression": "@global.restart",
+                "type": "global",
+                "fieldName": "restart"
               }
             ],
-            "params": {
-              "template": [
-                {
-                  "fullExpression": "stack_module_@local.module_id",
-                  "matchedExpression": "@local.module_id",
-                  "type": "local",
-                  "fieldName": "module_id"
+            "action_list": {
+              "0": {
+                "_raw": [
+                  {
+                    "fullExpression": "click | nav_stack: open | template: stack_module_@local.module_id, header: false",
+                    "matchedExpression": "@local.module_id",
+                    "type": "local",
+                    "fieldName": "module_id"
+                  }
+                ],
+                "params": {
+                  "template": [
+                    {
+                      "fullExpression": "stack_module_@local.module_id",
+                      "matchedExpression": "@local.module_id",
+                      "type": "local",
+                      "fieldName": "module_id"
+                    }
+                  ]
                 }
-              ]
+              }
             }
+          },
+          "_dynamicDependencies": {
+            "@global.restart": [
+              "value"
+            ],
+            "@local.module_id": [
+              "action_list.0._raw",
+              "action_list.0.params.template"
+            ]
           }
         }
-      },
-      "_dynamicDependencies": {
-        "@global.restart": [
-          "value"
-        ],
-        "@local.module_id": [
-          "action_list.0._raw",
-          "action_list.0.params.template"
-        ]
-      }
+      ],
+      "name": "display_group_22",
+      "_nested_name": "display_group_22"
     }
   ],
   "_source": {
