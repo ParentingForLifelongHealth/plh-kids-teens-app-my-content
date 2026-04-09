@@ -10195,7 +10195,7 @@
   },
   {
     "SourceText": "Favourites",
-    "text": "Kegemaran anda",
+    "text": "Kegemaran Anda",
     "type": "global",
     "note": ""
   },
@@ -10249,7 +10249,7 @@
   },
   {
     "SourceText": "Source",
-    "text": "Bahan Saya",
+    "text": "Sumber",
     "type": "global",
     "note": ""
   },
@@ -10819,7 +10819,7 @@
   },
   {
     "SourceText": "An unknown error occured, please try again later",
-    "text": "Maaf, berlaku ralat yang tidak dijangka. Sila cuba sekali lagi nanti",
+    "text": "Maaf, berlaku masalah yang tidak dijangka. Sila cuba sekali lagi nanti",
     "type": "global",
     "note": ""
   },

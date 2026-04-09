@@ -345,7 +345,7 @@
           "eng": "RESPOND: What might help what is going on?"
         },
         "section_3_text": {
-          "eng": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the library for a list of community resources where you can receive help."
+          "eng": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the My Resources for a list of community resources where you can receive help."
         },
         "section_4_title": {
           "eng": "COMFORT: Be there for your child"
@@ -376,9 +376,7 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {
-          "my_ms": true
-        },
+        "section_3_text": {},
         "section_4_title": {
           "my_ms": true
         },
@@ -399,7 +397,7 @@
       "section_2_title": "LISTEN: Ask your child what is going on",
       "section_2_text": "👂 Let your child share with you what they need.\n👀 Notice what they are feeling and tell them what you notice so they feel heard. \n💙 Tell your child that you are there for them and love them.\n😣 Both girls AND boys could face hard times and crisis situations. Remember to check-in with both.",
       "section_3_title": "RESPOND: What might help what is going on?",
-      "section_3_text": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the library for a list of community resources where you can receive help.",
+      "section_3_text": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the My Resources for a list of community resources where you can receive help.",
       "section_4_title": "COMFORT: Be there for your child",
       "section_4_text": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🎈 Remind your child again that you love them, and thank them for sharing with you.",
       "completed": false
