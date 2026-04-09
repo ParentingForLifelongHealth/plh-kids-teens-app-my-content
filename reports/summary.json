@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2886
+        "count": 2890
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 889
+        "count": 891
       },
       {
         "type": "text",
-        "count": 198
+        "count": 199
       },
       {
         "type": "text_area",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 620
+        "count": 622
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 625
+        "count": 627
       },
       {
         "type": "feedback",
@@ -300,7 +300,7 @@
       },
       {
         "assets": "unused",
-        "KB": "47130 KB",
+        "KB": "47090 KB",
         "MB": "47.1 MB"
       }
     ]
@@ -313,7 +313,7 @@
       },
       {
         "path": "android/icon-foreground.png",
-        "size_kb": 58.3
+        "size_kb": 18.4
       },
       {
         "path": "android/icon.png",
@@ -1681,7 +1681,7 @@
       },
       {
         "path": "images/icons/diamond_blue.png",
-        "count": 94,
+        "count": 98,
         "size_kb": 4.7
       },
       {
@@ -1771,7 +1771,7 @@
       },
       {
         "path": "images/icons/heart_filled_blue.png",
-        "count": 92,
+        "count": 96,
         "size_kb": 4.9
       },
       {
@@ -1921,7 +1921,7 @@
       },
       {
         "path": "images/icons/star_filled_blue.png",
-        "count": 92,
+        "count": 96,
         "size_kb": 5.1
       },
       {
@@ -3166,7 +3166,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 693
+        "total": 695
       },
       {
         "type": "template",

@@ -238,13 +238,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Parenting Values"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
         }
       },
+      "home_activity": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "completed": false,
       "task_child": "spirituality_yc_article_tasks"
     },
@@ -638,13 +643,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Talk to Teachers"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
       },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn.",
       "completed": false,
       "task_child": "school_3to6_yc_article_tasks"
     },
@@ -867,13 +877,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Child Development"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise supporting your child’s development."
         }
       },
+      "home_activity": "Now it’s time to practise supporting your child’s development.",
       "completed": false,
       "task_child": "child_change_yc_article_tasks"
     },
@@ -1112,13 +1127,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Roles at Home"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise setting some structure at home."
         }
       },
+      "home_activity": "Now it’s time to practise setting some structure at home.",
       "completed": false,
       "task_child": "know_role_yc_article_tasks"
     },
@@ -1357,13 +1377,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Problem Solving"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise managing your child’s behaviour."
         }
       },
+      "home_activity": "Now it’s time to practise managing your child’s behaviour.",
       "completed": false,
       "task_child": "solve_problem_yc_article_tasks"
     },
@@ -1816,13 +1841,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Nutrition and Health"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
       },
+      "home_activity": "Now it’s time to practise talking to your child about safety.",
       "completed": false,
       "task_child": "nutrition_yc_article_tasks"
     },
@@ -2046,13 +2076,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Talk and Listen"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise sharing household tasks with your spouse."
         }
       },
+      "home_activity": "Now it’s time to practise sharing household tasks with your spouse.",
       "completed": false,
       "task_child": "ipv_listen_article_tasks"
     },
@@ -2242,13 +2277,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Savings"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise planning a budget."
         }
       },
+      "home_activity": "Now it’s time to practise planning a budget.",
       "completed": false,
       "task_child": "budget_save_yc_article_tasks"
     }

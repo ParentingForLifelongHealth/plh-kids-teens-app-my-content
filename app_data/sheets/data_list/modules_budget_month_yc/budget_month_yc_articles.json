@@ -38,12 +38,6 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "quiz_1_option_1_text": {
-          "my_ms": true
-        },
-        "quiz_1_option_2_text": {
-          "my_ms": true
-        },
         "quiz_2_option_1_text": {
           "my_ms": true
         },
@@ -55,12 +49,6 @@
         "text_1_facilitator": {
           "eng": "Here is how you can build a monthly budget."
         },
-        "quiz_1_option_1_text": {
-          "eng": "True"
-        },
-        "quiz_1_option_2_text": {
-          "eng": "False"
-        },
         "quiz_2_option_1_text": {
           "eng": "True"
         },
@@ -68,8 +56,6 @@
           "eng": "False"
         }
       },
-      "quiz_1_option_1_text": "True",
-      "quiz_1_option_2_text": "False",
       "quiz_2_option_1_text": "True",
       "quiz_2_option_2_text": "False"
     },
@@ -167,6 +153,67 @@
         }
       },
       "media_title": "Here is a video to help guide you on this exercise."
+    },
+    {
+      "id": "tips_1",
+      "category_id": "practical_tips",
+      "section_1_icon_asset": "images/icons/heart_filled_blue.png",
+      "section_2_icon_asset": "images/icons/star_filled_blue.png",
+      "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "nested": false,
+      "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
+      "_translations": {
+        "text_1_facilitator": {
+          "my_ms": true
+        },
+        "section_1_title": {
+          "my_ms": true
+        },
+        "section_1_text": {
+          "my_ms": true
+        },
+        "section_2_title": {
+          "my_ms": true
+        },
+        "section_2_text": {
+          "my_ms": true
+        },
+        "section_3_title": {
+          "my_ms": true
+        },
+        "section_3_text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text_1_facilitator": {
+          "eng": "3️⃣ Here are the three steps to start your family budget!"
+        },
+        "section_1_title": {
+          "eng": "IDENTIFY NEEDS"
+        },
+        "section_1_text": {
+          "eng": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧."
+        },
+        "section_2_title": {
+          "eng": "IDENTIFY WANTS"
+        },
+        "section_2_text": {
+          "eng": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗."
+        },
+        "section_3_title": {
+          "eng": "TALK"
+        },
+        "section_3_text": {
+          "eng": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
+        }
+      },
+      "section_1_title": "IDENTIFY NEEDS",
+      "section_1_text": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
+      "section_2_title": "IDENTIFY WANTS",
+      "section_2_text": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
+      "section_3_title": "TALK",
+      "section_3_text": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
     },
     {
       "id": "home_activity_1",

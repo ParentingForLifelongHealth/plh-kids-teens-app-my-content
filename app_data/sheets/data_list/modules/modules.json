@@ -232,13 +232,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Parenting Values"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
     },
     {
       "id": "language_yc",
@@ -614,13 +619,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Talk to Teachers"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "play_yc",
@@ -833,13 +843,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Child Development"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise supporting your child’s development."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise supporting your child’s development."
     },
     {
       "id": "manage_stress_yc",
@@ -1068,13 +1083,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Roles at Home"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise setting some structure at home."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise setting some structure at home."
     },
     {
       "id": "redirect_yc",
@@ -1303,13 +1323,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Problem Solving"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise managing your child’s behaviour."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise managing your child’s behaviour."
     },
     {
       "id": "safe_2to5_yc_m",
@@ -1742,13 +1767,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Nutrition and Health"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "ipv_equals",
@@ -1962,13 +1992,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Talk and Listen"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise sharing household tasks with your spouse."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise sharing household tasks with your spouse."
     },
     {
       "id": "budget_needs_yc",
@@ -2150,13 +2185,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "home_activity": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Savings"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise planning a budget."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise planning a budget."
     }
   ],
   "_source": {

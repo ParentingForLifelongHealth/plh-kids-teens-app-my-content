@@ -132,6 +132,31 @@
       "_nested_name": "header"
     },
     {
+      "type": "text",
+      "value": "@global.library_certificates_intro",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "name": "text_8",
+      "_nested_name": "text_8",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.library_certificates_intro",
+            "matchedExpression": "@global.library_certificates_intro",
+            "type": "global",
+            "fieldName": "library_certificates_intro"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.library_certificates_intro": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "data_items",
       "name": "core_courses",
       "value": "@data.courses",

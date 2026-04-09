@@ -3397,6 +3397,11 @@
           "flow_type": "template"
         },
         {
+          "flow_name": "article_budget_exp_yc_tips_1",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
           "flow_name": "article_budget_exp_yc_home_activity_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -3451,6 +3456,11 @@
         },
         {
           "flow_name": "article_budget_month_yc_explore_6",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "article_budget_month_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
         },
@@ -9129,6 +9139,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "article_budget_exp_yc_tips_1": {
+      "flow_name": "article_budget_exp_yc_tips_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "article_budget_month_yc_check_in_15": {
       "flow_name": "article_budget_month_yc_check_in_15",
       "flow_subtype": "generated",
@@ -9176,6 +9191,11 @@
     },
     "article_budget_month_yc_relax_15": {
       "flow_name": "article_budget_month_yc_relax_15",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_budget_month_yc_tips_1": {
+      "flow_name": "article_budget_month_yc_tips_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

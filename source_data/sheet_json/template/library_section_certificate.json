@@ -38,6 +38,11 @@
       "type": "end_template"
     },
     {
+      "type": "text",
+      "value": "@global.library_certificates_intro",
+      "exclude_from_translation": true
+    },
+    {
       "type": "begin_data_items",
       "name": "core_courses",
       "value": "@data.courses",

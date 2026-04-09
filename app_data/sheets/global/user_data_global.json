@@ -16,121 +16,97 @@
     {
       "type": "declare_global_constant",
       "name": "user_name_setting",
-      "value": "My name is...",
+      "value": "My name is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "user_gender_setting",
-      "value": "My gender is...",
+      "value": "My gender is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "user_location_setting",
-      "value": "I live in...",
+      "value": "I live in",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "user_relationship_setting",
-      "value": "My relationship status is...",
+      "value": "My relationship status is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "user_ethnicity_setting",
-      "value": "My ethnicity is...",
+      "value": "My ethnicity is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "household_children_setting",
-      "value": "In my home I care for this number of children...",
+      "value": "In my home I care for this number of children",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "child_name_setting",
-      "value": "My child's name is...",
+      "value": "My child's name is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "child_gender_setting",
-      "value": "My child is a...",
+      "value": "My child is a",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "child_age_setting",
-      "value": "The age of my child is...",
+      "value": "The age of my child is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "user_type_setting",
-      "value": "My role is...",
+      "value": "My role is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "content_package_setting",
-      "value": "I heard about this app through...",
+      "value": "I heard about this app through",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
       "type": "declare_global_constant",
       "name": "faci_group_id_setting",
-      "value": "My facilitator's group ID is...",
+      "value": "My facilitator's group ID is",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {

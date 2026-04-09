@@ -752,6 +752,14 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "library_certificates_intro",
+      "value": "Complete your course and tell us how your home practice went to unlock your certificate.",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

@@ -76,6 +76,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Parenting Values",
+      "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_5"
@@ -211,6 +212,7 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Talk to Teachers",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_14"
@@ -286,6 +288,7 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
+      "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_3"
@@ -361,6 +364,7 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Roles at Home",
+      "home_activity::eng": "Now it’s time to practise setting some structure at home.",
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_8"
@@ -436,6 +440,7 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Problem Solving",
+      "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_13"
@@ -586,6 +591,7 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Nutrition and Health",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_7"
@@ -661,6 +667,7 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Talk and Listen",
+      "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_12"
@@ -721,6 +728,7 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Savings",
+      "home_activity::eng": "Now it’s time to practise planning a budget.",
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_16"
