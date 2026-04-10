@@ -191,9 +191,6 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "💰 Add up how much money you have to spend each month."
-        },
-        "text_2": {
-          "eng": "Take a picture of the paper or save it for your next lesson! ⭐"
         }
       },
       "category_id": "explore",
@@ -202,10 +199,8 @@
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        },
-        "text_2": {}
+        }
       },
-      "text_2": "Take a picture of the paper or save it for your next lesson! ⭐",
       "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
       "completed": false
     },
@@ -213,47 +208,41 @@
       "id": "tips_1",
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "5️⃣ Here are the five steps to talk about your monthly expenses!"
+          "eng": "Here are some tips to help you prepare to talk about your monthly expenses!"
         },
         "section_1_title": {
-          "eng": "IDENTIFY NEEDS"
+          "eng": "YOUR EXPENSES"
         },
         "section_1_text": {
-          "eng": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧."
+          "eng": "🎨 Draw pictures of all the things that you and your family spend money on each month."
         },
         "section_2_title": {
-          "eng": "IDENTIFY WANTS"
+          "eng": "YOUR MONEY"
         },
         "section_2_text": {
-          "eng": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗."
+          "eng": "💰 Add up how much money you have to spend each month."
         },
         "section_3_title": {
-          "eng": "TALK"
+          "eng": "YOUR COSTS"
         },
         "section_3_text": {
-          "eng": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
+          "eng": "📝 Write next to each picture how much each thing costs."
         }
       },
       "category_id": "practical_tips",
       "nested": false,
-      "text_1_facilitator": "5️⃣ Here are the five steps to talk about your monthly expenses!",
+      "text_1_facilitator": "Here are some tips to help you prepare to talk about your monthly expenses!",
       "_translations": {
         "text_1_facilitator": {},
-        "section_1_title": {
-          "my_ms": true
-        },
+        "section_1_title": {},
         "section_1_text": {
           "my_ms": true
         },
-        "section_2_title": {
-          "my_ms": true
-        },
+        "section_2_title": {},
         "section_2_text": {
           "my_ms": true
         },
-        "section_3_title": {
-          "my_ms": true
-        },
+        "section_3_title": {},
         "section_3_text": {
           "my_ms": true
         }
@@ -265,12 +254,12 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_1_title": "IDENTIFY NEEDS",
-      "section_1_text": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
-      "section_2_title": "IDENTIFY WANTS",
-      "section_2_text": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
-      "section_3_title": "TALK",
-      "section_3_text": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on.",
+      "section_1_title": "YOUR EXPENSES",
+      "section_1_text": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
+      "section_2_title": "YOUR MONEY",
+      "section_2_text": "💰 Add up how much money you have to spend each month.",
+      "section_3_title": "YOUR COSTS",
+      "section_3_text": "📝 Write next to each picture how much each thing costs.",
       "completed": false
     },
     {

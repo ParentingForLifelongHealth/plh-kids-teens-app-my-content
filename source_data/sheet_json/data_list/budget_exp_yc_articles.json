@@ -39,26 +39,25 @@
       "id": "explore_4",
       "category_id": "explore",
       "text_1_facilitator::eng": "💰 Add up how much money you have to spend each month.",
-      "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
-      "text_2::eng": "Take a picture of the paper or save it for your next lesson! ⭐"
+      "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg"
     },
     {
       "id": "tips_1",
       "category_id": "practical_tips",
-      "text_1_facilitator::eng": "5️⃣ Here are the five steps to talk about your monthly expenses!",
+      "text_1_facilitator::eng": "Here are some tips to help you prepare to talk about your monthly expenses!",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",
       "youtube_my_ms_m": "https://www.youtube.com/watch?v=oTGt-_2lJ_E",
-      "section_1_title::eng": "IDENTIFY NEEDS",
+      "section_1_title::eng": "YOUR EXPENSES",
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
-      "section_1_text::eng": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
-      "section_2_title::eng": "IDENTIFY WANTS",
+      "section_1_text::eng": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
+      "section_2_title::eng": "YOUR MONEY",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
-      "section_2_text::eng": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
-      "section_3_title::eng": "TALK",
+      "section_2_text::eng": "💰 Add up how much money you have to spend each month.",
+      "section_3_title::eng": "YOUR COSTS",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "section_3_text::eng": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on."
+      "section_3_text::eng": "📝 Write next to each picture how much each thing costs."
     },
     {
       "id": "home_activity_1",
