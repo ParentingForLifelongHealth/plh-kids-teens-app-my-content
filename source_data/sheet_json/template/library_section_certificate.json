@@ -19,6 +19,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "introduction",
+      "value": "@local.library_row.introduction"
+    },
+    {
       "name": "display_title",
       "value": "@local.library_row.title",
       "exclude_from_translation": true
@@ -39,7 +43,7 @@
     },
     {
       "type": "text",
-      "value": "@global.library_certificates_intro",
+      "value": "@local.introduction",
       "exclude_from_translation": true
     },
     {

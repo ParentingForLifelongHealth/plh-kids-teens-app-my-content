@@ -64,13 +64,18 @@
       "_translations": {
         "title": {
           "my_ms": true
-        }
+        },
+        "introduction": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "My Certificates"
+        },
+        "introduction": {
+          "eng": "Complete your course and tell us how your home practice went to unlock your certificate."
         }
-      }
+      },
+      "introduction": "Complete your course and tell us how your home practice went to unlock your certificate."
     }
   ],
   "_source": {

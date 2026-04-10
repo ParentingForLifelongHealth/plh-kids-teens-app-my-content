@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2890
+        "count": 2889
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 891
+        "count": 890
       },
       {
         "type": "text",
-        "count": 199
+        "count": 198
       },
       {
         "type": "text_area",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 53
+        "count": 54
       },
       {
         "type": "toggle_bar",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 622
+        "count": 621
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 627
+        "count": 626
       },
       {
         "type": "feedback",
@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "142747 KB",
-        "MB": "142.7 MB"
+        "KB": "137887 KB",
+        "MB": "137.9 MB"
       },
       {
         "assets": "unused",
-        "KB": "47090 KB",
-        "MB": "47.1 MB"
+        "KB": "51987 KB",
+        "MB": "52 MB"
       }
     ]
   },
@@ -498,6 +498,10 @@
       {
         "path": "images/backgrounds/mountain_trees.svg",
         "size_kb": 338.5
+      },
+      {
+        "path": "images/backgrounds/oldkites.svg",
+        "size_kb": 4897.1
       },
       {
         "path": "images/backgrounds/progress_arc.png",
@@ -1507,7 +1511,7 @@
       {
         "path": "images/backgrounds/kites.svg",
         "count": 1,
-        "size_kb": 4897.1
+        "size_kb": 37.3
       },
       {
         "path": "images/backgrounds/lesson-cta-bg.svg",
@@ -3166,7 +3170,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 695
+        "total": 694
       },
       {
         "type": "template",

@@ -33,16 +33,16 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2890 |
+| set_variable | 2889 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 891 |
-| text | 199 |
+| template | 890 |
+| text | 198 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
-| title | 53 |
+| title | 54 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 622 |
+| emit: completed | 621 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 627 |
+| emit: uncompleted | 626 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 330 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 142747 KB | 142.7 MB |
-| unused | 47090 KB | 47.1 MB |
+| total | 137887 KB | 137.9 MB |
+| unused | 51987 KB | 52 MB |
 </details>
 
 <details open>
@@ -147,6 +147,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/library_top_right.svg | 9.5 |
 | images/backgrounds/mountain_trees.svg | 338.5 |
+| images/backgrounds/oldkites.svg | 4897.1 |
 | images/backgrounds/progress_arc.png | 255.4 |
 | images/backgrounds/progress_arc.svg | 3755.1 |
 | images/flags/gb.svg | 0.5 |
@@ -380,7 +381,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/whats_new_child.svg | 1180.3 | 6 |
 | images/backgrounds/bottom_banner.svg | 338.5 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
-| images/backgrounds/kites.svg | 4897.1 | 1 |
+| images/backgrounds/kites.svg | 37.3 | 1 |
 | images/backgrounds/lesson-cta-bg.svg | 4 | 2 |
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
@@ -718,6 +719,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 142 |
-| template | generated | 695 |
+| template | generated | 694 |
 | template | legal_terms | 4 |
 </details>

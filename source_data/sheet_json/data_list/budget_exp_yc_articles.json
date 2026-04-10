@@ -39,12 +39,8 @@
       "id": "explore_4",
       "category_id": "explore",
       "text_1_facilitator::eng": "💰 Add up how much money you have to spend each month.",
-      "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg"
-    },
-    {
-      "id": "explore_5",
-      "category_id": "explore",
-      "text_1_facilitator::eng": "Take a picture of the paper or save it for Step 3! ⭐"
+      "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
+      "text_2::eng": "Take a picture of the paper or save it for your next lesson! ⭐"
     },
     {
       "id": "tips_1",

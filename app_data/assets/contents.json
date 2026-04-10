@@ -524,8 +524,8 @@
     "size_kb": 156.3
   },
   "images/backgrounds/kites.svg": {
-    "md5Checksum": "311c4e51d523f05230ca4748404d36b8",
-    "size_kb": 4897.1
+    "md5Checksum": "83fa2d24b91d02b6e8c2b3a95607c572",
+    "size_kb": 37.3
   },
   "images/backgrounds/lesson-cta-bg.svg": {
     "md5Checksum": "5a285f950ba5c41b79774114cc423cf5",
@@ -546,6 +546,10 @@
   "images/backgrounds/mountains_trees.svg": {
     "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
     "size_kb": 23.2
+  },
+  "images/backgrounds/oldkites.svg": {
+    "md5Checksum": "311c4e51d523f05230ca4748404d36b8",
+    "size_kb": 4897.1
   },
   "images/backgrounds/progress_arc.png": {
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",
