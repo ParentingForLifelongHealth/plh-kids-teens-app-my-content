@@ -2,7 +2,13 @@
   "flow_type": "template",
   "flow_name": "home_screen",
   "status": "released",
-  "comments": "app_config.LAYOUT.page_padding: 0 0;",
+  "parameter_list": {
+    "app_config": {
+      "LAYOUT": {
+        "page_padding": "24px 0"
+      }
+    }
+  },
   "rows": [
     {
       "name": "home_screen_logo",
@@ -509,8 +515,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/app_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/12uVS4kd0g9A1cNLzpBt8avZ2biX4YGXgSciLMvBnsgs"
+    "name": "kids_teens_my",
+    "path": "templates/MY module_navigation.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
   }
 }
