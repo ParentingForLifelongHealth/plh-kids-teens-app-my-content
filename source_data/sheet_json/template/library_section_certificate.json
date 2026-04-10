@@ -20,7 +20,8 @@
     },
     {
       "name": "introduction",
-      "value": "@local.library_row.introduction"
+      "value": "@local.library_row.introduction",
+      "exclude_from_translation": true
     },
     {
       "name": "display_title",
