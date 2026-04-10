@@ -139,54 +139,26 @@
       }
     },
     {
-      "type": "text",
-      "value": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
+      "type": "title",
+      "value": "@global.certificate_congrats",
       "_translations": {
         "value": {}
       },
-      "condition": false,
       "exclude_from_translation": true,
-      "name": "text_6",
-      "_nested_name": "text_6",
+      "name": "title_6",
+      "_nested_name": "title_6",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
-            "matchedExpression": "@fields.certificate_name",
-            "type": "fields",
-            "fieldName": "certificate_name"
-          },
-          {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
-            "matchedExpression": "@fields.cert_to_print",
-            "type": "fields",
-            "fieldName": "cert_to_print"
-          },
-          {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
-            "matchedExpression": "@local.n_reprints",
-            "type": "local",
-            "fieldName": "n_reprints"
-          },
-          {
-            "fullExpression": "Certificate with name @fields.certificate_name\nCertificate to print: @fields.cert_to_print\nn reprints: @local.n_reprints\nurl: @local.image_url",
-            "matchedExpression": "@local.image_url",
-            "type": "local",
-            "fieldName": "image_url"
+            "fullExpression": "@global.certificate_congrats",
+            "matchedExpression": "@global.certificate_congrats",
+            "type": "global",
+            "fieldName": "certificate_congrats"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@fields.certificate_name": [
-          "value"
-        ],
-        "@fields.cert_to_print": [
-          "value"
-        ],
-        "@local.n_reprints": [
-          "value"
-        ],
-        "@local.image_url": [
+        "@global.certificate_congrats": [
           "value"
         ]
       }

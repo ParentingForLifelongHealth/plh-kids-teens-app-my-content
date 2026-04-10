@@ -1729,7 +1729,7 @@
   },
   {
     "SourceText": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the library for a list of community resources where you can receive help.",
-    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅ Ingat, anda boleh merujuk ke Sumber untuk senarai sumber komuniti di mana anda boleh mendapatkan bantuan.",
+    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅ Ingat, anda boleh merujuk ke Bahan Saya untuk senarai sumber komuniti di mana anda boleh mendapatkan bantuan.",
     "type": "data_list",
     "note": ""
   },
@@ -1748,42 +1748,6 @@
   {
     "SourceText": "Managing how money is spent is important to ensure that parents are able to provide for our children. 💛\n\nWhen money is tight, this can create feelings of anxiety, stress and sadness. 😒😔😣\n\nBut even small steps toward budgeting can help you feel more in control and reduce stress. 🌟",
     "text": "Untuk menyara anak-anak, sebagai ibu bapa adalah sangat penting untuk kita memastikan cara kita menguruskan wang. 💛\n\nApabila wang tidak mencukupi, ia boleh menimbulkan perasaan cemas, tertekan dan sedih. 😒😔😣\n\nLangkah kecil seperti merancang belanjawan sedikit sebanyak membantu anda rasa lebih terkawal dan mengurangkan tekanan. 🌟",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "3️⃣ Here are the three steps to start your family budget!",
-    "text": "3️⃣Berikut adalah tiga langkah untuk mulakan belanjawan keluarga anda!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "IDENTIFY NEEDS",
-    "text": "KENAL PASTI KEPERLUAN",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
-    "text": "📝 Senaraikan barang yang anda tidak boleh hidup tanpanya bersama keluarga anda. Barang-barang ini adalah amat penting untuk kelangsungan hidup keluarga anda. \n⭐ Sebagai contoh makanan 🍚, ubat-ubatan, atau cecair pencuci baju 🫧.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "IDENTIFY WANTS",
-    "text": "KENAL PASTI KEHENDAK",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
-    "text": "🎁 Buat senarai barangan yang anda dan keluarga anda perlukan. Barangan ini adalah barangan bukan keperluan yang anda ingin miliki. \n⭐ Sebagai contoh, telefon pintar versi terbaharu📱, mainan baharu 🧸 atau kereta baharu 🚗.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on.",
-    "text": "👀 Manusia sering mempunyai sudut pandangan yang berbeza.\n📝 Anda akan mendapati bahawa apa yang ahli keluarga anda anggap sebagai KEPERLUAN, cuma satu KEHENDAK bagi anda. \n💰 Bincang perbezaan tersebut dengan keluarga anda, ini akan membantu anda semua untuk lebih memahami antara satu sama lain dan mencapai kata sepakat tentang perbelanjaan keluarga.",
     "type": "data_list",
     "note": ""
   },
@@ -3804,6 +3768,12 @@
     "note": ""
   },
   {
+    "SourceText": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
+    "text": "Sekarang tiba masanya untuk anda berlatih meluangkan masa bersama seorang dengan seorang selama 5 minit bersama anak anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Language Skills",
     "text": "Kemahiran Bahasa",
     "type": "data_list",
@@ -3852,6 +3822,12 @@
     "note": ""
   },
   {
+    "SourceText": "Now it’s time to practise involving your child in an activity to help them learn.",
+    "text": "Sekarang tiba masanya untuk berlatih melibatkan anak anda dalam satu aktiviti untuk membantu anak anda belajar.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Play & Learn",
     "text": "Main & Belajar",
     "type": "data_list",
@@ -3866,6 +3842,12 @@
   {
     "SourceText": "Child Development",
     "text": "Perkembangan Kanak-kanak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Now it’s time to practise supporting your child’s development.",
+    "text": "Sekarang tiba masanya untuk anda berlatih menyokong perkembangan anak anda.",
     "type": "data_list",
     "note": ""
   },
@@ -3900,6 +3882,12 @@
     "note": ""
   },
   {
+    "SourceText": "Now it’s time to practise setting some structure at home.",
+    "text": "Sekarang tiba masanya untuk anda berlatih mewujudkan persekitaran yang seimbang di rumah.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Misbehaviour",
     "text": "Tingkah Laku Mencabar",
     "type": "data_list",
@@ -3926,6 +3914,12 @@
   {
     "SourceText": "Problem Solving",
     "text": "Menyelesaikan Masalah",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Now it’s time to practise managing your child’s behaviour.",
+    "text": "Sekarang tiba masanya untuk anda berlatih mengurus tingkah laku anak anda.",
     "type": "data_list",
     "note": ""
   },
@@ -3966,6 +3960,12 @@
     "note": ""
   },
   {
+    "SourceText": "Now it’s time to practise talking to your child about safety.",
+    "text": "Sekarang tiba masanya untuk anda berlatih berbual dengan anak anda tentang keselamatan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Respect Each Other",
     "text": "Saling Menghormati",
     "type": "data_list",
@@ -3996,6 +3996,12 @@
     "note": ""
   },
   {
+    "SourceText": "Now it’s time to practise sharing household tasks with your spouse.",
+    "text": "Sekarang tiba masanya untuk anda berlatih berkongsi tugas-tugas di rumah dengan pasangan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Needs and Wants",
     "text": "Keperluan & Kehendak",
     "type": "data_list",
@@ -4016,6 +4022,12 @@
   {
     "SourceText": "Savings",
     "text": "Tabung Simpanan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Now it’s time to practise planning a budget.",
+    "text": "Sekarang tiba masanya untuk anda berlatih merancang bajet.",
     "type": "data_list",
     "note": ""
   },
@@ -4831,7 +4843,7 @@
   },
   {
     "SourceText": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the library for a list of community resources where you can receive help.",
-    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅ Ingat, anda boleh rujuk Sumber untuk mendapatkan maklumat tentang sumber-sumber bantuan dalam komuniti anda di mana anda boleh mendapatkan bantuan.",
+    "text": "🔶 Anak anda mungkin memerlukan anda untuk membantunya bercakap tentang perasaannya atau mengalih perhatiannya.\n➡️ Dengan apa yang telah berlaku, anda mungkin perlu bercakap tentang tindakan yang boleh diambil oleh anda atau anak anda.\n⏸ Jika perlu, anda boleh mengajar tentang akibat kepada anak anda. Pada saat ini, anak anda memerlukan kehadiran anda dengan penuh kasih sayang.\n✅ Ingat, anda boleh rujuk Bahan Saya untuk mendapatkan maklumat tentang sumber-sumber bantuan dalam komuniti anda di mana anda boleh mendapatkan bantuan.",
     "type": "data_list",
     "note": ""
   },
@@ -6001,25 +6013,25 @@
   },
   {
     "SourceText": "Lap Rhyme Bounce",
-    "text": "Rima atas Riba",
+    "text": "Nyanyi dan Gerak Berirama",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "This rhythmic lap game builds bonding, listening, and body awareness - just like caregivers have done with little ones for generations 💙",
-    "text": "Permainan berirama di atas riba ini membantu menguatkan hubungan, melatih kemahiran mendengar, dan meningkatkan kesedaran tubuh. Ianya sama seperti yang dilakukan oleh penjaga kepada anak kecil sejak turun‑temurun 💙",
+    "text": "Permainan bernyanyi dan gerak berirama di atas riba ini membantu menguatkan hubungan, melatih kemahiran mendengar, dan meningkatkan kesedaran tubuh. Ianya sama seperti yang dilakukan oleh penjaga kepada anak kecil sejak turun‑temurun 💙",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "🧸 Sit your baby gently on your lap and bounce them up and down while chanting a simple rhyme you remember from childhood.\n\n😃You can speed up or slow down the bounce for extra fun. Add facial expressions or tickles for extra giggles!",
-    "text": "🧸 Dudukkan anak anda dengan lembut di atas riba, kemudian goyangkan mereka perlahan‑lahan ke atas dan ke bawah sambil menyebut rima ringkas yang anda ingat dari zaman kanak‑kanak.\n\n😃 Anda boleh lajukan atau perlahankan gerakan untuk tambah keseronokan. Sertakan mimik muka atau usikan manja untuk buat mereka ketawa!",
+    "text": "🧸 Dudukkan anak anda dengan lembut di atas riba, kemudian goyangkan mereka perlahan‑lahan ke atas dan ke bawah sambil menyanyi lagu berirama yang anda ingat dari zaman kanak‑kanak.\n\n😃 Anda boleh lajukan atau perlahankan gerakan untuk tambah keseronokan. Sertakan mimik muka atau usikan manja untuk buat mereka ketawa!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Echo Songs",
-    "text": "Lagu Gema Bunyi",
+    "text": "Lagu Bunyi Bergema",
     "type": "data_list",
     "note": ""
   },
@@ -6031,7 +6043,7 @@
   },
   {
     "SourceText": "😃 Try a simple call-and-response chant with your child. You say a line, and they copy it back.\n \n👂 For example:\nYou: “Hello there!”\nChild: “Hello there!”\nYou: “How are you?”\nChild: “How are you?”\n \n💚 Use your own words and language.",
-    "text": "😃 Cuba buat rima panggil‑dan‑jawab yang ringkas bersama anak anda. Anda sebut satu baris, dan mereka ulang semula.\n\n👂 Contohnya:\nAnda: “Hello di sana!”\nAnak: “Hello di sana!”\nAnda: “Apa khabar?”\nAnak: “Apa khabar?”\n\n💚 Gunakan kata‑kata dan bahasa anda sendiri.",
+    "text": "😃 Cuba buat rima panggil‑dan‑jawab yang ringkas bersama anak anda. Anda sebut satu baris, dan mereka ulang semula.\n\n👂 Contohnya:\nAnda: “Helo di sana!”\nAnak: “Helo di sana!”\nAnda: “Apa khabar?”\nAnak: “Apa khabar?”\n\n💚 Gunakan kata‑kata dan bahasa anda sendiri.",
     "type": "data_list",
     "note": ""
   },
@@ -6043,7 +6055,7 @@
   },
   {
     "SourceText": "This joyful game builds social confidence, movement skills, and musical rhythm - all while connecting to culture 💛",
-    "text": "Permainan yang penuh menggembirakan ini membantu membina keyakinan sosial, kemahiran pergerakan, dan ritma muzik sambil menghubungkan anak dengan budaya 💛",
+    "text": "Permainan yang penuh menggembirakan ini membantu membina keyakinan sosial, kemahiran pergerakan, dan rentak muzik sambil menghubungkan anak dengan budaya 💛",
     "type": "data_list",
     "note": ""
   },
@@ -6355,7 +6367,7 @@
   },
   {
     "SourceText": "This solo storytelling tradition helps children express feelings, practise language, and explore imagination - all through play and pretend 💛\n\nIt’s a beautiful, calming game rooted in traditional storytelling 🌙",
-    "text": "Tradisi bercerita secara solo ini membantu kanak‑kanak meluahkan perasaan, berlatih bahasa, dan meneroka imaginasi - semuanya boleh didapati melalui permainan dan bermain lakonan 💛\n\nIa adalah permainan yang indah serta menenangkan dan diilhamkan daripada cerita orang dulu-dulu🌙",
+    "text": "Aktiviti bercerita membantu kanak‑kanak meluahkan perasaan, berlatih bahasa, dan meneroka imaginasi - semuanya boleh didapati melalui permainan dan bermain lakonan 💛\n\nIa adalah permainan yang indah serta menenangkan dan diilhamkan daripada cerita orang dulu-dulu🌙",
     "type": "data_list",
     "note": ""
   },
@@ -6596,12 +6608,6 @@
   {
     "SourceText": "Notice 👀 and listen 👂 to your child when they share how they are feeling. \n💛 Accept how they feel.\n🧸 Give them comfort.",
     "text": "Apabila anak anda berkongsi perasaannya, perhatikan 👀 dan dengar 👂 luahannya. \n💛 Hormati perasaannya.\n🧸 Berikan anak anda keselesaan.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "TALK",
-    "text": "BERCAKAP",
     "type": "data_list",
     "note": ""
   },
@@ -8304,6 +8310,48 @@
     "note": ""
   },
   {
+    "SourceText": "3️⃣ Here are the three steps to start your family budget!",
+    "text": "3️⃣Berikut adalah tiga langkah untuk mulakan belanjawan keluarga anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "IDENTIFY NEEDS",
+    "text": "KENAL PASTI KEPERLUAN",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
+    "text": "📝 Senaraikan barang yang anda tidak boleh hidup tanpanya bersama keluarga anda. Barang-barang ini adalah amat penting untuk kelangsungan hidup keluarga anda. \n⭐ Sebagai contoh makanan 🍚, ubat-ubatan, atau cecair pencuci baju 🫧.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "IDENTIFY WANTS",
+    "text": "KENAL PASTI KEHENDAK",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
+    "text": "🎁 Buat senarai barangan yang anda dan keluarga anda perlukan. Barangan ini adalah barangan bukan keperluan yang anda ingin miliki. \n⭐ Sebagai contoh, telefon pintar versi terbaharu📱, mainan baharu 🧸 atau kereta baharu 🚗.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "TALK",
+    "text": "BERCAKAP",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on.",
+    "text": "👀 Manusia sering mempunyai sudut pandangan yang berbeza.\n📝 Anda akan mendapati bahawa apa yang ahli keluarga anda anggap sebagai KEPERLUAN, cuma satu KEHENDAK bagi anda. \n💰 Bincang perbezaan tersebut dengan keluarga anda, ini akan membantu anda semua untuk lebih memahami antara satu sama lain dan mencapai kata sepakat tentang perbelanjaan keluarga.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "⭐ It’s time to get out your paper and build your monthly budget. Do you have time to do it today?",
     "text": "⭐ Sudah tiba masanya untuk anda membuat perancangan dan belanjawan bulanan anda. Adakah anda mempunyai masa untuk lakukannya hari ini?",
     "type": "data_list",
@@ -9775,7 +9823,7 @@
   },
   {
     "SourceText": "😣 Sometimes others respond to us negatively when we’re having a disagreement.\n❗ In these situations, especially if you feel fearful or threatened, it may be best to walk away for a bit until everyone has calmed down.\n\nRemember, if you need help in a crisis, you can refer to the library for a list of community resources where you may find support.",
-    "text": "😣 Kadang-kadang, apabila ada selisih faham, orang lain mungkin membalas secara negatif kepada kita.\n❗ Dalam situasi seperti ini, terutamanya jika anda berasa takut dan terancam, adalah lebih baik untuk beredar dari situ buat sementara sehingga semua orang kembali tenang.\n\nIngat, jika anda memerlukan bantuan ketika mengalami krisis, anda boleh pergi ke Sumber untuk menerima senarai sumber komuniti bagi mendapatkan sokongan.",
+    "text": "😣 Kadang-kadang, apabila ada selisih faham, orang lain mungkin membalas secara negatif kepada kita.\n❗ Dalam situasi seperti ini, terutamanya jika anda berasa takut dan terancam, adalah lebih baik untuk beredar dari situ buat sementara sehingga semua orang kembali tenang.\n\nIngat, jika anda memerlukan bantuan ketika mengalami krisis, anda boleh pergi ke Bahan Saya untuk menerima senarai sumber komuniti bagi mendapatkan sokongan.",
     "type": "data_list",
     "note": ""
   },
@@ -9828,74 +9876,74 @@
     "note": "The string @global.app_name should not be translated."
   },
   {
-    "SourceText": "My name is...",
-    "text": "Nama saya ialah...",
+    "SourceText": "My name is",
+    "text": "Nama saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My gender is...",
-    "text": "Jantina saya ialah...",
+    "SourceText": "My gender is",
+    "text": "Jantina saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "I live in...",
-    "text": "Saya tinggal di...",
+    "SourceText": "I live in",
+    "text": "Saya tinggal di",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My relationship status is...",
-    "text": "Status hubungan saya ialah...",
+    "SourceText": "My relationship status is",
+    "text": "Status hubungan saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My ethnicity is...",
-    "text": "Etnik saya ialah...",
+    "SourceText": "My ethnicity is",
+    "text": "Etnik saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "In my home I care for this number of children...",
-    "text": "Jumlah anak yang saya jaga di rumah ialah...",
+    "SourceText": "In my home I care for this number of children",
+    "text": "Jumlah anak yang saya jaga di rumah ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My child's name is...",
-    "text": "Nama anak saya ialah...",
+    "SourceText": "My child's name is",
+    "text": "Nama anak saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My child is a...",
-    "text": "Anak saya seorang...",
+    "SourceText": "My child is a",
+    "text": "Anak saya seorang",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "The age of my child is...",
-    "text": "Umur anak saya ialah...",
+    "SourceText": "The age of my child is",
+    "text": "Umur anak saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My role is...",
-    "text": "Peranan saya ialah...",
+    "SourceText": "My role is",
+    "text": "Peranan saya ialah",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "I heard about this app through...",
-    "text": "Saya mendengar mengenai aplikasi ini melalui...",
+    "SourceText": "I heard about this app through",
+    "text": "Saya mendengar mengenai aplikasi ini melalui",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "My facilitator's group ID is...",
-    "text": "ID Kumpulan Fasilitator saya ialah...",
+    "SourceText": "My facilitator's group ID is",
+    "text": "ID Kumpulan Fasilitator saya ialah",
     "type": "global",
     "note": ""
   },
@@ -10408,6 +10456,12 @@
     "text": "Maaf, tetapi anda hanya boleh mengemas kini nama pada sijil untuk kursus ini sebanyak @global.max_n_cert_reprints kali sahaja.",
     "type": "global",
     "note": "The string @global.max_n_cert_reprints should not be translated."
+  },
+  {
+    "SourceText": "Complete your course and tell us how your home practice went to unlock your certificate.",
+    "text": "Selesaikan kursus dan kongsikan bagaimana aktiviti di rumah berjalan untuk mendapatkan sijil anda.",
+    "type": "global",
+    "note": ""
   },
   {
     "SourceText": "Naungan Kasih",

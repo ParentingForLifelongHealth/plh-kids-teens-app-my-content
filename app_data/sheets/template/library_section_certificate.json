@@ -64,6 +64,30 @@
       }
     },
     {
+      "name": "introduction",
+      "value": "@local.library_row.introduction",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "introduction",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.library_row.introduction",
+            "matchedExpression": "@local.library_row.introduction",
+            "type": "local",
+            "fieldName": "library_row"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.library_row.introduction": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "display_title",
       "value": "@local.library_row.title",
       "_translations": {
@@ -133,25 +157,25 @@
     },
     {
       "type": "text",
-      "value": "@global.library_certificates_intro",
+      "value": "@local.introduction",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text_8",
-      "_nested_name": "text_8",
+      "name": "text_9",
+      "_nested_name": "text_9",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.library_certificates_intro",
-            "matchedExpression": "@global.library_certificates_intro",
-            "type": "global",
-            "fieldName": "library_certificates_intro"
+            "fullExpression": "@local.introduction",
+            "matchedExpression": "@local.introduction",
+            "type": "local",
+            "fieldName": "introduction"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@global.library_certificates_intro": [
+        "@local.introduction": [
           "value"
         ]
       }

@@ -3392,11 +3392,6 @@
           "flow_type": "template"
         },
         {
-          "flow_name": "article_budget_exp_yc_explore_5",
-          "flow_subtype": "generated",
-          "flow_type": "template"
-        },
-        {
           "flow_name": "article_budget_exp_yc_tips_1",
           "flow_subtype": "generated",
           "flow_type": "template"
@@ -9119,11 +9114,6 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "article_budget_exp_yc_explore_5": {
-      "flow_name": "article_budget_exp_yc_explore_5",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_budget_exp_yc_home_activity_1": {
       "flow_name": "article_budget_exp_yc_home_activity_1",
       "flow_subtype": "generated",
@@ -12247,9 +12237,9 @@
       "flow_type": "template",
       "flow_name": "header_button",
       "_source": {
-        "name": "kids_teens_my",
-        "path": "templates/MY module_navigation.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1eS_bcxjfRoREZ-zx7_9E984i7eaJyR7TeC-h2orPhpw"
+        "name": "kids_teens_global V2",
+        "path": "templates/module_list.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1SkxfFFUzSjkUaxGKvYxiec-mx0szbeR6TaqBwfbBJyQ"
       }
     },
     "home_screen": {
