@@ -40,15 +40,13 @@
       "id": "slide_3",
       "image_asset": "images/onboarding/join_parents.svg",
       "duration_sec": 4,
-      "text": "Join over 17 million parents and caregivers who have used our resources in Asia",
+      "text": "Join over 17 million caregivers in Asia and earn a certificate for every course you complete",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "Join over 17 million parents and caregivers who have used our resources in Asia"
+          "eng": "Join over 17 million caregivers in Asia and earn a certificate for every course you complete"
         }
       }
     }
