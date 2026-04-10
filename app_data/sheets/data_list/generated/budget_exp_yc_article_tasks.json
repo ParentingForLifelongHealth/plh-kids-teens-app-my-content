@@ -191,6 +191,9 @@
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "💰 Add up how much money you have to spend each month."
+        },
+        "text_2": {
+          "eng": "Take a picture of the paper or save it for your next lesson! ⭐"
         }
       },
       "category_id": "explore",
@@ -199,26 +202,11 @@
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        }
+        },
+        "text_2": {}
       },
+      "text_2": "Take a picture of the paper or save it for your next lesson! ⭐",
       "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
-      "completed": false
-    },
-    {
-      "id": "explore_5",
-      "_translatedFields": {
-        "text_1_facilitator": {
-          "eng": "Take a picture of the paper or save it for Step 3! ⭐"
-        }
-      },
-      "category_id": "explore",
-      "nested": false,
-      "text_1_facilitator": "Take a picture of the paper or save it for Step 3! ⭐",
-      "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        }
-      },
       "completed": false
     },
     {

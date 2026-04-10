@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2890
+        "count": 2889
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 891
+        "count": 890
       },
       {
         "type": "text",
-        "count": 199
+        "count": 198
       },
       {
         "type": "text_area",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 53
+        "count": 54
       },
       {
         "type": "toggle_bar",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 622
+        "count": 621
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 627
+        "count": 626
       },
       {
         "type": "feedback",
@@ -3166,7 +3166,7 @@
       {
         "type": "template",
         "subtype": "generated",
-        "total": 695
+        "total": 694
       },
       {
         "type": "template",
