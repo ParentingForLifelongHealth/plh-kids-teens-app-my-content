@@ -790,6 +790,45 @@
           }
         },
         {
+          "type": "text",
+          "name": "hp",
+          "value": "@local.module_row.home_activity",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!!@local.module_row.home_activity",
+          "style_list": [
+            "text-align: center"
+          ],
+          "_nested_name": "display_group_22.hp",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.module_row.home_activity",
+                "matchedExpression": "@local.module_row.home_activity",
+                "type": "local",
+                "fieldName": "module_row"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!!@local.module_row.home_activity",
+                "matchedExpression": "!@local.module_row.home_activity",
+                "type": "local",
+                "fieldName": "module_row"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.module_row.home_activity": [
+              "value"
+            ],
+            "!@local.module_row.home_activity": [
+              "condition"
+            ]
+          }
+        },
+        {
           "type": "button",
           "name": "button_home",
           "value": "@global.back_to_home",

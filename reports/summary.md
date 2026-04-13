@@ -38,7 +38,7 @@
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 890 |
-| text | 198 |
+| text | 199 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
@@ -79,7 +79,7 @@
 | set_local | 66 |
 | share | 3 |
 | task | 2 |
-| toast | 1 |
+| toast | 9 |
 | user | 3 |
 </details>
 
@@ -298,13 +298,13 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/animals.svg | 1322.5 | 4 |
 | images/activities/be_an_artist.svg | 1224.3 | 4 |
 | images/activities/be_the_narrator.svg | 1599.2 | 4 |
-| images/activities/categorise_organise.svg | 1362.2 | 6 |
+| images/activities/categorise_organise.svg | 1362.2 | 8 |
 | images/activities/cooking_with_maths.svg | 1477.2 | 6 |
 | images/activities/follow_instructions.svg | 1866.2 | 6 |
 | images/activities/follow_the_leader.svg | 1403.1 | 4 |
 | images/activities/games_with_pictures.svg | 1661.9 | 4 |
 | images/activities/get_active_child.svg | 1677.2 | 4 |
-| images/activities/i_spy.svg | 1465.6 | 6 |
+| images/activities/i_spy.svg | 1465.6 | 8 |
 | images/activities/im_a_writer.svg | 1208.4 | 4 |
 | images/activities/make_story_child.svg | 1659.1 | 4 |
 | images/activities/one_on_one_time.svg | 1575 | 6 |
@@ -317,7 +317,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/activities/shapes_everywhere.svg | 1368.2 | 4 |
 | images/activities/story_telling.svg | 1337.2 | 4 |
 | images/activities/thinking_games.svg | 1052.6 | 4 |
-| images/activities/what_letter_is_this.svg | 1302.7 | 6 |
+| images/activities/what_letter_is_this.svg | 1302.7 | 8 |
 | images/activities/whats_new_child.svg | 1180.3 | 6 |
 | images/backgrounds/bottom_banner.svg | 338.5 | 1 |
 | images/backgrounds/complete_module.svg | 4.5 | 1 |
