@@ -7,9 +7,9 @@
       "id": "relax_16",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/blue_dots.json",
-      "to_delete": "relax_16__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_16__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_16__.mp3",
+      "to_delete": "relax_16_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_16_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_16_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_16_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_16_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_14",
+      "id": "check_in_30",
       "_translatedFields": {
         "text_1": {
           "eng": "Take a moment to notice how you are doing."
@@ -378,7 +378,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/yc_modules/safe_touch_2to5_yc_m_4.svg",
+      "image_asset": "images/yc_modules/safe_touch_2to5_yc_m_5.svg",
       "character_1_id": "f1_father",
       "character_2_id": "f1_son_5",
       "character_1_text": "And if anything ever happens that makes you feel scared or uneasy, remember you can always come and tell me or Ibu. We're here to protect you and keep you safe.",

@@ -7,9 +7,9 @@
       "id": "relax_13",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/heart.json",
-      "to_delete": "relax_13__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_13__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_13__.mp3",
+      "to_delete": "relax_13_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_13_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_13_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_13_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_13_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_2",
+      "id": "check_in_34",
       "_translatedFields": {
         "text_1": {
           "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
@@ -365,7 +365,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/yc_modules/com_safety_5to9_yc_4.svg",
+      "image_asset": "images/yc_modules/com_safety_5to9_yc_5.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "@data.characters.f3_son_7.name, I’m so proud of you for not getting out of our house gate and getting into the car. You remembered the rules we created about safety in this community. That was a dangerous situation. You are so brave. Thank you for telling me. I will report it so it doesn’t happen again.",
       "_translations": {
@@ -404,7 +404,7 @@
           "eng": "PRACTISE"
         },
         "section_4_text": {
-          "eng": "🔔Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
+          "eng": "🔔 Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
         }
       },
       "category_id": "practical_tips",
@@ -435,9 +435,7 @@
         "section_4_title": {
           "my_ms": true
         },
-        "section_4_text": {
-          "my_ms": true
-        }
+        "section_4_text": {}
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=LnZGRktb2jI",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=CEKFAYFA9Z0",
@@ -454,7 +452,7 @@
       "section_3_title": "DISCUSS",
       "section_3_text": "❗ Sometimes, we find ourselves in trouble.\n🧸Make sure your child knows it’s okay to walk or run inside if a stranger tries to talk to them or asks them to go somewhere. \n👀 Discuss where you and your child can get support in a crisis. These places may include home, school, a police station, or a clinic. \n🚩 Mark these areas clearly on your map.",
       "section_4_title": "PRACTISE",
-      "section_4_text": "🔔Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult.",
+      "section_4_text": "🔔 Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult.",
       "completed": false
     },
     {

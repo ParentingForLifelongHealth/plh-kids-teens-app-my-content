@@ -10,24 +10,20 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
-      "text_1_facilitator": "😃😣😔This skill is about talking with your child about their feelings.",
+      "text_1_facilitator": "😃😣😔 This skill is about talking with your child about their feelings.",
       "_translations": {
-        "text_1_facilitator": {
-          "my_ms": true
-        },
-        "text_2": {
-          "my_ms": true
-        }
+        "text_1_facilitator": {},
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
-          "eng": "😃😣😔This skill is about talking with your child about their feelings."
+          "eng": "😃😣😔 This skill is about talking with your child about their feelings."
         },
         "text_2": {
-          "eng": "How does this help your child grow?\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌They will learn that all feelings are okay - even the negative ones.\n \nDo you wonder how we can do so?\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too."
+          "eng": "**How does this help your child grow?**\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌 They will learn that all feelings are okay - even the negative ones.\n \n**Do you wonder how we can do so?**\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too."
         }
       },
-      "text_2": "How does this help your child grow?\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌They will learn that all feelings are okay - even the negative ones.\n \nDo you wonder how we can do so?\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too."
+      "text_2": "**How does this help your child grow?**\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌 They will learn that all feelings are okay - even the negative ones.\n \n**Do you wonder how we can do so?**\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too."
     },
     {
       "id": "intro_2",

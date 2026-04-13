@@ -7,9 +7,9 @@
       "id": "relax_15",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "to_delete": "relax_15__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "to_delete": "relax_15_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_15",
+      "id": "check_in_47",
       "_translatedFields": {
         "text_1": {
           "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
@@ -224,18 +224,14 @@
           "my_ms": true
         }
       },
-      "image_asset": "make_a_monthly_budget_yc_3.svg",
+      "image_asset": "images/yc_modules/make_a_monthly_budget_yc_3.svg",
       "completed": false
     },
     {
       "id": "explore_6",
-      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚"
-        },
-        "media_title": {
-          "eng": "Here is a video to help guide you on this exercise."
         }
       },
       "category_id": "explore",
@@ -244,19 +240,19 @@
       "_translations": {
         "text_1_facilitator": {
           "my_ms": true
-        },
-        "media_title": {
-          "my_ms": true
         }
       },
-      "media_title": "Here is a video to help guide you on this exercise.",
       "completed": false
     },
     {
       "id": "tips_1",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you make a monthly budget."
+        },
+        "media_title": {
+          "eng": "Here is a video to help guide you on this exercise."
         },
         "section_1_title": {
           "eng": "ADD UP YOUR MONEY"
@@ -282,6 +278,9 @@
       "text_1_facilitator": "Here are some tips to help you make a monthly budget.",
       "_translations": {
         "text_1_facilitator": {},
+        "media_title": {
+          "my_ms": true
+        },
         "section_1_title": {},
         "section_1_text": {
           "my_ms": true
@@ -302,6 +301,7 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "media_title": "Here is a video to help guide you on this exercise.",
       "section_1_title": "ADD UP YOUR MONEY",
       "section_1_text": "💰 Add up all the money your family has available each month. This can be from a job, welfare grants, or even money sent to the family by other relatives.",
       "section_2_title": "CHOOSE NEEDS AND WANTS",

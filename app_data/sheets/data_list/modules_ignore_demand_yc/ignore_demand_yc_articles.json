@@ -340,9 +340,7 @@
         "quiz_1_option_2_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {
           "my_ms": true
         },
@@ -364,7 +362,7 @@
           "eng": "I think so"
         },
         "quiz_1_feedback_2": {
-          "eng": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works."
+          "eng": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour. Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works."
         },
         "quiz_1_option_3_text": {
           "eng": "No"
@@ -376,7 +374,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_feedback_1": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
       "quiz_1_option_2_text": "I think so",
-      "quiz_1_feedback_2": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour.Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
+      "quiz_1_feedback_2": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour. Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
       "quiz_1_option_3_text": "No",
       "quiz_1_feedback_3": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it!"
     }

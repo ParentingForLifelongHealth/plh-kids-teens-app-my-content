@@ -15,30 +15,6 @@
     "md5Checksum": "dc4bee304ad1241ec865898775b3e586",
     "size_kb": 239
   },
-  "audio/relax/english/relax_10_f.mp3": {
-    "md5Checksum": "440b378b4a85fa073ced4aa4e0c8a21b",
-    "size_kb": 613.1
-  },
-  "audio/relax/english/relax_10_m.mp3": {
-    "md5Checksum": "726228a09dca3dd206c8a77b7ff75584",
-    "size_kb": 587.6
-  },
-  "audio/relax/english/relax_11_f.mp3": {
-    "md5Checksum": "c9cb3e1c6a08670142f2a2a33ad3ec1e",
-    "size_kb": 412.7
-  },
-  "audio/relax/english/relax_11_m.mp3": {
-    "md5Checksum": "32dfc3222ff012b476315b80f2db442d",
-    "size_kb": 349.4
-  },
-  "audio/relax/english/relax_12_f.mp3": {
-    "md5Checksum": "e96eed9d9726e1b99a2319b7a4bcebae",
-    "size_kb": 911.8
-  },
-  "audio/relax/english/relax_12_m.mp3": {
-    "md5Checksum": "c769e580b2a5a71db9164269b0c658a6",
-    "size_kb": 771.7
-  },
   "audio/relax/english/relax_13_f.mp3": {
     "md5Checksum": "7f5c82df21f7e6b0dd949fb5155d4d34",
     "size_kb": 671.4
@@ -46,14 +22,6 @@
   "audio/relax/english/relax_13_m.mp3": {
     "md5Checksum": "a49c5364258cc4a76aa1f1848dadf718",
     "size_kb": 842.9
-  },
-  "audio/relax/english/relax_14_f.mp3": {
-    "md5Checksum": "eaaa2ad3941954897d1c9d9fa91e2f81",
-    "size_kb": 405.7
-  },
-  "audio/relax/english/relax_14_m.mp3": {
-    "md5Checksum": "11019129ada67030c23f60e924678070",
-    "size_kb": 391
   },
   "audio/relax/english/relax_15_f.mp3": {
     "md5Checksum": "e88469ee69efcb6ee2adce35357e658c",
@@ -71,30 +39,6 @@
     "md5Checksum": "17fd3cd452d0b5d83a2649f2db65f650",
     "size_kb": 508.2
   },
-  "audio/relax/english/relax_17_f.mp3": {
-    "md5Checksum": "4703fd4e5dfd6e51ef04ddb8e9aa998c",
-    "size_kb": 512.7
-  },
-  "audio/relax/english/relax_17_m.mp3": {
-    "md5Checksum": "4b0928b9339f89b38cafad58a6617b3e",
-    "size_kb": 657.1
-  },
-  "audio/relax/english/relax_18_f.mp3": {
-    "md5Checksum": "a49fb46a01e7a04ca012039a41371673",
-    "size_kb": 1253.1
-  },
-  "audio/relax/english/relax_18_m.mp3": {
-    "md5Checksum": "fc6236dde8998fd541bd808c3804e9cb",
-    "size_kb": 1030.3
-  },
-  "audio/relax/english/relax_19_f.mp3": {
-    "md5Checksum": "2e124bc3abe61429c9cc0238cb15ad7a",
-    "size_kb": 1763.3
-  },
-  "audio/relax/english/relax_19_m.mp3": {
-    "md5Checksum": "830a3f80a2d361ae3e21ded830a3c996",
-    "size_kb": 2232.2
-  },
   "audio/relax/english/relax_1_f.mp3": {
     "md5Checksum": "7313b8c644f927366ca00e2f841ee49d",
     "size_kb": 1857.1
@@ -102,14 +46,6 @@
   "audio/relax/english/relax_1_m.mp3": {
     "md5Checksum": "ac815b6a718c43da56adb632f9133c93",
     "size_kb": 1516.5
-  },
-  "audio/relax/english/relax_2_f.mp3": {
-    "md5Checksum": "5487a95a956ab8c45c18d0ef426aab65",
-    "size_kb": 707.3
-  },
-  "audio/relax/english/relax_2_m.mp3": {
-    "md5Checksum": "4682ffa461b752f337d5e068c314f0db",
-    "size_kb": 591.7
   },
   "audio/relax/english/relax_3_f.mp3": {
     "md5Checksum": "184a89332f5ae78e4d9cfbccbb0bbcfa",
@@ -119,22 +55,6 @@
     "md5Checksum": "093cb270b31c4bda5ac1878ff9b71a90",
     "size_kb": 361.6
   },
-  "audio/relax/english/relax_4_f.mp3": {
-    "md5Checksum": "9e4f1d951e27e0b29303868dff4f9978",
-    "size_kb": 338.4
-  },
-  "audio/relax/english/relax_4_m.mp3": {
-    "md5Checksum": "6014128b0556609f4eb2ffa5e18d07c9",
-    "size_kb": 426.1
-  },
-  "audio/relax/english/relax_5_f.mp3": {
-    "md5Checksum": "8d58b870bbbcbe512f398a43a75307f9",
-    "size_kb": 286.5
-  },
-  "audio/relax/english/relax_5_m.mp3": {
-    "md5Checksum": "99376f528a7ded24edc19b5828794f70",
-    "size_kb": 312.4
-  },
   "audio/relax/english/relax_6_f.mp3": {
     "md5Checksum": "85042ba06356f96e02528126e47fa60b",
     "size_kb": 576.3
@@ -143,54 +63,6 @@
     "md5Checksum": "b67843a8937cb84fc1708103c077f534",
     "size_kb": 487.8
   },
-  "audio/relax/english/relax_7_f.mp3": {
-    "md5Checksum": "ea8205d1407d7ea4f9b8637df0780011",
-    "size_kb": 549
-  },
-  "audio/relax/english/relax_7_m.mp3": {
-    "md5Checksum": "5624a2ea766e1af7f8cd0961d7944cdc",
-    "size_kb": 437
-  },
-  "audio/relax/english/relax_8_f.mp3": {
-    "md5Checksum": "976c85c35ed979e234ae8c42288b19df",
-    "size_kb": 626.1
-  },
-  "audio/relax/english/relax_8_m.mp3": {
-    "md5Checksum": "cbaeed662296cd72e7372efaaffddbc5",
-    "size_kb": 500.9
-  },
-  "audio/relax/english/relax_9_f.mp3": {
-    "md5Checksum": "5218f831df4b4f3dc8971661e1e46249",
-    "size_kb": 951
-  },
-  "audio/relax/english/relax_9_m.mp3": {
-    "md5Checksum": "ebb5ac0052af134875464635bc364273",
-    "size_kb": 1082
-  },
-  "audio/relax/malay/relax_10_f.mp3": {
-    "md5Checksum": "090fa7e1a74c879bd8468e3db0e7b5e1",
-    "size_kb": 1197.1
-  },
-  "audio/relax/malay/relax_10_m.mp3": {
-    "md5Checksum": "9425385e3dca9db9f745c8a74bc16275",
-    "size_kb": 1392.2
-  },
-  "audio/relax/malay/relax_11_f.mp3": {
-    "md5Checksum": "18a607eb7797c253fb3d670177e4c300",
-    "size_kb": 449.4
-  },
-  "audio/relax/malay/relax_11_m.mp3": {
-    "md5Checksum": "66c2a39863ff060e1fa0ac7b05d75516",
-    "size_kb": 566.5
-  },
-  "audio/relax/malay/relax_12_f.mp3": {
-    "md5Checksum": "4e79dfed180f1d69a665cd640c948db1",
-    "size_kb": 1224.1
-  },
-  "audio/relax/malay/relax_12_m.mp3": {
-    "md5Checksum": "c98d0b885c159b6d38ccbf6cd386b7dd",
-    "size_kb": 1502.4
-  },
   "audio/relax/malay/relax_13_f.mp3": {
     "md5Checksum": "26e42c36360e0fbe192d98c6b4a4de1e",
     "size_kb": 829.8
@@ -198,14 +70,6 @@
   "audio/relax/malay/relax_13_m.mp3": {
     "md5Checksum": "70a5a4e145163e424632ffe2a58c5feb",
     "size_kb": 997.6
-  },
-  "audio/relax/malay/relax_14_f.mp3": {
-    "md5Checksum": "035f2f136f253bdcf0d815056669a3d9",
-    "size_kb": 438.4
-  },
-  "audio/relax/malay/relax_14_m.mp3": {
-    "md5Checksum": "ee7c7f0feea047baf7dda9037f5f6c4d",
-    "size_kb": 524.1
   },
   "audio/relax/malay/relax_15_f.mp3": {
     "md5Checksum": "1a7470e6b76e1593f2e0eabfb23d268f",
@@ -223,30 +87,6 @@
     "md5Checksum": "f848a738c0410f5988ed369ff47b8847",
     "size_kb": 560.8
   },
-  "audio/relax/malay/relax_17_f.mp3": {
-    "md5Checksum": "d82c7c15f00eafb90dc2afc776c332ed",
-    "size_kb": 693.1
-  },
-  "audio/relax/malay/relax_17_m.mp3": {
-    "md5Checksum": "af204152994bc1c64b9130caa75f914d",
-    "size_kb": 765.3
-  },
-  "audio/relax/malay/relax_18_f.mp3": {
-    "md5Checksum": "51903627719eaea0d20bf934889cdbb6",
-    "size_kb": 1481.2
-  },
-  "audio/relax/malay/relax_18_m.mp3": {
-    "md5Checksum": "d8e79d58081d92242fdd04c9b4440ebe",
-    "size_kb": 1578
-  },
-  "audio/relax/malay/relax_19_f.mp3": {
-    "md5Checksum": "e5f89d861db5f4e2fde8f5e9d2385a25",
-    "size_kb": 2101.6
-  },
-  "audio/relax/malay/relax_19_m.mp3": {
-    "md5Checksum": "b352ea68d4df067c424f086d12ce53a5",
-    "size_kb": 2553.5
-  },
   "audio/relax/malay/relax_1_f.mp3": {
     "md5Checksum": "bd7df5ec7f05b44f92a2a4309fc4b03b",
     "size_kb": 2313.1
@@ -254,14 +94,6 @@
   "audio/relax/malay/relax_1_m.mp3": {
     "md5Checksum": "fb61e994e20c0a6d9bac015b74a94a62",
     "size_kb": 2431
-  },
-  "audio/relax/malay/relax_2_f.mp3": {
-    "md5Checksum": "335e618f623949912a1243c5e55b1c77",
-    "size_kb": 628.6
-  },
-  "audio/relax/malay/relax_2_m.mp3": {
-    "md5Checksum": "e95cdca1923aae70111825290777d149",
-    "size_kb": 913.5
   },
   "audio/relax/malay/relax_3_f.mp3": {
     "md5Checksum": "a30dd54076c2dbd0db35e0031c7cf05e",
@@ -271,22 +103,6 @@
     "md5Checksum": "beeaf0aecfd03219dddf09fc42625fb3",
     "size_kb": 605.3
   },
-  "audio/relax/malay/relax_4_f.mp3": {
-    "md5Checksum": "324c2134b8ba840d1552dc915766b246",
-    "size_kb": 493.9
-  },
-  "audio/relax/malay/relax_4_m.mp3": {
-    "md5Checksum": "f45779065a3777ce2e0337ca8a32980f",
-    "size_kb": 554.7
-  },
-  "audio/relax/malay/relax_5_f.mp3": {
-    "md5Checksum": "77a08aec5cf6ede4351f6f704b8f1e49",
-    "size_kb": 750.6
-  },
-  "audio/relax/malay/relax_5_m.mp3": {
-    "md5Checksum": "a2f13d89e8ed33e96ca514e03e761eb6",
-    "size_kb": 684.5
-  },
   "audio/relax/malay/relax_6_f.mp3": {
     "md5Checksum": "e3757270925cab2a9b63619403b7759a",
     "size_kb": 782.4
@@ -294,102 +110,6 @@
   "audio/relax/malay/relax_6_m.mp3": {
     "md5Checksum": "cd6a4ba5cf3c1ca25db59046fb0bc4be",
     "size_kb": 807.3
-  },
-  "audio/relax/malay/relax_7_f.mp3": {
-    "md5Checksum": "4b2bfe1cf48be901cf425c368e408914",
-    "size_kb": 994.7
-  },
-  "audio/relax/malay/relax_7_m.mp3": {
-    "md5Checksum": "cbb50e5291005c95577d765385973a62",
-    "size_kb": 989.8
-  },
-  "audio/relax/malay/relax_8_f.mp3": {
-    "md5Checksum": "10dda53486cf0875d37f6c61bb5de64f",
-    "size_kb": 788.2
-  },
-  "audio/relax/malay/relax_8_m.mp3": {
-    "md5Checksum": "3609b99660e1dcf5f3d9fd41d9bd36f2",
-    "size_kb": 900.8
-  },
-  "audio/relax/malay/relax_9_f.mp3": {
-    "md5Checksum": "aa0ce3b42ba4909c5b7696e58284d8c4",
-    "size_kb": 1492.2
-  },
-  "audio/relax/malay/relax_9_m.mp3": {
-    "md5Checksum": "39eec249c64b9152e93c16c34589b19c",
-    "size_kb": 1726.9
-  },
-  "audio/yc/1on1_audio_1.mp3": {
-    "md5Checksum": "c44c5ab18153cf39a8b4f4a5faa003ed",
-    "size_kb": 267.1
-  },
-  "audio/yc/1on1_audio_2.mp3": {
-    "md5Checksum": "e8ca2e70cb50e8948f3e58821581c067",
-    "size_kb": 401.8
-  },
-  "audio/yc/care_audio_1.mp3": {
-    "md5Checksum": "91d61d16d1b8ccdbd5214e6ce73844de",
-    "size_kb": 267.3
-  },
-  "audio/yc/care_audio_2.mp3": {
-    "md5Checksum": "da26bfedf639c54b9fc9a854589c1a01",
-    "size_kb": 130.8
-  },
-  "audio/yc/consequences_audio_1.mp3": {
-    "md5Checksum": "dd572ceca20e7194cad4c1e453745828",
-    "size_kb": 245
-  },
-  "audio/yc/consequences_audio_2.mp3": {
-    "md5Checksum": "b968270cdea83ad3c5bc373cacfa0307",
-    "size_kb": 369.1
-  },
-  "audio/yc/feelings_audio_1.mp3": {
-    "md5Checksum": "c9f6541b3e90250513bab92b32007a72",
-    "size_kb": 106.7
-  },
-  "audio/yc/feelings_audio_2.mp3": {
-    "md5Checksum": "026dee92519da5ee6cd411e98905b32d",
-    "size_kb": 132.4
-  },
-  "audio/yc/instructions_audio_1.mp3": {
-    "md5Checksum": "467e96dc9cd1d1209e1a68d3699b3615",
-    "size_kb": 309.2
-  },
-  "audio/yc/instructions_audio_2.mp3": {
-    "md5Checksum": "3a33b2d7768f58e6f9b81097b3a335f6",
-    "size_kb": 226.8
-  },
-  "audio/yc/learn_audio_1.mp3": {
-    "md5Checksum": "8f2655a7df692ca45fc403562ca69240",
-    "size_kb": 110.2
-  },
-  "audio/yc/learn_audio_2.mp3": {
-    "md5Checksum": "5f6c756cdf8fe953cda8670afadf9e3b",
-    "size_kb": 131.7
-  },
-  "audio/yc/praise_audio_1.mp3": {
-    "md5Checksum": "57866cabc1f5796bbc84d16b6c78b427",
-    "size_kb": 93.9
-  },
-  "audio/yc/praise_audio_2.mp3": {
-    "md5Checksum": "621b7defd365f1a93f795a3f9de5d5dd",
-    "size_kb": 515.4
-  },
-  "audio/yc/rules_audio_1.mp3": {
-    "md5Checksum": "5ca459db3ac604297b3061b02791cfaf",
-    "size_kb": 83.9
-  },
-  "audio/yc/rules_audio_2.mp3": {
-    "md5Checksum": "efb6223ce15e689fd12cc77644a10f54",
-    "size_kb": 237.1
-  },
-  "audio/yc/solve_audio_1.mp3": {
-    "md5Checksum": "6068243c33abc53a0de050ee1b75e6f7",
-    "size_kb": 161.6
-  },
-  "audio/yc/solve_audio_2.mp3": {
-    "md5Checksum": "f1c49ab4d84c1a7c7893ae823be6441c",
-    "size_kb": 187.6
   },
   "certificates/MY Certificate Text.pptx": {
     "md5Checksum": "1543b30f2a7f6de580713c0565cd3d07",
@@ -539,17 +259,9 @@
     "md5Checksum": "59b367f9ff72835452ecdae361f3bcb5",
     "size_kb": 9.5
   },
-  "images/backgrounds/mountain_trees.svg": {
-    "md5Checksum": "d8a51bfcf7e56f7e2eeeb4c92dca769b",
-    "size_kb": 338.5
-  },
   "images/backgrounds/mountains_trees.svg": {
     "md5Checksum": "6fd3925f566f90c9e8436c80392891d8",
     "size_kb": 23.2
-  },
-  "images/backgrounds/oldkites.svg": {
-    "md5Checksum": "311c4e51d523f05230ca4748404d36b8",
-    "size_kb": 4897.1
   },
   "images/backgrounds/progress_arc.png": {
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",
@@ -1159,14 +871,6 @@
     "md5Checksum": "45484deed688ed9d0a8e328039402c89",
     "size_kb": 120.8
   },
-  "images/onboarding/facilitator_female_onboarding_icon.svg": {
-    "md5Checksum": "fda6a8a6cbe692d4572de78aa0d8a490",
-    "size_kb": 636.4
-  },
-  "images/onboarding/facilitator_male_onboarding_icon.svg": {
-    "md5Checksum": "5d004658549efdbb74b50a15447cebea",
-    "size_kb": 459.5
-  },
   "images/onboarding/frustrated.svg": {
     "md5Checksum": "080dd4da64d2839e5521886d37d781fd",
     "size_kb": 27.3
@@ -1499,25 +1203,13 @@
     "md5Checksum": "abb32b9684977024e7f76480dca48244",
     "size_kb": 44.5
   },
-  "images/yc_modules/make_a_monthly_budget_yc_1.jpg": {
-    "md5Checksum": "a768b1afc85803063dc07a166b8d2fe1",
-    "size_kb": 2522
-  },
   "images/yc_modules/make_a_monthly_budget_yc_1.svg": {
     "md5Checksum": "9f62b74b5cbf33013b8c1ae6afb77ea8",
     "size_kb": 1013.3
   },
-  "images/yc_modules/make_a_monthly_budget_yc_2.jpg": {
-    "md5Checksum": "2377d77e2fdde5266374da163eef6fa6",
-    "size_kb": 288.1
-  },
   "images/yc_modules/make_a_monthly_budget_yc_2.svg": {
     "md5Checksum": "d4f26960230325f61a1b3a521c44a7a9",
     "size_kb": 1213.5
-  },
-  "images/yc_modules/make_a_monthly_budget_yc_3.jpg": {
-    "md5Checksum": "a723c654876eca77e8a921f27ed73f2f",
-    "size_kb": 2787.5
   },
   "images/yc_modules/make_a_monthly_budget_yc_3.svg": {
     "md5Checksum": "4da4ed635fc2d33c76addb2c1d663ba9",
@@ -1751,26 +1443,6 @@
     "md5Checksum": "b4a7809e9e7e28f19f85c49371614913",
     "size_kb": 141.4
   },
-  "images/yc_modules/take_a_pause_1_1.svg": {
-    "md5Checksum": "548859ecb08bf8d5e99705411c61ad01",
-    "size_kb": 22.1
-  },
-  "images/yc_modules/take_a_pause_1_2.svg": {
-    "md5Checksum": "cb3e7a71b75d5d9a7326f229b934f2cb",
-    "size_kb": 15.2
-  },
-  "images/yc_modules/take_a_pause_1_3.svg": {
-    "md5Checksum": "e86ddc02c3b730ab4d7328cba3410b22",
-    "size_kb": 26.5
-  },
-  "images/yc_modules/take_a_pause_1_4.svg": {
-    "md5Checksum": "1204bd2c50e41514d21024ae35b36906",
-    "size_kb": 32.5
-  },
-  "images/yc_modules/take_a_pause_1_5.svg": {
-    "md5Checksum": "7d335c6eca531e30a74a9f893594aa09",
-    "size_kb": 15.3
-  },
   "images/yc_modules/talk_feelings_yc_1.svg": {
     "md5Checksum": "0c4b41357135a299aab3179bdcc11863",
     "size_kb": 72.1
@@ -1787,25 +1459,13 @@
     "md5Checksum": "3cbb7c2e310216103b85be4284492429",
     "size_kb": 50
   },
-  "images/yc_modules/talk_monthly_expenses_yc_1.jpg": {
-    "md5Checksum": "078d385fa0b5fafe533334bb2bdc9d1a",
-    "size_kb": 2150.1
-  },
   "images/yc_modules/talk_monthly_expenses_yc_1.svg": {
     "md5Checksum": "a8db1c6493dac3a2017208c37188a16b",
     "size_kb": 972.7
   },
-  "images/yc_modules/talk_monthly_expenses_yc_2.jpg": {
-    "md5Checksum": "e5b01e8e71e6c057915530d9ebcb0fd2",
-    "size_kb": 2224.2
-  },
   "images/yc_modules/talk_monthly_expenses_yc_2.svg": {
     "md5Checksum": "60fb7636b74efe8f9f0df181cb4e1b46",
     "size_kb": 982.9
-  },
-  "images/yc_modules/talk_monthly_expenses_yc_3.jpg": {
-    "md5Checksum": "651dda233d8057d3af4756882f00243a",
-    "size_kb": 2272.7
   },
   "images/yc_modules/talk_monthly_expenses_yc_3.svg": {
     "md5Checksum": "b0426ba25b9f5e1d62ec189bb775fa6f",

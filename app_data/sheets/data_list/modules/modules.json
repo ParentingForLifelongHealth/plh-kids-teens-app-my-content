@@ -758,7 +758,7 @@
       "core": false,
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_17",
       "title": "Child Development",
       "_translations": {
         "title": {
@@ -800,7 +800,7 @@
       "core": false,
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_2",
+      "check_in_id": "check_in_18",
       "title": "Child Development",
       "_translations": {
         "title": {
@@ -842,7 +842,7 @@
       "core": false,
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_3",
+      "check_in_id": "check_in_19",
       "title": "Child Development",
       "_translations": {
         "title": {
@@ -896,7 +896,7 @@
       "core": false,
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_4",
+      "check_in_id": "check_in_20",
       "title": "Manage Stress",
       "_translations": {
         "title": {
@@ -943,7 +943,7 @@
       "core": false,
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_5",
+      "check_in_id": "check_in_21",
       "title": "Keep it Positive",
       "_translations": {
         "title": {
@@ -990,7 +990,7 @@
       "core": false,
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_6",
+      "check_in_id": "check_in_22",
       "title": "Daily Routines",
       "_translations": {
         "title": {
@@ -1037,7 +1037,7 @@
       "core": false,
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_7",
+      "check_in_id": "check_in_23",
       "title": "Family Rules",
       "_translations": {
         "title": {
@@ -1084,7 +1084,7 @@
       "core": false,
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_8",
+      "check_in_id": "check_in_24",
       "title": "Roles at Home",
       "_translations": {
         "title": {
@@ -1138,7 +1138,7 @@
       "core": false,
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_9",
+      "check_in_id": "check_in_25",
       "title": "Misbehaviour",
       "_translations": {
         "title": {
@@ -1185,7 +1185,7 @@
       "core": false,
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_10",
+      "check_in_id": "check_in_26",
       "title": "Manage Demands",
       "_translations": {
         "title": {
@@ -1232,7 +1232,7 @@
       "core": false,
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_11",
+      "check_in_id": "check_in_27",
       "title": "Manage Anger",
       "_translations": {
         "title": {
@@ -1279,7 +1279,7 @@
       "core": false,
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_12",
+      "check_in_id": "check_in_28",
       "title": "Consequences",
       "_translations": {
         "title": {
@@ -1326,7 +1326,7 @@
       "core": false,
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_13",
+      "check_in_id": "check_in_29",
       "title": "Problem Solving",
       "_translations": {
         "title": {
@@ -1374,7 +1374,7 @@
       "core": false,
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_14",
+      "check_in_id": "check_in_30",
       "title": "Safe Touch",
       "_translations": {
         "title": {
@@ -1416,7 +1416,7 @@
       "core": false,
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_15",
+      "check_in_id": "check_in_31",
       "title": "Safe Touch",
       "_translations": {
         "title": {
@@ -1459,7 +1459,7 @@
       "core": false,
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_16",
+      "check_in_id": "check_in_32",
       "title": "Safe Touch",
       "_translations": {
         "title": {
@@ -1501,7 +1501,7 @@
       "core": false,
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_1",
+      "check_in_id": "check_in_33",
       "title": "Stay Safe",
       "_translations": {
         "title": {
@@ -1545,7 +1545,7 @@
       "core": false,
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_2",
+      "check_in_id": "check_in_34",
       "title": "Stay Safe",
       "_translations": {
         "title": {
@@ -1589,7 +1589,7 @@
       "core": false,
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_3",
+      "check_in_id": "check_in_35",
       "title": "Crises",
       "_translations": {
         "title": {
@@ -1631,7 +1631,7 @@
       "core": false,
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_4",
+      "check_in_id": "check_in_36",
       "title": "Crises",
       "_translations": {
         "title": {
@@ -1678,7 +1678,7 @@
       "core": false,
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_5",
+      "check_in_id": "check_in_37",
       "title": "Online Safety",
       "_translations": {
         "title": {
@@ -1725,7 +1725,7 @@
       "core": false,
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_6",
+      "check_in_id": "check_in_38",
       "title": "Online Habits",
       "_translations": {
         "title": {
@@ -1772,7 +1772,7 @@
       "core": false,
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_7",
+      "check_in_id": "check_in_39",
       "title": "Nutrition and Health",
       "_translations": {
         "title": {
@@ -1823,7 +1823,7 @@
       "core": false,
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_8",
+      "check_in_id": "check_in_40",
       "title": "Respect Each Other",
       "_translations": {
         "title": {
@@ -1867,7 +1867,7 @@
       "core": false,
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_9",
+      "check_in_id": "check_in_41",
       "title": "Team Parenting",
       "_translations": {
         "title": {
@@ -1911,7 +1911,7 @@
       "core": false,
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_10",
+      "check_in_id": "check_in_42",
       "title": "Teamwork",
       "_translations": {
         "title": {
@@ -1955,7 +1955,7 @@
       "core": false,
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_11",
+      "check_in_id": "check_in_43",
       "title": "Resolve Conflicts",
       "_translations": {
         "title": {
@@ -1999,7 +1999,7 @@
       "core": false,
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_12",
+      "check_in_id": "check_in_44",
       "title": "Talk and Listen",
       "_translations": {
         "title": {
@@ -2053,7 +2053,7 @@
       "core": false,
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_13",
+      "check_in_id": "check_in_45",
       "title": "Needs and Wants",
       "_translations": {
         "title": {
@@ -2100,7 +2100,7 @@
       "core": false,
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_14",
+      "check_in_id": "check_in_46",
       "title": "Expenses",
       "_translations": {
         "title": {
@@ -2147,7 +2147,7 @@
       "core": false,
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_15",
+      "check_in_id": "check_in_47",
       "title": "Budgeting",
       "_translations": {
         "title": {
@@ -2194,7 +2194,7 @@
       "core": false,
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_16",
+      "check_in_id": "check_in_48",
       "title": "Savings",
       "_translations": {
         "title": {

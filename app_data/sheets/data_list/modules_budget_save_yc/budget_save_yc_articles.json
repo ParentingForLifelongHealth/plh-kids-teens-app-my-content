@@ -111,15 +111,13 @@
       "image_asset": "images/yc_modules/budget_savings_yc_2.svg",
       "character_1_id": "f3_mother",
       "nested": false,
-      "character_1_text": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
+      "character_1_text": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
       "_translations": {
-        "character_1_text": {
-          "my_ms": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?"
+          "eng": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?"
         }
       }
     },

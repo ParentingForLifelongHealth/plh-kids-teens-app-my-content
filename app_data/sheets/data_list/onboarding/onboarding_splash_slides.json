@@ -42,7 +42,9 @@
       "duration_sec": 4,
       "text": "Join over 17 million caregivers in Asia and earn a certificate for every course you complete",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {

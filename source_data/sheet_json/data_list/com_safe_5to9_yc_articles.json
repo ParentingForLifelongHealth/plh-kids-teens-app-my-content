@@ -76,7 +76,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/com_safety_5to9_yc_4.svg",
+      "image_asset": "images/yc_modules/com_safety_5to9_yc_5.svg",
       "character_1_id": "f3_mother",
       "character_1_text::eng": "@data.characters.f3_son_7.name, I’m so proud of you for not getting out of our house gate and getting into the car. You remembered the rules we created about safety in this community. That was a dangerous situation. You are so brave. Thank you for telling me. I will report it so it doesn’t happen again."
     },
@@ -100,7 +100,7 @@
       "section_3_text::eng": "❗ Sometimes, we find ourselves in trouble.\n🧸Make sure your child knows it’s okay to walk or run inside if a stranger tries to talk to them or asks them to go somewhere. \n👀 Discuss where you and your child can get support in a crisis. These places may include home, school, a police station, or a clinic. \n🚩 Mark these areas clearly on your map.",
       "section_4_title::eng": "PRACTISE",
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
-      "section_4_text::eng": "🔔Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
+      "section_4_text::eng": "🔔 Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult."
     },
     {
       "id": "home_activity_1",

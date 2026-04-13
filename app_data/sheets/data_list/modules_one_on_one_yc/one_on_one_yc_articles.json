@@ -12,7 +12,9 @@
       "nested": false,
       "text_1_facilitator": "Welcome to your first lesson with @global.app_name!\n\nEach skill begins with a moment to relax and a quick check-in.\n\nYou will learn simple parenting tips, and at the end of each skill, you will get a home practice activity to try with your child.\n\nComplete your course and answer the home practice questions to earn your certificate. 🎉",
       "_translations": {
-        "text_1_facilitator": {}
+        "text_1_facilitator": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -133,15 +135,13 @@
       "image_asset": "images/yc_modules/one_on_one_yc_2.svg",
       "character_1_id": "f1_mother",
       "nested": false,
-      "character_1_text": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it",
+      "character_1_text": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it.",
       "_translations": {
-        "character_1_text": {
-          "my_ms": true
-        }
+        "character_1_text": {}
       },
       "_translatedFields": {
         "character_1_text": {
-          "eng": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it"
+          "eng": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it."
         }
       }
     },

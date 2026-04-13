@@ -260,7 +260,7 @@
       "title::eng": "Child Development",
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_1"
+      "check_in_id": "check_in_17"
     },
     {
       "id": "young_change_yc",
@@ -275,7 +275,7 @@
       "title::eng": "Child Development",
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_2"
+      "check_in_id": "check_in_18"
     },
     {
       "id": "child_change_yc",
@@ -291,7 +291,7 @@
       "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_3"
+      "check_in_id": "check_in_19"
     },
     {
       "id": "manage_stress_yc",
@@ -306,7 +306,7 @@
       "title::eng": "Manage Stress",
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_4"
+      "check_in_id": "check_in_20"
     },
     {
       "id": "keep_positive_yc",
@@ -321,7 +321,7 @@
       "title::eng": "Keep it Positive",
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_5"
+      "check_in_id": "check_in_21"
     },
     {
       "id": "routine_yc",
@@ -336,7 +336,7 @@
       "title::eng": "Daily Routines",
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_6"
+      "check_in_id": "check_in_22"
     },
     {
       "id": "family_rules_yc",
@@ -351,7 +351,7 @@
       "title::eng": "Family Rules",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_7"
+      "check_in_id": "check_in_23"
     },
     {
       "id": "know_role_yc",
@@ -367,7 +367,7 @@
       "home_activity::eng": "Now it’s time to practise setting some structure at home.",
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_8"
+      "check_in_id": "check_in_24"
     },
     {
       "id": "redirect_yc",
@@ -382,7 +382,7 @@
       "title::eng": "Misbehaviour",
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_9"
+      "check_in_id": "check_in_25"
     },
     {
       "id": "ignore_demand_yc",
@@ -397,7 +397,7 @@
       "title::eng": "Manage Demands",
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_10"
+      "check_in_id": "check_in_26"
     },
     {
       "id": "manage_anger_yc",
@@ -412,7 +412,7 @@
       "title::eng": "Manage Anger",
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_11"
+      "check_in_id": "check_in_27"
     },
     {
       "id": "consequences_yc",
@@ -427,7 +427,7 @@
       "title::eng": "Consequences",
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_12"
+      "check_in_id": "check_in_28"
     },
     {
       "id": "solve_problem_yc",
@@ -443,7 +443,7 @@
       "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_13"
+      "check_in_id": "check_in_29"
     },
     {
       "id": "safe_2to5_yc_m",
@@ -458,7 +458,7 @@
       "title::eng": "Safe Touch",
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_14"
+      "check_in_id": "check_in_30"
     },
     {
       "id": "safe_2to5_yc_f",
@@ -473,7 +473,7 @@
       "title::eng": "Safe Touch",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_15"
+      "check_in_id": "check_in_31"
     },
     {
       "id": "safe_6to9_yc",
@@ -488,7 +488,7 @@
       "title::eng": "Safe Touch",
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_16"
+      "check_in_id": "check_in_32"
     },
     {
       "id": "com_safe_2to4_yc",
@@ -503,7 +503,7 @@
       "title::eng": "Stay Safe",
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_1"
+      "check_in_id": "check_in_33"
     },
     {
       "id": "com_safe_5to9_yc",
@@ -518,7 +518,7 @@
       "title::eng": "Stay Safe",
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_2"
+      "check_in_id": "check_in_34"
     },
     {
       "id": "crises_2to6_yc",
@@ -533,7 +533,7 @@
       "title::eng": "Crises",
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_3"
+      "check_in_id": "check_in_35"
     },
     {
       "id": "crises_7to9_yc",
@@ -548,7 +548,7 @@
       "title::eng": "Crises",
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_4"
+      "check_in_id": "check_in_36"
     },
     {
       "id": "online_safety_yc",
@@ -563,7 +563,7 @@
       "title::eng": "Online Safety",
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_5"
+      "check_in_id": "check_in_37"
     },
     {
       "id": "trust_online_yc",
@@ -578,7 +578,7 @@
       "title::eng": "Online Habits",
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_6"
+      "check_in_id": "check_in_38"
     },
     {
       "id": "nutrition_yc",
@@ -594,7 +594,7 @@
       "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_7"
+      "check_in_id": "check_in_39"
     },
     {
       "id": "ipv_equals",
@@ -609,7 +609,7 @@
       "title::eng": "Respect Each Other",
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_8"
+      "check_in_id": "check_in_40"
     },
     {
       "id": "ipv_supportive",
@@ -624,7 +624,7 @@
       "title::eng": "Team Parenting",
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_9"
+      "check_in_id": "check_in_41"
     },
     {
       "id": "ipv_sharing",
@@ -639,7 +639,7 @@
       "title::eng": "Teamwork",
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_10"
+      "check_in_id": "check_in_42"
     },
     {
       "id": "ipv_conflicts",
@@ -654,7 +654,7 @@
       "title::eng": "Resolve Conflicts",
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
-      "check_in_id": "check_in_11"
+      "check_in_id": "check_in_43"
     },
     {
       "id": "ipv_listen",
@@ -670,7 +670,7 @@
       "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
-      "check_in_id": "check_in_12"
+      "check_in_id": "check_in_44"
     },
     {
       "id": "budget_needs_yc",
@@ -685,7 +685,7 @@
       "title::eng": "Needs and Wants",
       "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
-      "check_in_id": "check_in_13"
+      "check_in_id": "check_in_45"
     },
     {
       "id": "budget_exp_yc",
@@ -700,7 +700,7 @@
       "title::eng": "Expenses",
       "image_asset": "images/homescreen/safety.svg",
       "relax_id": "relax_13",
-      "check_in_id": "check_in_14"
+      "check_in_id": "check_in_46"
     },
     {
       "id": "budget_month_yc",
@@ -715,7 +715,7 @@
       "title::eng": "Budgeting",
       "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
-      "check_in_id": "check_in_15"
+      "check_in_id": "check_in_47"
     },
     {
       "id": "budget_save_yc",
@@ -731,7 +731,7 @@
       "home_activity::eng": "Now it’s time to practise planning a budget.",
       "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
-      "check_in_id": "check_in_16"
+      "check_in_id": "check_in_48"
     }
   ]
 }

@@ -259,9 +259,7 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {
-          "my_ms": true
-        },
+        "section_3_text": {},
         "section_4_title": {
           "my_ms": true
         },
@@ -289,7 +287,7 @@
           "eng": "BE CONSISTENT"
         },
         "section_3_text": {
-          "eng": "🔄 Stick to the rule once it has been set. \n⬆️ your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too."
+          "eng": "🔄 Stick to the rule once it has been set. \n⬆️ Your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too."
         },
         "section_4_title": {
           "eng": "PRAISE, PRAISE, PRAISE"
@@ -303,7 +301,7 @@
       "section_2_title": "KEEP IT REAL",
       "section_2_text": "⭐ Be realistic: make rules that your child can actually do.\n📖 Be clear and specific about what you want.\n✅ Make sure the rule is fair and explain why it is needed.",
       "section_3_title": "BE CONSISTENT",
-      "section_3_text": "🔄 Stick to the rule once it has been set. \n⬆️ your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too.",
+      "section_3_text": "🔄 Stick to the rule once it has been set. \n⬆️ Your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too.",
       "section_4_title": "PRAISE, PRAISE, PRAISE",
       "section_4_text": "⭐ Praise your child for helping make the rule. \n😃 Praise your child when they follow the rule, just like you do when they behave well!"
     },

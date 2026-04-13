@@ -7,9 +7,9 @@
       "id": "relax_16",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/blue_dots.json",
-      "to_delete": "relax_16__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_16__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_16__.mp3",
+      "to_delete": "relax_16_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_16_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_16_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_16_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_16_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_16",
+      "id": "check_in_48",
       "_translatedFields": {
         "text_1": {
           "eng": "Let’s take a moment for YOU. Looking after yourself well starts with noticing how you feel."
@@ -207,18 +207,16 @@
       "id": "explore_2",
       "_translatedFields": {
         "character_1_text": {
-          "eng": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?"
+          "eng": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?"
         }
       },
       "category_id": "explore",
       "nested": false,
       "image_asset": "images/yc_modules/budget_savings_yc_2.svg",
       "character_1_id": "f3_mother",
-      "character_1_text": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
+      "character_1_text": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
       "_translations": {
-        "character_1_text": {
-          "my_ms": true
-        }
+        "character_1_text": {}
       },
       "completed": false
     },

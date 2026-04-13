@@ -7,9 +7,9 @@
       "id": "relax_16",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/blue_dots.json",
-      "to_delete": "relax_16__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_16__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_16__.mp3",
+      "to_delete": "relax_16_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_16_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_16_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_16_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_16_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_4",
+      "id": "check_in_36",
       "_translatedFields": {
         "text_1": {
           "eng": "Recognising how you feel helps you care for yourself well. You deserve it."
@@ -293,7 +293,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/yc_modules/crises_7to9_yc_4.svg",
+      "image_asset": "images/yc_modules/crises_7to9_yc_5.svg",
       "character_1_id": "f2_daughter_8",
       "character_1_text": "Yes… Okay… where will we go?",
       "_translations": {
@@ -312,7 +312,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/yc_modules/crises_7to9_yc_4.svg",
+      "image_asset": "images/yc_modules/crises_7to9_yc_6.svg",
       "character_1_id": "f2_grandmother",
       "character_1_text": "Let us go to the clinic. And @data.characters.f2_daughter_8.name remember this is not your fault. I love you and will always be here with you. We will get through this.",
       "_translations": {
@@ -376,7 +376,9 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "my_ms": true
+        },
         "section_4_title": {
           "my_ms": true
         },

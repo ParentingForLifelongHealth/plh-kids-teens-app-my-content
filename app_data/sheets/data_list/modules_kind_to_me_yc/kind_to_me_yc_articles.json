@@ -15,19 +15,17 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "text_2": {
-          "my_ms": true
-        }
+        "text_2": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how self-kindness can help improve your relationship with your child. ☀️ \n\nImagine your friend is feeling bad about making a big mistake. 😣 How would you talk to them?"
         },
         "text_2": {
-          "eng": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others It also help us deal with hard things."
+          "eng": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others. It also help us deal with hard things."
         }
       },
-      "text_2": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others It also help us deal with hard things."
+      "text_2": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others. It also help us deal with hard things."
     },
     {
       "id": "intro_2",

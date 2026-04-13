@@ -208,13 +208,13 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "my_ms": true
+        },
         "section_4_title": {
           "my_ms": true
         },
-        "section_4_text": {
-          "my_ms": true
-        }
+        "section_4_text": {}
       },
       "_translatedFields": {
         "text_1_facilitator": {
@@ -242,7 +242,7 @@
           "eng": "COMFORT: Be there for your child"
         },
         "section_4_text": {
-          "eng": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you."
+          "eng": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄 In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you."
         }
       },
       "section_1_title": "BREATHE: Take a pause",
@@ -252,7 +252,7 @@
       "section_3_title": "RESPOND: What might help what is going on?",
       "section_3_text": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the My Resources for a list of community resources where you can receive help.",
       "section_4_title": "COMFORT: Be there for your child",
-      "section_4_text": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you."
+      "section_4_text": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄 In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you."
     },
     {
       "id": "home_activity_1",
@@ -266,15 +266,11 @@
         "quiz_1_option_1_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_1": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_1": {},
         "quiz_1_option_2_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_1_option_3_text": {
           "my_ms": true
         },
@@ -290,13 +286,13 @@
           "eng": "Yes"
         },
         "quiz_1_feedback_1": {
-          "eng": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place."
+          "eng": "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place."
         },
         "quiz_1_option_2_text": {
           "eng": "I think so"
         },
         "quiz_1_feedback_2": {
-          "eng": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place."
+          "eng": "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place."
         },
         "quiz_1_option_3_text": {
           "eng": "No"
@@ -306,9 +302,9 @@
         }
       },
       "quiz_1_option_1_text": "Yes",
-      "quiz_1_feedback_1": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
+      "quiz_1_feedback_1": "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place.",
       "quiz_1_option_2_text": "I think so",
-      "quiz_1_feedback_2": "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place.",
+      "quiz_1_feedback_2": "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place.",
       "quiz_1_option_3_text": "No",
       "quiz_1_feedback_3": "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place."
     }
