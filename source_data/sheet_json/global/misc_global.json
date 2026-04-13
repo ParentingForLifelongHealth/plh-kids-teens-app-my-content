@@ -382,6 +382,11 @@
       "type": "declare_global_constant",
       "name": "certificate_congrats",
       "value": "Well done for completing the course!"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificates_location",
+      "value": "You can find your certificates in @global.library by selecting \"My Certificates\""
     }
   ]
 }

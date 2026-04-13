@@ -210,9 +210,6 @@
         "text_1_facilitator": {
           "eng": "Here are some tips to help you prepare to talk about your monthly expenses!"
         },
-        "media_title": {
-          "eng": "Here is a video to help guide you on this exercise."
-        },
         "section_1_title": {
           "eng": "YOUR EXPENSES"
         },
@@ -237,9 +234,6 @@
       "text_1_facilitator": "Here are some tips to help you prepare to talk about your monthly expenses!",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {
-          "my_ms": true
-        },
         "section_1_title": {},
         "section_1_text": {
           "my_ms": true
@@ -260,7 +254,6 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "media_title": "Here is a video to help guide you on this exercise.",
       "section_1_title": "YOUR EXPENSES",
       "section_1_text": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
       "section_2_title": "YOUR MONEY",

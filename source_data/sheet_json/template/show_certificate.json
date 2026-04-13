@@ -43,7 +43,7 @@
       "type": "button",
       "name": "download_button",
       "value": "@global.download",
-      "action_list": "click | save_to_device: @local.image_url",
+      "action_list": "click | save_to_device: @local.image_url | open: true, subfolder: certificates;",
       "parameter_list": "icon: images/icons/download.svg;\nstyle: navigation;",
       "exclude_from_translation": true
     },
@@ -61,7 +61,8 @@
     {
       "type": "text",
       "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
-      "condition": false
+      "condition": false,
+      "exclude_from_translation": true
     },
     {
       "type": "button",

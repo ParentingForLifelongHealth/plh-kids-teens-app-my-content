@@ -251,9 +251,6 @@
         "text_1_facilitator": {
           "eng": "Here are some tips to help you make a monthly budget."
         },
-        "media_title": {
-          "eng": "Here is a video to help guide you on this exercise."
-        },
         "section_1_title": {
           "eng": "ADD UP YOUR MONEY"
         },
@@ -278,9 +275,6 @@
       "text_1_facilitator": "Here are some tips to help you make a monthly budget.",
       "_translations": {
         "text_1_facilitator": {},
-        "media_title": {
-          "my_ms": true
-        },
         "section_1_title": {},
         "section_1_text": {
           "my_ms": true
@@ -301,7 +295,6 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
-      "media_title": "Here is a video to help guide you on this exercise.",
       "section_1_title": "ADD UP YOUR MONEY",
       "section_1_text": "💰 Add up all the money your family has available each month. This can be from a job, welfare grants, or even money sent to the family by other relatives.",
       "section_2_title": "CHOOSE NEEDS AND WANTS",

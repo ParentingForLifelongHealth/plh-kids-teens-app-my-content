@@ -582,6 +582,7 @@
     {
       "id": "i_spy_letters",
       "title::eng": "I Spy Letters!",
+      "image_asset": "images/activities/i_spy.svg",
       "intro_text::eng": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!",
       "steps_text::eng": "👀 I spy is a fun game to play with your child that will help them learn about letters and words!\n;\nChoose an object or a thing around you, and don’t tell your child what it is. It should be something that your child knows the word for. For example “ball” ⚽\n\n👀 Then say “I spy with my little eye, something beginning with *and then say the first letter of the word* which in this case is “b”\n\nYour child should look around and guess what the object is. When they guess it right, praise them and swap roles! If they can’t get it, give them some clues, like “it’s round” or “it’s black and white”. ✅\n;\nPlay this game with as many objects as possible and as many different letters! Help your child to learn about the different letters and sounds in words. This will help them learn to read at home and school. 🎓",
       "child_age_list": "4; 5; 6; 7; 8; 9"
@@ -589,6 +590,7 @@
     {
       "id": "clap_sing",
       "title::eng": "Clap & Sing Game",
+      "image_asset": "images/activities/categorise_organise.svg",
       "intro_text::eng": "These clapping games have been popular among children from generation to generation, and help build rhythm, timing, memory, and laughter ✨",
       "steps_text::eng": "🎵 Sit face-to-face with your child and try a fun clapping rhyme together. \n\n👋 Clap your hands, then each other’s, and repeat with a rhythm and song from your childhood – or make up a new one.\n\n💚 Follow the words with a simple clapping pattern. You can swap in your own words or names to make it even more fun!\n",
       "child_age_list": "4; 5; 6; 7; 8; 9"
@@ -596,6 +598,7 @@
     {
       "id": "story_stones",
       "title::eng": "Story Stones",
+      "image_asset": "images/activities/what_letter_is_this.svg",
       "intro_text::eng": "This solo storytelling tradition helps children express feelings, practise language, and explore imagination - all through play and pretend 💛\n\nIt’s a beautiful, calming game rooted in traditional storytelling 🌙",
       "steps_text::eng": "🔴 Sit quietly with a handful of small stones. \n\n📖 Let your child imagine what the stones are, move them around and tell a story in their own words. It might be about animals, people, dreams, or anything they imagine.\n\n👂You can listen quietly or help shape the story together.",
       "child_age_list": "4; 5; 6; 7; 8; 9"

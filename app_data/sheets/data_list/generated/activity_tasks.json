@@ -2757,6 +2757,7 @@
     },
     {
       "id": "i_spy_letters",
+      "image_asset": "images/activities/i_spy.svg",
       "child_age_list": [
         "4",
         "5",
@@ -2796,6 +2797,7 @@
     },
     {
       "id": "clap_sing",
+      "image_asset": "images/activities/categorise_organise.svg",
       "child_age_list": [
         "4",
         "5",
@@ -2835,6 +2837,7 @@
     },
     {
       "id": "story_stones",
+      "image_asset": "images/activities/what_letter_is_this.svg",
       "child_age_list": [
         "4",
         "5",

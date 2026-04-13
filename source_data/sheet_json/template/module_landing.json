@@ -139,6 +139,13 @@
       "exclude_from_translation": false
     },
     {
+      "type": "text",
+      "name": "hp",
+      "value": "@local.module_row.home_activity",
+      "condition": "!!@local.module_row.home_activity",
+      "style_list": "text-align: center;"
+    },
+    {
       "type": "button",
       "name": "button_home",
       "value": "@global.back_to_home",

@@ -207,7 +207,11 @@
               "args": [
                 "@local.image_url"
               ],
-              "_raw": "click | save_to_device: @local.image_url"
+              "_raw": "click | save_to_device: @local.image_url | open: true, subfolder: certificates",
+              "params": {
+                "open": true,
+                "subfolder": "certificates"
+              }
             }
           ],
           "parameter_list": {
@@ -239,7 +243,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | save_to_device: @local.image_url",
+                    "fullExpression": "click | save_to_device: @local.image_url | open: true, subfolder: certificates",
                     "matchedExpression": "@local.image_url",
                     "type": "local",
                     "fieldName": "image_url"
@@ -335,6 +339,7 @@
         "value": {}
       },
       "condition": false,
+      "exclude_from_translation": true,
       "name": "text_10",
       "_nested_name": "text_10",
       "_dynamicFields": {

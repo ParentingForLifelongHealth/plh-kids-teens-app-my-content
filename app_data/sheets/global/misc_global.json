@@ -760,6 +760,14 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "certificates_location",
+      "value": "You can find your certificates in @global.library by selecting \"My Certificates\"",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {
