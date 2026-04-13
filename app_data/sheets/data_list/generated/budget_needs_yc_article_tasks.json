@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_13",
+      "id": "check_in_45",
       "_translatedFields": {
         "text_1": {
           "eng": "Take a moment for yourself first."
@@ -132,6 +132,9 @@
         "text_1_facilitator": {
           "eng": "3️⃣ Here are the three steps to start your family budget!"
         },
+        "media_title": {
+          "eng": "Here is a video to help guide you on this exercise."
+        },
         "section_1_title": {
           "eng": "IDENTIFY NEEDS"
         },
@@ -156,6 +159,9 @@
       "text_1_facilitator": "3️⃣ Here are the three steps to start your family budget!",
       "_translations": {
         "text_1_facilitator": {
+          "my_ms": true
+        },
+        "media_title": {
           "my_ms": true
         },
         "section_1_title": {
@@ -184,6 +190,7 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "media_title": "Here is a video to help guide you on this exercise.",
       "section_1_title": "IDENTIFY NEEDS",
       "section_1_text": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
       "section_2_title": "IDENTIFY WANTS",

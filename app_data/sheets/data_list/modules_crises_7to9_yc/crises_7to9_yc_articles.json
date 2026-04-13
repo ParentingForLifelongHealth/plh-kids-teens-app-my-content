@@ -186,7 +186,7 @@
     {
       "id": "explore_5",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/crises_7to9_yc_4.svg",
+      "image_asset": "images/yc_modules/crises_7to9_yc_5.svg",
       "character_1_id": "f2_daughter_8",
       "nested": false,
       "character_1_text": "Yes… Okay… where will we go?",
@@ -204,7 +204,7 @@
     {
       "id": "explore_6",
       "category_id": "explore",
-      "image_asset": "images/yc_modules/crises_7to9_yc_4.svg",
+      "image_asset": "images/yc_modules/crises_7to9_yc_6.svg",
       "character_1_id": "f2_grandmother",
       "nested": false,
       "character_1_text": "Let us go to the clinic. And @data.characters.f2_daughter_8.name remember this is not your fault. I love you and will always be here with you. We will get through this.",
@@ -252,7 +252,9 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {},
+        "section_3_text": {
+          "my_ms": true
+        },
         "section_4_title": {
           "my_ms": true
         },

@@ -50,9 +50,7 @@
         "quiz_1_option_2_text": {
           "my_ms": true
         },
-        "quiz_1_feedback_2": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_2": {},
         "quiz_2_question": {
           "my_ms": true
         },
@@ -92,7 +90,7 @@
           "eng": "False"
         },
         "quiz_1_feedback_2": {
-          "eng": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
+          "eng": "✅ Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗ Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
         },
         "quiz_2_question": {
           "eng": "As children grow up, they may want to try new styles. How can you respond if your child expresses interest to suddenly change their dressing or hairstyle?"
@@ -120,7 +118,7 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_feedback_1": "❌ That is incorrect.\n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
       "quiz_1_option_2_text": "False",
-      "quiz_1_feedback_2": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
+      "quiz_1_feedback_2": "✅ Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗ Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
       "quiz_2_question": "As children grow up, they may want to try new styles. How can you respond if your child expresses interest to suddenly change their dressing or hairstyle?",
       "quiz_2_option_1_text": "Reject all their requests and say it is not necessary.",
       "quiz_2_feedback_1": "❌ Incorrect. \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home.",
@@ -283,9 +281,7 @@
         "section_2_title": {
           "my_ms": true
         },
-        "section_2_text": {
-          "my_ms": true
-        },
+        "section_2_text": {},
         "section_3_title": {
           "my_ms": true
         },
@@ -310,7 +306,7 @@
           "eng": "SUPPORT CURIOSITY"
         },
         "section_2_text": {
-          "eng": "📖 your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!"
+          "eng": "📖 Your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!"
         },
         "section_3_title": {
           "eng": "TRUST YOUR CHILD"
@@ -323,7 +319,7 @@
       "section_1_title": "FIND FRIENDS",
       "section_1_text": "🎨 your child will want to spend time with other children. \n⚽ Support your child to make friends based on their interests - it’s great for them!\n💚 Help your child learn about sharing and playing with others in a safe and fun way.",
       "section_2_title": "SUPPORT CURIOSITY",
-      "section_2_text": "📖 your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",
+      "section_2_text": "📖 Your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",
       "section_3_title": "TRUST YOUR CHILD",
       "section_3_text": "📝 your child may begin making their own decisions and will want you to trust them. Listen to what they want and set rules that work for the family. \n🏆 Praise your child when they follow the rules!"
     },

@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_15",
+      "id": "check_in_31",
       "_translatedFields": {
         "text_1": {
           "eng": "There is no right or wrong way to feel. However you are feeling, it is okay."
@@ -378,7 +378,7 @@
       },
       "category_id": "explore",
       "nested": false,
-      "image_asset": "images/yc_modules/safe_touch_2to5_yc_f_4.svg",
+      "image_asset": "images/yc_modules/safe_touch_2to5_yc_f_5.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_4",
       "character_1_text": "And if anything ever happens that makes you feel scared or uneasy, remember you can always come and tell me. I’m here to protect you and keep you safe.",

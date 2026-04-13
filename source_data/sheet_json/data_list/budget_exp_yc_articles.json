@@ -20,8 +20,7 @@
       "id": "explore_1",
       "category_id": "explore",
       "text_1_facilitator::eng": "Let's get started with an activity!",
-      "text_2::eng": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen.",
-      "media_type": "youtube"
+      "text_2::eng": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen."
     },
     {
       "id": "explore_2",
@@ -45,6 +44,8 @@
       "id": "tips_1",
       "category_id": "practical_tips",
       "text_1_facilitator::eng": "Here are some tips to help you prepare to talk about your monthly expenses!",
+      "media_type": "youtube",
+      "media_title::eng": "Here is a video to help guide you on this exercise. ",
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=2WlB_HFDlNM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=ZUnlH8iKpsM",
       "youtube_gb_en_m": "https://www.youtube.com/watch?v=eHCvY4SK_Dg",

@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_12",
+      "id": "check_in_44",
       "_translatedFields": {
         "text_1": {
           "eng": "Looking after yourself well starts with noticing how you feel."
@@ -138,25 +138,21 @@
           "eng": "True"
         },
         "quiz_1_feedback_1": {
-          "eng": "That’s correct! \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂"
+          "eng": "That’s correct! \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂"
         },
         "quiz_1_option_2_text": {
           "eng": "False"
         },
         "quiz_1_feedback_2": {
-          "eng": "❌ That’s incorrect. \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂"
+          "eng": "❌ That’s incorrect. \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂"
         }
       },
       "category_id": "intro",
       "nested": false,
-      "quiz_1_feedback_1": "That’s correct! \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
+      "quiz_1_feedback_1": "That’s correct! \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
       "_translations": {
-        "quiz_1_feedback_1": {
-          "my_ms": true
-        },
-        "quiz_1_feedback_2": {
-          "my_ms": true
-        },
+        "quiz_1_feedback_1": {},
+        "quiz_1_feedback_2": {},
         "quiz_1_question": {
           "my_ms": true
         },
@@ -170,7 +166,7 @@
           "my_ms": true
         }
       },
-      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
+      "quiz_1_feedback_2": "❌ That’s incorrect. \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
       "quiz_1_question": "True or False: Talking to and listening to your spouse can help prevent conflict.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",

@@ -56,11 +56,9 @@
     {
       "type": "declare_global_constant",
       "name": "library",
-      "value": "Library",
+      "value": "My Resources",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
@@ -758,7 +756,9 @@
       "name": "certificate_congrats",
       "value": "Well done for completing the course!",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

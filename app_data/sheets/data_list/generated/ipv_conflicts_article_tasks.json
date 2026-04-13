@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_11",
+      "id": "check_in_43",
       "_translatedFields": {
         "text_1": {
           "eng": "Taking a moment for YOU makes a big difference for everyone!"
@@ -340,7 +340,9 @@
         "section_3_title": {
           "my_ms": true
         },
-        "section_3_text": {}
+        "section_3_text": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=QncPn2LA1bo",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=hljNe7YGO74",

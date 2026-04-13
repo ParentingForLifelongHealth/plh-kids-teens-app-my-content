@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_11",
+      "id": "check_in_27",
       "_translatedFields": {
         "text_1": {
           "eng": "Taking a moment for YOU makes a big difference for everyone!"
@@ -108,7 +108,7 @@
           "eng": "Today’s skill is about how you can keep control and manage your anger when dealing with stressful moments. 💚"
         },
         "text_2": {
-          "eng": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe."
+          "eng": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙 Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe."
         }
       },
       "category_id": "intro",
@@ -118,11 +118,9 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "text_2": {
-          "my_ms": true
-        }
+        "text_2": {}
       },
-      "text_2": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
+      "text_2": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙 Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
       "completed": false
     },
     {

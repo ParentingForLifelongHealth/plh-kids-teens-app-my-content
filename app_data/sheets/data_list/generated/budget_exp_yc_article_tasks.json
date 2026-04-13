@@ -7,9 +7,9 @@
       "id": "relax_13",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/heart.json",
-      "to_delete": "relax_13__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_13__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_13__.mp3",
+      "to_delete": "relax_13_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_13_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_13_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_13_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_13_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_14",
+      "id": "check_in_46",
       "_translatedFields": {
         "text_1": {
           "eng": "Take a moment to notice how you are doing."
@@ -127,7 +127,6 @@
     },
     {
       "id": "explore_1",
-      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Let's get started with an activity!"
@@ -206,9 +205,13 @@
     },
     {
       "id": "tips_1",
+      "media_type": "youtube",
       "_translatedFields": {
         "text_1_facilitator": {
           "eng": "Here are some tips to help you prepare to talk about your monthly expenses!"
+        },
+        "media_title": {
+          "eng": "Here is a video to help guide you on this exercise."
         },
         "section_1_title": {
           "eng": "YOUR EXPENSES"
@@ -234,6 +237,9 @@
       "text_1_facilitator": "Here are some tips to help you prepare to talk about your monthly expenses!",
       "_translations": {
         "text_1_facilitator": {},
+        "media_title": {
+          "my_ms": true
+        },
         "section_1_title": {},
         "section_1_text": {
           "my_ms": true
@@ -254,6 +260,7 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "section_3_icon_asset": "images/icons/diamond_blue.png",
+      "media_title": "Here is a video to help guide you on this exercise.",
       "section_1_title": "YOUR EXPENSES",
       "section_1_text": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
       "section_2_title": "YOUR MONEY",

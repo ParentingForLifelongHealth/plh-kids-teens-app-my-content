@@ -31,7 +31,7 @@
     {
       "type": "declare_global_constant",
       "name": "library",
-      "value": "Library"
+      "value": "My Resources"
     },
     {
       "type": "declare_global_constant",

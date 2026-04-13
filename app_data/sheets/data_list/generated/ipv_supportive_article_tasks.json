@@ -7,9 +7,9 @@
       "id": "relax_15",
       "in_library": "yes",
       "lottie_asset": "lottie/relax/square_flow.json",
-      "to_delete": "relax_15__.mp3",
-      "media_asset_gb_en_m": "audio/relax/english/relax_15__.mp3",
-      "media_asset_my_ms_m": "audio/relax/malay/relax_15__.mp3",
+      "to_delete": "relax_15_m.mp3",
+      "media_asset_gb_en_m": "audio/relax/english/relax_15_m.mp3",
+      "media_asset_my_ms_m": "audio/relax/malay/relax_15_m.mp3",
       "media_asset_gb_en_f": "audio/relax/english/relax_15_f.mp3",
       "media_asset_my_ms_f": "audio/relax/malay/relax_15_f.mp3",
       "media_type": "audio",
@@ -33,7 +33,7 @@
       "completed": false
     },
     {
-      "id": "check_in_9",
+      "id": "check_in_41",
       "_translatedFields": {
         "text_1": {
           "eng": "Recognising how you feel is key to handling life well. Be real and kind to yourself."
