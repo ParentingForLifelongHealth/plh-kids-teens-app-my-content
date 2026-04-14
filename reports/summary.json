@@ -283,7 +283,7 @@
       },
       {
         "type": "toast",
-        "count": 9
+        "count": 1
       },
       {
         "type": "user",
@@ -300,8 +300,8 @@
       },
       {
         "assets": "unused",
-        "KB": "8248 KB",
-        "MB": "8.2 MB"
+        "KB": "5132 KB",
+        "MB": "5.1 MB"
       }
     ]
   },
@@ -322,18 +322,6 @@
       {
         "path": "android/splash.png",
         "size_kb": 239
-      },
-      {
-        "path": "certificates/MY Certificate Text.pptx",
-        "size_kb": 446.2
-      },
-      {
-        "path": "certificates/Malaysia Certificate_V2_English.jpg",
-        "size_kb": 1321.5
-      },
-      {
-        "path": "certificates/Malaysia Certificate_V2_Malay.jpg",
-        "size_kb": 1348.2
       },
       {
         "path": "images/backgrounds/homescreen_pattern.svg",
@@ -1369,7 +1357,7 @@
       },
       {
         "path": "images/homescreen/behave.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 31.6
       },
       {
@@ -1389,32 +1377,32 @@
       },
       {
         "path": "images/homescreen/develop.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 35.1
       },
       {
         "path": "images/homescreen/ipv.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 27.3
       },
       {
         "path": "images/homescreen/learning.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 47.1
       },
       {
         "path": "images/homescreen/relation.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 37.3
       },
       {
         "path": "images/homescreen/safety.svg",
-        "count": 13,
+        "count": 1,
         "size_kb": 116
       },
       {
         "path": "images/homescreen/structure.svg",
-        "count": 13,
+        "count": 15,
         "size_kb": 46.9
       },
       {

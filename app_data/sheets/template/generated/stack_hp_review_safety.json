@@ -133,15 +133,6 @@
                 "close_top"
               ],
               "_raw": "uncompleted | nav_stack: close_top"
-            },
-            {
-              "trigger": "click",
-              "action_id": "toast",
-              "args": [],
-              "_raw": "click | toast | message: @global.certificates_location",
-              "params": {
-                "message": "@global.certificates_location"
-              }
             }
           ],
           "exclude_from_translation": true,
@@ -279,26 +270,6 @@
                     "fieldName": "id"
                   }
                 ]
-              },
-              "6": {
-                "_raw": [
-                  {
-                    "fullExpression": "click | toast | message: @global.certificates_location",
-                    "matchedExpression": "@global.certificates_location",
-                    "type": "global",
-                    "fieldName": "certificates_location"
-                  }
-                ],
-                "params": {
-                  "message": [
-                    {
-                      "fullExpression": "@global.certificates_location",
-                      "matchedExpression": "@global.certificates_location",
-                      "type": "global",
-                      "fieldName": "certificates_location"
-                    }
-                  ]
-                }
               }
             }
           },
@@ -326,10 +297,6 @@
             "@item.id": [
               "action_list.1.args.1",
               "action_list.1._raw"
-            ],
-            "@global.certificates_location": [
-              "action_list.6._raw",
-              "action_list.6.params.message"
             ]
           }
         }

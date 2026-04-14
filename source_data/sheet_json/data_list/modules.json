@@ -16,6 +16,7 @@
       "unlock": 1,
       "core": true,
       "title::eng": "One-on-One Time",
+      "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_1"
@@ -31,6 +32,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Kindness to Self",
+      "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_2"
@@ -46,6 +48,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Give Praise",
+      "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_3"
@@ -61,6 +64,7 @@
       "unlock": 2,
       "core": true,
       "title::eng": "Feelings",
+      "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_4"
@@ -92,7 +96,8 @@
       "unlock": 6,
       "core": false,
       "title::eng": "Language Skills",
-      "image_asset": "images/homescreen/safety.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_6"
     },
@@ -107,7 +112,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading, Part 1",
-      "image_asset": "images/homescreen/ipv.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_7"
     },
@@ -122,7 +128,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading, Part 2",
-      "image_asset": "images/homescreen/budget.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_8"
     },
@@ -137,7 +144,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths, Part 1",
-      "image_asset": "images/homescreen/relation.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_9"
     },
@@ -152,7 +160,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths, Part 2",
-      "image_asset": "images/homescreen/learning.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_10"
     },
@@ -167,7 +176,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Reading",
-      "image_asset": "images/homescreen/develop.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_11"
     },
@@ -182,7 +192,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths",
-      "image_asset": "images/homescreen/structure.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_12"
     },
@@ -197,7 +208,8 @@
       "unlock": 7,
       "core": false,
       "title::eng": "Maths",
-      "image_asset": "images/homescreen/behave.svg",
+      "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_13"
     },
@@ -213,7 +225,7 @@
       "core": false,
       "title::eng": "Talk to Teachers",
       "home_activity::eng": "Now it’s time to practise involving your child in an activity to help them learn.",
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_14"
     },
@@ -228,7 +240,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Play & Learn",
-      "image_asset": "images/homescreen/ipv.svg",
+      "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_15"
     },
@@ -243,7 +256,8 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Life Lessons",
-      "image_asset": "images/homescreen/budget.svg",
+      "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_16"
     },
@@ -258,7 +272,8 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
-      "image_asset": "images/homescreen/relation.svg",
+      "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_17"
     },
@@ -273,7 +288,8 @@
       "unlock": 15,
       "core": false,
       "title::eng": "Child Development",
-      "image_asset": "images/homescreen/learning.svg",
+      "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_18"
     },
@@ -289,7 +305,7 @@
       "core": false,
       "title::eng": "Child Development",
       "home_activity::eng": "Now it’s time to practise supporting your child’s development.",
-      "image_asset": "images/homescreen/develop.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_19"
     },
@@ -304,7 +320,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Manage Stress",
-      "image_asset": "images/homescreen/structure.svg",
+      "home_activity::eng": "Now it’s time to practise setting some structure at home.",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_20"
     },
@@ -319,7 +336,8 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Keep it Positive",
-      "image_asset": "images/homescreen/behave.svg",
+      "home_activity::eng": "Now it’s time to practise setting some structure at home.",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_21"
     },
@@ -334,7 +352,8 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Daily Routines",
-      "image_asset": "images/homescreen/safety.svg",
+      "home_activity::eng": "Now it’s time to practise setting some structure at home.",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_22"
     },
@@ -349,7 +368,8 @@
       "unlock": 20,
       "core": false,
       "title::eng": "Family Rules",
-      "image_asset": "images/homescreen/ipv.svg",
+      "home_activity::eng": "Now it’s time to practise setting some structure at home.",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_23"
     },
@@ -365,7 +385,7 @@
       "core": false,
       "title::eng": "Roles at Home",
       "home_activity::eng": "Now it’s time to practise setting some structure at home.",
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_24"
     },
@@ -380,7 +400,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Misbehaviour",
-      "image_asset": "images/homescreen/relation.svg",
+      "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_25"
     },
@@ -395,7 +416,8 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Manage Demands",
-      "image_asset": "images/homescreen/learning.svg",
+      "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_26"
     },
@@ -410,7 +432,8 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Manage Anger",
-      "image_asset": "images/homescreen/develop.svg",
+      "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_27"
     },
@@ -425,7 +448,8 @@
       "unlock": 25,
       "core": false,
       "title::eng": "Consequences",
-      "image_asset": "images/homescreen/structure.svg",
+      "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_28"
     },
@@ -441,7 +465,7 @@
       "core": false,
       "title::eng": "Problem Solving",
       "home_activity::eng": "Now it’s time to practise managing your child’s behaviour.",
-      "image_asset": "images/homescreen/behave.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_29"
     },
@@ -456,7 +480,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
-      "image_asset": "images/homescreen/safety.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_30"
     },
@@ -471,7 +496,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
-      "image_asset": "images/homescreen/ipv.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_31"
     },
@@ -486,7 +512,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Safe Touch",
-      "image_asset": "images/homescreen/budget.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_32"
     },
@@ -501,7 +528,8 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Stay Safe",
-      "image_asset": "images/homescreen/relation.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_33"
     },
@@ -516,7 +544,8 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Stay Safe",
-      "image_asset": "images/homescreen/learning.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_34"
     },
@@ -531,7 +560,8 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Crises",
-      "image_asset": "images/homescreen/develop.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_35"
     },
@@ -546,7 +576,8 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Crises",
-      "image_asset": "images/homescreen/structure.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_36"
     },
@@ -561,7 +592,8 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Online Safety",
-      "image_asset": "images/homescreen/behave.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_37"
     },
@@ -576,7 +608,8 @@
       "unlock": 30,
       "core": false,
       "title::eng": "Online Habits",
-      "image_asset": "images/homescreen/safety.svg",
+      "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_38"
     },
@@ -592,7 +625,7 @@
       "core": false,
       "title::eng": "Nutrition and Health",
       "home_activity::eng": "Now it’s time to practise talking to your child about safety.",
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_39"
     },
@@ -607,7 +640,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Respect Each Other",
-      "image_asset": "images/homescreen/budget.svg",
+      "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_40"
     },
@@ -622,7 +656,8 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Team Parenting",
-      "image_asset": "images/homescreen/relation.svg",
+      "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_41"
     },
@@ -637,7 +672,8 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Teamwork",
-      "image_asset": "images/homescreen/learning.svg",
+      "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_42"
     },
@@ -652,7 +688,8 @@
       "unlock": 40,
       "core": false,
       "title::eng": "Resolve Conflicts",
-      "image_asset": "images/homescreen/develop.svg",
+      "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_43"
     },
@@ -668,7 +705,7 @@
       "core": false,
       "title::eng": "Talk and Listen",
       "home_activity::eng": "Now it’s time to practise sharing household tasks with your spouse.",
-      "image_asset": "images/homescreen/structure.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_44"
     },
@@ -683,7 +720,8 @@
       "unlock": 1,
       "core": false,
       "title::eng": "Needs and Wants",
-      "image_asset": "images/homescreen/behave.svg",
+      "home_activity::eng": "Now it’s time to practise planning a budget.",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_45"
     },
@@ -698,7 +736,8 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Expenses",
-      "image_asset": "images/homescreen/safety.svg",
+      "home_activity::eng": "Now it’s time to practise planning a budget.",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_46"
     },
@@ -713,7 +752,8 @@
       "unlock": 45,
       "core": false,
       "title::eng": "Budgeting",
-      "image_asset": "images/homescreen/ipv.svg",
+      "home_activity::eng": "Now it’s time to practise planning a budget.",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_47"
     },
@@ -729,7 +769,7 @@
       "core": false,
       "title::eng": "Savings",
       "home_activity::eng": "Now it’s time to practise planning a budget.",
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_48"
     }
