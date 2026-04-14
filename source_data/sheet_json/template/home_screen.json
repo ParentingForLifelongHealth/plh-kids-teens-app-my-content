@@ -68,8 +68,11 @@
       "name": "image",
       "value": "@local.home_screen_logo",
       "exclude_from_translation": true,
-      "style_list": "height: @local.home_screen_logo_height;\nmargin-top: 8px;\nmargin-bottom: -8px;\nmargin-right: -34px;",
+      "style_list": "height: @local.home_screen_logo_height;\nmargin-top: 8px;\nmargin-bottom: -8px;",
       "comment": "Need to make up for 1em extra margin added on the component below this. \n\nHacky workaround to have margin-bottom: -1em + 8px = -8px"
+    },
+    {
+      "comment": "margin-right: -34px;"
     },
     {
       "type": "end_display_group"
