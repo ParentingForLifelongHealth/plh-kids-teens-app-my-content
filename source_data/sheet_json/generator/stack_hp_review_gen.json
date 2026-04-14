@@ -32,6 +32,36 @@
     },
     {
       "type": "begin_template",
+      "name": "header",
+      "value": "header",
+      "action_list": "completed | emit: completed; \nuncompleted | emit: uncompleted",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "title",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "display_icon",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "show_progress",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "progress",
+      "value": 0,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_template",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_template",
       "name": "if_yes",
       "value": "hp_review",
       "action_list": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: @gen.id,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result;\ncompleted | set_field: cert_to_print: @item.id; \ncompleted | set_data | _list_id: hp_check_in, _id: @gen.id, unlocked_activity: TRUE;\ncompleted | nav_stack: close_top; \ncompleted | pop_up: show_certificate;\nuncompleted | nav_stack: close_top;",

@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2889
+        "count": 2922
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 890
+        "count": 898
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 621
+        "count": 629
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 626
+        "count": 634
       },
       {
         "type": "feedback",
@@ -300,8 +300,8 @@
       },
       {
         "assets": "unused",
-        "KB": "5132 KB",
-        "MB": "5.1 MB"
+        "KB": "1156 KB",
+        "MB": "1.2 MB"
       }
     ]
   },
@@ -334,10 +334,6 @@
       {
         "path": "images/backgrounds/progress_arc.png",
         "size_kb": 255.4
-      },
-      {
-        "path": "images/backgrounds/progress_arc.svg",
-        "size_kb": 3755.1
       },
       {
         "path": "images/flags/gb.svg",
@@ -542,22 +538,6 @@
       {
         "path": "images/logos/plh_white.png",
         "size_kb": 12.8
-      },
-      {
-        "path": "images/yc_modules/budget_savings_yc_5.svg",
-        "size_kb": 51.8
-      },
-      {
-        "path": "images/yc_modules/ignore_demanding_yc_5.svg",
-        "size_kb": 56.5
-      },
-      {
-        "path": "images/yc_modules/learn_experience_yc_5.svg",
-        "size_kb": 44.5
-      },
-      {
-        "path": "images/yc_modules/teach_consequences_yc_5.svg",
-        "size_kb": 67.5
       },
       {
         "path": "lottie/bulging_circles.txt",

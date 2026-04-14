@@ -11,6 +11,10 @@
       "name": "progress"
     },
     {
+      "name": "display_icon",
+      "value": true
+    },
+    {
       "type": "begin_display_group",
       "name": "dg_header",
       "parameter_list": "sticky: top; \nstyle: background_solid;",
@@ -32,6 +36,7 @@
     {
       "type": "image",
       "name": "icon_asset",
+      "condition": "!!@local.display_icon",
       "style_list": "width: 46px"
     },
     {
