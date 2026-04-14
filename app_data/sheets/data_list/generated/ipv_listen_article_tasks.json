@@ -151,8 +151,12 @@
       "nested": false,
       "quiz_1_feedback_1": "That’s correct! \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },

@@ -376,7 +376,9 @@
         "section_5_title": {
           "my_ms": true
         },
-        "section_5_text": {}
+        "section_5_text": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=XybshQXQ9dw",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=kriW6HO5u2k",

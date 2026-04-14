@@ -58,7 +58,9 @@
       "name": "library",
       "value": "My Resources",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

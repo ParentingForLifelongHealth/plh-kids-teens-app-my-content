@@ -113,7 +113,9 @@
       "nested": false,
       "character_1_text": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
       "_translations": {
-        "character_1_text": {}
+        "character_1_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "character_1_text": {

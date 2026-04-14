@@ -151,8 +151,12 @@
       "nested": false,
       "quiz_1_feedback_1": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 Your child will practise saying new words and develop an interest in reading.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_1_question": {
           "my_ms": true
         },
