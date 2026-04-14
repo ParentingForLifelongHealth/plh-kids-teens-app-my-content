@@ -118,7 +118,9 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "text_2": {}
+        "text_2": {
+          "my_ms": true
+        }
       },
       "text_2": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙 Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
       "completed": false

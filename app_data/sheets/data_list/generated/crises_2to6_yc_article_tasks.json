@@ -336,7 +336,9 @@
         "section_4_title": {
           "my_ms": true
         },
-        "section_4_text": {}
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "youtube_gb_en_f": "https://www.youtube.com/watch?v=1gg90zVHyLM",
       "youtube_my_ms_f": "https://www.youtube.com/watch?v=BaKEW4u82ok",
@@ -385,8 +387,12 @@
       "nested": false,
       "quiz_1_feedback_1": "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place.",
       "_translations": {
-        "quiz_1_feedback_1": {},
-        "quiz_1_feedback_2": {},
+        "quiz_1_feedback_1": {
+          "my_ms": true
+        },
+        "quiz_1_feedback_2": {
+          "my_ms": true
+        },
         "quiz_1_feedback_3": {
           "my_ms": true
         },

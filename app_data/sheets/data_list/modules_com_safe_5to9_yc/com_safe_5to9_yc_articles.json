@@ -312,7 +312,9 @@
         "section_4_title": {
           "my_ms": true
         },
-        "section_4_text": {}
+        "section_4_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text_1_facilitator": {

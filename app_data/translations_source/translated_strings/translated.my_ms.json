@@ -576,12 +576,6 @@
     "note": ""
   },
   {
-    "SourceText": "Prefer not to say",
-    "text": "Memilih untuk tidak menjawab",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Parent or caregiver",
     "text": "Ibu bapa atau penjaga",
     "type": "data_list",
@@ -654,8 +648,8 @@
     "note": ""
   },
   {
-    "SourceText": "All my child wanted to do was watch T.V. or play with a gadget.",
-    "text": "Anak saya hanya mahu menonton T.V. atau bermain dengan peranti.",
+    "SourceText": "All my child wanted to do was watch T.V. or play with a gadget",
+    "text": "Anak saya hanya mahu menonton T.V. atau bermain dengan peranti",
     "type": "data_list",
     "note": ""
   },
@@ -666,8 +660,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child wanted to do activities that I could not do.",
-    "text": "Anak saya mahu melakukan aktiviti yang saya tidak berupaya lakukan.",
+    "SourceText": "My child wanted to do activities that I could not do",
+    "text": "Anak saya mahu lakukan aktiviti yang tidak boleh saya lakukan",
     "type": "data_list",
     "note": ""
   },
@@ -678,8 +672,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child chose a competitive activity. I won and then they got angry.",
-    "text": "Anak saya memilih untuk melakukan aktiviti yang bercirikan pertandingan. Saya menang dan anak saya jadi marah.",
+    "SourceText": "My child chose a competitive activity. I won and then they got angry",
+    "text": "Anak saya memilih untuk melakukan aktiviti yang berciri pertandingan. Saya menang dan mereka jadi marah",
     "type": "data_list",
     "note": ""
   },
@@ -690,8 +684,8 @@
     "note": ""
   },
   {
-    "SourceText": "All my children wanted one-on-one time at the same time.",
-    "text": "Semua anak saya mahukan masa bersama seorang-dengan-seorang pada masa yang sama.",
+    "SourceText": "All my children wanted one-on-one time at the same time",
+    "text": "Semua anak saya mahukan masa bersama seorang-dengan-seorang pada masa yang sama",
     "type": "data_list",
     "note": ""
   },
@@ -704,12 +698,6 @@
   {
     "SourceText": "💛 We are sorry to hear that you have been finding it hard to spend one-on-one time with your child.",
     "text": "💛 Kami turut bersimpati bahawa anda menghadapi cabaran untuk meluangkan masa seorang dengan seorang bersama anak anda.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "My child does not want to learn",
-    "text": "Anak saya tidak mahu belajar",
     "type": "data_list",
     "note": ""
   },
@@ -750,8 +738,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child does not want to learn.",
-    "text": "Anak saya tidak mahu belajar.",
+    "SourceText": "My child does not want to learn",
+    "text": "Anak saya tidak mahu belajar",
     "type": "data_list",
     "note": ""
   },
@@ -762,8 +750,8 @@
     "note": ""
   },
   {
-    "SourceText": "I did not have the time to involve myself in my child's learning or education.",
-    "text": "Saya tidak mempunyai masa untuk melibatkan diri saya dalam pembelajaran atau pendidikan anak saya.",
+    "SourceText": "I did not have the time to involve myself in my child's learning or education",
+    "text": "Saya tidak mempunyai masa untuk melibatkan diri saya dalam pembelajaran atau pendidikan anak saya",
     "type": "data_list",
     "note": ""
   },
@@ -774,8 +762,8 @@
     "note": ""
   },
   {
-    "SourceText": "I am feeling overwhelmed.",
-    "text": "Saya berasa terbeban.",
+    "SourceText": "I am feeling overwhelmed",
+    "text": "Saya berasa kecewa",
     "type": "data_list",
     "note": ""
   },
@@ -822,8 +810,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child keeps getting hurt from exploring or making new friends.",
-    "text": "Anak saya kerap tercedera kerana seuka meneroka atau suka berkenalan dengan rakan baharu.",
+    "SourceText": "My child keeps getting hurt from exploring or making new friends",
+    "text": "Anak saya kerap tercedera kerana seuka meneroka atau suka berkenalan dengan rakan baharu",
     "type": "data_list",
     "note": ""
   },
@@ -834,8 +822,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child likes competitive activities but gets angry when they lose or need to share the win.",
-    "text": "Anak saya suka persaingan tetapi akan marah apabila kalah atau seri.",
+    "SourceText": "My child likes competitive activities but gets angry when they lose or need to share the win",
+    "text": "Anak saya suka persaingan tetapi akan marah apabila kalah atau seri",
     "type": "data_list",
     "note": ""
   },
@@ -846,8 +834,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child expresses negative emotions all the time.",
-    "text": "Anak saya sentiasa menunjukkan emosi yang negatif.",
+    "SourceText": "My child expresses negative emotions all the time",
+    "text": "Anak saya sentiasa menunjukkan emosi yang negatif",
     "type": "data_list",
     "note": ""
   },
@@ -894,8 +882,8 @@
     "note": ""
   },
   {
-    "SourceText": "I felt uncomfortable because I think an adult should create the rule, not my child.",
-    "text": "Peraturan perlu ditetapkan oleh orang dewasa, bukannya oleh anak saya, jadi saya rasa tidak selesa.",
+    "SourceText": "I felt uncomfortable because I think an adult should create the rule, not my child",
+    "text": "Peraturan perlu ditetapkan oleh orang dewasa, bukannya oleh anak saya, jadi saya rasa tidak selesa",
     "type": "data_list",
     "note": ""
   },
@@ -942,8 +930,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child misbehaves all the time.",
-    "text": "Anak saya berkelakuan negatif sepanjang masa.",
+    "SourceText": "My child misbehaves all the time",
+    "text": "Anak saya berkelakuan negatif sepanjang masa",
     "type": "data_list",
     "note": ""
   },
@@ -954,8 +942,8 @@
     "note": ""
   },
   {
-    "SourceText": "I got very angry with my child and shouted at them.",
-    "text": "Saya terlalu marah dengan anak saya dan menengking mereka.",
+    "SourceText": "I got very angry with my child and shouted at them",
+    "text": "Saya terlalu marah dengan anak saya dan menengking mereka",
     "type": "data_list",
     "note": ""
   },
@@ -966,8 +954,8 @@
     "note": ""
   },
   {
-    "SourceText": "I forgot to give my child a chance to do what I asked before giving the consequence.",
-    "text": "Saya terlupa untuk memberi anak saya peluang untuk patuh kepada arahan saya terlebih dahulu sebelum saya memberikan akibat.",
+    "SourceText": "I forgot to give my child a chance to do what I asked before giving the consequence",
+    "text": "Saya terlupa untuk memberi anak saya peluang untuk patuh kepada arahan saya terlebih dahulu sebelum saya memberikan akibat",
     "type": "data_list",
     "note": ""
   },
@@ -978,8 +966,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child got very angry with me after I gave the consequence.",
-    "text": "Anak saya amat marah dengan saya setelah saya memberikannya akibat.",
+    "SourceText": "My child got very angry with me after I gave the consequence",
+    "text": "Anak saya amat marah dengan saya setelah saya memberikannya akibat",
     "type": "data_list",
     "note": ""
   },
@@ -990,8 +978,8 @@
     "note": ""
   },
   {
-    "SourceText": "Ignoring my child’s whining or tantrums is not working. They are still happening a lot.",
-    "text": "Apabila saya mengabaikan rengekan atau amukan anak saya, ia tidak berjaya malah ia makin kerap berlaku.",
+    "SourceText": "Ignoring my child’s whining or tantrums is not working. They are still happening a lot",
+    "text": "Apabila saya mengabaikan rengekan atau amukan anak saya, ia tidak berjaya malah ia makin kerap berlaku",
     "type": "data_list",
     "note": ""
   },
@@ -1038,8 +1026,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child and I could not agree on which areas were unsafe.",
-    "text": "Anak saya dan saya tidak sepakat tentang kawasan mana yang selamat dan tidak selamat.",
+    "SourceText": "My child and I could not agree on which areas were unsafe",
+    "text": "Anak saya dan saya tidak sepakat tentang kawasan mana yang selamat dan tidak selamat",
     "type": "data_list",
     "note": ""
   },
@@ -1050,8 +1038,8 @@
     "note": ""
   },
   {
-    "SourceText": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!",
-    "text": "Anak saya beritahu saya bahawa sekolah atau rumah seseorang yang saya percayai merupakan tidak selamat bagi mereka. 🚩Saya terkejut dan tidak tahu apa yang perlu dilakukan!",
+    "SourceText": "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do",
+    "text": "Anak saya beritahu saya bahawa sekolah atau rumah seseorang yang saya percayai merupakan tidak selamat bagi mereka. 🚩Saya terkejut dan tidak tahu apa yang perlu dilakukan",
     "type": "data_list",
     "note": ""
   },
@@ -1062,8 +1050,8 @@
     "note": ""
   },
   {
-    "SourceText": "It was hard to find safety resources because I don’t know my community so well.",
-    "text": "Saya tidak mengenali komuniti saya dengan baik, jadi sukar untuk saya mencari sumber-sumber.",
+    "SourceText": "It was hard to find safety resources because I don’t know my community so well",
+    "text": "Saya tidak mengenali komuniti saya dengan baik, jadi sukar untuk saya mencari sumber-sumber",
     "type": "data_list",
     "note": ""
   },
@@ -1074,8 +1062,8 @@
     "note": ""
   },
   {
-    "SourceText": "I am shy to talk to my young child about bodies and safe touch.",
-    "text": "Saya berasa malu untuk bercakap tentang tubuh badan dan sentuhan selamat dengan anak saya.",
+    "SourceText": "I am shy to talk to my young child about bodies and safe touch",
+    "text": "Saya berasa malu untuk bercakap tentang tubuh badan dan sentuhan selamat dengan anak saya",
     "type": "data_list",
     "note": ""
   },
@@ -1116,8 +1104,8 @@
     "note": ""
   },
   {
-    "SourceText": "I forgot to ask for help.",
-    "text": "Saya terlupa untuk meminta bantuan.",
+    "SourceText": "I forgot to ask for help",
+    "text": "Saya terlupa untuk meminta bantuan",
     "type": "data_list",
     "note": ""
   },
@@ -1128,8 +1116,8 @@
     "note": ""
   },
   {
-    "SourceText": "I didn’t have the time to ask or give help.",
-    "text": "Saya tidak ada masa untuk meminta atau menghulurkan bantuan.",
+    "SourceText": "I didn’t have the time to ask or give help",
+    "text": "Saya tidak ada masa untuk meminta atau menghulurkan bantuan",
     "type": "data_list",
     "note": ""
   },
@@ -1140,8 +1128,8 @@
     "note": ""
   },
   {
-    "SourceText": "I felt uncomfortable doing tasks I don’t normally do.",
-    "text": "Saya rasa tidak selesa melakukan tugas yang saya tidak biasa lakukan.",
+    "SourceText": "I felt uncomfortable doing tasks I don’t normally do",
+    "text": "Saya rasa tidak selesa melakukan tugas yang saya tidak biasa lakukan",
     "type": "data_list",
     "note": ""
   },
@@ -1152,8 +1140,8 @@
     "note": ""
   },
   {
-    "SourceText": "I asked my spouse for help but they refused.",
-    "text": "Saya ada minta bantuan daripada pasangan saya, tetapi mereka menolak.",
+    "SourceText": "I asked my spouse for help but they refused",
+    "text": "Saya ada minta bantuan daripada pasangan saya, tetapi mereka menolak",
     "type": "data_list",
     "note": ""
   },
@@ -1194,8 +1182,8 @@
     "note": ""
   },
   {
-    "SourceText": "I did not understand what to do.",
-    "text": "Saya tidak faham apa yang saya perlu lakukan.",
+    "SourceText": "I did not understand what to do",
+    "text": "Saya tidak faham apa yang perlu dibuat",
     "type": "data_list",
     "note": ""
   },
@@ -1206,8 +1194,8 @@
     "note": ""
   },
   {
-    "SourceText": "My family did not want to budget with me.",
-    "text": "Keluarga saya tidak mahu merancang belanjawan bersama-sama saya.",
+    "SourceText": "My family did not want to budget with me",
+    "text": "Keluarga saya tidak mahu merancang belanjawan bersama-sama saya",
     "type": "data_list",
     "note": ""
   },
@@ -1218,8 +1206,8 @@
     "note": ""
   },
   {
-    "SourceText": "I did not have the time to talk about budgeting with my family.",
-    "text": "Saya tidak mempunyai masa untuk bercakap tentang belanjawan dengan keluarga saya.",
+    "SourceText": "I did not have the time to talk about budgeting with my family",
+    "text": "Saya tidak mempunyai masa untuk bercakap tentang belanjawan dengan keluarga saya",
     "type": "data_list",
     "note": ""
   },
@@ -1230,8 +1218,8 @@
     "note": ""
   },
   {
-    "SourceText": "Prefer not to say.",
-    "text": "Memilih untuk tidak menjawab.",
+    "SourceText": "Prefer not to say",
+    "text": "Memilih untuk tidak menjawab",
     "type": "data_list",
     "note": ""
   },
@@ -1806,7 +1794,7 @@
     "note": ""
   },
   {
-    "SourceText": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others It also help us deal with hard things.",
+    "SourceText": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others. It also help us deal with hard things.",
     "text": "👂Sekarang fikirkan tentang bagaimana anda bercakap dengan diri sendiri ketika anda melakukan kesilapan. Adakah ia berbeza?\n\n💛 Sering kali, cara layanan kita terhadap rakan dan keluarga kita jauh berbeza dengan layanan kita terhadap diri sendiri.\n\n🌷Apabila kita berbuat baik kepada diri sendiri, kita juga lebih mudah berbuat baik kepada orang lain. Pada masa yang sama, ia dapat membantu kita menghadapi situasi yang sukar.",
     "type": "data_list",
     "note": ""
@@ -2370,8 +2358,14 @@
     "note": ""
   },
   {
-    "SourceText": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you.",
+    "SourceText": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🔄 In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again.\n🎈 Remind your child again that you love them, and thank them for sharing with you.",
     "text": "🌷 Mungkin sukar bagi anda untuk melihat anak anda berasa kecewa atau keliru, tetapi anda boleh menyokong mereka dengan pelbagai cara.\n💚 Semasa anak anda menghadapi kesukaran, dia perlukan anda untuk menerima dan menenangkannya.\n🔄 Pada saat ini, ia sangat membantu jika anda mengekalkan rutin yang konsisten. Rutin yang biasa boleh mewujudkan rasa selamat dan normal yang membantu anak anda untuk berasa selamat.\n🎈 Ingatkan anak anda sekali lagi bahawa anda menyayanginya, dan berterima kasih kepadanya kerana berkongsi dengan anda.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place.",
+    "text": "Hebat! 💙 Ini boleh membantu anda dan anak anda untuk berhadapan dengan situasi sukar DAN mengelakkannya.",
     "type": "data_list",
     "note": ""
   },
@@ -2436,8 +2430,8 @@
     "note": ""
   },
   {
-    "SourceText": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it",
-    "text": "Idea yang menarik, @data.characters.f1_daughter_6.name! Ibu lihat kamu sedang mengeluarkan selendang kuning berjalur biru",
+    "SourceText": "Wonderful idea, @data.characters.f1_daughter_6.name! I see you are taking out the yellow scarf with blue stripes on it.",
+    "text": "Idea yang menarik, @data.characters.f1_daughter_6.name! Ibu lihat kamu sedang mengeluarkan selendang kuning berjalur biru.",
     "type": "data_list",
     "note": "The string @data.characters.f1_daughter_6.name! should not be translated."
   },
@@ -2700,7 +2694,7 @@
     "note": ""
   },
   {
-    "SourceText": "🔔Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult.",
+    "SourceText": "🔔 Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult.",
     "text": "🔔 Berlatih! Berlatih! Berlatih! \n👑 Lakonkan kedatangan orang asing dengan bermain peranan menggunakan alat permainan atau anak patung. Tanya anak anda apa yang perlu dilakukan jika ditegur oleh orang asing. Anak-anak kurang berasa takut untuk berpura-pura jika orang lain berada dalam bahaya. \n⭐ Jika anak anda memilih tindak balas yang betul, seperti melarikan diri, menjerit meminta bantuan, atau mencari orang dewasa yang boleh dipercayai, pujilah anak anda.",
     "type": "data_list",
     "note": ""
@@ -4104,14 +4098,14 @@
     "note": ""
   },
   {
-    "SourceText": "😃😣😔This skill is about talking with your child about their feelings.",
+    "SourceText": "😃😣😔 This skill is about talking with your child about their feelings.",
     "text": "😃😣😔 Kemahiran ini adalah tentang berbincang dengan anak anda mengenai perasaannya.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "How does this help your child grow?\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌They will learn that all feelings are okay - even the negative ones.\n \nDo you wonder how we can do so?\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too.",
-    "text": "Macam mana ini boleh bantu anak anda membesar dengan baik?\n⭐ Bantu anak anda cara untuk meluahkan perasaannya dengan berbincang tentang perasaan bersamanya. \n👌 Mereka akan mengetahui bahawa semua perasaan termasuk perasaan negatif juga boleh diluahkan.\n\nNak tahu tak macam mana kita boleh lakukannya?\n🌷 Anda boleh membantu anak anda dengan mendengar luahannya, memahami apa yang anak anda rasakan, dan menerima emosinya. \n🤗 Ini akan membantu anak anda memahami perasaan orang lain juga.",
+    "SourceText": "**How does this help your child grow?**\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌 They will learn that all feelings are okay - even the negative ones.\n \n**Do you wonder how we can do so?**\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too.",
+    "text": "**Macam mana ini boleh bantu anak anda membesar dengan baik?**\n⭐ Bantu anak anda cara untuk meluahkan perasaannya dengan berbincang tentang perasaan bersamanya. \n👌 Mereka akan mengetahui bahawa semua perasaan termasuk perasaan negatif juga boleh diluahkan.\n\n**Nak tahu tak macam mana kita boleh lakukannya?**\n🌷 Anda boleh membantu anak anda dengan mendengar luahannya, memahami apa yang anak anda rasakan, dan menerima emosinya. \n🤗 Ini akan membantu anak anda memahami perasaan orang lain juga.",
     "type": "data_list",
     "note": ""
   },
@@ -4416,7 +4410,7 @@
     "note": ""
   },
   {
-    "SourceText": "🔄 Stick to the rule once it has been set. \n⬆️ your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too.",
+    "SourceText": "🔄 Stick to the rule once it has been set. \n⬆️ Your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too.",
     "text": "🔄 Teruskan patuhi peraturan yang sudah dibuat.\n⬆️ Anak anda akan lebih cenderung untuk mengikut peraturan itu.\n▶️ Jika peraturan itu melibatkan anda, pastikan anda mematuhinya juga.",
     "type": "data_list",
     "note": ""
@@ -4554,8 +4548,8 @@
     "note": ""
   },
   {
-    "SourceText": "💛If you need help to be a better support for your child, you can refer to the library for more resources.",
-    "text": "💛Jika anda perlukan bantuan untuk menyokong anak anda, anda boleh melihat ke bahagian sumber untuk maklumat lanjut.",
+    "SourceText": "💛 If you need help to be a better support for your child, you can refer to the library for more resources.",
+    "text": "💛 Jika anda perlukan bantuan untuk menyokong anak anda, anda boleh melihat ke bahagian sumber untuk maklumat lanjut.",
     "type": "data_list",
     "note": ""
   },
@@ -4848,14 +4842,14 @@
     "note": ""
   },
   {
-    "SourceText": "🎉That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
+    "SourceText": "🎉 That's great! Try to remember to praise your child whenever they follow your instruction. You can do it!",
     "text": "🎉 Bagus! Teruskan memuji anak anda setiap kali mereka mengikut arahan anda. Anda boleh lakukannya!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "💚That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄",
-    "text": "💚 Tidak mengapa! Belajar sesuatu yang baharu memerlukan masa, kesabaran dan latihan. Mulakan dengan satu arahan yang anda kerap berikan kepada anak anda. Berlatih bersama pasangan anda terlebih dahulu! 🔄",
+    "SourceText": "💚 That's OK! Learning something new takes time, patience, and practice. You might want to start by thinking of 1 instruction that you find yourself giving your child a lot of the time. Practice with your partner first! 🔄",
+    "text": "💚 Tidak mengapa! Belajar sesuatu yang baharu memerlukan masa, kesabaran dan latihan. Mulakan dengan 1 arahan yang anda kerap berikan kepada anak anda. Berlatih bersama pasangan anda terlebih dahulu! 🔄",
     "type": "data_list",
     "note": ""
   },
@@ -4874,6 +4868,36 @@
   {
     "SourceText": "3️⃣ Here are the three steps to start your family budget!",
     "text": "3️⃣Berikut adalah tiga langkah untuk mulakan belanjawan keluarga anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "IDENTIFY NEEDS",
+    "text": "KENAL PASTI KEPERLUAN",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
+    "text": "📝 Senaraikan barang yang anda tidak boleh hidup tanpanya bersama keluarga anda. Barang-barang ini adalah amat penting untuk kelangsungan hidup keluarga anda. \n⭐ Sebagai contoh makanan 🍚, ubat-ubatan, atau cecair pencuci baju 🫧.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "IDENTIFY WANTS",
+    "text": "KENAL PASTI KEHENDAK",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
+    "text": "🎁 Buat senarai barangan yang anda dan keluarga anda perlukan. Barangan ini adalah barangan bukan keperluan yang anda ingin miliki. \n⭐ Sebagai contoh, telefon pintar versi terbaharu📱, mainan baharu 🧸 atau kereta baharu 🚗.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on.",
+    "text": "👀 Manusia sering mempunyai sudut pandangan yang berbeza.\n📝 Anda akan mendapati bahawa apa yang ahli keluarga anda anggap sebagai KEPERLUAN, cuma satu KEHENDAK bagi anda. \n💰 Bincang perbezaan tersebut dengan keluarga anda, ini akan membantu anda semua untuk lebih memahami antara satu sama lain dan mencapai kata sepakat tentang perbelanjaan keluarga.",
     "type": "data_list",
     "note": ""
   },
@@ -5400,6 +5424,12 @@
     "note": ""
   },
   {
+    "SourceText": "Great! 💙 Praising our children means they are more likely to repeat this positive behaviour. Keeping calm when your child is having a tantrum can be hard, but if you are patient and give it time, it really works.",
+    "text": "Bagus! 💙 Anak kita akan mengulangi tingkah laku positif apabila kita memuji mereka. Memang susah untuk kekal tenang ketika anak anda sedang mengamuk, tapi ia akan berjaya jika anda beri masa yang secukupnya dan bersabar.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "That's OK! 💙 Praising our children for positive behaviour means they are more likely to repeat it!",
     "text": "Tidak mengapa! 💙 Anak anda akan mengulangi tingkah laku positif jika kita memujinya!",
     "type": "data_list",
@@ -5492,6 +5522,12 @@
   {
     "SourceText": "4️⃣ Here are four tips that you can use to help your child learn from their mistakes:",
     "text": "4️⃣ Untuk membantu anak anda belajar daripada kesilapannya, ini empat tip yang anda boleh gunakan:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "TALK",
+    "text": "BERCAKAP",
     "type": "data_list",
     "note": ""
   },
@@ -5664,7 +5700,7 @@
     "note": ""
   },
   {
-    "SourceText": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
+    "SourceText": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙 Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
     "text": "🌷 Marah adalah perkara biasa dalam kehidupan seharian, tak kira di mana kita tinggal. Begitu juga dengan kelakuan nakal - terutamanya bila kita masih kanak-kanak!\n\n💙 Rasa marah terhadap anak tidak bermaksud anda kurang sayang atau anda bukan ibu bapa yang baik. Ia perkara biasa dan sebahagian daripada proses membesarkan anak.\n\n💡 Belajar cara untuk kawal kemarahan boleh bantu jaga keselamatan semua orang.",
     "type": "data_list",
     "note": ""
@@ -5832,13 +5868,13 @@
     "note": ""
   },
   {
-    "SourceText": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+    "SourceText": "❌ That’s incorrect. \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 Your child will practise saying new words and develop an interest in reading.",
     "text": "❌ Jawapan anda salah.\n\n👂 Membaca dengan menyebut perkataan dengan kuat sememangnya menyeronokkan tetapi ia juga amat membantu jika anda bertanya soalan serta meneroka cerita tersebut dengan anak anda.\n\n🔑 Anak anda akan berlatih menyebut perkataan yang baharu dan memupuk minat untuk membaca.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 your child will practise saying new words and develop an interest in reading.",
+    "SourceText": "⭐ That’s correct! \n\n👂 While it’s fun to read the words aloud, it can also help to ask children questions and explore the story with them.\n\n🔑 Your child will practise saying new words and develop an interest in reading.",
     "text": "⭐ Jawapan anda betul!\n\n👂 Membaca dengan menyebut perkataan dengan kuat sememangnya menyeronokkan tetapi ia juga amat membantu jika anda bertanya soalan serta meneroka cerita tersebut dengan anak anda.\n\n🔑 Anak anda akan berlatih menyebut perkataan yang baharu dan memupuk minat untuk membaca.",
     "type": "data_list",
     "note": ""
@@ -6162,13 +6198,13 @@
     "note": ""
   },
   {
-    "SourceText": "That’s correct! \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
+    "SourceText": "That’s correct! \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
     "text": "Betul! \n\n🔵🔴 Berkongsi perasaan dan bercakap tentang kesukaran yang anda hadapi boleh menjadikan semua ahli keluarga lebih kuat dan saling menyokong! \n\n🌱 Bila anda saling mendengar dan berbual dengan pasangan, anda boleh saling menyokong dengan lebih baik dan bantu kurangkan konflik! 👂",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "❌ That’s incorrect. \n\n🔵🔴Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
+    "SourceText": "❌ That’s incorrect. \n\n🔵🔴 Sharing how you feel and talking about difficulties you’re facing makes everyone in the family stronger! \n\n🌱 When you listen and talk to your spouse you can support each other more and help reduce conflict! 👂",
     "text": "❌ Salah. \n\n🔵🔴 Berkongsi perasaan dan bercakap tentang kesukaran yang anda hadapi boleh menjadikan semua ahli keluarga lebih kuat dan saling menyokong! \n\n🌱 Bila anda saling mendengar dan berbual dengan pasangan, anda boleh saling menyokong dengan lebih baik dan bantu kurangkan konflik! 👂",
     "type": "data_list",
     "note": ""
@@ -6768,8 +6804,32 @@
     "note": ""
   },
   {
+    "SourceText": "⭐ Draw a star next to everything that you NEED. Add up all the things that have a star next to it.",
+    "text": "⭐ Lukiskan bintang di sebelah semua barangan yang merupakan KEPERLUAN anda. Jumlahkan kesemuanya.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are some tips to help you make a monthly budget.",
+    "text": "Berikut ialah beberapa tip untuk membantu anda membuat bajet bulanan.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "ADD UP YOUR MONEY",
+    "text": "TAMBAHKAN SEMUA WANG ANDA",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "💰 Add up all the money your family has available each month. This can be from a job, welfare grants, or even money sent to the family by other relatives.",
     "text": "💰 Jumlahkan semua wang yang keluarga anda terima setiap bulan. Termasuk wang gaji, bantuan kebajikan atau wang yang diberikan kepada keluarga anda daripada ahli keluarga yang lain.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CHOOSE NEEDS AND WANTS",
+    "text": "PILIH KEPERLUAN DAN KEHENDAK",
     "type": "data_list",
     "note": ""
   },
@@ -6780,26 +6840,14 @@
     "note": ""
   },
   {
-    "SourceText": "⭐ Draw a star next to everything that you NEED. Add up all the things that have a star next to it.",
-    "text": "⭐ Lukiskan bintang di sebelah semua barangan yang merupakan KEPERLUAN anda. Jumlahkan kesemuanya.",
+    "SourceText": "COMPARE WITH YOUR BUDGET",
+    "text": "BANDINGKAN DENGAN BAJET ANDA",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚",
     "text": "💡 Adakah jumlah tersebut lebih atau kurang daripada belanjawan bulanan anda? \n\n⬆️ Jika kurang, anda boleh menambah beberapa perkara yang merupakan KEHENDAK anda.\n\n⬇️ Jika lebih, anda mungkin perlu bercakap dengan keluarga anda mengenai perkara yang benar-benar merupakan KEPERLUAN.\n\n😔 Anda mungkin perlu membuat keputusan yang sukar antara beberapa perkara yang berbeza. 💚",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Here is a video to help guide you on this exercise.",
-    "text": "Ini ialah video untuk membantu membimbing anda dalam melaksanakan latihan ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "5️⃣ Here are the five steps to make a monthly budget!",
-    "text": "5️⃣ Berikut merupakan lima langkah untuk membuat bajet bulanan!",
     "type": "data_list",
     "note": ""
   },
@@ -7830,8 +7878,8 @@
     "note": ""
   },
   {
-    "SourceText": "✅Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
-    "text": "✅Betul! \n\n✨ Setiap kanak-kanak adalah unik dan akan membesar mengikut perkembangannya sendiri. Sesetengah kanak-kanak mungkin akan membesar dengan lebih cepat berbanding rakan mereka, namun ada juga yang memerlukan lebih banyak masa untuk membesar.\n\n💚 Penting untuk anda bersabar dan sentiasa menyokong anak anda, sambil ingat bahawa setiap anak ada perjalanan perkembangan yang tersendiri. \n\n❗Sentiasa ingat bahawa isu berkaitan perkembangan anak tidak selalunya jelas, dan bukanlah salah anda jika anda tidak menyedari keadaan anak anda pada peringkat awal.\n\n🚩 Dapatkan pandangan daripada pakar jika anda risau mengenai perkembangan anak anda.",
+    "SourceText": "✅ Correct! \n\n✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n\n💚 It is important that parents are patient and supportive, recognizing that every child has their own individual path of development. \n\n❗ Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n\n🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice.",
+    "text": "✅ Betul! \n\n✨ Setiap kanak-kanak adalah unik dan akan membesar mengikut perkembangannya sendiri. Sesetengah kanak-kanak mungkin akan membesar dengan lebih cepat berbanding rakan mereka, namun ada juga yang memerlukan lebih banyak masa untuk membesar.\n\n💚 Penting untuk anda bersabar dan sentiasa menyokong anak anda, sambil ingat bahawa setiap anak ada perjalanan perkembangan yang tersendiri.\n\n❗Sentiasa ingat bahawa isu berkaitan perkembangan anak tidak selalunya jelas, dan bukanlah salah anda jika anda tidak menyedari keadaan anak anda pada peringkat awal.\n\n🚩 Dapatkan pandangan daripada pakar jika anda risau mengenai perkembangan anak anda.",
     "type": "data_list",
     "note": ""
   },
@@ -7962,7 +8010,7 @@
     "note": ""
   },
   {
-    "SourceText": "📖 your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",
+    "SourceText": "📖 Your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",
     "text": "📖 Anak anda mungkin ada subjek kegemaran di sekolah. Galakkan dia untuk tanya soalan kalau ada yang susah! \n🌱 Anak anda mungkin juga berminat dengan hal-hal keagamaan atau kerohanian. Anda boleh sokong rasa ingin tahu anak anda dengan cara yang sesuai dan cuba bersifat terbuka!",
     "type": "data_list",
     "note": ""
@@ -8724,14 +8772,32 @@
     "note": ""
   },
   {
+    "SourceText": "Here are some tips to help you prepare to talk about your monthly expenses!",
+    "text": "Berikut merupakan beberapa tip untuk bercakap tentang perbelanjaan bulanan anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a video to help guide you on this exercise.",
+    "text": "Ini ialah video untuk membantu membimbing anda dalam melaksanakan latihan ini.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "YOUR EXPENSES",
+    "text": "PERBELANJAAN ANDA",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "🎨 Draw pictures of all the things that you and your family spend money on each month.",
     "text": "🎨 Lukiskan gambar barang-barang yang anda dan keluarga belanjakan setiap bulan.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "📝 Write next to each picture how much each thing costs.",
-    "text": "📝 Tulis harga barang tersebut di sebelah setiap gambar.",
+    "SourceText": "YOUR MONEY",
+    "text": "WANG ANDA",
     "type": "data_list",
     "note": ""
   },
@@ -8742,50 +8808,14 @@
     "note": ""
   },
   {
-    "SourceText": "Take a picture of the paper or save it for your next lesson! ⭐",
-    "text": "Ambil gambar kertas tersebut atau simpannya untuk pelajaran anda yang seterusnya! ⭐",
+    "SourceText": "YOUR COSTS",
+    "text": "KOS BULANAN ANDA",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "5️⃣ Here are the five steps to talk about your monthly expenses!",
-    "text": "5️⃣ Berikut merupakan lima langkah untuk bercakap tentang perbelanjaan bulanan anda!",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "IDENTIFY NEEDS",
-    "text": "KENAL PASTI KEPERLUAN",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "📝 With your family, make a list of things that you cannot live without. These are things that are important for your family to survive. \n⭐ For example: food 🍚, medicine 🩹, or laundry detergent 🫧.",
-    "text": "📝 Senaraikan barang yang anda tidak boleh hidup tanpanya bersama keluarga anda. Barang-barang ini adalah amat penting untuk kelangsungan hidup keluarga anda. \n⭐ Sebagai contoh makanan 🍚, ubat-ubatan, atau cecair pencuci baju 🫧.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "IDENTIFY WANTS",
-    "text": "KENAL PASTI KEHENDAK",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
-    "text": "🎁 Buat senarai barangan yang anda dan keluarga anda perlukan. Barangan ini adalah barangan bukan keperluan yang anda ingin miliki. \n⭐ Sebagai contoh, telefon pintar versi terbaharu📱, mainan baharu 🧸 atau kereta baharu 🚗.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "TALK",
-    "text": "BERCAKAP",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on.",
-    "text": "👀 Manusia sering mempunyai sudut pandangan yang berbeza.\n📝 Anda akan mendapati bahawa apa yang ahli keluarga anda anggap sebagai KEPERLUAN, cuma satu KEHENDAK bagi anda. \n💰 Bincang perbezaan tersebut dengan keluarga anda, ini akan membantu anda semua untuk lebih memahami antara satu sama lain dan mencapai kata sepakat tentang perbelanjaan keluarga.",
+    "SourceText": "📝 Write next to each picture how much each thing costs.",
+    "text": "📝 Tulis harga barang tersebut di sebelah setiap gambar.",
     "type": "data_list",
     "note": ""
   },
@@ -9066,8 +9096,8 @@
     "note": ""
   },
   {
-    "SourceText": "My course is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
-    "text": "Matlamat saya ialah memastikan anak‑anak saya dapat mencapai impian mereka untuk melanjutkan pelajaran ke universiti. Dengan wang yang terhad, bagaimana saya boleh menyimpan lebih banyak untuk menyokong masa depan mereka?",
+    "SourceText": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
+    "text": "Matlamat saya adalah supaya anak-anak saya mencapai impian mereka ke universiti. Bagaimana saya boleh menyimpan dengan banyak jika duit yang saya ada pun sangat sedikit?",
     "type": "data_list",
     "note": ""
   },
@@ -9810,20 +9840,26 @@
     "note": ""
   },
   {
-    "SourceText": "Yes",
-    "text": "Ya",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Are you ready for today’s home activity? ⭐ Invite your spouse to discuss how you can share family responsibilities more evenly at home! Do you have time to do it today?",
     "text": "Aktiviti di Rumah! ⭐ Aktiviti di rumah anda minggu ini ialah untuk berbincang dengan pasangan anda tentang bagaimana untuk berkongsi tanggungjawab keluarga secara adil di rumah! Adakah anda mempunyai masa untuk lakukannya hari ini?",
     "type": "data_list",
     "note": ""
   },
   {
+    "SourceText": "Yes",
+    "text": "Ya",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "I think so",
     "text": "Boleh rasanya",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That’s great! Sharing the workload benefits the whole family and creates a supportive home for everyone! 🎉",
+    "text": "Itu sangat bagus! Bila tanggungjawab dikongsi bersama, seluruh keluarga dapat manfaatnya dan rumah pun jadi tempat yang lebih menyokong dan harmoni! 🎉",
     "type": "data_list",
     "note": ""
   },
@@ -9918,7 +9954,7 @@
     "note": ""
   },
   {
-    "SourceText": "Library",
+    "SourceText": "My Resources",
     "text": "Bahan Saya",
     "type": "global",
     "note": ""
