@@ -91,7 +91,7 @@
       "intro_text::eng": "Riddles and puzzles are a fun way to build thinking skills! 💡",
       "steps_text::eng": "Do you remember any riddles from your childhood? If you can’t then make one up, they can be very simple! 😃\nLike “What can you see at night but not in the day” Answer: “The moon” 🌙\n\nIf your child is finding them difficult, try an easy one like: “What is round, bouncy and can be thrown or kicked?” Answer: “A ball” ⚽\n\nYour child can also try making riddles! 💡\n\nYou can have fun with riddles anywhere at any time - like travelling on a bus or in a car 🚗",
       "activity_group_list": "quick; group; calm",
-      "child_age_list": "3; 4; 5; 6; 7; 8; 9"
+      "child_age_list": "5; 6; 7; 8; 9"
     },
     {
       "id": "whats_new_child",
@@ -147,7 +147,7 @@
       "steps_text::eng": "1️⃣ Clap hands 1 time. 2️⃣ Clap hands 2 times.\n1️⃣ Jump 1 time. 2️⃣ Jump 2 times.\n1️⃣ Hop 1 time.\n3️⃣ Hop 3 times.\n💡Can you hop, then jump, then clap? \n🏆 Can you clap twice, jump once, and hop three times?\n",
       "tips_text::eng": "💡Remembering Instructions\nTake turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!\nFor example:\nHop twice, turn around.\nJump to the kitchen, pick up a spoon, then run back. ✅",
       "activity_group_list": "active",
-      "child_age_list": "4; 5; 6; 7"
+      "child_age_list": "4; 5; 6; 7; 8; 9"
     },
     {
       "id": "thinking_games",
@@ -287,7 +287,7 @@
       "intro_text::eng": "Get ready for a colourful adventure using simple items at home–blocks, crayons, or markers work perfectly. ",
       "steps_text::eng": "🌈 Put all the coloured objects in a bag. Each player picks one object to start.\n\n🔍 The challenge: Find three objects around the house that match the colour of your block. Place your block next to each match and shout “Match!”\n\n🔄 Once you’ve found three matches, grab a new block and start the hunt again!\n\nColour Hunt helps children focus, solve problems, and move around–all while having fun with colours.",
       "activity_group_list": "group",
-      "child_age_list": "3; 4; 5; 6; 7 "
+      "child_age_list": "5; 6; 7 "
     },
     {
       "id": "flip_blanket",
@@ -350,7 +350,7 @@
       "intro_text::eng": "Did you know that patterns are all around us? They are on clothes, in nature, and around your home. ",
       "steps_text::eng": "🌟 Explore patterns together–whether it's the rows of trees outside or the design on their clothes. At home, try making patterns with simple items like rocks or fruits.\n\n🟦 Draw a pattern using simple shapes and ask your child questions like: “What comes next?’” or “Can you create your own pattern?” Remember to encourage and celebrate their curiosity as they explore the world of patterns!",
       "activity_group_list": "quick",
-      "child_age_list": "2 ;3; 4; 5; 6"
+      "child_age_list": "2; 3; 4; 5; 6"
     },
     {
       "id": "secret_handshake",
@@ -473,7 +473,7 @@
       "title::eng": "Circle Clap and Dance",
       "image_asset": "images/activities/follow_the_leader.svg",
       "intro_text::eng": "This joyful game builds social confidence, movement skills, and musical rhythm - all while connecting to culture 💛",
-      "steps_text::eng": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “Shosholoza… ku lezontaba…”\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
+      "steps_text::eng": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “\"Wheels on the Bus\" and \"Itsy Bitsy Spider\".\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
       "child_age_list": "2; 3; 4; 5; 6; 7; 8; 9"
     },
     {
@@ -526,7 +526,7 @@
       "image_asset": "images/activities/play_books_4to6.svg",
       "intro_text::eng": "This activity encourages creativity, role-play, and imagination - while building confidence through leading and observing ⭐",
       "steps_text::eng": "👀 Let your child shape you into a frozen statue - you might be a tree, a happy, sad or angry person, or anything else they imagine!\n\n🚩 You can even invite others to join and let your child shape you all into a frozen scene, like a classroom, a soccer match, or something completely silly.\n\n📱 Once the statue is ready, your child can be the ‘photographer’ and take a pretend (or real!) picture. \n\n🔄 Then swap roles and let them be the statue next.",
-      "child_age_list": "2; 3; 4; 5; 6; 7; 8"
+      "child_age_list": "2; 3; 4; 5; 6; 7"
     },
     {
       "id": "bake_time",

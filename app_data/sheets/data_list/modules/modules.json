@@ -44,13 +44,20 @@
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "One-on-One Time"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
     },
     {
       "id": "kind_to_me_yc",
@@ -91,13 +98,20 @@
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Kindness to Self"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
     },
     {
       "id": "give_praise_yc",
@@ -138,13 +152,20 @@
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Give Praise"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
     },
     {
       "id": "talk_feelings_yc",
@@ -185,13 +206,20 @@
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Feelings"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise spending 5 minutes of one-on-one time with your child."
     },
     {
       "id": "spirituality_yc",
@@ -277,20 +305,27 @@
       "number": 7,
       "unlock": 6,
       "core": false,
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_6",
       "title": "Language Skills",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Language Skills"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "reading1_4to6_yc",
@@ -320,20 +355,27 @@
       "number": 8,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_7",
       "title": "Reading, Part 1",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Reading, Part 1"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "reading2_4to6_yc",
@@ -363,20 +405,27 @@
       "number": 9,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_8",
       "title": "Reading, Part 2",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Reading, Part 2"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "maths1_4to6_yc",
@@ -406,20 +455,27 @@
       "number": 10,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/relation.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_9",
       "title": "Maths, Part 1",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Maths, Part 1"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "maths2_4to6_yc",
@@ -449,20 +505,27 @@
       "number": 11,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/learning.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_10",
       "title": "Maths, Part 2",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Maths, Part 2"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "reading_2to3_yc",
@@ -490,20 +553,27 @@
       "number": 12,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/develop.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_11",
       "title": "Reading",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Reading"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "maths_2_yc",
@@ -530,20 +600,27 @@
       "number": 13,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/structure.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_12",
       "title": "Maths",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Maths"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "maths_3_yc",
@@ -570,20 +647,27 @@
       "number": 14,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/behave.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_13",
       "title": "Maths",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Maths"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise involving your child in an activity to help them learn."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise involving your child in an activity to help them learn."
     },
     {
       "id": "school_3to6_yc",
@@ -614,7 +698,7 @@
       "number": 15,
       "unlock": 7,
       "core": false,
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_14",
       "title": "Talk to Teachers",
@@ -668,20 +752,27 @@
       "number": 16,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_15",
       "title": "Play & Learn",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Play & Learn"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise supporting your child’s development."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise supporting your child’s development."
     },
     {
       "id": "learn_exp_yc",
@@ -715,20 +806,27 @@
       "number": 17,
       "unlock": 15,
       "core": false,
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_16",
       "title": "Life Lessons",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Life Lessons"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise supporting your child’s development."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise supporting your child’s development."
     },
     {
       "id": "toddle_change_yc",
@@ -756,20 +854,27 @@
       "number": 18,
       "unlock": 15,
       "core": false,
-      "image_asset": "images/homescreen/relation.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_17",
       "title": "Child Development",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Child Development"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise supporting your child’s development."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise supporting your child’s development."
     },
     {
       "id": "young_change_yc",
@@ -798,20 +903,27 @@
       "number": 19,
       "unlock": 15,
       "core": false,
-      "image_asset": "images/homescreen/learning.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_18",
       "title": "Child Development",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Child Development"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise supporting your child’s development."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise supporting your child’s development."
     },
     {
       "id": "child_change_yc",
@@ -840,7 +952,7 @@
       "number": 20,
       "unlock": 15,
       "core": false,
-      "image_asset": "images/homescreen/develop.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_19",
       "title": "Child Development",
@@ -894,20 +1006,27 @@
       "number": 21,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/structure.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_20",
       "title": "Manage Stress",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Manage Stress"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise setting some structure at home."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise setting some structure at home."
     },
     {
       "id": "keep_positive_yc",
@@ -941,20 +1060,27 @@
       "number": 22,
       "unlock": 20,
       "core": false,
-      "image_asset": "images/homescreen/behave.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_21",
       "title": "Keep it Positive",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Keep it Positive"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise setting some structure at home."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise setting some structure at home."
     },
     {
       "id": "routine_yc",
@@ -988,20 +1114,27 @@
       "number": 23,
       "unlock": 20,
       "core": false,
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_22",
       "title": "Daily Routines",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Daily Routines"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise setting some structure at home."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise setting some structure at home."
     },
     {
       "id": "family_rules_yc",
@@ -1035,20 +1168,27 @@
       "number": 24,
       "unlock": 20,
       "core": false,
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_23",
       "title": "Family Rules",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Family Rules"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise setting some structure at home."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise setting some structure at home."
     },
     {
       "id": "know_role_yc",
@@ -1082,7 +1222,7 @@
       "number": 25,
       "unlock": 20,
       "core": false,
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_24",
       "title": "Roles at Home",
@@ -1136,20 +1276,27 @@
       "number": 26,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/relation.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_25",
       "title": "Misbehaviour",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Misbehaviour"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise managing your child’s behaviour."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise managing your child’s behaviour."
     },
     {
       "id": "ignore_demand_yc",
@@ -1183,20 +1330,27 @@
       "number": 27,
       "unlock": 25,
       "core": false,
-      "image_asset": "images/homescreen/learning.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_26",
       "title": "Manage Demands",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Manage Demands"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise managing your child’s behaviour."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise managing your child’s behaviour."
     },
     {
       "id": "manage_anger_yc",
@@ -1230,20 +1384,27 @@
       "number": 28,
       "unlock": 25,
       "core": false,
-      "image_asset": "images/homescreen/develop.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_27",
       "title": "Manage Anger",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Manage Anger"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise managing your child’s behaviour."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise managing your child’s behaviour."
     },
     {
       "id": "consequences_yc",
@@ -1277,20 +1438,27 @@
       "number": 29,
       "unlock": 25,
       "core": false,
-      "image_asset": "images/homescreen/structure.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_28",
       "title": "Consequences",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Consequences"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise managing your child’s behaviour."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise managing your child’s behaviour."
     },
     {
       "id": "solve_problem_yc",
@@ -1324,7 +1492,7 @@
       "number": 30,
       "unlock": 25,
       "core": false,
-      "image_asset": "images/homescreen/behave.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_29",
       "title": "Problem Solving",
@@ -1372,20 +1540,27 @@
       "number": 31,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_30",
       "title": "Safe Touch",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Safe Touch"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "safe_2to5_yc_f",
@@ -1414,20 +1589,27 @@
       "number": 32,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_31",
       "title": "Safe Touch",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Safe Touch"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "safe_6to9_yc",
@@ -1457,20 +1639,27 @@
       "number": 33,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_32",
       "title": "Safe Touch",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Safe Touch"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "com_safe_2to4_yc",
@@ -1499,20 +1688,27 @@
       "number": 34,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/relation.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_33",
       "title": "Stay Safe",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Stay Safe"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "com_safe_5to9_yc",
@@ -1543,20 +1739,27 @@
       "number": 35,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/learning.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_34",
       "title": "Stay Safe",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Stay Safe"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "crises_2to6_yc",
@@ -1587,20 +1790,27 @@
       "number": 36,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/develop.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_35",
       "title": "Crises",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Crises"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "crises_7to9_yc",
@@ -1629,20 +1839,27 @@
       "number": 37,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/structure.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_36",
       "title": "Crises",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Crises"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "online_safety_yc",
@@ -1676,20 +1893,27 @@
       "number": 38,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/behave.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_37",
       "title": "Online Safety",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Online Safety"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "trust_online_yc",
@@ -1723,20 +1947,27 @@
       "number": 39,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_38",
       "title": "Online Habits",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Online Habits"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise talking to your child about safety."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise talking to your child about safety."
     },
     {
       "id": "nutrition_yc",
@@ -1770,7 +2001,7 @@
       "number": 40,
       "unlock": 30,
       "core": false,
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_39",
       "title": "Nutrition and Health",
@@ -1821,20 +2052,27 @@
       "number": 41,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_40",
       "title": "Respect Each Other",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Respect Each Other"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise sharing household tasks with your spouse."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise sharing household tasks with your spouse."
     },
     {
       "id": "ipv_supportive",
@@ -1865,20 +2103,27 @@
       "number": 42,
       "unlock": 40,
       "core": false,
-      "image_asset": "images/homescreen/relation.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_41",
       "title": "Team Parenting",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Team Parenting"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise sharing household tasks with your spouse."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise sharing household tasks with your spouse."
     },
     {
       "id": "ipv_sharing",
@@ -1909,20 +2154,27 @@
       "number": 43,
       "unlock": 40,
       "core": false,
-      "image_asset": "images/homescreen/learning.svg",
+      "image_asset": "images/homescreen/budget.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_42",
       "title": "Teamwork",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Teamwork"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise sharing household tasks with your spouse."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise sharing household tasks with your spouse."
     },
     {
       "id": "ipv_conflicts",
@@ -1953,20 +2205,27 @@
       "number": 44,
       "unlock": 40,
       "core": false,
-      "image_asset": "images/homescreen/develop.svg",
+      "image_asset": "images/homescreen/relation.svg",
       "relax_id": "relax_1",
       "check_in_id": "check_in_43",
       "title": "Resolve Conflicts",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Resolve Conflicts"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise sharing household tasks with your spouse."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise sharing household tasks with your spouse."
     },
     {
       "id": "ipv_listen",
@@ -1997,7 +2256,7 @@
       "number": 45,
       "unlock": 40,
       "core": false,
-      "image_asset": "images/homescreen/structure.svg",
+      "image_asset": "images/homescreen/learning.svg",
       "relax_id": "relax_3",
       "check_in_id": "check_in_44",
       "title": "Talk and Listen",
@@ -2051,20 +2310,27 @@
       "number": 46,
       "unlock": 1,
       "core": false,
-      "image_asset": "images/homescreen/behave.svg",
+      "image_asset": "images/homescreen/develop.svg",
       "relax_id": "relax_6",
       "check_in_id": "check_in_45",
       "title": "Needs and Wants",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Needs and Wants"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise planning a budget."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise planning a budget."
     },
     {
       "id": "budget_exp_yc",
@@ -2098,20 +2364,27 @@
       "number": 47,
       "unlock": 45,
       "core": false,
-      "image_asset": "images/homescreen/safety.svg",
+      "image_asset": "images/homescreen/structure.svg",
       "relax_id": "relax_13",
       "check_in_id": "check_in_46",
       "title": "Expenses",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Expenses"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise planning a budget."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise planning a budget."
     },
     {
       "id": "budget_month_yc",
@@ -2145,20 +2418,27 @@
       "number": 48,
       "unlock": 45,
       "core": false,
-      "image_asset": "images/homescreen/ipv.svg",
+      "image_asset": "images/homescreen/behave.svg",
       "relax_id": "relax_15",
       "check_in_id": "check_in_47",
       "title": "Budgeting",
       "_translations": {
         "title": {
           "my_ms": true
+        },
+        "home_activity": {
+          "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
           "eng": "Budgeting"
+        },
+        "home_activity": {
+          "eng": "Now it’s time to practise planning a budget."
         }
-      }
+      },
+      "home_activity": "Now it’s time to practise planning a budget."
     },
     {
       "id": "budget_save_yc",
@@ -2192,7 +2472,7 @@
       "number": 49,
       "unlock": 45,
       "core": false,
-      "image_asset": "images/homescreen/budget.svg",
+      "image_asset": "images/homescreen/ipv.svg",
       "relax_id": "relax_16",
       "check_in_id": "check_in_48",
       "title": "Savings",

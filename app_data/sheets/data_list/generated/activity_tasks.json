@@ -398,8 +398,6 @@
         "calm"
       ],
       "child_age_list": [
-        "3",
-        "4",
         "5",
         "6",
         "7",
@@ -660,7 +658,9 @@
         "4",
         "5",
         "6",
-        "7"
+        "7",
+        "8",
+        "9"
       ],
       "title": "Active Counting",
       "_translations": {
@@ -1314,8 +1314,6 @@
         "group"
       ],
       "child_age_list": [
-        "3",
-        "4",
         "5",
         "6",
         "7"
@@ -2203,9 +2201,7 @@
         "intro_text": {
           "my_ms": true
         },
-        "steps_text": {
-          "my_ms": true
-        }
+        "steps_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2215,11 +2211,11 @@
           "eng": "This joyful game builds social confidence, movement skills, and musical rhythm - all while connecting to culture 💛"
         },
         "steps_text": {
-          "eng": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “Shosholoza… ku lezontaba…”\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!"
+          "eng": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “\"Wheels on the Bus\" and \"Itsy Bitsy Spider\".\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!"
         }
       },
       "intro_text": "This joyful game builds social confidence, movement skills, and musical rhythm - all while connecting to culture 💛",
-      "steps_text": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “Shosholoza… ku lezontaba…”\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
+      "steps_text": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “\"Wheels on the Bus\" and \"Itsy Bitsy Spider\".\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
       "accessed": false,
       "locked": true,
       "favourite": false
@@ -2465,8 +2461,7 @@
         "4",
         "5",
         "6",
-        "7",
-        "8"
+        "7"
       ],
       "title": "Freeze Like a Statue",
       "_translations": {

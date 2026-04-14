@@ -98,15 +98,6 @@
                 "close_top"
               ],
               "_raw": "uncompleted | nav_stack: close_top"
-            },
-            {
-              "trigger": "click",
-              "action_id": "toast",
-              "args": [],
-              "_raw": "click | toast | message: @global.certificates_location",
-              "params": {
-                "message": "@global.certificates_location"
-              }
             }
           ],
           "exclude_from_translation": true,

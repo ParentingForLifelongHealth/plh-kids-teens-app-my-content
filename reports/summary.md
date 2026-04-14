@@ -79,7 +79,7 @@
 | set_local | 66 |
 | share | 3 |
 | task | 2 |
-| toast | 9 |
+| toast | 1 |
 | user | 3 |
 </details>
 
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 112876 KB | 112.9 MB |
-| unused | 8248 KB | 8.2 MB |
+| unused | 5132 KB | 5.1 MB |
 </details>
 
 <details open>
@@ -103,9 +103,6 @@ Assets that appear in app-data but do not have references within sheets
 | android/icon-foreground.png | 18.4 |
 | android/icon.png | 70.3 |
 | android/splash.png | 239 |
-| certificates/MY Certificate Text.pptx | 446.2 |
-| certificates/Malaysia Certificate_V2_English.jpg | 1321.5 |
-| certificates/Malaysia Certificate_V2_Malay.jpg | 1348.2 |
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/library_top_right.svg | 9.5 |
 | images/backgrounds/progress_arc.png | 255.4 |
@@ -341,16 +338,16 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/character_icons/facilitator_female.svg | 636.4 | 3 |
 | images/character_icons/facilitator_male.svg | 459.5 | 3 |
 | images/character_icons/man_in_car.svg | 1241.8 | 1 |
-| images/homescreen/behave.svg | 31.6 | 13 |
+| images/homescreen/behave.svg | 31.6 | 15 |
 | images/homescreen/budget.svg | 15.1 | 13 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1692.7 | 1 |
 | images/homescreen/check_in/traditional_rondavel_open.svg | 2901.6 | 1 |
-| images/homescreen/develop.svg | 35.1 | 13 |
-| images/homescreen/ipv.svg | 27.3 | 13 |
-| images/homescreen/learning.svg | 47.1 | 13 |
-| images/homescreen/relation.svg | 37.3 | 13 |
-| images/homescreen/safety.svg | 116 | 13 |
-| images/homescreen/structure.svg | 46.9 | 13 |
+| images/homescreen/develop.svg | 35.1 | 15 |
+| images/homescreen/ipv.svg | 27.3 | 15 |
+| images/homescreen/learning.svg | 47.1 | 15 |
+| images/homescreen/relation.svg | 37.3 | 15 |
+| images/homescreen/safety.svg | 116 | 1 |
+| images/homescreen/structure.svg | 46.9 | 15 |
 | images/icons/celebration.svg | 70.4 | 1 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
