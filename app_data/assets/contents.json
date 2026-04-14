@@ -255,10 +255,6 @@
     "md5Checksum": "91bd746e278b1939a8eb7ad1ef6cc59d",
     "size_kb": 255.4
   },
-  "images/backgrounds/progress_arc.svg": {
-    "md5Checksum": "ddefaea43da04ce5290f9e1d93b0730a",
-    "size_kb": 3755.1
-  },
   "images/character_icons/f1_daughter_2.svg": {
     "md5Checksum": "92f205f7554ed96512921397758afe8a",
     "size_kb": 1815.2
@@ -887,10 +883,6 @@
     "md5Checksum": "a832fe206da0ba0e261f88763443b68a",
     "size_kb": 65.8
   },
-  "images/yc_modules/budget_savings_yc_5.svg": {
-    "md5Checksum": "ca9559dd9b941a2bf41ba2fb17ae01ae",
-    "size_kb": 51.8
-  },
   "images/yc_modules/child_change_yc_1.svg": {
     "md5Checksum": "1bd5ca5f1508d5adff3a4108ccfc9fa9",
     "size_kb": 81.2
@@ -1051,10 +1043,6 @@
     "md5Checksum": "7ec854cff2d7fd736adb93b0c3c96406",
     "size_kb": 60.2
   },
-  "images/yc_modules/ignore_demanding_yc_5.svg": {
-    "md5Checksum": "d6363ebadbab784044b973084340f257",
-    "size_kb": 56.5
-  },
   "images/yc_modules/ipv_conflicts_1.svg": {
     "md5Checksum": "247c66c4a4af6bd6746bfa7a6681f198",
     "size_kb": 54.9
@@ -1186,10 +1174,6 @@
   "images/yc_modules/learn_experience_yc_4.svg": {
     "md5Checksum": "87c4f72f94075027e1f00395db2778cc",
     "size_kb": 49
-  },
-  "images/yc_modules/learn_experience_yc_5.svg": {
-    "md5Checksum": "abb32b9684977024e7f76480dca48244",
-    "size_kb": 44.5
   },
   "images/yc_modules/make_a_monthly_budget_yc_1.svg": {
     "md5Checksum": "9f62b74b5cbf33013b8c1ae6afb77ea8",
@@ -1474,10 +1458,6 @@
   "images/yc_modules/teach_consequences_yc_4.svg": {
     "md5Checksum": "f44df2e2ab5f484e823f0a4d2a5e6c0f",
     "size_kb": 60.2
-  },
-  "images/yc_modules/teach_consequences_yc_5.svg": {
-    "md5Checksum": "4abb6ec896c4158ae68632afe43e9913",
-    "size_kb": 67.5
   },
   "images/yc_modules/toddler_change_yc_1.svg": {
     "md5Checksum": "25becf1cc72c104174d94094e843aad8",

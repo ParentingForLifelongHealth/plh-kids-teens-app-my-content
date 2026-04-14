@@ -71,6 +71,60 @@
       "rows": [
         {
           "type": "template",
+          "name": "header",
+          "value": "header",
+          "action_list": [
+            {
+              "trigger": "completed",
+              "action_id": "emit",
+              "args": [
+                "completed"
+              ],
+              "_raw": "completed | emit: completed"
+            },
+            {
+              "trigger": "uncompleted",
+              "action_id": "emit",
+              "args": [
+                "uncompleted"
+              ],
+              "_raw": "uncompleted | emit: uncompleted"
+            }
+          ],
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "name": "title",
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "get_check_in.header.title"
+            },
+            {
+              "name": "display_icon",
+              "value": false,
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "get_check_in.header.display_icon"
+            },
+            {
+              "name": "show_progress",
+              "value": false,
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "get_check_in.header.show_progress"
+            },
+            {
+              "name": "progress",
+              "value": 0,
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "get_check_in.header.progress"
+            }
+          ],
+          "_nested_name": "get_check_in.header"
+        },
+        {
+          "type": "template",
           "name": "if_yes",
           "value": "hp_review",
           "action_list": [

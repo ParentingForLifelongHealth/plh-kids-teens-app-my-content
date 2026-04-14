@@ -33,11 +33,11 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2889 |
+| set_variable | 2922 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 890 |
+| template | 898 |
 | text | 199 |
 | text_area | 3 |
 | text_box | 24 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 621 |
+| emit: completed | 629 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 13 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 626 |
+| emit: uncompleted | 634 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 330 |
@@ -89,7 +89,7 @@
 | assets | KB | MB |
 | --- | --- | --- |
 | total | 112876 KB | 112.9 MB |
-| unused | 5132 KB | 5.1 MB |
+| unused | 1156 KB | 1.2 MB |
 </details>
 
 <details open>
@@ -106,7 +106,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/backgrounds/homescreen_pattern.svg | 156.3 |
 | images/backgrounds/library_top_right.svg | 9.5 |
 | images/backgrounds/progress_arc.png | 255.4 |
-| images/backgrounds/progress_arc.svg | 3755.1 |
 | images/flags/gb.svg | 0.5 |
 | images/icons/balance_blue.png | 4.7 |
 | images/icons/book_outline_blue.svg | 0.7 |
@@ -158,10 +157,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/PLH.png | 26.6 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
-| images/yc_modules/budget_savings_yc_5.svg | 51.8 |
-| images/yc_modules/ignore_demanding_yc_5.svg | 56.5 |
-| images/yc_modules/learn_experience_yc_5.svg | 44.5 |
-| images/yc_modules/teach_consequences_yc_5.svg | 67.5 |
 | lottie/bulging_circles.txt | 0.2 |
 | lottie/cascading_stars.json | 140.5 |
 </details>
