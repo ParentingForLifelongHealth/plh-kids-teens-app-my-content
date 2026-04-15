@@ -335,10 +335,9 @@
               },
               "exclude_from_translation": true,
               "style_list": [
-                "display: block",
                 "height: @local.home_screen_logo_height",
                 "width: @local.home_screen_logo_width",
-                "object-fit: contain"
+                "flex-shrink: 0"
               ],
               "_nested_name": "dg_sticky_top.dg_row.image",
               "_dynamicFields": {
@@ -351,7 +350,7 @@
                   }
                 ],
                 "style_list": {
-                  "1": [
+                  "0": [
                     {
                       "fullExpression": "height: @local.home_screen_logo_height",
                       "matchedExpression": "@local.home_screen_logo_height",
@@ -359,7 +358,7 @@
                       "fieldName": "home_screen_logo_height"
                     }
                   ],
-                  "2": [
+                  "1": [
                     {
                       "fullExpression": "width: @local.home_screen_logo_width",
                       "matchedExpression": "@local.home_screen_logo_width",
@@ -374,10 +373,10 @@
                   "value"
                 ],
                 "@local.home_screen_logo_height": [
-                  "style_list.1"
+                  "style_list.0"
                 ],
                 "@local.home_screen_logo_width": [
-                  "style_list.2"
+                  "style_list.1"
                 ]
               }
             }
