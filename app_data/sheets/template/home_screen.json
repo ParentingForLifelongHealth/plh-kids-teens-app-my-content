@@ -289,7 +289,6 @@
           "name": "dg_row",
           "exclude_from_translation": true,
           "style_list": [
-            "justify-content: space-between",
             "padding: 12px 24px"
           ],
           "rows": [
@@ -337,7 +336,7 @@
               "style_list": [
                 "height: @local.home_screen_logo_height",
                 "width: @local.home_screen_logo_width",
-                "flex-shrink: 0"
+                "margin-left: auto"
               ],
               "_nested_name": "dg_sticky_top.dg_row.image",
               "_dynamicFields": {

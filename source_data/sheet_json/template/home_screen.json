@@ -53,13 +53,14 @@
       "name": "dg_sticky_top",
       "parameter_list": "sticky: top; \nstyle: column;",
       "exclude_from_translation": true,
-      "style_list": "background-color: white;"
+      "style_list": "background-color: white;",
+      "comment": "justify-content: space-between;"
     },
     {
       "type": "begin_display_group",
       "name": "dg_row",
       "exclude_from_translation": true,
-      "style_list": "justify-content: space-between;\npadding: 12px 24px;",
+      "style_list": "padding: 12px 24px;",
       "comment": "margin-top: 24px;\nmargin-left: -24px;"
     },
     {
@@ -73,7 +74,7 @@
       "name": "image",
       "value": "@local.home_screen_logo",
       "exclude_from_translation": true,
-      "style_list": "height: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;\nflex-shrink: 0;",
+      "style_list": "height: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;\nmargin-left: auto;",
       "comment": "margin-bottom: -8px;"
     },
     {
