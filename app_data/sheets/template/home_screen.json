@@ -77,13 +77,30 @@
       "_translations": {
         "value": {}
       },
-      "condition": "!@global.home_screen_logo_height",
+      "type": "set_variable",
+      "_nested_name": "home_screen_logo_width"
+    },
+    {
+      "name": "home_screen_logo_width",
+      "value": "@global.home_screen_logo_height",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!@global.home_screen_logo_height",
       "type": "set_variable",
       "_nested_name": "home_screen_logo_width",
       "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.home_screen_logo_height",
+            "matchedExpression": "@global.home_screen_logo_height",
+            "type": "global",
+            "fieldName": "home_screen_logo_height"
+          }
+        ],
         "condition": [
           {
-            "fullExpression": "!@global.home_screen_logo_height",
+            "fullExpression": "!!@global.home_screen_logo_height",
             "matchedExpression": "!@global.home_screen_logo_height",
             "type": "global",
             "fieldName": "home_screen_logo_height"
@@ -91,6 +108,9 @@
         ]
       },
       "_dynamicDependencies": {
+        "@global.home_screen_logo_height": [
+          "value"
+        ],
         "!@global.home_screen_logo_height": [
           "condition"
         ]
@@ -289,7 +309,8 @@
           "name": "dg_row",
           "exclude_from_translation": true,
           "style_list": [
-            "padding: 12px 24px"
+            "padding: 12px 24px",
+            "justify-content: space-between"
           ],
           "rows": [
             {
@@ -335,8 +356,7 @@
               "exclude_from_translation": true,
               "style_list": [
                 "height: @local.home_screen_logo_height",
-                "width: @local.home_screen_logo_width",
-                "margin-left: auto"
+                "width: @local.home_screen_logo_width"
               ],
               "_nested_name": "dg_sticky_top.dg_row.image",
               "_dynamicFields": {
