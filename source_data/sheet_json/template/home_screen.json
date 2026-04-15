@@ -22,8 +22,12 @@
     },
     {
       "name": "home_screen_logo_width",
-      "value": "48px",
-      "condition": "!@global.home_screen_logo_height"
+      "value": "48px"
+    },
+    {
+      "name": "home_screen_logo_width",
+      "value": "@global.home_screen_logo_height",
+      "condition": "!!@global.home_screen_logo_height"
     },
     {
       "name": "home_screen_logo_height",
@@ -60,7 +64,7 @@
       "type": "begin_display_group",
       "name": "dg_row",
       "exclude_from_translation": true,
-      "style_list": "padding: 12px 24px;",
+      "style_list": "padding: 12px 24px;\njustify-content: space-between;",
       "comment": "margin-top: 24px;\nmargin-left: -24px;"
     },
     {
@@ -74,11 +78,8 @@
       "name": "image",
       "value": "@local.home_screen_logo",
       "exclude_from_translation": true,
-      "style_list": "height: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;\nmargin-left: auto;",
+      "style_list": "height: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;",
       "comment": "margin-bottom: -8px;"
-    },
-    {
-      "comment": "margin-right: -34px;"
     },
     {
       "type": "end_display_group"

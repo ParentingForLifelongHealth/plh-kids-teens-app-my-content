@@ -433,27 +433,12 @@
       "_nested_name": "result"
     },
     {
-      "name": "show_loading",
-      "value": false,
-      "type": "set_variable",
-      "_nested_name": "show_loading"
-    },
-    {
       "type": "button",
       "value": "@global.join_group",
       "_translations": {
         "value": {}
       },
       "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "show_loading",
-            true
-          ],
-          "_raw": "click | set_local: show_loading: TRUE"
-        },
         {
           "trigger": "click",
           "action_id": "set_local",
@@ -479,22 +464,13 @@
             "gender": "@fields.user_gender",
             "timestamp": "@calc(now())"
           }
-        },
-        {
-          "trigger": "click",
-          "action_id": "set_local",
-          "args": [
-            "show_loading",
-            false
-          ],
-          "_raw": "click | set_local: show_loading: FALSE"
         }
       ],
       "parameter_list": {
         "disabled": "!@local.valid_faci_group_id_input"
       },
-      "name": "button_17",
-      "_nested_name": "button_17",
+      "name": "button_16",
+      "_nested_name": "button_16",
       "_dynamicFields": {
         "value": [
           {
@@ -505,7 +481,7 @@
           }
         ],
         "action_list": {
-          "2": {
+          "1": {
             "_raw": [
               {
                 "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
@@ -612,62 +588,31 @@
           "value"
         ],
         "@local.faci_group_id_input": [
-          "action_list.2._raw",
-          "action_list.2.params.access_code"
+          "action_list.1._raw",
+          "action_list.1.params.access_code"
         ],
         "@fields._app_user_id": [
-          "action_list.2._raw",
-          "action_list.2.params.app_user_id"
+          "action_list.1._raw",
+          "action_list.1.params.app_user_id"
         ],
         "@fields._auth_user_id": [
-          "action_list.2._raw",
-          "action_list.2.params.auth_user_id"
+          "action_list.1._raw",
+          "action_list.1.params.auth_user_id"
         ],
         "@fields.user_name": [
-          "action_list.2._raw",
-          "action_list.2.params.name"
+          "action_list.1._raw",
+          "action_list.1.params.name"
         ],
         "@fields.user_gender": [
-          "action_list.2._raw",
-          "action_list.2.params.gender"
+          "action_list.1._raw",
+          "action_list.1.params.gender"
         ],
         "@calc(now())": [
-          "action_list.2._raw",
-          "action_list.2.params.timestamp"
+          "action_list.1._raw",
+          "action_list.1.params.timestamp"
         ],
         "!@local.valid_faci_group_id_input": [
           "parameter_list.disabled"
-        ]
-      }
-    },
-    {
-      "type": "image",
-      "name": "loading_image",
-      "value": "images/icons/loading.gif",
-      "_translations": {
-        "value": {}
-      },
-      "style_list": [
-        "width: 48px",
-        "position: fixed",
-        "left: 50%"
-      ],
-      "condition": "@local.show_loading",
-      "exclude_from_translation": true,
-      "_nested_name": "loading_image",
-      "_dynamicFields": {
-        "condition": [
-          {
-            "fullExpression": "@local.show_loading",
-            "matchedExpression": "@local.show_loading",
-            "type": "local",
-            "fieldName": "show_loading"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.show_loading": [
-          "condition"
         ]
       }
     },
@@ -683,8 +628,8 @@
       ],
       "condition": "@local.result?.error && !@local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_19",
-      "_nested_name": "text_19",
+      "name": "text_17",
+      "_nested_name": "text_17",
       "_dynamicFields": {
         "value": [
           {
@@ -733,8 +678,8 @@
       ],
       "condition": "@local.result?.error && @local.result?.message == \"User group not found\" && @local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_20",
-      "_nested_name": "text_20",
+      "name": "text_18",
+      "_nested_name": "text_18",
       "_dynamicFields": {
         "value": [
           {
@@ -790,8 +735,8 @@
       ],
       "condition": "@local.result?.error && @local.result?.message !== \"User group not found\"  && @local.valid_faci_group_id_input",
       "exclude_from_translation": true,
-      "name": "text_21",
-      "_nested_name": "text_21",
+      "name": "text_19",
+      "_nested_name": "text_19",
       "_dynamicFields": {
         "value": [
           {
@@ -847,8 +792,8 @@
       ],
       "condition": "@local.result?.success",
       "exclude_from_translation": true,
-      "name": "text_22",
-      "_nested_name": "text_22",
+      "name": "text_20",
+      "_nested_name": "text_20",
       "_dynamicFields": {
         "value": [
           {

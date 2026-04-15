@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 23
+        "count": 22
       },
       {
         "type": "items",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 68
+        "count": 66
       },
       {
         "type": "share",
@@ -295,7 +295,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "93032 KB",
+        "KB": "92973 KB",
         "MB": "93 MB"
       },
       {
@@ -1544,11 +1544,6 @@
         "path": "images/icons/lightbulb_blue.png",
         "count": 56,
         "size_kb": 3.6
-      },
-      {
-        "path": "images/icons/loading.gif",
-        "count": 1,
-        "size_kb": 58.7
       },
       {
         "path": "images/icons/local_library.svg",

@@ -17,7 +17,7 @@
 | display_group | 97 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 23 |
+| image | 22 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -76,7 +76,7 @@
 | set_data | 81 |
 | set_field | 117 |
 | set_item | 72 |
-| set_local | 68 |
+| set_local | 66 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -88,7 +88,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 93032 KB | 93 MB |
+| total | 92973 KB | 93 MB |
 | unused | 1156 KB | 1.2 MB |
 </details>
 
@@ -375,7 +375,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/in_progress.svg | 1.1 | 1 |
 | images/icons/information-circle-outline.svg | 0.6 | 1 |
 | images/icons/lightbulb_blue.png | 3.6 | 56 |
-| images/icons/loading.gif | 58.7 | 1 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/local_library_white.svg | 1.9 | 1 |
