@@ -17,7 +17,7 @@
 | display_group | 97 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 22 |
+| image | 23 |
 | items | 16 |
 | lottie_animation | 4 |
 | nested_properties | 297 |
@@ -33,7 +33,7 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2923 |
+| set_variable | 2924 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -76,7 +76,7 @@
 | set_data | 81 |
 | set_field | 117 |
 | set_item | 72 |
-| set_local | 66 |
+| set_local | 68 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -88,7 +88,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 112876 KB | 112.9 MB |
+| total | 93032 KB | 93 MB |
 | unused | 1156 KB | 1.2 MB |
 </details>
 
@@ -317,22 +317,22 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/backgrounds/lesson-cta-bg.svg | 4 | 2 |
 | images/backgrounds/library_top_right.png | 1358.6 | 3 |
 | images/backgrounds/mountains_trees.svg | 23.2 | 1 |
-| images/character_icons/f1_daughter_2.svg | 1815.2 | 1 |
-| images/character_icons/f1_daughter_6.svg | 1429.9 | 1 |
-| images/character_icons/f1_father.svg | 1678.4 | 1 |
-| images/character_icons/f1_mother.svg | 1461.5 | 1 |
-| images/character_icons/f1_son_5.svg | 1359.5 | 1 |
-| images/character_icons/f2_daughter_8.svg | 2347.5 | 1 |
-| images/character_icons/f2_grandfather.svg | 2334.9 | 1 |
-| images/character_icons/f2_grandmother.svg | 2334.9 | 1 |
-| images/character_icons/f2_son_3.svg | 2148.1 | 1 |
-| images/character_icons/f3_daughter_4.svg | 1335.6 | 1 |
-| images/character_icons/f3_mother.svg | 1465.5 | 1 |
-| images/character_icons/f3_son_7.svg | 1426.5 | 1 |
-| images/character_icons/f3_uncle.svg | 1094.4 | 1 |
+| images/character_icons/f1_daughter_2.svg | 242 | 1 |
+| images/character_icons/f1_daughter_6.svg | 219 | 1 |
+| images/character_icons/f1_father.svg | 306.4 | 1 |
+| images/character_icons/f1_mother.svg | 245.3 | 1 |
+| images/character_icons/f1_son_5.svg | 174.8 | 1 |
+| images/character_icons/f2_daughter_8.svg | 237.2 | 1 |
+| images/character_icons/f2_grandfather.svg | 408.7 | 1 |
+| images/character_icons/f2_grandmother.svg | 375.1 | 1 |
+| images/character_icons/f2_son_3.svg | 225.2 | 1 |
+| images/character_icons/f3_daughter_4.svg | 200 | 1 |
+| images/character_icons/f3_mother.svg | 289.8 | 1 |
+| images/character_icons/f3_son_7.svg | 190.4 | 1 |
+| images/character_icons/f3_uncle.svg | 211.5 | 1 |
 | images/character_icons/facilitator_female.svg | 636.4 | 3 |
 | images/character_icons/facilitator_male.svg | 459.5 | 3 |
-| images/character_icons/man_in_car.svg | 1241.8 | 1 |
+| images/character_icons/man_in_car.svg | 244.9 | 1 |
 | images/homescreen/behave.svg | 31.6 | 15 |
 | images/homescreen/budget.svg | 15.1 | 13 |
 | images/homescreen/check_in/traditional_rondavel_closed.svg | 1692.7 | 1 |
@@ -375,6 +375,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/in_progress.svg | 1.1 | 1 |
 | images/icons/information-circle-outline.svg | 0.6 | 1 |
 | images/icons/lightbulb_blue.png | 3.6 | 56 |
+| images/icons/loading.gif | 58.7 | 1 |
 | images/icons/local_library.svg | 1.6 | 1 |
 | images/icons/local_library_active.svg | 1.6 | 1 |
 | images/icons/local_library_white.svg | 1.9 | 1 |

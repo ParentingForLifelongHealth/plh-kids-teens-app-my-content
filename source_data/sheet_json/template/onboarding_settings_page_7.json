@@ -78,10 +78,22 @@
       "name": "result"
     },
     {
+      "name": "show_loading",
+      "value": false
+    },
+    {
       "type": "button",
       "value": "@global.join_group",
-      "action_list": "click | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());",
+      "action_list": "click | set_local: show_loading: TRUE;\nclick | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());\nclick | set_local: show_loading: FALSE;",
       "parameter_list": "disabled: !@local.valid_faci_group_id_input;"
+    },
+    {
+      "type": "image",
+      "name": "loading_image",
+      "value": "images/icons/loading.gif",
+      "style_list": "width: 48px;\nposition: fixed;\nleft: 50%;",
+      "condition": "@local.show_loading",
+      "exclude_from_translation": true
     },
     {
       "type": "text",
