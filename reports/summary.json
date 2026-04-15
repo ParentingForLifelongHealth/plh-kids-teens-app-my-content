@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 22
+        "count": 23
       },
       {
         "type": "items",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2923
+        "count": 2924
       },
       {
         "type": "simple_checkbox",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 66
+        "count": 68
       },
       {
         "type": "share",
@@ -295,8 +295,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "112876 KB",
-        "MB": "112.9 MB"
+        "KB": "93032 KB",
+        "MB": "93 MB"
       },
       {
         "assets": "unused",
@@ -1258,67 +1258,67 @@
       {
         "path": "images/character_icons/f1_daughter_2.svg",
         "count": 1,
-        "size_kb": 1815.2
+        "size_kb": 242
       },
       {
         "path": "images/character_icons/f1_daughter_6.svg",
         "count": 1,
-        "size_kb": 1429.9
+        "size_kb": 219
       },
       {
         "path": "images/character_icons/f1_father.svg",
         "count": 1,
-        "size_kb": 1678.4
+        "size_kb": 306.4
       },
       {
         "path": "images/character_icons/f1_mother.svg",
         "count": 1,
-        "size_kb": 1461.5
+        "size_kb": 245.3
       },
       {
         "path": "images/character_icons/f1_son_5.svg",
         "count": 1,
-        "size_kb": 1359.5
+        "size_kb": 174.8
       },
       {
         "path": "images/character_icons/f2_daughter_8.svg",
         "count": 1,
-        "size_kb": 2347.5
+        "size_kb": 237.2
       },
       {
         "path": "images/character_icons/f2_grandfather.svg",
         "count": 1,
-        "size_kb": 2334.9
+        "size_kb": 408.7
       },
       {
         "path": "images/character_icons/f2_grandmother.svg",
         "count": 1,
-        "size_kb": 2334.9
+        "size_kb": 375.1
       },
       {
         "path": "images/character_icons/f2_son_3.svg",
         "count": 1,
-        "size_kb": 2148.1
+        "size_kb": 225.2
       },
       {
         "path": "images/character_icons/f3_daughter_4.svg",
         "count": 1,
-        "size_kb": 1335.6
+        "size_kb": 200
       },
       {
         "path": "images/character_icons/f3_mother.svg",
         "count": 1,
-        "size_kb": 1465.5
+        "size_kb": 289.8
       },
       {
         "path": "images/character_icons/f3_son_7.svg",
         "count": 1,
-        "size_kb": 1426.5
+        "size_kb": 190.4
       },
       {
         "path": "images/character_icons/f3_uncle.svg",
         "count": 1,
-        "size_kb": 1094.4
+        "size_kb": 211.5
       },
       {
         "path": "images/character_icons/facilitator_female.svg",
@@ -1333,7 +1333,7 @@
       {
         "path": "images/character_icons/man_in_car.svg",
         "count": 1,
-        "size_kb": 1241.8
+        "size_kb": 244.9
       },
       {
         "path": "images/homescreen/behave.svg",
@@ -1544,6 +1544,11 @@
         "path": "images/icons/lightbulb_blue.png",
         "count": 56,
         "size_kb": 3.6
+      },
+      {
+        "path": "images/icons/loading.gif",
+        "count": 1,
+        "size_kb": 58.7
       },
       {
         "path": "images/icons/local_library.svg",
