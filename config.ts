@@ -4,7 +4,7 @@ const config = generateDeploymentConfig("plh_kids_teens_my");
 
 config.git = {
   content_repo: "https://github.com/ParentingForLifelongHealth/plh-kids-teens-app-my-content.git",
-  content_tag_latest: "1.1.70",
+  content_tag_latest: "1.1.71",
 };
 
 
@@ -26,10 +26,8 @@ config.google_drive.assets_folders = [
 config.android = {
   app_id:'international.idems.plh_kids_teens_my',
   app_name:'Naungan Kasih',
-  splash_asset_path: "./app_data/assets/android/splash.png",
-  icon_asset_path: "./app_data/assets/android/icon.png",
-  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
-  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+  logo_asset_path: "./app_data/assets/android/icon-foreground.png",
+  logo_background_color: "#FFFFFF",
   zoom_enabled: true
 };
 
@@ -37,7 +35,7 @@ config.ios = {
   app_id:"international.idems.plh_kids_teens_my",
   app_name:"Naungan Kasih",
   logo_asset_path: "./app_data/assets/android/icon-foreground.png",
-  logo_background_color: "#0E3A5A",
+  logo_background_color: "#FFFFFF",
   zoom_enabled: true
 };
 
