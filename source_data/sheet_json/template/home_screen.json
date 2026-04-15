@@ -73,7 +73,7 @@
       "name": "image",
       "value": "@local.home_screen_logo",
       "exclude_from_translation": true,
-      "style_list": "height: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;\n",
+      "style_list": "display: block;\nheight: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;\nobject-fit: contain;",
       "comment": "margin-bottom: -8px;"
     },
     {
