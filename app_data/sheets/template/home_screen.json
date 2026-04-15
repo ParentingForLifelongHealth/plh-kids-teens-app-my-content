@@ -72,14 +72,14 @@
       }
     },
     {
-      "name": "home_screen_logo_height",
+      "name": "home_screen_logo_width",
       "value": "48px",
       "_translations": {
         "value": {}
       },
       "condition": "!@global.home_screen_logo_height",
       "type": "set_variable",
-      "_nested_name": "home_screen_logo_height",
+      "_nested_name": "home_screen_logo_width",
       "_dynamicFields": {
         "condition": [
           {
@@ -95,6 +95,15 @@
           "condition"
         ]
       }
+    },
+    {
+      "name": "home_screen_logo_height",
+      "value": "48px",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "home_screen_logo_height"
     },
     {
       "name": "home_screen_logo_height",
@@ -291,10 +300,6 @@
               "_translations": {
                 "value": {}
               },
-              "style_list": [
-                "margin-top: 24px",
-                "margin-left: -24px"
-              ],
               "_nested_name": "dg_sticky_top.dg_row.hello_name",
               "_dynamicFields": {
                 "value": [
@@ -331,8 +336,7 @@
               "exclude_from_translation": true,
               "style_list": [
                 "height: @local.home_screen_logo_height",
-                "margin-top: 8px",
-                "margin-bottom: -8px"
+                "width: @local.home_screen_logo_width"
               ],
               "_nested_name": "dg_sticky_top.dg_row.image",
               "_dynamicFields": {
@@ -352,6 +356,14 @@
                       "type": "local",
                       "fieldName": "home_screen_logo_height"
                     }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "width: @local.home_screen_logo_width",
+                      "matchedExpression": "@local.home_screen_logo_width",
+                      "type": "local",
+                      "fieldName": "home_screen_logo_width"
+                    }
                   ]
                 }
               },
@@ -361,6 +373,9 @@
                 ],
                 "@local.home_screen_logo_height": [
                   "style_list.0"
+                ],
+                "@local.home_screen_logo_width": [
+                  "style_list.1"
                 ]
               }
             }

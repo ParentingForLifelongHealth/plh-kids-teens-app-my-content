@@ -21,9 +21,13 @@
       "condition": "!!@global.home_screen_logo_asset"
     },
     {
-      "name": "home_screen_logo_height",
+      "name": "home_screen_logo_width",
       "value": "48px",
       "condition": "!@global.home_screen_logo_height"
+    },
+    {
+      "name": "home_screen_logo_height",
+      "value": "48px"
     },
     {
       "name": "home_screen_logo_height",
@@ -55,21 +59,22 @@
       "type": "begin_display_group",
       "name": "dg_row",
       "exclude_from_translation": true,
-      "style_list": "justify-content: space-between;\npadding: 12px 24px;"
+      "style_list": "justify-content: space-between;\npadding: 12px 24px;",
+      "comment": "margin-top: 24px;\nmargin-left: -24px;"
     },
     {
       "type": "title",
       "name": "hello_name",
       "value": "@global.greeting @fields.user_name",
-      "style_list": "margin-top: 24px;\nmargin-left: -24px;"
+      "comment": "margin-top: 8px;"
     },
     {
       "type": "image",
       "name": "image",
       "value": "@local.home_screen_logo",
       "exclude_from_translation": true,
-      "style_list": "height: @local.home_screen_logo_height;\nmargin-top: 8px;\nmargin-bottom: -8px;",
-      "comment": "Need to make up for 1em extra margin added on the component below this. \n\nHacky workaround to have margin-bottom: -1em + 8px = -8px"
+      "style_list": "height: @local.home_screen_logo_height;\nwidth: @local.home_screen_logo_width;\n",
+      "comment": "margin-bottom: -8px;"
     },
     {
       "comment": "margin-right: -34px;"
