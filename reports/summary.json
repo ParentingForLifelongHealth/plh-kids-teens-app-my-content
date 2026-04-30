@@ -295,7 +295,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "93097 KB",
+        "KB": "93110 KB",
         "MB": "93.1 MB"
       },
       {
@@ -1690,7 +1690,7 @@
       {
         "path": "images/logos/PLH.png",
         "count": 1,
-        "size_kb": 28.2
+        "size_kb": 33.9
       },
       {
         "path": "images/logos/app_logo.png",
@@ -1710,7 +1710,7 @@
       {
         "path": "images/logos/lego.png",
         "count": 1,
-        "size_kb": 18
+        "size_kb": 32
       },
       {
         "path": "images/logos/lppkn.png",
@@ -1730,7 +1730,7 @@
       {
         "path": "images/logos/thsn.png",
         "count": 1,
-        "size_kb": 42.1
+        "size_kb": 36.1
       },
       {
         "path": "images/logos/unicef.png",

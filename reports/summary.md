@@ -88,7 +88,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 93097 KB | 93.1 MB |
+| total | 93110 KB | 93.1 MB |
 | unused | 1045 KB | 1 MB |
 </details>
 
@@ -403,15 +403,15 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_blue.png | 5.1 | 6 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
 | images/logos/IDEMS.png | 42.8 | 1 |
-| images/logos/PLH.png | 28.2 | 1 |
+| images/logos/PLH.png | 33.9 | 1 |
 | images/logos/app_logo.png | 12.8 | 2 |
 | images/logos/favicon.svg | 8.8 | 1 |
 | images/logos/kemas.png | 24.3 | 1 |
-| images/logos/lego.png | 18 | 1 |
+| images/logos/lego.png | 32 | 1 |
 | images/logos/lppkn.png | 45.2 | 1 |
 | images/logos/masw.png | 49 | 1 |
 | images/logos/oxford.png | 150.5 | 1 |
-| images/logos/thsn.png | 42.1 | 1 |
+| images/logos/thsn.png | 36.1 | 1 |
 | images/logos/unicef.png | 68.8 | 1 |
 | images/logos/upm.png | 57.3 | 1 |
 | images/onboarding/frustrated.svg | 27.3 | 1 |
