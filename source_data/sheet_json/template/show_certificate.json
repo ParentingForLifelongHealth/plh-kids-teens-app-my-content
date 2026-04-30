@@ -20,10 +20,9 @@
     {
       "type": "data_items",
       "name": "get_n_reprints",
-      "value": "@data.certificate_reprints_data",
+      "value": "@data.courses",
       "action_list": "data_changed | set_local : n_reprints: @items[0]?.n_reprints;",
-      "parameter_list": "filter:  @item._id == @fields.cert_to_print;\nlimit: 1;",
-      "condition": false,
+      "parameter_list": "filter:  @item.id == @fields.cert_to_print;\nlimit: 1;",
       "exclude_from_translation": true
     },
     {
@@ -60,7 +59,7 @@
     },
     {
       "type": "text",
-      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints ",
       "condition": false,
       "exclude_from_translation": true
     },
@@ -70,7 +69,7 @@
       "value": "<u>@global.change_certificate_name</u>",
       "action_list": "click | pop_up: update_certificate_name;",
       "parameter_list": "variant: card;\nstyle: no-background;",
-      "condition": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+      "condition": "(@local.n_reprints <@global.max_n_cert_reprints || !@local.n_reprints)",
       "exclude_from_translation": true
     },
     {
@@ -79,7 +78,7 @@
       "value": "<u>@global.change_certificate_name</u>",
       "action_list": "click | pop_up: no_more_reprints;",
       "parameter_list": "variant: card;\nstyle: no-background;",
-      "condition": "(@local.n_reprints >@global.max_n_cert_reprints)",
+      "condition": "(@local.n_reprints >=@global.max_n_cert_reprints)",
       "exclude_from_translation": true
     }
   ]

@@ -201,7 +201,8 @@
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : module_id : @items[0]?.id;\ndata_changed | set_local : module_title : @items[0]?.title;\ndata_changed | set_local : course_id :@items[0]?.tag_course;\ndata_changed | set_local : has_in_progress : @items.length;",
       "parameter_list": "filter: !!@item.last_accessed_ts&& !@item.completed_ts && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship)) ;\nsort: last_accessed_ts;\nreverse;",
-      "exclude_from_translation": true
+      "exclude_from_translation": true,
+      "comment": "(!@item.tag_list || @item.tag_list.includes(@fields.child_age_tag))"
     },
     {
       "type": "data_items",

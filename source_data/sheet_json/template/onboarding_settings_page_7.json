@@ -36,6 +36,10 @@
       "exclude_from_translation": true
     },
     {
+      "name": "load_status",
+      "value": false
+    },
+    {
       "type": "text_bubble",
       "name": "text_bubble",
       "value": "@global.facilitator_message_faci_group_id",
@@ -80,8 +84,15 @@
     {
       "type": "button",
       "value": "@global.join_group",
-      "action_list": "click | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());;",
-      "parameter_list": "disabled: !@local.valid_faci_group_id_input;"
+      "action_list": "click | set_local: load_status: true;\nclick | emit: force_reprocess;\nclick | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());\nclick | set_local: load_status: false;\nclick | emit: force_reprocess;",
+      "parameter_list": "disabled: !@local.valid_faci_group_id_input || @local.load_status;"
+    },
+    {
+      "type": "text",
+      "name": "connecting_text",
+      "value": "@global.connecting",
+      "parameter_list": "text_align:center",
+      "condition": "@local.load_status"
     },
     {
       "type": "text",

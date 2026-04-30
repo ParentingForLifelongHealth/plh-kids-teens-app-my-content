@@ -53,15 +53,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
       }
     },
-    "certificate_reprints_data": {
-      "flow_type": "data_list",
-      "flow_name": "certificate_reprints_data",
-      "_source": {
-        "name": "kids_teens_my",
-        "path": "templates/MY certificates.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
-      }
-    },
     "characters": {
       "flow_type": "data_list",
       "flow_name": "characters",
@@ -8662,6 +8653,24 @@
         "name": "kids_teens_global V2",
         "path": "templates/PLH activity library.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
+      }
+    },
+    "debug_complete_course": {
+      "flow_type": "template",
+      "flow_name": "debug_complete_course",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/certificates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
+      }
+    },
+    "debug_complete_modules": {
+      "flow_type": "template",
+      "flow_name": "debug_complete_modules",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/certificates.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
       }
     },
     "delete_account_warning": {

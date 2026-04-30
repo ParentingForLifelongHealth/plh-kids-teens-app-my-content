@@ -152,6 +152,14 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "connecting",
+      "value": "Connecting to group, please wait.",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

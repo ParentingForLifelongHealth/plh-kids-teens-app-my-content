@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 102
+        "count": 103
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 124
+        "count": 127
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 97
+        "count": 98
       },
       {
         "type": "drawer",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2924
+        "count": 2922
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 898
+        "count": 899
       },
       {
         "type": "text",
-        "count": 199
+        "count": 203
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 5
+        "count": 6
       },
       {
         "type": "update_action_list",
@@ -203,7 +203,7 @@
       },
       {
         "type": "emit: force_reprocess",
-        "count": 13
+        "count": 17
       },
       {
         "type": "emit: force_restart",
@@ -243,7 +243,7 @@
       },
       {
         "type": "pop_up",
-        "count": 82
+        "count": 74
       },
       {
         "type": "reset_app",
@@ -259,7 +259,7 @@
       },
       {
         "type": "set_data",
-        "count": 81
+        "count": 92
       },
       {
         "type": "set_field",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 66
+        "count": 71
       },
       {
         "type": "share",
@@ -295,13 +295,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "92973 KB",
-        "MB": "93 MB"
+        "KB": "93097 KB",
+        "MB": "93.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "1156 KB",
-        "MB": "1.2 MB"
+        "KB": "1045 KB",
+        "MB": "1 MB"
       }
     ]
   },
@@ -522,14 +522,6 @@
       {
         "path": "images/icons/world.svg",
         "size_kb": 6.2
-      },
-      {
-        "path": "images/logos/IDEMS.png",
-        "size_kb": 84.6
-      },
-      {
-        "path": "images/logos/PLH.png",
-        "size_kb": 26.6
       },
       {
         "path": "images/logos/favicon.png",
@@ -1691,6 +1683,16 @@
         "size_kb": 2.2
       },
       {
+        "path": "images/logos/IDEMS.png",
+        "count": 1,
+        "size_kb": 42.8
+      },
+      {
+        "path": "images/logos/PLH.png",
+        "count": 1,
+        "size_kb": 28.2
+      },
+      {
         "path": "images/logos/app_logo.png",
         "count": 2,
         "size_kb": 12.8
@@ -1701,44 +1703,34 @@
         "size_kb": 8.8
       },
       {
-        "path": "images/logos/idems.png",
-        "count": 1,
-        "size_kb": 42.7
-      },
-      {
         "path": "images/logos/kemas.png",
         "count": 1,
-        "size_kb": 5.6
+        "size_kb": 24.3
       },
       {
         "path": "images/logos/lego.png",
         "count": 1,
-        "size_kb": 10.4
+        "size_kb": 18
       },
       {
         "path": "images/logos/lppkn.png",
         "count": 1,
-        "size_kb": 41.2
+        "size_kb": 45.2
       },
       {
         "path": "images/logos/masw.png",
         "count": 1,
-        "size_kb": 7.1
+        "size_kb": 49
       },
       {
         "path": "images/logos/oxford.png",
         "count": 1,
-        "size_kb": 50
-      },
-      {
-        "path": "images/logos/plh.png",
-        "count": 1,
-        "size_kb": 20.5
+        "size_kb": 150.5
       },
       {
         "path": "images/logos/thsn.png",
         "count": 1,
-        "size_kb": 35.5
+        "size_kb": 42.1
       },
       {
         "path": "images/logos/unicef.png",
@@ -1748,7 +1740,7 @@
       {
         "path": "images/logos/upm.png",
         "count": 1,
-        "size_kb": 120.8
+        "size_kb": 57.3
       },
       {
         "path": "images/onboarding/frustrated.svg",
@@ -2592,7 +2584,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 19
+        "total": 18
       },
       {
         "type": "data_list",
@@ -2922,7 +2914,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 142
+        "total": 144
       },
       {
         "type": "template",

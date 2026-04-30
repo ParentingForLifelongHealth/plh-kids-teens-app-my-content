@@ -10,6 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "Children spend a lot of time online – for learning, playing, and staying connected. 🌍 Today’s skill is about how to keep your child safe online. 📱\n\nThere is so much to share. Online safety will be covered across two lessons. 2️⃣",
       "_translations": {
         "text_1_facilitator": {
@@ -33,6 +34,7 @@
       "id": "intro_2",
       "category_id": "intro",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "How can you support your child online? Here’s a quick question to get you going!",
       "_translations": {
         "text_1_facilitator": {
@@ -157,6 +159,7 @@
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "@data.characters.f3_daughter_4.name wants to play games on the handphone. Her mother, @data.characters.f3_mother.name, uses this opportunity to teach @data.characters.f3_daughter_4.name about how to stay safe online:",
       "_translations": {
         "text_1_facilitator": {
@@ -189,6 +192,7 @@
       "image_asset": "images/yc_modules/online_safety_yc_2.svg",
       "character_1_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "character_1_text": "Also, always ask Mummy for permission before using any device. You should also only play games or watch videos that we have approved, okay?",
       "_translations": {
         "character_1_text": {
@@ -208,6 +212,7 @@
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "character_1_text": "Can I create my own account for pictures and videos, Mummy? My friend has an account for herself.",
       "_translations": {
         "character_1_text": {
@@ -234,6 +239,7 @@
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_4",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "character_1_text": "And remember, never click on a pop-up or picture if it appears. Also, if anything ever upsets you, let us know right away. We're here to keep you safe!",
       "_translations": {
         "character_1_text": {
@@ -264,6 +270,7 @@
       "section_1_icon_asset": "images/icons/heart_filled_blue.png",
       "section_2_icon_asset": "images/icons/star_filled_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST.",
       "_translations": {
         "text_1_facilitator": {
@@ -308,6 +315,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "quiz_1_question": "Are you ready for today’s home activity? ⭐\n\nAsk your child what they do to stay safe online. 👂 You may find that they are already thinking about online safety. 💡\n\nPraise your child for any efforts they make. Can you talk with your child today? 🔔",
       "_translations": {
         "quiz_1_question": {

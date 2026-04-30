@@ -113,6 +113,7 @@
       },
       "category_id": "intro",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "Children spend a lot of time online – for learning, playing, and staying connected. 🌍 Today’s skill is about how to keep your child safe online. 📱\n\nThere is so much to share. Online safety will be covered across two lessons. 2️⃣",
       "_translations": {
         "text_1_facilitator": {
@@ -234,6 +235,7 @@
       "quiz_1_question": "True or False: Parents should set time limits on how long their child can use the internet each day.",
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "How can you support your child online? Here’s a quick question to get you going!",
       "quiz_2_question": "Here is another question to consider. True or false: If your child comes across something upsetting or uncomfortable online, they should keep it to themselves and not tell anyone.",
       "quiz_2_option_1_text": "True",
@@ -262,6 +264,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "@data.characters.f3_daughter_4.name wants to play games on the handphone. Her mother, @data.characters.f3_mother.name, uses this opportunity to teach @data.characters.f3_daughter_4.name about how to stay safe online:",
       "_translations": {
         "text_1_facilitator": {
@@ -290,6 +293,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "image_asset": "images/yc_modules/online_safety_yc_2.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "Also, always ask Mummy for permission before using any device. You should also only play games or watch videos that we have approved, okay?",
@@ -312,6 +316,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "image_asset": "images/yc_modules/online_safety_yc_3.svg",
       "character_1_id": "f3_daughter_4",
       "character_2_id": "f3_mother",
@@ -339,6 +344,7 @@
       },
       "category_id": "explore",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "image_asset": "images/yc_modules/online_safety_yc_4.svg",
       "character_1_id": "f3_mother",
       "character_2_id": "f3_daughter_4",
@@ -376,6 +382,7 @@
       },
       "category_id": "practical_tips",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "text_1_facilitator": "Keeping your child safe online is an important step to help them be part of the digital world. 📱\n\nHere are 4️⃣ tips that can help keep your child safe online: \n1️⃣ LEARN\n2️⃣ PROTECT\n3️⃣ BUILD HABITS\n4️⃣ BUILD TRUST\n\n🔑 Today, we are learning about LEARN and PROTECT. \n\n✨ The next lesson will cover BUILD HABITS and BUILD TRUST.",
       "_translations": {
         "text_1_facilitator": {
@@ -463,6 +470,7 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
+      "attached_single_doc": "https://docs.google.com/document/d/1st4P4F_5jppODPtPzlRPO_4qKOYnExlAvNvHSFLMC3o",
       "completed": false
     }
   ],

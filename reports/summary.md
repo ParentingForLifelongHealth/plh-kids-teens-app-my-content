@@ -9,12 +9,12 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 102 |
+| button | 103 |
 | combo_box | 25 |
-| data_items | 124 |
+| data_items | 127 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 97 |
+| display_group | 98 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 22 |
@@ -33,17 +33,17 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2924 |
+| set_variable | 2922 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 898 |
-| text | 199 |
+| template | 899 |
+| text | 203 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
 | title | 54 |
-| toggle_bar | 5 |
+| toggle_bar | 6 |
 | update_action_list | 1 |
 | video | 3 |
 | youtube | 4 |
@@ -59,7 +59,7 @@
 | auth | 3 |
 | emit: completed | 629 |
 | emit: force_reload | 3 |
-| emit: force_reprocess | 13 |
+| emit: force_reprocess | 17 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
@@ -69,14 +69,14 @@
 | nav_stack | 330 |
 | plh_certificate | 9 |
 | plh_parent_group | 2 |
-| pop_up | 82 |
+| pop_up | 74 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 81 |
+| set_data | 92 |
 | set_field | 117 |
 | set_item | 72 |
-| set_local | 66 |
+| set_local | 71 |
 | share | 3 |
 | task | 2 |
 | toast | 1 |
@@ -88,8 +88,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 92973 KB | 93 MB |
-| unused | 1156 KB | 1.2 MB |
+| total | 93097 KB | 93.1 MB |
+| unused | 1045 KB | 1 MB |
 </details>
 
 <details open>
@@ -153,8 +153,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/icons/trophy_footer_active.svg | 3.9 |
 | images/icons/verified.svg | 0.5 |
 | images/icons/world.svg | 6.2 |
-| images/logos/IDEMS.png | 84.6 |
-| images/logos/PLH.png | 26.6 |
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
@@ -404,18 +402,18 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/icons/trophy_active.png | 1.7 | 1 |
 | images/icons/trophy_blue.png | 5.1 | 6 |
 | images/icons/trophy_large.svg | 2.2 | 1 |
+| images/logos/IDEMS.png | 42.8 | 1 |
+| images/logos/PLH.png | 28.2 | 1 |
 | images/logos/app_logo.png | 12.8 | 2 |
 | images/logos/favicon.svg | 8.8 | 1 |
-| images/logos/idems.png | 42.7 | 1 |
-| images/logos/kemas.png | 5.6 | 1 |
-| images/logos/lego.png | 10.4 | 1 |
-| images/logos/lppkn.png | 41.2 | 1 |
-| images/logos/masw.png | 7.1 | 1 |
-| images/logos/oxford.png | 50 | 1 |
-| images/logos/plh.png | 20.5 | 1 |
-| images/logos/thsn.png | 35.5 | 1 |
+| images/logos/kemas.png | 24.3 | 1 |
+| images/logos/lego.png | 18 | 1 |
+| images/logos/lppkn.png | 45.2 | 1 |
+| images/logos/masw.png | 49 | 1 |
+| images/logos/oxford.png | 150.5 | 1 |
+| images/logos/thsn.png | 42.1 | 1 |
 | images/logos/unicef.png | 68.8 | 1 |
-| images/logos/upm.png | 120.8 | 1 |
+| images/logos/upm.png | 57.3 | 1 |
 | images/onboarding/frustrated.svg | 27.3 | 1 |
 | images/onboarding/join_parents.svg | 116 | 1 |
 | images/onboarding/loving_parent.svg | 46.9 | 1 |
@@ -590,7 +588,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 19 |
+| data_list |  | 18 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | check_in | 1 |
@@ -656,7 +654,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 6 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 142 |
+| template |  | 144 |
 | template | generated | 694 |
 | template | legal_terms | 4 |
 </details>

@@ -77,6 +77,11 @@
       "type": "declare_global_constant",
       "name": "faci_group_id_setting_title",
       "value": "Facilitator Group ID"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "connecting",
+      "value": "Connecting to group, please wait."
     }
   ]
 }

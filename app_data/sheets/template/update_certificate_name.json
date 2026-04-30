@@ -103,6 +103,128 @@
       "_nested_name": "result"
     },
     {
+      "type": "data_items",
+      "name": "get_n_reprints",
+      "value": "@data.courses",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "data_changed",
+          "action_id": "set_local",
+          "args": [
+            "n_reprints",
+            "@items[0]?.n_reprints"
+          ],
+          "_raw": "data_changed | set_local : n_reprints: @items[0]?.n_reprints"
+        }
+      ],
+      "parameter_list": {
+        "filter": "@item.id == @fields.cert_to_print",
+        "limit": "1"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "get_n_reprints",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.courses",
+            "matchedExpression": "@data.courses",
+            "type": "data",
+            "fieldName": "courses"
+          }
+        ],
+        "parameter_list": {
+          "filter": [
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@item.id",
+              "type": "item",
+              "fieldName": "id"
+            },
+            {
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@fields.cert_to_print",
+              "type": "fields",
+              "fieldName": "cert_to_print"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@data.courses": [
+          "value"
+        ],
+        "@item.id": [
+          "parameter_list.filter"
+        ],
+        "@fields.cert_to_print": [
+          "parameter_list.filter"
+        ]
+      }
+    },
+    {
+      "name": "n_reprints_or_zero",
+      "value": 0,
+      "condition": "!@local.n_reprints",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "n_reprints_or_zero",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.n_reprints",
+            "matchedExpression": "!@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.n_reprints": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "n_reprints_or_zero",
+      "value": "@local.n_reprints",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "!!@local.n_reprints",
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "n_reprints_or_zero",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.n_reprints",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!@local.n_reprints",
+            "matchedExpression": "!@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.n_reprints": [
+          "value"
+        ],
+        "!@local.n_reprints": [
+          "condition"
+        ]
+      }
+    },
+    {
       "type": "title",
       "name": "certificate_name_input_question",
       "value": "@global.certificate_name_question",
@@ -196,6 +318,31 @@
       }
     },
     {
+      "type": "text",
+      "value": "n: @local.n_reprints_or_zero",
+      "_translations": {
+        "value": {}
+      },
+      "condition": false,
+      "name": "text_14",
+      "_nested_name": "text_14",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "n: @local.n_reprints_or_zero",
+            "matchedExpression": "@local.n_reprints_or_zero",
+            "type": "local",
+            "fieldName": "n_reprints_or_zero"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.n_reprints_or_zero": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
@@ -226,6 +373,17 @@
             "certificate_template": "@local.certificate_template",
             "certificate_data_list": "@local.certificate_data_list",
             "result_local_variable_name": "result"
+          }
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_data",
+          "args": [],
+          "_raw": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints_or_zero +1",
+          "params": {
+            "_list_id": "courses",
+            "_id": "@fields.cert_to_print",
+            "n_reprints": "@local.n_reprints_or_zero +1"
           }
         },
         {
@@ -351,6 +509,40 @@
                 }
               ]
             }
+          },
+          "2": {
+            "_raw": [
+              {
+                "fullExpression": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints_or_zero +1",
+                "matchedExpression": "@fields.cert_to_print",
+                "type": "fields",
+                "fieldName": "cert_to_print"
+              },
+              {
+                "fullExpression": "click | set_data | _list_id: courses, _id: @fields.cert_to_print, n_reprints: @local.n_reprints_or_zero +1",
+                "matchedExpression": "@local.n_reprints_or_zero",
+                "type": "local",
+                "fieldName": "n_reprints_or_zero"
+              }
+            ],
+            "params": {
+              "_id": [
+                {
+                  "fullExpression": "@fields.cert_to_print",
+                  "matchedExpression": "@fields.cert_to_print",
+                  "type": "fields",
+                  "fieldName": "cert_to_print"
+                }
+              ],
+              "n_reprints": [
+                {
+                  "fullExpression": "@local.n_reprints_or_zero +1",
+                  "matchedExpression": "@local.n_reprints_or_zero",
+                  "type": "local",
+                  "fieldName": "n_reprints_or_zero"
+                }
+              ]
+            }
           }
         },
         "parameter_list": {
@@ -380,7 +572,9 @@
         ],
         "@fields.cert_to_print": [
           "action_list.1._raw",
-          "action_list.1.params.id"
+          "action_list.1.params.id",
+          "action_list.2._raw",
+          "action_list.2.params._id"
         ],
         "@local.certificate_template": [
           "action_list.1._raw",
@@ -389,6 +583,10 @@
         "@local.certificate_data_list": [
           "action_list.1._raw",
           "action_list.1.params.certificate_data_list"
+        ],
+        "@local.n_reprints_or_zero": [
+          "action_list.2._raw",
+          "action_list.2.params.n_reprints"
         ],
         "!@local.completed_enabled": [
           "parameter_list.disabled"
