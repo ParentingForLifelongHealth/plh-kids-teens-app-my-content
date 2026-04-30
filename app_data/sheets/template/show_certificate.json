@@ -78,7 +78,7 @@
     {
       "type": "data_items",
       "name": "get_n_reprints",
-      "value": "@data.certificate_reprints_data",
+      "value": "@data.courses",
       "_translations": {
         "value": {}
       },
@@ -94,31 +94,30 @@
         }
       ],
       "parameter_list": {
-        "filter": "@item._id == @fields.cert_to_print",
+        "filter": "@item.id == @fields.cert_to_print",
         "limit": "1"
       },
-      "condition": false,
       "exclude_from_translation": true,
       "_nested_name": "get_n_reprints",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.certificate_reprints_data",
-            "matchedExpression": "@data.certificate_reprints_data",
+            "fullExpression": "@data.courses",
+            "matchedExpression": "@data.courses",
             "type": "data",
-            "fieldName": "certificate_reprints_data"
+            "fieldName": "courses"
           }
         ],
         "parameter_list": {
           "filter": [
             {
-              "fullExpression": "@item._id == @fields.cert_to_print",
-              "matchedExpression": "@item._id",
+              "fullExpression": "@item.id == @fields.cert_to_print",
+              "matchedExpression": "@item.id",
               "type": "item",
-              "fieldName": "_id"
+              "fieldName": "id"
             },
             {
-              "fullExpression": "@item._id == @fields.cert_to_print",
+              "fullExpression": "@item.id == @fields.cert_to_print",
               "matchedExpression": "@fields.cert_to_print",
               "type": "fields",
               "fieldName": "cert_to_print"
@@ -127,10 +126,10 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.certificate_reprints_data": [
+        "@data.courses": [
           "value"
         ],
-        "@item._id": [
+        "@item.id": [
           "parameter_list.filter"
         ],
         "@fields.cert_to_print": [
@@ -334,7 +333,7 @@
     },
     {
       "type": "text",
-      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
       "_translations": {
         "value": {}
       },
@@ -345,33 +344,40 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
           },
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
             "matchedExpression": "@global.max_n_cert_reprints",
             "type": "global",
             "fieldName": "max_n_cert_reprints"
           },
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
           },
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)",
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
             "matchedExpression": "@global.max_n_cert_reprints",
             "type": "global",
             "fieldName": "max_n_cert_reprints"
+          },
+          {
+            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
+            "matchedExpression": "@local.n_reprints",
+            "type": "local",
+            "fieldName": "n_reprints"
           }
         ]
       },
       "_dynamicDependencies": {
         "@local.n_reprints": [
+          "value",
           "value",
           "value"
         ],
@@ -402,7 +408,7 @@
         "variant": "card",
         "style": "no-background"
       },
-      "condition": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+      "condition": "(@local.n_reprints <@global.max_n_cert_reprints || !@local.n_reprints)",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -416,19 +422,19 @@
         ],
         "condition": [
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+            "fullExpression": "(@local.n_reprints <@global.max_n_cert_reprints || !@local.n_reprints)",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
           },
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+            "fullExpression": "(@local.n_reprints <@global.max_n_cert_reprints || !@local.n_reprints)",
             "matchedExpression": "@global.max_n_cert_reprints",
             "type": "global",
             "fieldName": "max_n_cert_reprints"
           },
           {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints || !@local.n_reprints)",
+            "fullExpression": "(@local.n_reprints <@global.max_n_cert_reprints || !@local.n_reprints)",
             "matchedExpression": "!@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
@@ -471,7 +477,7 @@
         "variant": "card",
         "style": "no-background"
       },
-      "condition": "(@local.n_reprints >@global.max_n_cert_reprints)",
+      "condition": "(@local.n_reprints >=@global.max_n_cert_reprints)",
       "exclude_from_translation": true,
       "_nested_name": "button_update_name",
       "_dynamicFields": {
@@ -485,13 +491,13 @@
         ],
         "condition": [
           {
-            "fullExpression": "(@local.n_reprints >@global.max_n_cert_reprints)",
+            "fullExpression": "(@local.n_reprints >=@global.max_n_cert_reprints)",
             "matchedExpression": "@local.n_reprints",
             "type": "local",
             "fieldName": "n_reprints"
           },
           {
-            "fullExpression": "(@local.n_reprints >@global.max_n_cert_reprints)",
+            "fullExpression": "(@local.n_reprints >=@global.max_n_cert_reprints)",
             "matchedExpression": "@global.max_n_cert_reprints",
             "type": "global",
             "fieldName": "max_n_cert_reprints"

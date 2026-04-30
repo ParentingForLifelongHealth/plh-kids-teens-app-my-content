@@ -223,11 +223,9 @@
     {
       "type": "declare_global_constant",
       "name": "lock_course_text",
-      "value": "Additional courses will be available once your first course",
+      "value": "Additional courses will be available once your complete all available Parenting Skills",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
@@ -398,6 +396,11 @@
           "my_ms": true
         }
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "gender_youtube_link",
+      "value": true
     }
   ],
   "_source": {

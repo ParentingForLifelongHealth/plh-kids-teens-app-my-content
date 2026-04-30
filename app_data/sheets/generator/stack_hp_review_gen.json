@@ -90,10 +90,10 @@
               "args": [
                 "generate"
               ],
-              "_raw": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: @gen.id,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+              "_raw": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: @gen.id,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
               "params": {
                 "url": "@global.certificator_url",
-                "name": "@fields.user_name",
+                "name": "@fields.certificate_name",
                 "id": "@gen.id",
                 "certificate_template": "@local.certificate_template",
                 "certificate_data_list": "@local.certificate_data_list",
@@ -118,6 +118,17 @@
                 "_list_id": "hp_check_in",
                 "_id": "@gen.id",
                 "unlocked_activity": true
+              }
+            },
+            {
+              "trigger": "completed",
+              "action_id": "set_data",
+              "args": [],
+              "_raw": "completed | set_data | _list_id: courses, _id: @gen.id, n_reprints: 0",
+              "params": {
+                "_list_id": "courses",
+                "_id": "@gen.id",
+                "n_reprints": 0
               }
             },
             {
@@ -157,21 +168,6 @@
               "value": "@global.first_completion_icon"
             }
           ]
-        }
-      ]
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "completed",
-          "action_id": "pop_up",
-          "args": [
-            "unlock_play"
-          ],
-          "_raw": "completed | pop_up: unlock_play | variant: plh_completion",
-          "params": {
-            "variant": "plh_completion"
-          }
         }
       ]
     }

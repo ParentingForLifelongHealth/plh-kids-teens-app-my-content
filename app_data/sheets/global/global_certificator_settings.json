@@ -14,7 +14,7 @@
     {
       "type": "declare_global_constant",
       "name": "max_n_cert_reprints",
-      "value": 2
+      "value": 3
     }
   ],
   "_source": {

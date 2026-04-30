@@ -96,7 +96,7 @@
       "type": "begin_template",
       "name": "home_screen_header",
       "value": "home_screen_header",
-      "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.now",
+      "action_list": "completed | set_item | homescreen_quickstart_click_history: @local.now;",
       "condition": "!@local.has_been_clicked_previously",
       "exclude_from_translation": true,
       "style_list": "padding: 0px 24px 0px;\nmargin-top: -12px;",

@@ -134,10 +134,10 @@
               "args": [
                 "generate"
               ],
-              "_raw": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+              "_raw": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
               "params": {
                 "url": "@global.certificator_url",
-                "name": "@fields.user_name",
+                "name": "@fields.certificate_name",
                 "id": "structure",
                 "certificate_template": "@local.certificate_template",
                 "certificate_data_list": "@local.certificate_data_list",
@@ -162,6 +162,17 @@
                 "_list_id": "hp_check_in",
                 "_id": "structure",
                 "unlocked_activity": true
+              }
+            },
+            {
+              "trigger": "completed",
+              "action_id": "set_data",
+              "args": [],
+              "_raw": "completed | set_data | _list_id: courses, _id: structure, n_reprints: 0",
+              "params": {
+                "_list_id": "courses",
+                "_id": "structure",
+                "n_reprints": 0
               }
             },
             {
@@ -232,31 +243,31 @@
               "0": {
                 "_raw": [
                   {
-                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
                     "matchedExpression": "@global.certificator_url",
                     "type": "global",
                     "fieldName": "certificator_url"
                   },
                   {
-                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
-                    "matchedExpression": "@fields.user_name",
+                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+                    "matchedExpression": "@fields.certificate_name",
                     "type": "fields",
-                    "fieldName": "user_name"
+                    "fieldName": "certificate_name"
                   },
                   {
-                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
                     "matchedExpression": "@local.certificate_template",
                     "type": "local",
                     "fieldName": "certificate_template"
                   },
                   {
-                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
                     "matchedExpression": "@local.certificate_data_list",
                     "type": "local",
                     "fieldName": "certificate_data_list"
                   },
                   {
-                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.user_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
+                    "fullExpression": "completed | plh_certificate: generate |\nurl: @global.certificator_url,\nname: @fields.certificate_name,\nid: structure,\ncertificate_template: @local.certificate_template,\ncertificate_data_list: @local.certificate_data_list,\nresult_local_variable_name: @local.result",
                     "matchedExpression": "@local.result",
                     "type": "local",
                     "fieldName": "result"
@@ -273,10 +284,10 @@
                   ],
                   "name": [
                     {
-                      "fullExpression": "@fields.user_name",
-                      "matchedExpression": "@fields.user_name",
+                      "fullExpression": "@fields.certificate_name",
+                      "matchedExpression": "@fields.certificate_name",
                       "type": "fields",
-                      "fieldName": "user_name"
+                      "fieldName": "certificate_name"
                     }
                   ],
                   "certificate_template": [
@@ -332,7 +343,7 @@
               "action_list.0._raw",
               "action_list.0.params.url"
             ],
-            "@fields.user_name": [
+            "@fields.certificate_name": [
               "action_list.0._raw",
               "action_list.0.params.name"
             ],
@@ -373,24 +384,6 @@
           "parameter_list.filter"
         ]
       }
-    },
-    {
-      "action_list": [
-        {
-          "trigger": "completed",
-          "action_id": "pop_up",
-          "args": [
-            "unlock_play"
-          ],
-          "_raw": "completed | pop_up: unlock_play | variant: plh_completion",
-          "params": {
-            "variant": "plh_completion"
-          }
-        }
-      ],
-      "type": "set_variable",
-      "name": "set_variable_7",
-      "_nested_name": "set_variable_7"
     }
   ]
 }
