@@ -2050,7 +2050,9 @@
         "intro_text": {
           "my_ms": true
         },
-        "steps_text": {}
+        "steps_text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {

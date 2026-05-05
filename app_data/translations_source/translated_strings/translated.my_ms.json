@@ -3780,7 +3780,7 @@
     "note": ""
   },
   {
-    "SourceText": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “Shosholoza… ku lezontaba…”\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
+    "SourceText": "👋 Gather a few children (or just you and your little one) and form a small circle. \n\n🎵 Clap your hands in rhythm and sing a well-known local song like: “Rasa sayang.. hey rasa sayang, sayang hei\".\n\n⭐ As the song plays, take turns dancing into the centre of the circle or copying each other’s moves. Children can jump, spin, or stomp to the beat!",
     "text": "👋 Kumpulkan beberapa orang kanak‑kanak (atau hanya anda dan si kecil) dan bentuk satu bulatan kecil.\n\n🎵 Tepuk tangan mengikut rentak dan nyanyikan lagu tempatan yang dikenali ramai, seperti: “Rasa sayang.. hey rasa sayang, sayang hei”\n\n⭐ Semasa lagu dimainkan, ambil giliran menari ke tengah bulatan atau meniru pergerakan satu sama lain. Kanak‑kanak boleh melompat, berpusing, atau menghentak kaki mengikut rentak!",
     "type": "data_list",
     "note": ""
@@ -4868,6 +4868,12 @@
   {
     "SourceText": "3️⃣ Here are the three steps to start your family budget!",
     "text": "3️⃣Berikut adalah tiga langkah untuk mulakan belanjawan keluarga anda!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here is a video to help guide you on this exercise.",
+    "text": "Ini ialah video untuk membantu membimbing anda dalam melaksanakan latihan ini.",
     "type": "data_list",
     "note": ""
   },
@@ -8778,12 +8784,6 @@
     "note": ""
   },
   {
-    "SourceText": "Here is a video to help guide you on this exercise.",
-    "text": "Ini ialah video untuk membantu membimbing anda dalam melaksanakan latihan ini.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "YOUR EXPENSES",
     "text": "PERBELANJAAN ANDA",
     "type": "data_list",
@@ -8845,7 +8845,7 @@
   },
   {
     "SourceText": "Self-care is a key parenting tool. It starts with recognising how we feel.",
-    "text": "Penjagaan diri ialah salah satu alat penting dalam keibubapaan. Ia bermula dengan mengenali apa yang kita rasa.",
+    "text": "Penjagaan kendiri ialah salah satu amalan penting dalam keibubapaan. Ia bermula dengan mengenali apa yang kita rasa.",
     "type": "data_list",
     "note": ""
   },
@@ -9319,7 +9319,7 @@
   },
   {
     "SourceText": "Now, there are some important things I want to talk to you about. It's about keeping your body safe and healthy.",
-    "text": "Sekarang Ayah nak cakap tentang beberapa perkara penting berkaitan dengan menjaga tubuh badan kamu agar selamat dan sihat.",
+    "text": "Sekarang Mummy nak cakap tentang beberapa perkara penting berkaitan dengan menjaga tubuh badan kamu agar selamat dan sihat.",
     "type": "data_list",
     "note": ""
   },
@@ -10342,6 +10342,12 @@
     "text": "Tahniah kerana berjaya menamatkan kursus!",
     "type": "global",
     "note": ""
+  },
+  {
+    "SourceText": "You can find your certificates in @global.library by selecting \"My Certificates\"",
+    "text": "Anda boleh mencari sijil anda di @global.library dengan memilih “Sijil Saya”",
+    "type": "global",
+    "note": "The string @global.library should not be translated."
   },
   {
     "SourceText": "About @global.app_name",
