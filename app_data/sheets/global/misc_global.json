@@ -768,7 +768,9 @@
       "name": "certificates_location",
       "value": "You can find your certificates in @global.library by selecting \"My Certificates\"",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
