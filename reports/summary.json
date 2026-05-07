@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 103
+        "count": 106
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 127
+        "count": 175
       },
       {
         "type": "debug_toggle",
@@ -71,7 +71,7 @@
       },
       {
         "type": "nested_properties",
-        "count": 297
+        "count": 251
       },
       {
         "type": "number_selector",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2922
+        "count": 3003
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +139,11 @@
       },
       {
         "type": "template",
-        "count": 899
+        "count": 901
       },
       {
         "type": "text",
-        "count": 203
+        "count": 202
       },
       {
         "type": "text_area",
@@ -163,7 +163,7 @@
       },
       {
         "type": "toggle_bar",
-        "count": 6
+        "count": 5
       },
       {
         "type": "update_action_list",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 629
+        "count": 631
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +219,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 634
+        "count": 636
       },
       {
         "type": "feedback",
@@ -263,15 +263,15 @@
       },
       {
         "type": "set_field",
-        "count": 117
+        "count": 125
       },
       {
         "type": "set_item",
-        "count": 72
+        "count": 30
       },
       {
         "type": "set_local",
-        "count": 71
+        "count": 119
       },
       {
         "type": "share",
@@ -283,7 +283,7 @@
       },
       {
         "type": "toast",
-        "count": 1
+        "count": 9
       },
       {
         "type": "user",
@@ -2914,7 +2914,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 144
+        "total": 145
       },
       {
         "type": "template",

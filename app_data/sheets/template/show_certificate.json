@@ -332,62 +332,6 @@
       "_nested_name": "display_group_8"
     },
     {
-      "type": "text",
-      "value": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
-      "_translations": {
-        "value": {}
-      },
-      "condition": false,
-      "exclude_from_translation": true,
-      "name": "text_10",
-      "_nested_name": "text_10",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
-            "matchedExpression": "@local.n_reprints",
-            "type": "local",
-            "fieldName": "n_reprints"
-          },
-          {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
-            "matchedExpression": "@global.max_n_cert_reprints",
-            "type": "global",
-            "fieldName": "max_n_cert_reprints"
-          },
-          {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
-            "matchedExpression": "@local.n_reprints",
-            "type": "local",
-            "fieldName": "n_reprints"
-          },
-          {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
-            "matchedExpression": "@global.max_n_cert_reprints",
-            "type": "global",
-            "fieldName": "max_n_cert_reprints"
-          },
-          {
-            "fullExpression": "(@local.n_reprints <=@global.max_n_cert_reprints)\n(@local.n_reprints >@global.max_n_cert_reprints)\n@local.n_reprints",
-            "matchedExpression": "@local.n_reprints",
-            "type": "local",
-            "fieldName": "n_reprints"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.n_reprints": [
-          "value",
-          "value",
-          "value"
-        ],
-        "@global.max_n_cert_reprints": [
-          "value",
-          "value"
-        ]
-      }
-    },
-    {
       "type": "button",
       "name": "button_update_name",
       "value": "<u>@global.change_certificate_name</u>",
@@ -518,8 +462,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_my",
-    "path": "templates/MY certificates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+    "name": "kids_teens_global V2",
+    "path": "templates/certificates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
   }
 }

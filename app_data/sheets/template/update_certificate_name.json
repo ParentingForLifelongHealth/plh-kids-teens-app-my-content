@@ -40,12 +40,38 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "underscore"
     },
     {
+      "name": "deployment",
+      "value": "@global.deployment_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "deployment",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.deployment_id",
+            "matchedExpression": "@global.deployment_id",
+            "type": "global",
+            "fieldName": "deployment_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.deployment_id": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "certificate_template",
-      "value": "@fields.cert_to_print@local.underscore@local.lang",
+      "value": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
       "_translations": {
         "value": {}
       },
@@ -55,19 +81,31 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields.cert_to_print@local.underscore@local.lang",
-            "matchedExpression": "@fields.cert_to_print",
-            "type": "fields",
-            "fieldName": "cert_to_print"
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+            "matchedExpression": "@local.deployment",
+            "type": "local",
+            "fieldName": "deployment"
           },
           {
-            "fullExpression": "@fields.cert_to_print@local.underscore@local.lang",
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
             "matchedExpression": "@local.underscore",
             "type": "local",
             "fieldName": "underscore"
           },
           {
-            "fullExpression": "@fields.cert_to_print@local.underscore@local.lang",
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+            "matchedExpression": "@fields.cert_to_print",
+            "type": "fields",
+            "fieldName": "cert_to_print"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
+            "matchedExpression": "@local.underscore",
+            "type": "local",
+            "fieldName": "underscore"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
             "matchedExpression": "@local.lang",
             "type": "local",
             "fieldName": "lang"
@@ -75,10 +113,14 @@
         ]
       },
       "_dynamicDependencies": {
-        "@fields.cert_to_print": [
+        "@local.deployment": [
           "value"
         ],
         "@local.underscore": [
+          "value",
+          "value"
+        ],
+        "@fields.cert_to_print": [
           "value"
         ],
         "@local.lang": [
@@ -324,8 +366,8 @@
         "value": {}
       },
       "condition": false,
-      "name": "text_14",
-      "_nested_name": "text_14",
+      "name": "text_15",
+      "_nested_name": "text_15",
       "_dynamicFields": {
         "value": [
           {
@@ -595,8 +637,8 @@
     }
   ],
   "_source": {
-    "name": "kids_teens_my",
-    "path": "templates/MY certificates.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1Waa8zvAImxTZAn77-8w5pBk5BgytMuseplT0fm7CoTQ"
+    "name": "kids_teens_global V2",
+    "path": "templates/certificates.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
   }
 }

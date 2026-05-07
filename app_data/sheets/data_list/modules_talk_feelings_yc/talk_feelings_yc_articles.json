@@ -337,11 +337,9 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
-      "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
+      "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
       "_translations": {
-        "quiz_1_question": {
-          "my_ms": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "my_ms": true
         },
@@ -363,7 +361,7 @@
       },
       "_translatedFields": {
         "quiz_1_question": {
-          "eng": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?"
+          "eng": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n\nCan you do it today?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"
