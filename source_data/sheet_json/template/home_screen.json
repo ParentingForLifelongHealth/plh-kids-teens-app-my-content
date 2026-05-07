@@ -55,7 +55,7 @@
     {
       "type": "begin_display_group",
       "name": "dg_sticky_top",
-      "parameter_list": "sticky: top; \nstyle: column;",
+      "parameter_list": "style: column;",
       "exclude_from_translation": true,
       "style_list": "background-color: white;",
       "comment": "justify-content: space-between;"
