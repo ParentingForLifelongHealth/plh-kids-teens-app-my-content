@@ -14,11 +14,17 @@
     },
     {
       "name": "underscore",
-      "value": "_"
+      "value": "_",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "deployment",
+      "value": "@global.deployment_id",
+      "exclude_from_translation": true
     },
     {
       "name": "certificate_template",
-      "value": "@fields.cert_to_print@local.underscore@local.lang",
+      "value": "@local.deployment@local.underscore@fields.cert_to_print@local.underscore@local.lang",
       "exclude_from_translation": true
     },
     {

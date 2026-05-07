@@ -27,6 +27,15 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "deployment_id",
+      "value": "malaysia",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "home_screen_logo_asset",
       "value": "images/logos/app_logo.png",
       "_translations": {

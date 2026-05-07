@@ -18,7 +18,7 @@
       "title::eng": "One-on-One Time",
       "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/relation.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_1"
     },
     {
@@ -34,7 +34,7 @@
       "title::eng": "Kindness to Self",
       "home_activity::eng": "Now it’s time to practise spending 5 minutes of one-on-one time with your child.",
       "image_asset": "images/homescreen/learning.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_2"
     },
     {

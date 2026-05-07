@@ -15,6 +15,11 @@
       "text::eng": "NGO/Community Facilitator"
     },
     {
+      "id": "event",
+      "name": "event",
+      "text::eng": "Event or Conference"
+    },
+    {
       "id": "other",
       "name": "other",
       "text::eng": "None of the above"

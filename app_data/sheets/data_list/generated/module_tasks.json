@@ -36,7 +36,7 @@
       "unlock": 1,
       "core": true,
       "image_asset": "images/homescreen/relation.svg",
-      "relax_id": "relax_1",
+      "relax_id": "relax_3",
       "check_in_id": "check_in_1",
       "title": "One-on-One Time",
       "_translations": {
@@ -92,7 +92,7 @@
       "unlock": 2,
       "core": true,
       "image_asset": "images/homescreen/learning.svg",
-      "relax_id": "relax_3",
+      "relax_id": "relax_1",
       "check_in_id": "check_in_2",
       "title": "Kindness to Self",
       "_translations": {

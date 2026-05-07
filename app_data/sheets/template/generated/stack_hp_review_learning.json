@@ -13,23 +13,76 @@
       "_nested_name": "underscore"
     },
     {
-      "name": "certificate_template",
-      "value": "learning@local.underscore@fields._app_language",
+      "name": "deployment",
+      "value": "@global.deployment_id",
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "deployment",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.deployment_id",
+            "matchedExpression": "@global.deployment_id",
+            "type": "global",
+            "fieldName": "deployment_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.deployment_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "course",
+      "value": "learning",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "course"
+    },
+    {
+      "name": "certificate_template",
+      "value": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "certificate_template",
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "learning@local.underscore@fields._app_language",
+            "fullExpression": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
+            "matchedExpression": "@local.deployment",
+            "type": "local",
+            "fieldName": "deployment"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
             "matchedExpression": "@local.underscore",
             "type": "local",
             "fieldName": "underscore"
           },
           {
-            "fullExpression": "learning@local.underscore@fields._app_language",
+            "fullExpression": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
+            "matchedExpression": "@local.course",
+            "type": "local",
+            "fieldName": "course"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
+            "matchedExpression": "@local.underscore",
+            "type": "local",
+            "fieldName": "underscore"
+          },
+          {
+            "fullExpression": "@local.deployment@local.underscore@local.course@local.underscore@fields._app_language",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
@@ -37,7 +90,14 @@
         ]
       },
       "_dynamicDependencies": {
+        "@local.deployment": [
+          "value"
+        ],
         "@local.underscore": [
+          "value",
+          "value"
+        ],
+        "@local.course": [
           "value"
         ],
         "@fields._app_language": [
@@ -155,6 +215,15 @@
             },
             {
               "trigger": "completed",
+              "action_id": "set_field",
+              "args": [
+                "debugcert",
+                "@local.certificate_template"
+              ],
+              "_raw": "completed | set_field: debugcert: @local.certificate_template"
+            },
+            {
+              "trigger": "completed",
               "action_id": "set_data",
               "args": [],
               "_raw": "completed | set_data | _list_id: hp_check_in, _id: learning, unlocked_activity: TRUE",
@@ -190,6 +259,15 @@
                 "show_certificate"
               ],
               "_raw": "completed | pop_up: show_certificate"
+            },
+            {
+              "trigger": "completed",
+              "action_id": "toast",
+              "args": [],
+              "_raw": "completed | toast | message: @global.certificates_location",
+              "params": {
+                "message": "@global.certificates_location"
+              }
             },
             {
               "trigger": "uncompleted",
@@ -335,6 +413,46 @@
                     "fieldName": "id"
                   }
                 ]
+              },
+              "2": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.certificate_template",
+                      "matchedExpression": "@local.certificate_template",
+                      "type": "local",
+                      "fieldName": "certificate_template"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "completed | set_field: debugcert: @local.certificate_template",
+                    "matchedExpression": "@local.certificate_template",
+                    "type": "local",
+                    "fieldName": "certificate_template"
+                  }
+                ]
+              },
+              "7": {
+                "_raw": [
+                  {
+                    "fullExpression": "completed | toast | message: @global.certificates_location",
+                    "matchedExpression": "@global.certificates_location",
+                    "type": "global",
+                    "fieldName": "certificates_location"
+                  }
+                ],
+                "params": {
+                  "message": [
+                    {
+                      "fullExpression": "@global.certificates_location",
+                      "matchedExpression": "@global.certificates_location",
+                      "type": "global",
+                      "fieldName": "certificates_location"
+                    }
+                  ]
+                }
               }
             }
           },
@@ -349,7 +467,9 @@
             ],
             "@local.certificate_template": [
               "action_list.0._raw",
-              "action_list.0.params.certificate_template"
+              "action_list.0.params.certificate_template",
+              "action_list.2.args.1",
+              "action_list.2._raw"
             ],
             "@local.certificate_data_list": [
               "action_list.0._raw",
@@ -362,6 +482,10 @@
             "@item.id": [
               "action_list.1.args.1",
               "action_list.1._raw"
+            ],
+            "@global.certificates_location": [
+              "action_list.7._raw",
+              "action_list.7.params.message"
             ]
           }
         }
