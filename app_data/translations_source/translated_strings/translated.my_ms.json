@@ -9937,7 +9937,7 @@
   },
   {
     "SourceText": "Module",
-    "text": "Modul",
+    "text": "Kemahiran",
     "type": "global",
     "note": ""
   },
@@ -10099,7 +10099,7 @@
   },
   {
     "SourceText": "Well done for finishing all modules and home activities!",
-    "text": "Tahniah kerana berjaya menamatkan semua modul dan aktiviti di rumah!",
+    "text": "Tahniah kerana berjaya menamatkan semua kemahiran dan aktiviti di rumah!",
     "type": "global",
     "note": ""
   },
@@ -10117,7 +10117,7 @@
   },
   {
     "SourceText": "Complete your modules and home activities to unlock new moments of play.",
-    "text": "Lengkapkan modul dan aktiviti rumah anda untuk membuka aktiviti bermain yang baharu.",
+    "text": "Lengkapkan kemahiran dan aktiviti rumah anda untuk membuka aktiviti bermain yang baharu.",
     "type": "global",
     "note": ""
   },
@@ -10153,7 +10153,7 @@
   },
   {
     "SourceText": "Unlock your moments of play by completing a module or logging an activity!",
-    "text": "Selesaikan modul atau rekod aktiviti untuk membuka aktiviti bermain yang baharu!",
+    "text": "Selesaikan kemahiran atau rekod aktiviti untuk membuka aktiviti bermain yang baharu!",
     "type": "global",
     "note": ""
   },
@@ -10490,12 +10490,6 @@
   {
     "SourceText": "Finish the first course to unlock more",
     "text": "Selesaikan kursus pertama untuk membuka kursus-kursus yang lain",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Additional courses will be available once your first course",
-    "text": "Kursus tambahan akan tersedia selepas anda menyelesaikan kursus pertama",
     "type": "global",
     "note": ""
   },
