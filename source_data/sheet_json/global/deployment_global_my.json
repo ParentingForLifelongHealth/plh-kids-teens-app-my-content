@@ -155,7 +155,7 @@
     {
       "type": "declare_global_constant",
       "name": "lock_course_text",
-      "value": "Additional courses will be available once your complete all available Parenting Skills"
+      "value": "Additional courses will be available once you complete all available Parenting Skills"
     },
     {
       "type": "declare_global_constant",
