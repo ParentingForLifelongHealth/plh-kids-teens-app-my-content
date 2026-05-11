@@ -2,13 +2,7 @@
   "flow_type": "template",
   "flow_name": "home_screen",
   "status": "released",
-  "parameter_list": {
-    "app_config": {
-      "LAYOUT": {
-        "page_padding": "24px 0"
-      }
-    }
-  },
+  "comments": "app_config.LAYOUT.page_padding: 24px 0;",
   "rows": [
     {
       "name": "home_screen_logo",
@@ -308,7 +302,6 @@
           "name": "dg_row",
           "exclude_from_translation": true,
           "style_list": [
-            "padding: 12px 0px 0px",
             "justify-content: space-between"
           ],
           "rows": [
@@ -419,7 +412,6 @@
           "condition": "!@local.has_been_clicked_previously",
           "exclude_from_translation": true,
           "style_list": [
-            "padding: 0px 24px 0px",
             "margin-top: -12px"
           ],
           "rows": [],
@@ -484,7 +476,6 @@
           "condition": "@local.has_been_clicked_previously",
           "exclude_from_translation": true,
           "style_list": [
-            "padding: 0px 24px 0px",
             "margin-top: -12px"
           ],
           "rows": [],
@@ -540,7 +531,7 @@
       "value": "module_list",
       "exclude_from_translation": true,
       "style_list": [
-        "padding: 8px 24px 0px 24px",
+        "padding: 8px 0px 0px",
         "margin-top: -1em"
       ],
       "rows": [],
