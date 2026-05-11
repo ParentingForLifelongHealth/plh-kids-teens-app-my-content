@@ -135,9 +135,10 @@
     {
       "type": "begin_display_group",
       "name": "dg_footer",
-      "parameter_list": "sticky: bottom;",
-      "style_list": "padding: 12px 24px;",
-      "exclude_from_translation": true
+      "parameter_list": "sticky: bottom;\nwrap: true;",
+      "style_list": "padding: 12px 16px;\njustify-content: center;",
+      "exclude_from_translation": true,
+      "comments": "Padding changes from 24 to 16 due to 2 buttons"
     },
     {
       "type": "round_button",
