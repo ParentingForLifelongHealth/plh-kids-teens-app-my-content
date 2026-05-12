@@ -73,12 +73,12 @@
   },
   "_output_flows": [
     {
-      "flow_name": "article_one_on_one_yc_relax_1",
+      "flow_name": "article_one_on_one_yc_relax_3",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
     {
-      "flow_name": "article_kind_to_me_yc_relax_3",
+      "flow_name": "article_kind_to_me_yc_relax_1",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

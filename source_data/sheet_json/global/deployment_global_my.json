@@ -17,6 +17,12 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "deployment_id",
+      "value": "malaysia",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "home_screen_logo_asset",
       "value": "images/logos/app_logo.png"
     },
@@ -149,7 +155,7 @@
     {
       "type": "declare_global_constant",
       "name": "lock_course_text",
-      "value": "Additional courses will be available once your complete all available Parenting Skills"
+      "value": "Additional courses will be available once you complete all available Parenting Skills"
     },
     {
       "type": "declare_global_constant",

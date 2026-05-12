@@ -35,6 +35,19 @@
       }
     },
     {
+      "id": "event",
+      "name": "event",
+      "text": "Event or Conference",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Event or Conference"
+        }
+      }
+    },
+    {
       "id": "other",
       "name": "other",
       "text": "None of the above",

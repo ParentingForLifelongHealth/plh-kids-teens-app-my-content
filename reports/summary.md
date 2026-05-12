@@ -9,9 +9,9 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 103 |
+| button | 106 |
 | combo_box | 25 |
-| data_items | 127 |
+| data_items | 175 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 98 |
@@ -20,7 +20,7 @@
 | image | 22 |
 | items | 16 |
 | lottie_animation | 4 |
-| nested_properties | 297 |
+| nested_properties | 251 |
 | number_selector | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
@@ -33,17 +33,17 @@
 | round_button | 15 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 2922 |
+| set_variable | 3003 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 899 |
-| text | 203 |
+| template | 901 |
+| text | 202 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 11 |
 | title | 54 |
-| toggle_bar | 6 |
+| toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
 | youtube | 4 |
@@ -57,13 +57,13 @@
 | add_data | 1 |
 | app_update | 1 |
 | auth | 3 |
-| emit: completed | 629 |
+| emit: completed | 631 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 17 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 634 |
+| emit: uncompleted | 636 |
 | feedback | 13 |
 | go_to | 16 |
 | nav_stack | 330 |
@@ -74,12 +74,12 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 92 |
-| set_field | 117 |
-| set_item | 72 |
-| set_local | 71 |
+| set_field | 125 |
+| set_item | 30 |
+| set_local | 119 |
 | share | 3 |
 | task | 2 |
-| toast | 1 |
+| toast | 9 |
 | user | 3 |
 </details>
 
@@ -591,6 +591,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list |  | 18 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
+| data_list | campaign_rows | 1 |
+| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 100 |
 | data_list | hp_review | 2 |
@@ -654,7 +656,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 6 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
-| template |  | 144 |
+| template |  | 145 |
 | template | generated | 694 |
 | template | legal_terms | 4 |
 </details>

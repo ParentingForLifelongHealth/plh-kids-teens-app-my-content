@@ -146,7 +146,7 @@
     {
       "type": "declare_global_constant",
       "name": "well_done_for_finishing_this_module",
-      "value": "Well done for finishing this module"
+      "value": "Well done for finishing this skill"
     },
     {
       "type": "declare_global_constant",
@@ -176,7 +176,7 @@
     {
       "type": "declare_global_constant",
       "name": "complete_your_modules_and_home_activities_to_unlock_new_moments_of_play",
-      "value": "Complete your modules and home activities to unlock new moments of play."
+      "value": "Complete your skills and home activities to unlock new moments of play."
     },
     {
       "type": "declare_global_constant",

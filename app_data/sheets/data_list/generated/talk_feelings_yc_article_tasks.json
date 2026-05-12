@@ -439,7 +439,7 @@
       "id": "home_activity_1",
       "_translatedFields": {
         "quiz_1_question": {
-          "eng": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?"
+          "eng": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n\nCan you do it today?"
         },
         "quiz_1_option_1_text": {
           "eng": "Yes"
@@ -473,9 +473,7 @@
         "quiz_1_feedback_3": {
           "my_ms": true
         },
-        "quiz_1_question": {
-          "my_ms": true
-        },
+        "quiz_1_question": {},
         "quiz_1_option_1_text": {
           "my_ms": true
         },
@@ -488,7 +486,7 @@
       },
       "quiz_1_feedback_2": "This will make such a big difference. Great job! ⭐",
       "quiz_1_feedback_3": "That’s okay. Try to make time this week.",
-      "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
+      "quiz_1_question": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",

@@ -963,10 +963,12 @@
       "type": "display_group",
       "name": "dg_footer",
       "parameter_list": {
-        "sticky": "bottom"
+        "sticky": "bottom",
+        "wrap": "true"
       },
       "style_list": [
-        "padding: 12px 24px"
+        "padding: 12px 16px",
+        "justify-content: center"
       ],
       "exclude_from_translation": true,
       "rows": [
