@@ -33,6 +33,18 @@
     },
     {
       "type": "button",
+      "name": "button_notifications",
+      "value": "Notifications",
+      "action_list": "click | go_to:/notifications"
+    },
+    {
+      "type": "button",
+      "name": "button_campaigns",
+      "value": "Campaigns",
+      "action_list": "click | go_to:/campaigns"
+    },
+    {
+      "type": "button",
       "name": "button_reset",
       "value": "Reset app",
       "action_list": "click | reset_app"

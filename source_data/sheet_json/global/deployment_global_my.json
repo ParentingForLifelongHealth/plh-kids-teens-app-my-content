@@ -257,6 +257,24 @@
       "type": "declare_global_constant",
       "name": "gender_youtube_link",
       "value": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "n_modules_completed",
+      "value": 0,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "last_module_in_progress",
+      "value": "NA",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "start_at_id",
+      "value": "_start_at_id",
+      "exclude_from_translation": true
     }
   ]
 }
