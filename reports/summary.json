@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 106
+        "count": 108
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 175
+        "count": 176
       },
       {
         "type": "debug_toggle",
@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3003
+        "count": 3011
       },
       {
         "type": "simple_checkbox",
@@ -227,7 +227,7 @@
       },
       {
         "type": "go_to",
-        "count": 16
+        "count": 18
       },
       {
         "type": "nav_stack",
@@ -263,7 +263,7 @@
       },
       {
         "type": "set_field",
-        "count": 125
+        "count": 131
       },
       {
         "type": "set_item",
@@ -271,7 +271,7 @@
       },
       {
         "type": "set_local",
-        "count": 119
+        "count": 120
       },
       {
         "type": "share",

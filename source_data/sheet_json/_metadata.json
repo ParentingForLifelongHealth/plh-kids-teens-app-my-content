@@ -2192,15 +2192,6 @@
   },
   {
     "flow_type": "template",
-    "flow_name": "module",
-    "_source": {
-      "name": "kids_teens_my",
-      "path": "templates/MY articles.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1c9Kl1wQZOV3WnwaKKszxqorREoDeZF3WXSIi7AMlAmM"
-    }
-  },
-  {
-    "flow_type": "template",
     "flow_name": "module_group",
     "_source": {
       "name": "kids_teens_global V2",

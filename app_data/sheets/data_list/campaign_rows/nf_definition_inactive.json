@@ -161,12 +161,34 @@
       "message_type": "inactive",
       "action_list": [
         {
-          "trigger": "click",
-          "action_id": "go_to",
+          "trigger": "sent",
+          "action_id": "set_field",
           "args": [
-            "[last module in progress]"
+            "resume_lesson_sent",
+            true
           ],
-          "_raw": "click | go_to: [last module in progress]"
+          "_raw": "sent | set_field: resume_lesson_sent : true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_start_article_id",
+            "uncomplete"
+          ],
+          "_raw": "click | set_field: current_start_article_id: uncomplete"
+        },
+        {
+          "trigger": "click",
+          "action_id": "nav_stack",
+          "args": [
+            "open"
+          ],
+          "_raw": "click | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false",
+          "params": {
+            "template": "stack_module_@fields.last_module_in_progress@fields.start_at_id",
+            "header": false
+          }
         }
       ],
       "priority": 1,
@@ -177,6 +199,15 @@
             "calc": "@fields.last_module_in_progress != \"NA\""
           },
           "_raw": "@fields.last_module_in_progress != \"NA\""
+        }
+      ],
+      "deactivation_condition_list": [
+        {
+          "condition_type": "calc",
+          "condition_args": {
+            "calc": "@fields.resume_lesson_sent"
+          },
+          "_raw": "@fields.resume_lesson_sent"
         }
       ],
       "campaign_list": [
@@ -204,12 +235,34 @@
       "message_type": "inactive",
       "action_list": [
         {
-          "trigger": "click",
-          "action_id": "go_to",
+          "trigger": "sent",
+          "action_id": "set_field",
           "args": [
-            "[last module in progress]"
+            "resume_lesson_sent",
+            true
           ],
-          "_raw": "click | go_to: [last module in progress]"
+          "_raw": "sent | set_field: resume_lesson_sent : true"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_start_article_id",
+            "uncomplete"
+          ],
+          "_raw": "click | set_field: current_start_article_id: uncomplete"
+        },
+        {
+          "trigger": "click",
+          "action_id": "nav_stack",
+          "args": [
+            "open"
+          ],
+          "_raw": "click | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false",
+          "params": {
+            "template": "stack_module_@fields.last_module_in_progress@fields.start_at_id",
+            "header": false
+          }
         }
       ],
       "priority": 1,
@@ -220,6 +273,15 @@
             "calc": "@fields.last_module_in_progress != \"NA\""
           },
           "_raw": "@fields.last_module_in_progress != \"NA\""
+        }
+      ],
+      "deactivation_condition_list": [
+        {
+          "condition_type": "calc",
+          "condition_args": {
+            "calc": "@fields.resume_lesson_sent"
+          },
+          "_raw": "@fields.resume_lesson_sent"
         }
       ],
       "campaign_list": [
@@ -245,6 +307,17 @@
       "id": "win_back_a",
       "workshop": "independent",
       "message_type": "inactive",
+      "action_list": [
+        {
+          "trigger": "sent",
+          "action_id": "set_field",
+          "args": [
+            "win_back_sent",
+            true
+          ],
+          "_raw": "sent | set_field: win_back_sent : true"
+        }
+      ],
       "priority": 1,
       "activation_condition_list": [
         {
@@ -259,9 +332,9 @@
         {
           "condition_type": "calc",
           "condition_args": {
-            "calc": "completed program"
+            "calc": "@fields.win_back_sent"
           },
-          "_raw": "completed program"
+          "_raw": "@fields.win_back_sent"
         }
       ],
       "campaign_list": [
@@ -287,6 +360,17 @@
       "id": "win_back_b",
       "workshop": "independent",
       "message_type": "inactive",
+      "action_list": [
+        {
+          "trigger": "sent",
+          "action_id": "set_field",
+          "args": [
+            "win_back_sent",
+            true
+          ],
+          "_raw": "sent | set_field: win_back_sent : true"
+        }
+      ],
       "priority": 1,
       "activation_condition_list": [
         {
@@ -301,9 +385,9 @@
         {
           "condition_type": "calc",
           "condition_args": {
-            "calc": "completed program"
+            "calc": "@fields.win_back_sent"
           },
-          "_raw": "completed program"
+          "_raw": "@fields.win_back_sent"
         }
       ],
       "campaign_list": [
