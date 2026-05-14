@@ -7,15 +7,13 @@
     {
       "id": "kemas",
       "name": "kemas",
-      "text": "KEMAS",
+      "text": "My child's KEMAS teacher",
       "_translations": {
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "KEMAS"
+          "eng": "My child's KEMAS teacher"
         }
       }
     },
@@ -35,11 +33,26 @@
       }
     },
     {
+      "id": "advert",
+      "name": "advert",
+      "text": "Advertisement",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Advertisement"
+        }
+      }
+    },
+    {
       "id": "event",
       "name": "event",
       "text": "Event or Conference",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {

@@ -26,11 +26,9 @@
     {
       "type": "declare_global_constant",
       "name": "module",
-      "value": "Module",
+      "value": "Skill",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
@@ -288,7 +286,9 @@
       "name": "well_done_for_finishing_this_module",
       "value": "Well done for finishing this skill",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -314,11 +314,9 @@
     {
       "type": "declare_global_constant",
       "name": "well_done_finishing_module_hp",
-      "value": "Well done for finishing all modules and home activities!",
+      "value": "Well done for finishing all skills and home activities!",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
@@ -346,7 +344,9 @@
       "name": "complete_your_modules_and_home_activities_to_unlock_new_moments_of_play",
       "value": "Complete your skills and home activities to unlock new moments of play.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -402,11 +402,9 @@
     {
       "type": "declare_global_constant",
       "name": "no_unlocked_yet",
-      "value": "Unlock your moments of play by completing a module or logging an activity!",
+      "value": "Unlock your moments of play by completing a skill!",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
@@ -702,11 +700,9 @@
     {
       "type": "declare_global_constant",
       "name": "module_completion_encouragement",
-      "value": "Nice work! Complete the open lessons to unlock more.",
+      "value": "Nice work! Complete the open skills to unlock more.",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {

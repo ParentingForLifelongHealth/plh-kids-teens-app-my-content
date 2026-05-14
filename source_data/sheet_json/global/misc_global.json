@@ -16,7 +16,7 @@
     {
       "type": "declare_global_constant",
       "name": "module",
-      "value": "Module"
+      "value": "Skill"
     },
     {
       "type": "declare_global_constant",
@@ -161,7 +161,7 @@
     {
       "type": "declare_global_constant",
       "name": "well_done_finishing_module_hp",
-      "value": "Well done for finishing all modules and home activities!"
+      "value": "Well done for finishing all skills and home activities!"
     },
     {
       "type": "declare_global_constant",
@@ -206,7 +206,7 @@
     {
       "type": "declare_global_constant",
       "name": "no_unlocked_yet",
-      "value": "Unlock your moments of play by completing a module or logging an activity!"
+      "value": "Unlock your moments of play by completing a skill!"
     },
     {
       "type": "declare_global_constant",
@@ -356,7 +356,7 @@
     {
       "type": "declare_global_constant",
       "name": "module_completion_encouragement",
-      "value": "Nice work! Complete the open lessons to unlock more."
+      "value": "Nice work! Complete the open skills to unlock more."
     },
     {
       "type": "declare_global_constant",

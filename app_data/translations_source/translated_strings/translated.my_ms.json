@@ -372,6 +372,12 @@
     "note": ""
   },
   {
+    "SourceText": "Event or Conference",
+    "text": "Acara atau Persidangan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Johor",
     "text": "Johor",
     "type": "data_list",
@@ -590,6 +596,84 @@
   {
     "SourceText": "System tester",
     "text": "Penguji sistem",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your parenting journey starts here",
+    "text": "Perjalanan keibubapaan anda bermula di sini",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson.",
+    "text": "Selamat datang ke @global.parent_app! Kami gembira anda berada di sini. Satu tip kecil boleh bantu mudahkan hari anda. Sila klik di sini untuk mula pelajaran pertama anda.",
+    "type": "data_list",
+    "note": "The string @global.parent_app! should not be translated."
+  },
+  {
+    "SourceText": "A better family life starts with you",
+    "text": "Kehidupan keluarga yang lebih bahagia bermula dengan anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more.",
+    "text": "Selamat datang ke @global.parent_app. Anda boleh membuat perbezaan yang besar dengan hanya meluangkan 1 minit untuk belajar hari ini. Klik di sini untuk maklumat lanjut.",
+    "type": "data_list",
+    "note": "The string @global.parent_app. should not be translated."
+  },
+  {
+    "SourceText": "Well done! You finished your first skill. Tap here to keep going.",
+    "text": "Syabas! Anda berjaya selesaikan kemahiran pertama anda. Klik di sini untuk sambung.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Keep going — you started something great",
+    "text": "Teruskan, anda sedang melakukan sesuatu yang hebat",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.user_name, you started something great. Tap here to keep going.",
+    "text": "@fields.user_name, anda telah mulakan sesuatu yang bermakna. Klik di sini untuk teruskan.",
+    "type": "data_list",
+    "note": "The string @fields.user_name, should not be translated."
+  },
+  {
+    "SourceText": "Pick up where you left off",
+    "text": "Jom sambung semula pembelajaran anda",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish.",
+    "text": "@fields.user_name, pelajaran anda masih belum selesai. Luangkan sedikit masa lagi dengan klik di sini untuk teruskan pembelajaran anda.",
+    "type": "data_list",
+    "note": "The string @fields.user_name, should not be translated."
+  },
+  {
+    "SourceText": "Help your family with @global.parent_app",
+    "text": "Sokong keluarga anda dengan bantuan @global.parent_app",
+    "type": "data_list",
+    "note": "The string @global.parent_app should not be translated."
+  },
+  {
+    "SourceText": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in.",
+    "text": "Anda mempunyai 5 minit untuk keluarga anda hari ini? @global.parent_app sedia untuk menyokong anda. Klik di sini untuk teruskan.",
+    "type": "data_list",
+    "note": "The string @global.parent_app should not be translated."
+  },
+  {
+    "SourceText": "A small step for a better family life",
+    "text": "Perubahan besar bermula dengan satu langkah kecil",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going.",
+    "text": "Dengan hanya 1 minit sahaja boleh beri kesan besar kepada keluarga anda. Jom teruskan.",
     "type": "data_list",
     "note": ""
   },
@@ -1423,7 +1507,7 @@
   },
   {
     "SourceText": "Sorry to hear it was difficult for you. Well done for trying.",
-    "text": "Maaf kerana keadaan ini sukar bagi anda. Syabas kerana mencuba.",
+    "text": "Maaf, kami turut berdukacita. Syabas kerana mencuba.",
     "type": "data_list",
     "note": ""
   },
@@ -1471,7 +1555,7 @@
   },
   {
     "SourceText": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nChildline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999",
-    "text": "Pusat Perkhidmatan Wanita/ Women’s Centre for Change (WCC). Talian Bantuan Kaunseling: 011-3108 4001\n\nPertubuhan Pertolongan Wanita/ Women's Aid Organisation (WAO) (memberi sokongan kepada mangsa keganasan rumah tangga). Talian Utama: 03-3000 8858\n\nPersatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n\nChildline Malaysia (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999",
+    "text": "Pusat Perkhidmatan Wanita/ Women’s Centre for Change (WCC). Talian Bantuan Kaunseling: 011-3108 4001\n\nPertubuhan Pertolongan Wanita/ Women's Aid Organisation (WAO) (memberi sokongan kepada mangsa keganasan rumah tangga). Talian Utama: 03-3000 8858\n\nPersatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n\nJabatan Kebajikan Masyarakat (JKM) (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999 atau WhatsApp: 0192615999",
     "type": "data_list",
     "note": ""
   },
@@ -4260,10 +4344,10 @@
     "note": ""
   },
   {
-    "SourceText": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
-    "text": "Aktiviti di Rumah! ⭐ Hari ini, cuba berbual tentang perasaan semasa seorang-dengan-seorang dengan anak anda. Guna perkataan atau riak wajah untuk gambarkan perasaan anda dan juga perasaan anak anda - contohnya, “Ibu gembira sangat dapat jumpa kamu,” atau “Kamu nampak sedih sebab masa main dah habis.” Cuba buat sekurang-kurangnya 3 kali - jadikan ia sesuatu yang menyeronokkan!\n\nBolehkah anda lakukannya hari ini?",
+    "SourceText": "Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n\nCan you do it today?",
+    "text": "Aktiviti di Rumah! ⭐ Hari ini, cuba berbual tentang perasaan semasa seorang-dengan-seorang dengan anak anda. Guna perkataan atau riak wajah untuk gambarkan perasaan anda dan juga perasaan anak anda - contohnya, “Ibu gembira sangat dapat jumpa kamu, @fields.child_name” atau “Kamu nampak sedih sebab masa main dah habis, @fields.child_name” Cuba buat sekurang-kurangnya 3 kali - jadikan ia sesuatu yang menyeronokkan!\n\nBolehkah anda lakukannya hari ini?",
     "type": "data_list",
-    "note": ""
+    "note": "The following strings should not be translated:\n@fields.child_name,”\n@fields.child_name.”"
   },
   {
     "SourceText": "This will make such a big difference. Great job! ⭐",
@@ -4458,8 +4542,8 @@
     "note": ""
   },
   {
-    "SourceText": "If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:",
-    "text": "Jika anak memberitahu saya bahawa mereka rasa tidak selesa apabila bahagian sulit mereka disentuh oleh orang lain, saya perlu:",
+    "SourceText": "If your child tells you they feel uncomfortable about someone touching them on their private parts, I should:",
+    "text": "Jika anak anda memberitahu anda bahawa mereka rasa tidak selesa apabila bahagian sulit mereka disentuh oleh orang lain, saya perlu:",
     "type": "data_list",
     "note": ""
   },
@@ -8052,6 +8136,12 @@
     "note": ""
   },
   {
+    "SourceText": "It is also important to learn how to respond in these conversations. If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:",
+    "text": "Penting juga untuk belajar cara memberi tindak balas dalam perbualan seperti ini. Jika anak anda beritahu bahawa dia rasa tak selesa apabila seseorang menyentuh bahagian sulitnya, saya patut:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "@data.characters.f1_father.name wants to help his young children learn about safe and unsafe touch. Lets see how he has the conversation with his young son, @data.characters.f1_son_5.name.",
     "text": "@data.characters.f1_father.name mahu membantu anak kecilnya belajar tentang sentuhan selamat dan sentuhan tidak selamat. Mari kita lihat cara dia berkomunikasi dengan anak lelakinya, @data.characters.f1_son_5.name.",
     "type": "data_list",
@@ -9258,8 +9348,8 @@
     "note": ""
   },
   {
-    "SourceText": "It is also important to learn how to respond in these conversations. If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:",
-    "text": "Penting juga untuk belajar cara memberi tindak balas dalam perbualan seperti ini. Jika anak anda beritahu bahawa dia rasa tak selesa apabila seseorang menyentuh bahagian sulitnya, saya patut:",
+    "SourceText": "It is also important to learn how to respond in these conversations. If your child tells you they feel uncomfortable about someone touching them on their private parts, I should:",
+    "text": "Penting juga untuk belajar cara memberi tindak balas dalam perbualan seperti ini. Jika anak anda beritahu anda bahawa dia rasa tak selesa apabila seseorang menyentuh bahagian sulitnya, saya patut:",
     "type": "data_list",
     "note": ""
   },
@@ -9319,7 +9409,7 @@
   },
   {
     "SourceText": "Now, there are some important things I want to talk to you about. It's about keeping your body safe and healthy.",
-    "text": "Sekarang Mummy nak cakap tentang beberapa perkara penting berkaitan dengan menjaga tubuh badan kamu agar selamat dan sihat.",
+    "text": "Sekarang saya nak cakap tentang beberapa perkara penting berkaitan dengan menjaga tubuh badan kamu agar selamat dan sihat.",
     "type": "data_list",
     "note": ""
   },
@@ -10080,8 +10170,8 @@
     "note": ""
   },
   {
-    "SourceText": "Well done for finishing this module",
-    "text": "Tahniah kerana berjaya menamatkan modul ini",
+    "SourceText": "Well done for finishing this skill",
+    "text": "Tahniah kerana berjaya menamatkan kemahiran ini",
     "type": "global",
     "note": ""
   },
@@ -10116,7 +10206,7 @@
     "note": ""
   },
   {
-    "SourceText": "Complete your modules and home activities to unlock new moments of play.",
+    "SourceText": "Complete your skills and home activities to unlock new moments of play.",
     "text": "Lengkapkan kemahiran dan aktiviti rumah anda untuk membuka aktiviti bermain yang baharu.",
     "type": "global",
     "note": ""
@@ -10458,6 +10548,12 @@
     "note": ""
   },
   {
+    "SourceText": "Connecting to group, please wait.",
+    "text": "Kami sedang hubungkan anda ke kumpulan. Sila tunggu sebentar.",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "Naungan Kasih",
     "text": "Naungan Kasih",
     "type": "global",
@@ -10490,6 +10586,12 @@
   {
     "SourceText": "Finish the first course to unlock more",
     "text": "Selesaikan kursus pertama untuk membuka kursus-kursus yang lain",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Additional courses will be available once you complete all available Parenting Skills",
+    "text": "Kursus tambahan akan dibuka selepas anda menyiapkan semua Kemahiran Keibubapaan yang tersedia",
     "type": "global",
     "note": ""
   },

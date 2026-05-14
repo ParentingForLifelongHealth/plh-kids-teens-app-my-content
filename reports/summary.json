@@ -263,7 +263,7 @@
       },
       {
         "type": "set_field",
-        "count": 131
+        "count": 132
       },
       {
         "type": "set_item",
@@ -2598,16 +2598,6 @@
       },
       {
         "type": "data_list",
-        "subtype": "campaign_rows",
-        "total": 1
-      },
-      {
-        "type": "data_list",
-        "subtype": "campaign_schedule",
-        "total": 1
-      },
-      {
-        "type": "data_list",
         "subtype": "check_in",
         "total": 1
       },
@@ -2909,7 +2899,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 6
+        "total": 7
       },
       {
         "type": "global",
