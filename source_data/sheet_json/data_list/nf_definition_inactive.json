@@ -43,49 +43,47 @@
       "id": "resume_lesson_a",
       "workshop": "independent",
       "message_type": "inactive",
-      "action_list": "sent | set_field: resume_2_sent_@fields.last_module_in_progress : true;\nclick | set_field: current_start_article_id: uncomplete;\nclick | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false;",
+      "action_list": "click | set_field: current_start_article_id: uncomplete;\nclick | go_to : home_screen;\nclick | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false;",
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
-      "deactivation_condition_list": "@fields.resume_2_sent_{@fields.last_module_in_progress}",
-      "campaign_list": "nf_inactive_2_days_afternoon",
+      "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
       "title::eng": "Keep going — you started something great",
-      "text::eng": "@fields.user_name, you started something great. Tap here to keep going."
+      "text::eng": "@fields.user_name, you started something great. Tap here to keep going.",
+      "test": "@fields.resume_2_sent_{@row.test}"
     },
     {
       "id": "resume_lesson_b",
       "workshop": "independent",
       "message_type": "inactive",
-      "action_list": "sent | set_field: resume_7_sent_@fields.last_module_in_progress: true;\nclick | set_field: current_start_article_id: uncomplete;\nclick | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false;",
+      "action_list": "click | set_field: current_start_article_id: uncomplete;\nclick | go_to : home_screen;\nclick | nav_stack: open | template: stack_module_@fields.last_module_in_progress@fields.start_at_id, header: false;",
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
-      "deactivation_condition_list": "@fields[resume_7_sent_@fields.last_module_in_progress]",
-      "campaign_list": "nf_inactive_week",
+      "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
       "title::eng": "Pick up where you left off",
-      "text::eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
+      "text::eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish.",
+      "test": "@fields[resume_7_sent_@fields.last_module_in_progress]"
     },
     {
       "id": "win_back_a",
       "workshop": "independent",
       "message_type": "inactive",
-      "action_list": "sent | set_field: win_back_2_sent_@fields.latest_unlocked_activity : true;",
       "priority": 1,
       "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
-      "deactivation_condition_list": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]",
-      "campaign_list": "nf_inactive_2_days_evening",
+      "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "Help your family with @global.parent_app",
-      "text::eng": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in."
+      "text::eng": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in.",
+      "test": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]"
     },
     {
       "id": "win_back_b",
       "workshop": "independent",
       "message_type": "inactive",
-      "action_list": "sent | set_field: win_back_7_sent_@fields.latest_unlocked_activity : true;",
       "priority": 1,
       "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
-      "deactivation_condition_list": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]",
-      "campaign_list": "nf_inactive_week",
+      "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "A small step for a better family life",
-      "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+      "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going.",
+      "test": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]"
     }
   ]
 }
