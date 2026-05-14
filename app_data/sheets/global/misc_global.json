@@ -54,11 +54,9 @@
     {
       "type": "declare_global_constant",
       "name": "library",
-      "value": "My Resources",
+      "value": "Resources",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     },
     {
