@@ -591,6 +591,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list |  | 18 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
+| data_list | campaign_rows | 1 |
+| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 100 |
 | data_list | hp_review | 2 |
