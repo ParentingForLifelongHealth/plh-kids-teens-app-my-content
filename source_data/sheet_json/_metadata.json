@@ -503,6 +503,26 @@
   },
   {
     "flow_type": "data_list",
+    "flow_subtype": "campaign_rows",
+    "flow_name": "nf_definition_inactive",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/13wZjPwXuBmIIzigPlws8DjodG0mTThdi3zs9fanSwLE"
+    }
+  },
+  {
+    "flow_type": "data_list",
+    "flow_subtype": "campaign_schedule",
+    "flow_name": "nf_schedule_inactive",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY notifications.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/13wZjPwXuBmIIzigPlws8DjodG0mTThdi3zs9fanSwLE"
+    }
+  },
+  {
+    "flow_type": "data_list",
     "flow_subtype": "modules_nutrition_yc",
     "flow_name": "nutrition_yc_articles",
     "_source": {

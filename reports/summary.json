@@ -2598,6 +2598,16 @@
       },
       {
         "type": "data_list",
+        "subtype": "campaign_rows",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "campaign_schedule",
+        "total": 1
+      },
+      {
+        "type": "data_list",
         "subtype": "check_in",
         "total": 1
       },
