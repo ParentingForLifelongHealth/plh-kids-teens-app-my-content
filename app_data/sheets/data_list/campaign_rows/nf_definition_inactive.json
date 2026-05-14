@@ -171,15 +171,6 @@
       "message_type": "inactive",
       "action_list": [
         {
-          "trigger": "sent",
-          "action_id": "set_field",
-          "args": [
-            "resume_2_sent_@fields.last_module_in_progress",
-            true
-          ],
-          "_raw": "sent | set_field: resume_2_sent_@fields.last_module_in_progress : true"
-        },
-        {
           "trigger": "click",
           "action_id": "set_field",
           "args": [
@@ -187,6 +178,14 @@
             "uncomplete"
           ],
           "_raw": "click | set_field: current_start_article_id: uncomplete"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "home_screen"
+          ],
+          "_raw": "click | go_to : home_screen"
         },
         {
           "trigger": "click",
@@ -211,18 +210,11 @@
           "_raw": "@fields.last_module_in_progress != \"NA\""
         }
       ],
-      "deactivation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "@fields.resume_2_sent_{@fields.last_module_in_progress}"
-          },
-          "_raw": "@fields.resume_2_sent_{@fields.last_module_in_progress}"
-        }
-      ],
       "campaign_list": [
-        "nf_inactive_2_days_afternoon"
+        "nf_inactive_2_days_afternoon",
+        "nf_inactive_week"
       ],
+      "test": "@fields.resume_2_sent_@fields.resume_2_sent_@fields.resume_2_sent_{@row.test}",
       "title": "Keep going — you started something great",
       "_translations": {
         "title": {
@@ -248,15 +240,6 @@
       "message_type": "inactive",
       "action_list": [
         {
-          "trigger": "sent",
-          "action_id": "set_field",
-          "args": [
-            "resume_7_sent_@fields.last_module_in_progress",
-            true
-          ],
-          "_raw": "sent | set_field: resume_7_sent_@fields.last_module_in_progress: true"
-        },
-        {
           "trigger": "click",
           "action_id": "set_field",
           "args": [
@@ -264,6 +247,14 @@
             "uncomplete"
           ],
           "_raw": "click | set_field: current_start_article_id: uncomplete"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "home_screen"
+          ],
+          "_raw": "click | go_to : home_screen"
         },
         {
           "trigger": "click",
@@ -288,18 +279,11 @@
           "_raw": "@fields.last_module_in_progress != \"NA\""
         }
       ],
-      "deactivation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "@fields[resume_7_sent_@fields.last_module_in_progress]"
-          },
-          "_raw": "@fields[resume_7_sent_@fields.last_module_in_progress]"
-        }
-      ],
       "campaign_list": [
+        "nf_inactive_2_days_afternoon",
         "nf_inactive_week"
       ],
+      "test": "@fields[resume_7_sent_@fields.last_module_in_progress]",
       "title": "Pick up where you left off",
       "_translations": {
         "title": {
@@ -323,17 +307,6 @@
       "id": "win_back_a",
       "workshop": "independent",
       "message_type": "inactive",
-      "action_list": [
-        {
-          "trigger": "sent",
-          "action_id": "set_field",
-          "args": [
-            "win_back_2_sent_@fields.latest_unlocked_activity",
-            true
-          ],
-          "_raw": "sent | set_field: win_back_2_sent_@fields.latest_unlocked_activity : true"
-        }
-      ],
       "priority": 1,
       "activation_condition_list": [
         {
@@ -344,18 +317,11 @@
           "_raw": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
         }
       ],
-      "deactivation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]"
-          },
-          "_raw": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]"
-        }
-      ],
       "campaign_list": [
-        "nf_inactive_2_days_evening"
+        "nf_inactive_2_days_evening",
+        "nf_inactive_week"
       ],
+      "test": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]",
       "title": "Help your family with @global.parent_app",
       "_translations": {
         "title": {
@@ -379,17 +345,6 @@
       "id": "win_back_b",
       "workshop": "independent",
       "message_type": "inactive",
-      "action_list": [
-        {
-          "trigger": "sent",
-          "action_id": "set_field",
-          "args": [
-            "win_back_7_sent_@fields.latest_unlocked_activity",
-            true
-          ],
-          "_raw": "sent | set_field: win_back_7_sent_@fields.latest_unlocked_activity : true"
-        }
-      ],
       "priority": 1,
       "activation_condition_list": [
         {
@@ -400,18 +355,11 @@
           "_raw": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
         }
       ],
-      "deactivation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]"
-          },
-          "_raw": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]"
-        }
-      ],
       "campaign_list": [
+        "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
+      "test": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]",
       "title": "A small step for a better family life",
       "_translations": {
         "title": {
