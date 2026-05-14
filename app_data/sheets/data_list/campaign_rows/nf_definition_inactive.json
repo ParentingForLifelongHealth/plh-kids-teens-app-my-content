@@ -46,19 +46,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Your parenting journey starts here"
         },
         "text": {
-          "eng": "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+          "eng": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
         }
       },
-      "text": "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+      "text": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
     },
     {
       "id": "install_nudge_b",
@@ -102,19 +100,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "A better family life starts with you"
         },
         "text": {
-          "eng": "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+          "eng": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
         }
       },
-      "text": "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+      "text": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
     },
     {
       "id": "positive_reinforcement",
@@ -327,19 +323,17 @@
         "title": {
           "my_ms": true
         },
-        "text": {
-          "my_ms": true
-        }
+        "text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Help your family with @global.parent_app"
         },
         "text": {
-          "eng": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in."
+          "eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
         }
       },
-      "text": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in."
+      "text": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
     },
     {
       "id": "win_back_b",

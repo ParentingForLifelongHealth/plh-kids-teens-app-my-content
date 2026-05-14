@@ -14,7 +14,7 @@
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
       "title::eng": "Your parenting journey starts here",
-      "text::eng": "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+      "text::eng": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
     },
     {
       "id": "install_nudge_b",
@@ -26,7 +26,7 @@
       "deactivation_condition_list": "@fields.install_nudge_sent",
       "campaign_list": "nf_inactive_day",
       "title::eng": "A better family life starts with you",
-      "text::eng": "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+      "text::eng": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
     },
     {
       "id": "positive_reinforcement",
@@ -71,7 +71,7 @@
       "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "Help your family with @global.parent_app",
-      "text::eng": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in.",
+      "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in.",
       "test": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]"
     },
     {
