@@ -234,7 +234,9 @@
       "name": "lock_course_text",
       "value": "Additional courses will be available once you complete all available Parenting Skills",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

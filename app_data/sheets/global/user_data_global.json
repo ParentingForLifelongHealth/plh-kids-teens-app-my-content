@@ -158,7 +158,9 @@
       "name": "connecting",
       "value": "Connecting to group, please wait.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],

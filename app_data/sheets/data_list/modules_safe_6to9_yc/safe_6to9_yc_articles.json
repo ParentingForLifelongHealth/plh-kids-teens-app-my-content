@@ -38,7 +38,9 @@
         "text_1_facilitator": {
           "my_ms": true
         },
-        "quiz_1_question": {},
+        "quiz_1_question": {
+          "my_ms": true
+        },
         "quiz_1_option_1_text": {
           "my_ms": true
         },

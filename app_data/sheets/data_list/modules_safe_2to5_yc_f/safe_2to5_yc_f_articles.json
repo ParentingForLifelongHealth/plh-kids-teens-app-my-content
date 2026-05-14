@@ -53,7 +53,9 @@
         "quiz_1_feedback_2": {
           "my_ms": true
         },
-        "quiz_2_question": {},
+        "quiz_2_question": {
+          "my_ms": true
+        },
         "quiz_2_option_1_text": {
           "my_ms": true
         },

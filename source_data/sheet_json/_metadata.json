@@ -503,26 +503,6 @@
   },
   {
     "flow_type": "data_list",
-    "flow_subtype": "campaign_rows",
-    "flow_name": "nf_definition_inactive",
-    "_source": {
-      "name": "kids_teens_my",
-      "path": "data/MY notifications.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/13wZjPwXuBmIIzigPlws8DjodG0mTThdi3zs9fanSwLE"
-    }
-  },
-  {
-    "flow_type": "data_list",
-    "flow_subtype": "campaign_schedule",
-    "flow_name": "nf_schedule_inactive",
-    "_source": {
-      "name": "kids_teens_my",
-      "path": "data/MY notifications.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/13wZjPwXuBmIIzigPlws8DjodG0mTThdi3zs9fanSwLE"
-    }
-  },
-  {
-    "flow_type": "data_list",
     "flow_subtype": "modules_nutrition_yc",
     "flow_name": "nutrition_yc_articles",
     "_source": {
@@ -1463,6 +1443,15 @@
       "name": "kids_teens_my",
       "path": "templates/MY article template generators.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1zfQzuRSKsot-BrvpVoMCfzR9XP-7iCP0MvR8fQZdGWk"
+    }
+  },
+  {
+    "flow_type": "global",
+    "flow_name": "activity_global",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/PLH activity library.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/15l61UKBeIn5h0uP6cw9nMuWJiB3vK7JZwswsEVmCaUE"
     }
   },
   {

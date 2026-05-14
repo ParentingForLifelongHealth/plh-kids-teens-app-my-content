@@ -88,19 +88,17 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {
-          "my_ms": true
-        }
+        "introduction": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "A referral related to violence"
         },
         "introduction": {
-          "eng": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nChildline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999"
+          "eng": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nDepartment of Social Welfare (services for child abuse, domestic violence, and sexual assault). Talian Kasih: 15999 or WhatsApp: 0192615999"
         }
       },
-      "introduction": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nChildline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999"
+      "introduction": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nDepartment of Social Welfare (services for child abuse, domestic violence, and sexual assault). Talian Kasih: 15999 or WhatsApp: 0192615999"
     },
     {
       "id": "support_5",

@@ -74,7 +74,7 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 92 |
-| set_field | 131 |
+| set_field | 132 |
 | set_item | 30 |
 | set_local | 120 |
 | share | 3 |
@@ -591,8 +591,6 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_list |  | 18 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
-| data_list | campaign_rows | 1 |
-| data_list | campaign_schedule | 1 |
 | data_list | check_in | 1 |
 | data_list | generated | 100 |
 | data_list | hp_review | 2 |
@@ -653,7 +651,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | data_pipe |  | 4 |
 | data_pipe | generated | 96 |
 | generator |  | 60 |
-| global |  | 6 |
+| global |  | 7 |
 | global | legal_terms | 1 |
 | global | onboarding | 9 |
 | template |  | 145 |

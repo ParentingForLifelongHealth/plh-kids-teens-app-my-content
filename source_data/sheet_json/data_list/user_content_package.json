@@ -7,12 +7,17 @@
     {
       "id": "kemas",
       "name": "kemas",
-      "text::eng": "KEMAS"
+      "text::eng": "My child's KEMAS teacher"
     },
     {
       "id": "masw",
       "name": "masw",
       "text::eng": "NGO/Community Facilitator"
+    },
+    {
+      "id": "advert",
+      "name": "advert",
+      "text::eng": "Advertisement"
     },
     {
       "id": "event",
