@@ -38,6 +38,11 @@
       "id": "page_7",
       "completed": false,
       "completed_count": 6
+    },
+    {
+      "id": "page_8",
+      "completed": false,
+      "completed_count": 7
     }
   ]
 }

@@ -36,109 +36,65 @@
       "exclude_from_translation": true
     },
     {
-      "name": "load_status",
-      "value": false
-    },
-    {
       "type": "text_bubble",
       "name": "text_bubble",
-      "value": "@global.facilitator_message_faci_group_id",
+      "value": "@global.facilitator_message_user_type",
       "parameter_list": "speaker_image_asset: @local.speaker_image_asset;\nspeaker_name: @local.speaker_name;\nspeaker_position: @local.speaker_position;\nvariant: @local.variant;",
       "exclude_from_translation": true
     },
     {
       "type": "text",
-      "name": "question_faci_group_id",
-      "value": "@global.question_user_facilitator_group",
-      "parameter_list": "style: emphasised;",
+      "name": "question_user_type",
+      "value": "@global.question_user_type",
+      "parameter_list": "style: emphasised;"
+    },
+    {
+      "type": "combo_box",
+      "name": "user_type_select",
+      "value": "@fields.user_type",
+      "parameter_list": "answer_list: @data.user_type;\nplaceholder: @global.placeholder_user_type;\nvariant: dropdown;",
+      "condition": "!!@fields.user_type",
       "exclude_from_translation": true
     },
     {
-      "type": "text_box",
-      "name": "faci_group_id_input",
-      "value": "@fields.faci_group_id",
-      "parameter_list": "placeholder: @global.placeholder_user_facilitator_group;",
-      "condition": "!!@fields.faci_group_id",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text_box",
-      "name": "faci_group_id_input",
-      "parameter_list": "placeholder: @global.placeholder_user_facilitator_group;",
-      "condition": "!@fields.faci_group_id",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "valid_faci_group_id_input",
-      "value": "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)))",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "valid_faci_group_id_input_or_null",
-      "value": "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "result"
-    },
-    {
-      "type": "button",
-      "value": "@global.join_group",
-      "action_list": "click | set_local: load_status: true;\nclick | emit: force_reprocess;\nclick | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());\nclick | set_local: load_status: false;\nclick | emit: force_reprocess;",
-      "parameter_list": "disabled: !@local.valid_faci_group_id_input || @local.load_status;"
-    },
-    {
-      "type": "text",
-      "name": "connecting_text",
-      "value": "@global.connecting",
-      "parameter_list": "text_align:center",
-      "condition": "@local.load_status"
-    },
-    {
-      "type": "text",
-      "value": "@global.facilitator_input_restriction",
-      "style_list": "color: #FF0000;\nfont-size: 14px",
-      "condition": "@local.result?.error && !@local.valid_faci_group_id_input",
+      "type": "combo_box",
+      "name": "user_type_select",
+      "parameter_list": "answer_list: @data.user_type;\nplaceholder: @global.placeholder_user_type;\nvariant: dropdown;",
+      "condition": "!@fields.user_type",
       "exclude_from_translation": true
     },
     {
       "type": "text",
-      "value": "@global.error_invalid_group",
-      "style_list": "color: #FF0000;\nfont-size: 14px",
-      "condition": "@local.result?.error && @local.result?.message == \"User group not found\" && @local.valid_faci_group_id_input",
+      "name": "question_content_package",
+      "value": "@global.question_content_package",
+      "parameter_list": "style: emphasised;"
+    },
+    {
+      "type": "combo_box",
+      "name": "content_package_select",
+      "value": "@fields.content_package",
+      "parameter_list": "answer_list: @data.user_content_package;\nplaceholder: @global.placeholder_content_package;\nvariant: dropdown;",
+      "condition": "!!@fields.content_package",
       "exclude_from_translation": true
     },
     {
-      "type": "text",
-      "value": "@global.error_unknown",
-      "style_list": "color: #FF0000;\nfont-size: 14px",
-      "condition": "@local.result?.error && @local.result?.message !== \"User group not found\"  && @local.valid_faci_group_id_input",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "value": "@global.success",
-      "style_list": "color: green;\nfont-size: 14px",
-      "condition": "@local.result?.success",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "success",
-      "value": "@local.result?.success",
+      "type": "combo_box",
+      "name": "content_package_select",
+      "parameter_list": "answer_list: @data.user_content_package;\nplaceholder: @global.placeholder_content_package;\nvariant: dropdown;",
+      "condition": "!@fields.content_package",
       "exclude_from_translation": true
     },
     {
       "name": "completed_enabled",
-      "value": "@local.success",
+      "value": "!!@local.user_type_select && !!@local.content_package_select",
       "exclude_from_translation": true
     },
     {
       "type": "begin_display_group",
       "name": "dg_footer",
-      "parameter_list": "sticky: bottom;\nwrap: true;",
-      "style_list": "padding: 12px 16px;\njustify-content: center;",
-      "exclude_from_translation": true,
-      "comments": "Padding changes from 24 to 16 due to 2 buttons"
+      "parameter_list": "sticky: bottom;",
+      "style_list": "padding: 12px 24px;",
+      "exclude_from_translation": true
     },
     {
       "type": "round_button",
@@ -151,18 +107,9 @@
       "type": "button",
       "name": "button_completed_2",
       "value": "@global.continue",
-      "action_list": "click | set_field: faci_group_id: @local.faci_group_id_input;\nclick | emit: completed;",
+      "action_list": "click | set_field: user_type: @local.user_type_select;\nclick | set_field: content_package: @local.content_package_select;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "button",
-      "name": "button_skip",
-      "value": "<u>@global.skip</u>",
-      "action_list": "click | emit: completed;",
-      "parameter_list": "variant: card;\nstyle: no-background;",
-      "condition": "!@local.success",
       "exclude_from_translation": true
     },
     {

@@ -95,43 +95,8 @@
       "exclude_from_translation": true
     },
     {
-      "type": "text",
-      "name": "question_child_age",
-      "value": "@global.question_child_age",
-      "parameter_list": "style: emphasised;",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text_box",
-      "name": "child_age_input",
-      "value": "@fields.child_age",
-      "parameter_list": "placeholder: @global.placeholder_child_age;\nnumber_input: true;",
-      "condition": "!!@fields.child_age",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text_box",
-      "name": "child_age_input",
-      "parameter_list": "placeholder: @global.placeholder_child_age;\nnumber_input: true;",
-      "condition": "!@fields.child_age",
-      "exclude_from_translation": true
-    },
-    {
-      "name": "valid_child_age_input",
-      "value": "@calc((/^\\d+$/.test(@local.child_age_input) && @local.child_age_input>= 2 && @local.child_age_input<= 7) || @local.child_age_input == '' || !@local.child_age_input)",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "text",
-      "name": "warning_child_age_input",
-      "value": "@global.child_age_input_restriction",
-      "style_list": "color: #FF0000;\nfont-size: 14px",
-      "condition": "!@local.valid_child_age_input",
-      "exclude_from_translation": true
-    },
-    {
       "name": "completed_enabled",
-      "value": "!!@local.child_name_input &&!!@local.child_age_input && @local.valid_child_age_input &&  !!@local.child_gender_input",
+      "value": "!!@local.child_name_input &&  !!@local.child_gender_input",
       "exclude_from_translation": true
     },
     {
@@ -152,7 +117,7 @@
       "type": "button",
       "name": "button_completed_2",
       "value": "@global.continue",
-      "action_list": "click | set_field: child_age: @local.child_age_input;\nclick | set_field: child_name: @local.child_name_input;\nclick | set_field: child_gender: @local.child_gender_input;\nclick | emit: completed;",
+      "action_list": "click | set_field: child_name: @local.child_name_input;\nclick | set_field: child_gender: @local.child_gender_input;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
       "exclude_from_translation": true
