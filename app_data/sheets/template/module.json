@@ -644,7 +644,9 @@
       "name": "last_module_in_progress",
       "value": "NA",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": "!@local.last_module_in_progress_or_undefined",
       "type": "set_variable",
@@ -813,7 +815,9 @@
       "name": "curr_n_mod_or_plus_one",
       "value": "@calc(Number(@fields.n_modules_completed) +1)",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": "!@local.is_already_completed",
       "type": "set_variable",
@@ -858,7 +862,9 @@
       "type": "text",
       "value": "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "condition": false,
       "name": "text_31",

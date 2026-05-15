@@ -424,7 +424,9 @@
       "name": "last_module_in_progress",
       "value": "NA",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "exclude_from_translation": true
     },

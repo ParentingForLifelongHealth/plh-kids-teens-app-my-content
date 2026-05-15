@@ -88,7 +88,9 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {}
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
