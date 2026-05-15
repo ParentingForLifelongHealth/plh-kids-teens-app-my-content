@@ -1602,7 +1602,7 @@
   {
     "flow_type": "global",
     "flow_subtype": "onboarding",
-    "flow_name": "onboarding_page_6_user_type",
+    "flow_name": "onboarding_page_6_child_age",
     "_source": {
       "name": "kids_teens_my",
       "path": "data/MY onboarding.xlsx",
@@ -1612,7 +1612,17 @@
   {
     "flow_type": "global",
     "flow_subtype": "onboarding",
-    "flow_name": "onboarding_page_7_faci_group",
+    "flow_name": "onboarding_page_7_user_type",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY onboarding.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1u8N9s7F4KQW9ZAkyjHJHOEiJU96SUc9o5sWC08HRUac"
+    }
+  },
+  {
+    "flow_type": "global",
+    "flow_subtype": "onboarding",
+    "flow_name": "onboarding_page_8_faci_group",
     "_source": {
       "name": "kids_teens_my",
       "path": "data/MY onboarding.xlsx",
@@ -2850,6 +2860,15 @@
   {
     "flow_type": "template",
     "flow_name": "onboarding_settings_page_7",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "templates/MY onboarding templates.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1aUwbR38bDjfGwoFG1DaHaRejyoCbFGhyFOZ0lVJmOks"
+    }
+  },
+  {
+    "flow_type": "template",
+    "flow_name": "onboarding_settings_page_8",
     "_source": {
       "name": "kids_teens_my",
       "path": "templates/MY onboarding templates.xlsx",
