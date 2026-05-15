@@ -7,7 +7,7 @@
     {
       "type": "declare_global_constant",
       "name": "facilitator_message_child_age",
-      "value": "**Thanks @fields.user_name.**\n\nNow tell us a little more about @fields.child_name."
+      "value": "Now tell us a little more about @fields.child_name."
     },
     {
       "type": "declare_global_constant",

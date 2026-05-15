@@ -28,7 +28,9 @@
       "name": "module",
       "value": "Skill",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -56,7 +58,9 @@
       "name": "library",
       "value": "Resources",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -314,7 +318,9 @@
       "name": "well_done_finishing_module_hp",
       "value": "Well done for finishing all skills and home activities!",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -402,7 +408,9 @@
       "name": "no_unlocked_yet",
       "value": "Unlock your moments of play by completing a skill!",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -700,7 +708,9 @@
       "name": "module_completion_encouragement",
       "value": "Nice work! Complete the open skills to unlock more.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

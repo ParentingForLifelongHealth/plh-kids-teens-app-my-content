@@ -360,14 +360,20 @@
     "note": ""
   },
   {
-    "SourceText": "KEMAS",
-    "text": "KEMAS",
+    "SourceText": "My child's KEMAS teacher",
+    "text": "Guru KEMAS anak saya",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "NGO/Community Facilitator",
     "text": "Fasilitator Komuniti/NGO",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Advertisement",
+    "text": "Iklan",
     "type": "data_list",
     "note": ""
   },
@@ -606,10 +612,10 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson.",
-    "text": "Selamat datang ke @global.parent_app! Kami gembira anda berada di sini. Satu tip kecil boleh bantu mudahkan hari anda. Sila klik di sini untuk mula pelajaran pertama anda.",
+    "SourceText": "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson.",
+    "text": "Selamat datang ke @global.app_name! Kami gembira anda berada di sini. Satu tip kecil boleh bantu mudahkan hari anda. Sila klik di sini untuk mula pelajaran pertama anda.",
     "type": "data_list",
-    "note": "The string @global.parent_app! should not be translated."
+    "note": "The string @global.app_name! should not be translated."
   },
   {
     "SourceText": "A better family life starts with you",
@@ -618,10 +624,10 @@
     "note": ""
   },
   {
-    "SourceText": "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more.",
-    "text": "Selamat datang ke @global.parent_app. Anda boleh membuat perbezaan yang besar dengan hanya meluangkan 1 minit untuk belajar hari ini. Klik di sini untuk maklumat lanjut.",
+    "SourceText": "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more.",
+    "text": "Selamat datang ke @global.app_name. Anda boleh membuat perbezaan yang besar dengan hanya meluangkan 1 minit untuk belajar hari ini. Klik di sini untuk maklumat lanjut.",
     "type": "data_list",
-    "note": "The string @global.parent_app. should not be translated."
+    "note": "The string @global.app_name. should not be translated."
   },
   {
     "SourceText": "Well done! You finished your first skill. Tap here to keep going.",
@@ -660,10 +666,10 @@
     "note": "The string @global.parent_app should not be translated."
   },
   {
-    "SourceText": "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in.",
-    "text": "Anda mempunyai 5 minit untuk keluarga anda hari ini? @global.parent_app sedia untuk menyokong anda. Klik di sini untuk teruskan.",
+    "SourceText": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in.",
+    "text": "Anda mempunyai 5 minit untuk keluarga anda hari ini? @global.app_name sedia untuk menyokong anda. Klik di sini untuk teruskan.",
     "type": "data_list",
-    "note": "The string @global.parent_app should not be translated."
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "A small step for a better family life",
@@ -1554,7 +1560,7 @@
     "note": ""
   },
   {
-    "SourceText": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nChildline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999",
+    "SourceText": "Women’s Centre for Change (WCC) Counseling hotline: 011-3108 4001\n\nWomen's Aid Organisation (provides support for domestic violence victims). Hotline: 03 3000 8858\n\nAll Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n\nDepartment of Social Welfare (services for child abuse, domestic violence, and sexual assault). Talian Kasih: 15999 or WhatsApp: 0192615999",
     "text": "Pusat Perkhidmatan Wanita/ Women’s Centre for Change (WCC). Talian Bantuan Kaunseling: 011-3108 4001\n\nPertubuhan Pertolongan Wanita/ Women's Aid Organisation (WAO) (memberi sokongan kepada mangsa keganasan rumah tangga). Talian Utama: 03-3000 8858\n\nPersatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n\nJabatan Kebajikan Masyarakat (JKM) (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999 atau WhatsApp: 0192615999",
     "type": "data_list",
     "note": ""
@@ -10026,7 +10032,7 @@
     "note": ""
   },
   {
-    "SourceText": "Module",
+    "SourceText": "Skill",
     "text": "Kemahiran",
     "type": "global",
     "note": ""
@@ -10044,7 +10050,7 @@
     "note": ""
   },
   {
-    "SourceText": "My Resources",
+    "SourceText": "Resources",
     "text": "Bahan Saya",
     "type": "global",
     "note": ""
@@ -10188,7 +10194,7 @@
     "note": ""
   },
   {
-    "SourceText": "Well done for finishing all modules and home activities!",
+    "SourceText": "Well done for finishing all skills and home activities!",
     "text": "Tahniah kerana berjaya menamatkan semua kemahiran dan aktiviti di rumah!",
     "type": "global",
     "note": ""
@@ -10242,8 +10248,8 @@
     "note": ""
   },
   {
-    "SourceText": "Unlock your moments of play by completing a module or logging an activity!",
-    "text": "Selesaikan kemahiran atau rekod aktiviti untuk membuka aktiviti bermain yang baharu!",
+    "SourceText": "Unlock your moments of play by completing a skill!",
+    "text": "Lengkapkan kemahiran anda untuk membuka aktiviti bermain!",
     "type": "global",
     "note": ""
   },
@@ -10398,8 +10404,8 @@
     "note": ""
   },
   {
-    "SourceText": "Nice work! Complete the open lessons to unlock more.",
-    "text": "Syabas! Selesaikan pelajaran yang belum selesai untuk membuka lebih banyak pilihan pelajaran yang lain.",
+    "SourceText": "Nice work! Complete the open skills to unlock more.",
+    "text": "Syabas! Lengkapkan kemahiran yang masih belum selesai untuk memperoleh lebih banyak pilihan kemahiran lain.",
     "type": "global",
     "note": ""
   },
@@ -10454,6 +10460,30 @@
   {
     "SourceText": "User ID",
     "text": "ID Pengguna",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "What you need",
+    "text": "Apa yang anda perlukan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Steps",
+    "text": "Langkah-langkah",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "More tips",
+    "text": "Tip tambahan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Try also",
+    "text": "Sila cuba juga",
     "type": "global",
     "note": ""
   },
@@ -10866,6 +10896,36 @@
     "note": ""
   },
   {
+    "SourceText": "**Almost done!**\n\nThe last questions help us set up the App for you.",
+    "text": "**Hampir siap!** \n\nSoalan-soalan terakhir ini membantu kami sesuaikan Aplikasi untuk anda.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your role?",
+    "text": "Apakah peranan anda?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select role",
+    "text": "Pilih peranan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "How did you hear about this app?",
+    "text": "Bagaimana anda mengetahui tentang aplikasi ini?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Select one",
+    "text": "Pilih satu",
+    "type": "global",
+    "note": ""
+  },
+  {
     "SourceText": "**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n\nI’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!",
     "text": "**Helo! Saya @fields.facilitator_name. Terima kasih kerana berada di sini.**\n\nSaya akan menemani anda belajar melalui @global.app_name. Sebentar lagi, saya akan tanya beberapa soalan supaya pembelajaran anda dapat disesuaikan mengikut keperluan anda!",
     "type": "global",
@@ -10896,82 +10956,28 @@
     "note": ""
   },
   {
-    "SourceText": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below. If you don't have one, tap Skip.",
-    "text": "**Adakah anda menyertai kumpulan keibubapaan?**\n\nJika fasilitator anda memberikan ID Kumpulan, sila masukkannya di bawah. Jika anda tidak mempunyai ID Kumpulan, klik Langkau untuk teruskan.",
+    "SourceText": "**Thanks @fields.user_name.**\n\nNow tell us a little more about @fields.child_name.",
+    "text": "**Terima kasih @fields.user_name.**\n\nSekarang ini, kongsikan sedikit maklumat tentang @fields.child_name.",
+    "type": "global",
+    "note": "The following strings should not be translated:\n@fields.user_name.**\n@fields.child_name."
+  },
+  {
+    "SourceText": "How old is @fields.child_name?",
+    "text": "Berapakah umur @fields.child_name?",
+    "type": "global",
+    "note": "The string @fields.child_name? should not be translated."
+  },
+  {
+    "SourceText": "Enter age",
+    "text": "Berikan umur",
     "type": "global",
     "note": ""
   },
   {
-    "SourceText": "What is your facilitator's Group ID?",
-    "text": "Apakah ID Kumpulan fasilitator anda?",
+    "SourceText": "@global.app_name only supports parents of children between 2 and 7.",
+    "text": "@global.app_name hanya menyokong ibu bapa kepada anak berumur antara 2 hingga 7 tahun.",
     "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter 4-digit ID",
-    "text": "Masukkan ID 4-aksara",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Please enter a valid 4-character ID.",
-    "text": "Sila berikan ID Kumpulan 4-aksara yang sah.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Connect to group",
-    "text": "Sambungkan ke kumpulan",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Group not found, please check your Group ID",
-    "text": "Kumpulan tidak dijumpai, sila semak ID kumpulan anda",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "An unknown error occured, please try again later",
-    "text": "Maaf, berlaku masalah yang tidak dijangka. Sila cuba sekali lagi nanti",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Group successfully registered",
-    "text": "Pendaftaran kumpulan telah berjaya",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "**Almost done!**\n\nThe last questions help us set up the App for you.",
-    "text": "**Hampir siap!** \n\nSoalan-soalan terakhir ini membantu kami sesuaikan Aplikasi untuk anda.",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "What is your role?",
-    "text": "Apakah peranan anda?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Select role",
-    "text": "Pilih peranan",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "How did you hear about this app?",
-    "text": "Bagaimana anda mengetahui tentang aplikasi ini?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Select one",
-    "text": "Pilih satu",
-    "type": "global",
-    "note": ""
+    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "**Thanks @fields.user_name.**\n\nCan you tell me more about your child?",
@@ -11008,24 +11014,6 @@
     "text": "Pilih jantina",
     "type": "global",
     "note": ""
-  },
-  {
-    "SourceText": "How old is your child?",
-    "text": "Berapakah umur anak anda?",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "Enter age",
-    "text": "Berikan umur",
-    "type": "global",
-    "note": ""
-  },
-  {
-    "SourceText": "@global.app_name only supports parents of children between 2 and 7.",
-    "text": "@global.app_name hanya menyokong ibu bapa kepada anak berumur antara 2 hingga 7 tahun.",
-    "type": "global",
-    "note": "The string @global.app_name should not be translated."
   },
   {
     "SourceText": "**Thank you @fields.user_name.**\n \nCan you tell us a bit about your family? This helps us share the right tips for you.",
@@ -11076,27 +11064,51 @@
     "note": ""
   },
   {
-    "SourceText": "What you need",
-    "text": "Apa yang anda perlukan",
-    "type": "template",
+    "SourceText": "**Are you joining a parenting group?**\n\nIf your facilitator gave you a Group ID, enter it below. If you don't have one, tap Skip.",
+    "text": "**Adakah anda menyertai kumpulan keibubapaan?**\n\nJika fasilitator anda memberikan ID Kumpulan, sila masukkannya di bawah. Jika anda tidak mempunyai ID Kumpulan, klik Langkau untuk teruskan.",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Steps",
-    "text": "Langkah-langkah",
-    "type": "template",
+    "SourceText": "What is your facilitator's Group ID?",
+    "text": "Apakah ID Kumpulan fasilitator anda?",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "More tips",
-    "text": "Tip tambahan",
-    "type": "template",
+    "SourceText": "Enter 4-digit ID",
+    "text": "Masukkan ID 4-aksara",
+    "type": "global",
     "note": ""
   },
   {
-    "SourceText": "Try also",
-    "text": "Sila cuba juga",
-    "type": "template",
+    "SourceText": "Please enter a valid 4-character ID.",
+    "text": "Sila berikan ID Kumpulan 4-aksara yang sah.",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Connect to group",
+    "text": "Sambungkan ke kumpulan",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Group not found, please check your Group ID",
+    "text": "Kumpulan tidak dijumpai, sila semak ID kumpulan anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "An unknown error occured, please try again later",
+    "text": "Maaf, berlaku masalah yang tidak dijangka. Sila cuba sekali lagi nanti",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Group successfully registered",
+    "text": "Pendaftaran kumpulan telah berjaya",
+    "type": "global",
     "note": ""
   },
   {
@@ -11244,6 +11256,24 @@
     "note": "The following strings should not be translated:\n@local.faci_group_id_input\n@local.faci_group_id_input\n!@local.faci_group_id_input\n@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
   },
   {
+    "SourceText": "NA",
+    "text": "Tidak Berkenaan",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "@calc(Number(@fields.n_modules_completed) +1)",
+    "text": "@calc(Number(@fields.n_modules_completed) +1)",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@fields.n_modules_completed\n@calc(Number(@fields.n_modules_completed) +1)"
+  },
+  {
+    "SourceText": "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one",
+    "text": "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one",
+    "type": "template",
+    "note": "The following strings should not be translated:\n@local.last_module_in_progress\n@local.curr_module_or_last_in_progress\n@local.curr_n_mod_or_plus_one"
+  },
+  {
     "SourceText": "Countdown days: @local.countdown_days",
     "text": "Bilangan hari: @local.countdown_days",
     "type": "template",
@@ -11276,6 +11306,18 @@
   {
     "SourceText": "Dynamic data",
     "text": "Data Dinamik",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Notifications",
+    "text": "Notifikasi",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Campaigns",
+    "text": "Kempen",
     "type": "template",
     "note": ""
   },
