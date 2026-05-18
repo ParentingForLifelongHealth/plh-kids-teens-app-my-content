@@ -214,7 +214,6 @@
         "nf_inactive_2_days_afternoon",
         "nf_inactive_week"
       ],
-      "test": "@fields.resume_2_sent_@fields.resume_2_sent_@fields.resume_2_sent_{@row.test}",
       "title": "Keep going — you started something great",
       "_translations": {
         "title": {
@@ -283,7 +282,6 @@
         "nf_inactive_2_days_afternoon",
         "nf_inactive_week"
       ],
-      "test": "@fields[resume_7_sent_@fields.last_module_in_progress]",
       "title": "Pick up where you left off",
       "_translations": {
         "title": {
@@ -321,7 +319,6 @@
         "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
-      "test": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]",
       "title": "Help your family with @global.parent_app",
       "_translations": {
         "title": {
@@ -359,7 +356,6 @@
         "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
-      "test": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]",
       "title": "A small step for a better family life",
       "_translations": {
         "title": {

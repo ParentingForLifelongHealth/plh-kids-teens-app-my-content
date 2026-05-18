@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3019
+        "count": 3067
       },
       {
         "type": "simple_checkbox",
@@ -143,7 +143,7 @@
       },
       {
         "type": "text",
-        "count": 202
+        "count": 264
       },
       {
         "type": "text_area",
@@ -159,7 +159,7 @@
       },
       {
         "type": "title",
-        "count": 54
+        "count": 55
       },
       {
         "type": "toggle_bar",
