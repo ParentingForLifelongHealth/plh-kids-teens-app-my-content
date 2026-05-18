@@ -38,11 +38,11 @@
 | task_card | 4 |
 | task_progress_bar | 4 |
 | template | 901 |
-| text | 202 |
+| text | 216 |
 | text_area | 3 |
 | text_box | 24 |
 | text_bubble | 12 |
-| title | 54 |
+| title | 55 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
