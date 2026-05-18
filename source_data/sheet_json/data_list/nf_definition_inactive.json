@@ -48,8 +48,7 @@
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
       "title::eng": "Keep going — you started something great",
-      "text::eng": "@fields.user_name, you started something great. Tap here to keep going.",
-      "test": "@fields.resume_2_sent_{@row.test}"
+      "text::eng": "@fields.user_name, you started something great. Tap here to keep going."
     },
     {
       "id": "resume_lesson_b",
@@ -60,8 +59,7 @@
       "activation_condition_list": "@fields.last_module_in_progress != \"NA\"",
       "campaign_list": "nf_inactive_2_days_afternoon; \nnf_inactive_week;",
       "title::eng": "Pick up where you left off",
-      "text::eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish.",
-      "test": "@fields[resume_7_sent_@fields.last_module_in_progress]"
+      "text::eng": "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
     },
     {
       "id": "win_back_a",
@@ -71,8 +69,7 @@
       "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "Help your family with @global.parent_app",
-      "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in.",
-      "test": "@fields.[win_back_2_sent_@fields.latest_unlocked_activity]"
+      "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
     },
     {
       "id": "win_back_b",
@@ -82,8 +79,7 @@
       "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "A small step for a better family life",
-      "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going.",
-      "test": "@fields[win_back_7_sent_@fields.latest_unlocked_activity]"
+      "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
     }
   ]
 }
