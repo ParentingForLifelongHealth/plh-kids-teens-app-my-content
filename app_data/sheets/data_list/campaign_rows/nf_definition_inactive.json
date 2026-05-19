@@ -136,9 +136,9 @@
         {
           "condition_type": "calc",
           "condition_args": {
-            "calc": "@fields.n_modules_completed == 1  && @fields.last_module_in_progress == \"NA\""
+            "calc": "@fields.n_modules_completed == 1"
           },
-          "_raw": "@fields.n_modules_completed == 1  && @fields.last_module_in_progress == \"NA\""
+          "_raw": "@fields.n_modules_completed == 1"
         }
       ],
       "deactivation_condition_list": [
@@ -310,9 +310,9 @@
         {
           "condition_type": "calc",
           "condition_args": {
-            "calc": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
+            "calc": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
           },
-          "_raw": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
+          "_raw": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
         }
       ],
       "campaign_list": [
@@ -347,9 +347,9 @@
         {
           "condition_type": "calc",
           "condition_args": {
-            "calc": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
+            "calc": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
           },
-          "_raw": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
+          "_raw": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all"
         }
       ],
       "campaign_list": [
@@ -374,6 +374,39 @@
         }
       },
       "text": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+    },
+    {
+      "activation_condition_list": [
+        {
+          "condition_type": "calc",
+          "condition_args": {
+            "calc": "instal nudge"
+          },
+          "_raw": "instal nudge"
+        }
+      ]
+    },
+    {
+      "activation_condition_list": [
+        {
+          "condition_type": "calc",
+          "condition_args": {
+            "calc": "positive"
+          },
+          "_raw": "positive"
+        }
+      ]
+    },
+    {
+      "activation_condition_list": [
+        {
+          "condition_type": "calc",
+          "condition_args": {
+            "calc": "resume"
+          },
+          "_raw": "resume"
+        }
+      ]
     }
   ],
   "_source": {

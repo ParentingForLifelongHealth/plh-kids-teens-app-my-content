@@ -36,14 +36,14 @@
     },
     {
       "id": "organisation_6",
-      "name": "Oxford",
-      "image_asset": "images/logos/oxford.png",
+      "name": "PLH",
+      "image_asset": "images/logos/PLH.png",
       "group": "partners"
     },
     {
       "id": "organisation_7",
-      "name": "PLH",
-      "image_asset": "images/logos/PLH.png",
+      "name": "Oxford",
+      "image_asset": "images/logos/oxford.png",
       "group": "partners"
     },
     {
