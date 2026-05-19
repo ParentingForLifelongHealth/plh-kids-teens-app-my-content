@@ -136,17 +136,19 @@
         "title": {
           "my_ms": true
         },
-        "introduction": {}
+        "introduction": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "title": {
           "eng": "A challenge with drugs"
         },
         "introduction": {
-          "eng": "National Anti-Drugs Agency \nHotline: 1-800-22-2235\nWebsite: https://www.aadk.gov.my/en/enforcement/hotline-operations-center/"
+          "eng": "National Anti-Drugs Agency \nHotline: 1-800-22-2235 \nWebsite: https://www.aadk.gov.my/en/enforcement/hotline-operations-center/"
         }
       },
-      "introduction": "National Anti-Drugs Agency \nHotline: 1-800-22-2235\nWebsite: https://www.aadk.gov.my/en/enforcement/hotline-operations-center/"
+      "introduction": "National Anti-Drugs Agency \nHotline: 1-800-22-2235 \nWebsite: https://www.aadk.gov.my/en/enforcement/hotline-operations-center/"
     },
     {
       "id": "support_7",
