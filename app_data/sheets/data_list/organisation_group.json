@@ -6,15 +6,13 @@
   "rows": [
     {
       "id": "partners",
-      "name": "Partners",
+      "name": "Programme Partners",
       "_translations": {
-        "name": {
-          "my_ms": true
-        }
+        "name": {}
       },
       "_translatedFields": {
         "name": {
-          "eng": "Partners"
+          "eng": "Programme Partners"
         }
       }
     },

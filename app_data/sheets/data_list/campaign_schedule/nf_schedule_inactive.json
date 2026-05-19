@@ -8,17 +8,17 @@
       "id": "nf_inactive_day",
       "time": {
         "hour": 19,
-        "minute": 30
+        "minute": 45
       },
       "delay": {
-        "days": 0
+        "days": 1
       }
     },
     {
       "id": "nf_inactive_2_days_evening",
       "time": {
         "hour": 19,
-        "minute": 30
+        "minute": 45
       },
       "delay": {
         "days": 2
@@ -28,7 +28,7 @@
       "id": "nf_inactive_2_days_afternoon",
       "time": {
         "hour": 16,
-        "minute": 0
+        "minute": 45
       },
       "delay": {
         "days": 2
@@ -38,7 +38,7 @@
       "id": "nf_inactive_week",
       "time": {
         "hour": 19,
-        "minute": 30
+        "minute": 45
       },
       "delay": {
         "days": 7

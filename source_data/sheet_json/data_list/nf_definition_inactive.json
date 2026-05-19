@@ -34,7 +34,7 @@
       "message_type": "inactive",
       "action_list": "sent | set_field: positive_reinforcement_sent : true;",
       "priority": 1,
-      "activation_condition_list": "@fields.n_modules_completed == 1  && @fields.last_module_in_progress == \"NA\"",
+      "activation_condition_list": "@fields.n_modules_completed == 1 ",
       "deactivation_condition_list": "@fields.positive_reinforcement_sent",
       "campaign_list": "nf_inactive_day",
       "text::eng": "Well done! You finished your first skill. Tap here to keep going."
@@ -66,7 +66,7 @@
       "workshop": "independent",
       "message_type": "inactive",
       "priority": 1,
-      "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
+      "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "Help your family with @global.parent_app",
       "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
@@ -76,10 +76,19 @@
       "workshop": "independent",
       "message_type": "inactive",
       "priority": 1,
-      "activation_condition_list": "@fields.n_modules_completed > 1  && @fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
+      "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "A small step for a better family life",
       "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+    },
+    {
+      "activation_condition_list": "instal nudge"
+    },
+    {
+      "activation_condition_list": "positive "
+    },
+    {
+      "activation_condition_list": "resume "
     }
   ]
 }
