@@ -34,7 +34,7 @@
       "message_type": "inactive",
       "action_list": "sent | set_field: positive_reinforcement_sent : true;",
       "priority": 1,
-      "activation_condition_list": "@fields.n_modules_completed == 1 ",
+      "activation_condition_list": "@fields.n_modules_completed !== 0 ",
       "deactivation_condition_list": "@fields.positive_reinforcement_sent",
       "campaign_list": "nf_inactive_day",
       "text::eng": "Well done! You finished your first skill. Tap here to keep going."
@@ -80,15 +80,6 @@
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
       "title::eng": "A small step for a better family life",
       "text::eng": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
-    },
-    {
-      "activation_condition_list": "instal nudge"
-    },
-    {
-      "activation_condition_list": "positive "
-    },
-    {
-      "activation_condition_list": "resume "
     }
   ]
 }

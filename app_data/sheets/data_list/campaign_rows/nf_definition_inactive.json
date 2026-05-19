@@ -136,9 +136,9 @@
         {
           "condition_type": "calc",
           "condition_args": {
-            "calc": "@fields.n_modules_completed == 1"
+            "calc": "@fields.n_modules_completed !== 0"
           },
-          "_raw": "@fields.n_modules_completed == 1"
+          "_raw": "@fields.n_modules_completed !== 0"
         }
       ],
       "deactivation_condition_list": [
@@ -374,39 +374,6 @@
         }
       },
       "text": "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
-    },
-    {
-      "activation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "instal nudge"
-          },
-          "_raw": "instal nudge"
-        }
-      ]
-    },
-    {
-      "activation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "positive"
-          },
-          "_raw": "positive"
-        }
-      ]
-    },
-    {
-      "activation_condition_list": [
-        {
-          "condition_type": "calc",
-          "condition_args": {
-            "calc": "resume"
-          },
-          "_raw": "resume"
-        }
-      ]
     }
   ],
   "_source": {
