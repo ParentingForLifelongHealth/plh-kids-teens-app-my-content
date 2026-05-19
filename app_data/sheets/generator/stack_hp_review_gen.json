@@ -170,9 +170,10 @@
               "trigger": "completed",
               "action_id": "toast",
               "args": [],
-              "_raw": "completed | toast | message: @global.certificates_location",
+              "_raw": "completed | toast | message: @global.certificates_location, duration: long",
               "params": {
-                "message": "@global.certificates_location"
+                "message": "@global.certificates_location",
+                "duration": "long"
               }
             },
             {
