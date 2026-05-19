@@ -264,9 +264,10 @@
               "trigger": "completed",
               "action_id": "toast",
               "args": [],
-              "_raw": "completed | toast | message: @global.certificates_location",
+              "_raw": "completed | toast | message: @global.certificates_location, duration: long",
               "params": {
-                "message": "@global.certificates_location"
+                "message": "@global.certificates_location",
+                "duration": "long"
               }
             },
             {
@@ -437,7 +438,7 @@
               "7": {
                 "_raw": [
                   {
-                    "fullExpression": "completed | toast | message: @global.certificates_location",
+                    "fullExpression": "completed | toast | message: @global.certificates_location, duration: long",
                     "matchedExpression": "@global.certificates_location",
                     "type": "global",
                     "fieldName": "certificates_location"

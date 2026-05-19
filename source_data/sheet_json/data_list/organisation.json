@@ -24,32 +24,32 @@
     },
     {
       "id": "organisation_4",
-      "name": "MASW",
-      "image_asset": "images/logos/masw.png",
+      "name": "IDEMS",
+      "image_asset": "images/logos/IDEMS.png",
       "group": "partners"
     },
     {
       "id": "organisation_5",
-      "name": "UNICEF",
-      "image_asset": "images/logos/unicef.png",
-      "group": "partners"
-    },
-    {
-      "id": "organisation_6",
       "name": "PLH",
       "image_asset": "images/logos/PLH.png",
       "group": "partners"
     },
     {
-      "id": "organisation_7",
+      "id": "organisation_6",
       "name": "Oxford",
       "image_asset": "images/logos/oxford.png",
       "group": "partners"
     },
     {
+      "id": "organisation_7",
+      "name": "UNICEF",
+      "image_asset": "images/logos/unicef.png",
+      "group": "partners"
+    },
+    {
       "id": "organisation_8",
-      "name": "IDEMS",
-      "image_asset": "images/logos/IDEMS.png",
+      "name": "MASW",
+      "image_asset": "images/logos/masw.png",
       "group": "partners"
     },
     {
