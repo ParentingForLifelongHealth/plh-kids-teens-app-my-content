@@ -8,7 +8,9 @@
       "id": "partners",
       "name": "Programme Partners",
       "_translations": {
-        "name": {}
+        "name": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "name": {
