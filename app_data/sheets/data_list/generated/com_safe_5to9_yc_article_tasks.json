@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_34",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -231,7 +234,8 @@
       "quiz_1_feedback_5": "❌ Incorrect. \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
       "quiz_1_option_6_text": "None of the above",
       "quiz_1_feedback_6": "⭐ You are right! \n\n😔 Your child could experience harm in any of these places, even at home or at a place of worship. \n\n🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -265,7 +269,8 @@
       "character_2_id": "f3_mother",
       "character_1_text": "I was playing in the garden. Something happened!!",
       "character_2_text": "What is it, @data.characters.f3_son_7.name!? Take a breath and tell me.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -308,7 +313,8 @@
       "character_4_id": "f3_son_7",
       "character_3_text": "@data.characters.f3_son_7.name, such a beautiful name.",
       "character_4_text": "Thank you.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -335,7 +341,8 @@
         }
       },
       "character_2_text": "No, thank you.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -354,7 +361,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -373,7 +381,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -455,7 +464,8 @@
       "section_3_text": "❗ Sometimes, we find ourselves in trouble.\n🧸Make sure your child knows it’s okay to walk or run inside if a stranger tries to talk to them or asks them to go somewhere. \n👀 Discuss where you and your child can get support in a crisis. These places may include home, school, a police station, or a clinic. \n🚩 Mark these areas clearly on your map.",
       "section_4_title": "PRACTISE",
       "section_4_text": "🔔 Practise! Practise! Practise! \n👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -514,7 +524,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -523,6 +534,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

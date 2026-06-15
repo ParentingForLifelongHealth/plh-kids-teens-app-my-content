@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_6",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Learning to talk and have conversations is important to help your child get ready to read and do well for school. 🎓",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -210,7 +213,8 @@
       "quiz_2_feedback_1": "❌ That’s incorrect! \n\n🎈 Children learn new words and build confidence in their language abilities when they actively participate in the conversation. \n\n🌷 Children may not know how to say many words, but it’s important to continue encouraging them!",
       "quiz_2_option_2_text": "False",
       "quiz_2_feedback_2": "⭐ That’s correct! \n\n🎈 Children learn new words and build confidence in their language abilities when they actively participate in the conversation. \n\n🌷 Children may not know how to say many words, but it’s important to continue encouraging them!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -236,7 +240,8 @@
       "image_asset": "images/yc_modules/language_yc_1.svg",
       "character_1_id": "f1_father",
       "character_1_text": "I see you are playing quietly with the blocks with concentration, @data.characters.f1_son_5.name. What are you building?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -263,7 +268,8 @@
       },
       "character_2_id": "f1_son_5",
       "character_2_text": "It is for cows.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -290,7 +296,8 @@
       },
       "character_2_id": "f1_son_5",
       "character_2_text": "Yes! I want to build more. Come help me build a house for our family!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -309,7 +316,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -406,7 +414,8 @@
       "section_4_text": "👂Listen to your child and always respond. \n🔄 Confirm what they said and add more to help them connect their understanding to new language. For example, if your child says, “There’s a cat,” you could respond, “Yes, there’s a cat making a big hole in the ground”.",
       "section_5_title": "TELL STORIES",
       "section_5_text": "🎈 Tell your child stories! They can be real, made up, about your lives, or read to them from books.\n😃 Encourage your child to tell stories too. You could show photos and create a story together!\n🔄 Be patient! It takes lots of practice to listen to stories, and even more to learn the skill of telling them. 💙",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -465,7 +474,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -474,6 +484,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

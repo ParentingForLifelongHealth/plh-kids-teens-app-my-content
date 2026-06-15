@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_1",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -116,7 +118,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -140,7 +143,8 @@
         }
       },
       "text_2": "Spending special time with your child will make them feel valued and loved. 💙 \n\nIt also builds trust and respect, and helps your child learn new things. ✨",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_3",
@@ -192,7 +196,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Today, you will learn how one-on-one time works. Let’s begin with a question for our learning.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -226,7 +231,8 @@
       "character_2_id": "f1_daughter_6",
       "character_1_text": "I have 5 minutes of one-on-one time to spend with you, @data.characters.f1_daughter_6.name. What would you like to do?",
       "character_2_text": "I want to play dress up!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -245,7 +251,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -280,7 +287,8 @@
       "character_2_text": "Thank you, I love it!",
       "character_3_id": "f1_daughter_6",
       "character_3_text": "Wear it Ibu!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -299,7 +307,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -367,7 +376,8 @@
       "section_2_text": "Let them choose the activity\n\n⏰ Ask to spend time with your child.\n⚽ Let them choose what to do or talk about.\n🎈Try different activities together.\n😃 Have fun!",
       "section_3_title": "STAY",
       "section_3_text": "Focus on your child\n\n📺 Switch off the TV, put aside phones, and remove distractions.\n👀 Look at your child. Nod or say “I see” to show you are really paying attention. \n💛 Accept your child and avoid judgement.\n💡 Respond to your child when they communicate with you. your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -426,7 +436,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -435,6 +446,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

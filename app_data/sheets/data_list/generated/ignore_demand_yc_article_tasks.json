@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_26",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Children need attention from a very early age. 💛 \n\nPositive attention is very important for children, especially when they are young.\n\nIt’s a great way to help them feel good about themselves. They are more likely to do as they are asked! 🔄",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -210,7 +213,8 @@
       "quiz_2_feedback_1": "❌ That’s incorrect. \n\n💚 Telling your child to stop or threatening them canmake things worse. Hitting will only teach your child that violence is an acceptable solution to problems. It is also against the law. \n\n✨ Instead, explain in a calm way why, then try to redirect your child to something else. \n\n💙 If your child continues or loses control, remain calm and stay with your child without engaging in an argument. It may be difficult but eventually they will calm down too. Then you can attend to their needs.",
       "quiz_2_option_2_text": "False",
       "quiz_2_feedback_2": "⭐ That’s correct! \n\n💚 Telling your child to stop or threatening them can make things worse. Hitting will only teach your child that violence is an acceptable solution to problems. It is also against the law. \n\n✨ Instead, explain in a calm way why, then try to redirect your child to something else. \n\n💙 If your child continues or loses control, remain calm and stay with your child without engaging in an argument. It may be difficult but eventually they will calm down too. Then you can attend to their needs.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -244,7 +248,8 @@
       "character_2_id": "f3_mother",
       "character_1_text": "I want another sweet drink.",
       "character_2_text": "The household rule is that you can only have one glass of sweet drink during dinner, @data.characters.f3_daughter_4.name.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -271,7 +276,8 @@
         }
       },
       "character_2_text": "@data.characters.f3_son_7.name, you are eating your dinner so nicely.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -298,7 +304,8 @@
         }
       },
       "character_2_text": "@data.characters.f3_son_7.name, can you please take the pudding from the counter?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -325,7 +332,8 @@
         }
       },
       "character_2_text": "Take a deep breath. I can do this…",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -422,7 +430,8 @@
       "section_4_text": "🎈 Once your child has calmed down from a tantrum, they will need lots of love and attention on positive behaviour.\n\n🧸 You can talk about what happened later or the next day. For now, involve your child in a positive activity.",
       "section_5_title": "BE CONSISTENT",
       "section_5_text": "⭐ Even if your child behaves even worse at first when you do not give in, it is important to continue staying calm without getting into an argument or shouting at your child. \n\n✨You can calmly explain the reason why your child cannot have something, but do it only once without engaging in a debate or argument. \n\n🔄 Over time, your child will learn how to become calm by themselves. \n\n💚 Spend lots of positive time with your child - especially one-on-one time!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -481,7 +490,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -490,6 +500,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

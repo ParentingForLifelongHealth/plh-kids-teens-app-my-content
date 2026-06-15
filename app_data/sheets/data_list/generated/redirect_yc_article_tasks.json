@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_25",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Redirecting behaviours can help focus your child’s attention from negative to positive behaviours. 😣➡️😃\n\nFor example, when your child begins to whine, you can redirect their attention towards something positive like helping out with an activity. 🌱🎨",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "But what if children are already misbehaving? Can you still redirect their behaviour at that point?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f2_son_3",
       "character_1_text": "Give it back to me!",
       "character_2_text": "But I want it!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -244,7 +249,8 @@
       "character_2_text": "But he’s not giving it back!",
       "character_3_id": "f2_son_3",
       "character_3_text": "I want to play, not dig!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -279,7 +285,8 @@
       "character_2_text": "Fine, okay...",
       "character_3_id": "f2_son_3",
       "character_3_text": "Okay…",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -314,7 +321,8 @@
       "character_2_text": "What kind of vegetables?",
       "character_3_id": "f2_son_3",
       "character_3_text": "Can I put the seeds in?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -396,7 +404,8 @@
       "section_3_text": "✅ Rather than saying what you DON’T like or want, tell your child what you DO want them to do.\nFor example, say:\n👂 “Please speak more softly.”\n🍚 “Remember to wash your hands after eating.”\nThis way, it is easier for them to follow! ⭐",
       "section_4_title": "BE POSITIVE",
       "section_4_text": "💚 Use positive words. Say “Come and help me plant these vegetables,” instead of saying, “Stop fighting.”\n⭐ Praise your child when they behave well!\n💙 It will also help them know what you expect from them!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -455,7 +464,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -464,6 +474,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

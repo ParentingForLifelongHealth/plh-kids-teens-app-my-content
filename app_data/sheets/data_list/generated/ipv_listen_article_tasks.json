@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_44",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Doing so is key to having a more peaceful home. 👂\n\nWhen you talk to your spouse about issues early - before they become bigger problems - arguments and misunderstandings are more likely to be avoided. 💛",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Ready to reflect on this?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f2_grandfather",
       "character_1_text": "I’ve noticed that @data.characters.f2_son_3.name is finding it difficult to identify sounds and alphabets. I remember @data.characters.f2_daughter_8.name didn’t have much trouble at his age.",
       "character_2_text": "I’ve noticed it too. Do you think it’s because boys develop slower than girls?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -236,7 +241,8 @@
         }
       },
       "character_2_text": "OK, that’s a good idea. Let’s call and make an appointment with the clinic tomorrow.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -263,7 +269,8 @@
         }
       },
       "character_2_text": "Ah, that’s a good idea too. We will get more information on how to help @data.characters.f2_son_3.name. Thank you, dear.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -345,7 +352,8 @@
       "section_3_text": "😣 Starting something new can be difficult. \n⏰ Be patient with yourself and others. It gets easier with time.",
       "section_4_title": "CHOOSE A TIME",
       "section_4_text": "💚 It’s okay if you don't always want to share your emotions. \n🌷 You can choose to share at a later time once you feel calmer or feel ready.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -404,7 +412,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -413,6 +422,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

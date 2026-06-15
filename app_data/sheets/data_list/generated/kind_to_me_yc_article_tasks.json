@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_2",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "👂Now think about how you talk to yourself when you make a mistake. Is it different?\n\n💛 Often, we don’t treat ourselves as well as we treat our friends and family.\n\n🌷When we are kind to ourselves, we can be kind to others. It also help us deal with hard things.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Sometimes we experience a lot of emotions and feelings, especially when caring for others. How should we manage them?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f3_son_7",
       "character_1_text": "What is it, @data.characters.f3_son_7.name? Are you okay?",
       "character_2_text": "All my friends in class had a parent attend our school performance today and you were not there! I hate that you have to work all the time. It is not fair!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -255,7 +261,8 @@
         }
       },
       "character_2_text": "I will try, Mama, but I still wish you were there.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -322,7 +329,8 @@
       "section_2_text": "🛑 Take a pause or a few deep breaths.\n💛 Say to yourself, “It’s OK,” because it is OK to have negative feelings. Everyone does sometimes!\n😔 These feelings come up for a good reason and can tell us something. It really is OK!",
       "section_3_title": "BE KIND",
       "section_3_text": "💚 When you notice these feelings, it’s important to be kind and patient with yourself.\n🎁 Think about what kind of advice your friend or family member might give you now.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -381,7 +389,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -390,6 +399,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

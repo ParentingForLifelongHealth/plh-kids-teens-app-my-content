@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_23",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Having rules in the family can help our children stay safe from danger, both at home and in the community.🌷\n\nInvolving your child in making these rules will make it more likely for them to follow. ⭐",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -210,7 +213,8 @@
       "quiz_2_feedback_1": "❌ Incorrect. \n\n💚 When you set reasonable limits with your child, you are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely.\n\n🧸 Setting reasonable limits with your child is a good form of positive discipline.",
       "quiz_2_option_2_text": "False",
       "quiz_2_feedback_2": "⭐ You are right! \n\n💚 Setting reasonable limits with your child is a good form of positive discipline. \n\n🧸 You are not controlling your child too much. \n\n🌷 You are giving your child structure to maintain a positive parent-child relationship and explore the world safely.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -244,7 +248,8 @@
       "character_2_id": "f1_son_5",
       "character_1_text": "It is important to finish your homework so you can do well in school. Let’s make a rule about watching TV.",
       "character_2_text": "Do I have to? I want to watch TV now.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -271,7 +276,8 @@
         }
       },
       "character_2_text": "Ummm… maybe I can watch TV as much as I want, but only after I do my homework.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -298,7 +304,8 @@
         }
       },
       "character_2_text": "Only one hour? That’s not much. Fine…",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -325,7 +332,8 @@
         }
       },
       "character_2_text": "Really?? Thank you, Ibu!!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -407,7 +415,8 @@
       "section_3_text": "🔄 Stick to the rule once it has been set. \n⬆️ Your child will be more likely to follow the rule.\n▶️ If the rule includes you, it is important that you stick to it too.",
       "section_4_title": "PRAISE, PRAISE, PRAISE",
       "section_4_text": "⭐ Praise your child for helping make the rule. \n😃 Praise your child when they follow the rule, just like you do when they behave well!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -466,7 +475,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -475,6 +485,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_14",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Talking to your child’s teacher(s) will help you understand what your child is doing in school. ⭐\n\nYou will also know what kinds of things your child can do at home to learn better, and how you can help them! 🎓",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Connecting with others who support your child in their learning and growth, like their teacher(s), is just as important. What do you think about the following?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -257,7 +261,8 @@
       "section_3_text": "🎨 Activities that your child enjoys at school can also be done at home! For example, if they enjoyed working with colours at school, ask them to find as many colours as they can around the home.\n📖 If they can bring books home from school, read them together! \n💡If something in school was difficult, see if you can help your child understand it!",
       "section_4_title": "GET INVOLVED",
       "section_4_text": "🚗 If you have time, attend events or meetings at your child’s school - learn what’s happening.\n⏰ If you have time, volunteer at your child’s school! You’ll get to know the school, teachers, and the other parents better. 😃",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -316,7 +321,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -325,6 +331,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_12",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "⭐ Learning about numbers, shapes, and groups will help your child understand basic maths. \n\n🎓 This will give them a great head start for school!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -217,7 +220,8 @@
       "quiz_1_feedback_4": "❌ That’s incorrect. \n\n🌷 Children learn maths nearly everywhere - and you can help!",
       "quiz_1_option_5_text": "All of the above",
       "quiz_1_feedback_5": "⭐ That’s right! \n\n🌷 Children learn maths nearly everywhere - and you can help!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -284,7 +288,8 @@
       "section_2_text": "📱Numbers are all around us if you look for them. They’re on food packaging, and even on the TV remote.\n👀 Wherever you see a number, ask your child what it is. \n😃 Help them if they don’t know!",
       "section_3_title": "LEARN WITH SHAPES",
       "section_3_text": "🔷 your child can also learn through shapes! Shapes are everywhere, too, so find them and talk about them. 👀\n🔴 Help your child draw different shapes. \n🔵 If you can, cut them out and help your child sort them into groups (by colour, shape, size, or however else your child wants!) Ask them why they are sorting in that way.\n🔶 Talk about the shapes with your child, and have fun with them! 😃",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -343,7 +348,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -352,6 +358,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

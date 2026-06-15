@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_22",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Creating daily routines with your child will help them feel more secure and safe. 🔑 \n\nYou can help create regular times for resting ⏰, meals 🍚, chores 🌱, school 📖, and sleep 🌙.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Sleep is a big part of a child’s routine. How much sleep do children need? Let’s find out!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f1_daughter_2",
       "character_1_text": "Wow, you’re playing so nicely with your blocks, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to start getting ready for bed, okay?",
       "character_2_text": "Okay!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -247,7 +253,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -266,7 +273,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -293,7 +301,8 @@
         }
       },
       "character_2_text": "Yay!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -360,7 +369,8 @@
       "section_2_text": "⏰ Help your child follow their routines every day.\n🌱 Activities become easier to manage when children learn and get used to a routine.\n🔄 Consistent routines help your child learn about daily activities and how to manage their time.",
       "section_3_title": "PRAISE, PRAISE, PRAISE",
       "section_3_text": "🎈 Praise your child for setting a routine with you.\n⭐ Praise your child when they follow the routine.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -419,7 +429,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -428,6 +439,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

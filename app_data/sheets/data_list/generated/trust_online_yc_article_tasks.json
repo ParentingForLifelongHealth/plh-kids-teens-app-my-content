@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_38",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "🌐 Knowing so will help you guide them to be confident, safe and responsible as they take part in the digital world.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -245,7 +248,8 @@
       "quiz_3_feedback_1": "❌ That’s incorrect.\n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it.",
       "quiz_3_option_2_text": "False",
       "quiz_3_feedback_2": "🎈 That’s right! \n\n❗ Your family member’s email or phone account could be hacked. \n\n👀 Always double-check a link before clicking on it to make sure you’re visiting a trusted website. \n\n🔑 If you don’t recognize the web address, don’t click on it.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -313,7 +317,8 @@
       "section_2_text": "🌷 Together, look at websites, social media, games, and apps your child uses. \n👂 Ask questions - this helps you learn more about your child’s interests!\n💙 If you come across anything worrying together, talk about it with your child.\n✅ Tell your child that they should tell an adult if they feel scared, unsafe or upset about something online.",
       "section_3_title": "BE KIND",
       "section_4_title": "BE KIND",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -372,7 +377,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -381,6 +387,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }
