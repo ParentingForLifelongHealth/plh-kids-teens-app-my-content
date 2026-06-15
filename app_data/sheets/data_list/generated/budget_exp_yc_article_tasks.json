@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_46",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "🔑 Knowing what your family’s monthly expenses are can be helpful for everyone in your family. \n\n💡 It can help them understand why money is being spent on some things and not on others.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -147,7 +150,8 @@
         }
       },
       "text_2": "📝 Get a piece of paper (or old newspaper or a cardboard box) and a pen.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -165,7 +169,8 @@
         }
       },
       "image_asset": "images/yc_modules/talk_monthly_expenses_yc_1.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -183,7 +188,8 @@
         }
       },
       "image_asset": "images/yc_modules/talk_monthly_expenses_yc_2.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -201,7 +207,8 @@
         }
       },
       "image_asset": "images/yc_modules/talk_monthly_expenses_yc_3.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -268,7 +275,8 @@
       "section_2_text": "💰 Add up how much money you have to spend each month.",
       "section_3_title": "YOUR COSTS",
       "section_3_text": "📝 Write next to each picture how much each thing costs.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -327,7 +335,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -336,6 +345,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

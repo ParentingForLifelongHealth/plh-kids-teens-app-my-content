@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_30",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "💡 It is normal to feel uncomfortable about talking to children about abuse. \n\n❗But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. \n\n🔑 It lets them know that they are in control of who can touch their body and in what way. \n\n🌷 This prepares them to keep themselves safe throughout their lives!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -238,7 +241,8 @@
       "quiz_2_feedback_3": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
       "quiz_2_option_4_text": "Go and shout at the person who did it",
       "quiz_2_feedback_4": "❌ That’s incorrect. \n\n💚 Thank them for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -272,7 +276,8 @@
       "character_2_id": "f1_son_5",
       "character_1_text": "Did you enjoy the story, @data.characters.f1_son_5.name?",
       "character_2_text": "Yes, Ayah! It was fun!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -299,7 +304,8 @@
         }
       },
       "character_2_text": "What do you mean, Ayah?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -334,7 +340,8 @@
       "character_2_text": "Like this?",
       "character_3_id": "f1_father",
       "character_3_text": "Exactly. It's important to remember that these parts are private, and no one should touch them except to keep you clean and healthy.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -361,7 +368,8 @@
         }
       },
       "character_2_text": "Okay, Ayah.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -396,7 +404,8 @@
       "character_2_text": "I will tell you and Ibu, Ayah.",
       "character_3_id": "f1_father",
       "character_3_text": "I love you, @data.characters.f1_son_5.name. Now, let's give each other a big hug!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -478,7 +487,8 @@
       "section_3_text": "💡 Always teach your child how to get away from any situation where they feel uncomfortable. \n🚩 In most of the cases, offenders are rarely strangers to the child. They are usually known to the child and/or caregivers.\n❗ They frequently form a trusting relationship with a child and initially engage in physical activities like wrestling, touching or giving a massage. This is to get the child comfortable with touch.\n🌷 It will not be as easy for the child to get away from such situations, but teaching them how to leave when they feel uncomfortable will help.",
       "section_4_title": "TELL AN ADULT",
       "section_4_text": "🔴 Tell your child that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust.\n👂 If your child tells you about something that has happened, listen openly and tell them they were right to tell you. Then, take steps to keep them safe.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -537,7 +547,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -546,6 +557,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

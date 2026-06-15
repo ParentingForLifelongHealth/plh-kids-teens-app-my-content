@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_7",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "The best way to help your child learn to read is to read with them!. 📖🎉\n\nChildren learn by watching, listening, and copying. When they are little, they learn new words when you read to them. Later they learn letters and letter sounds, and when they’re bigger, reading together can help them learn about anything they are interested in! 💡",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Did you know? Reading can happen anywhere, like at home or even when you are out!\n\nNow, here’s a question for you.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -201,7 +205,8 @@
       "image_asset": "images/yc_modules/reading1_4to6_yc_1.svg",
       "character_1_id": "f1_father",
       "character_1_text": "Wow, this book looks interesting! Can you see the picture? The tiger is smiling. Why do you think he is smiling?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -244,7 +249,8 @@
       "character_2_text": "A balloon!",
       "character_3_text": "That’s right, it's a balloon, what colour is it?",
       "character_4_text": "Red!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -263,7 +269,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -282,7 +289,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -364,7 +372,8 @@
       "section_3_text": "👀 Notice what your child is interested in and talk about it. Help them understand the story, words, sounds, letters, and character emotions. 💚\n📖 Explore by rephrasing or adding more information - help your child learn new words and understand more 😃\n👂 Respond positively and encourage them, even if what they are wrong.\n😃 Ask your child to repeat what you have taught them.",
       "section_4_title": "BUILD AND CONNECT",
       "section_4_text": "💙 Help your child build confidence by asking questions that they might know the answer to or that encourage them to go a bit further with their skill! \n🎨 Always connect what’s in the book to your child’s experience.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -423,7 +432,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -432,6 +442,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

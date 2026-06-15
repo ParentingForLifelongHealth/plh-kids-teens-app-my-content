@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_40",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Treating each other with respect and making decisions together can have a big impact on how you feel and can help keep your child feel safe. 💚😃",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Think about working as a team! Try this.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -201,7 +205,8 @@
       "image_asset": "images/yc_modules/ipv_equals_1.svg",
       "character_1_id": "f1_father",
       "character_1_text": "My dear, you look worried. What’s wrong?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
       },
       "character_2_id": "f1_father",
       "character_2_text": "I noticed this too when I was cooking last week. I wanted to ask you: do you think we should buy a new one?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -255,7 +261,8 @@
       },
       "character_2_id": "f1_father",
       "character_2_text": "That sounds great. Thank you for cooking dinner, my dear!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -282,7 +289,8 @@
       },
       "character_2_id": "f1_mother",
       "character_2_text": "Me too. I feel a lot better now that we have talked about it together.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -364,7 +372,8 @@
       "section_3_text": "⏰ Choose a time when you and your spouse are not too busy to discuss decisions, such as early in the morning or later in the evening.",
       "section_4_title": "PRACTICE MAKES PERFECT",
       "section_4_text": "⏰ It can take time to get used to making decisions together. \n🔄 Give yourself time and keep trying! \n😃 By communicating with your spouse, you’ll both feel more comfortable talking and sharing decisions over time.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -423,7 +432,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -432,6 +442,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

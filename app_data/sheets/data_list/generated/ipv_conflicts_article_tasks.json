@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_43",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "All adults have disagreements sometimes, but fighting is not an effective way to solve issues. 😔\n\nLearning to respond calmly when experiencing disagreements can help create a more peaceful home for everyone.🌷",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "So how should these disagreements be managed when they come up? Here’s a question.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f1_mother",
       "character_1_text": "Ayah! Ibu! It’s raining!",
       "character_2_text": "Oh no! We left the laundry outside!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -244,7 +249,8 @@
       "character_2_text": "No, I was busy cooking dinner! You told me you would take care of it! How could you forget? Now all the laundry is wet!",
       "character_3_id": "f1_father",
       "character_3_text": "I’m really sorry. It was a mistake!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -263,7 +269,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -290,7 +297,8 @@
         }
       },
       "character_2_text": "I am sorry that I forgot the laundry. I know you have had a long day. I will make sure to take care of it after dinner.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -357,7 +365,8 @@
       "section_2_text": "⏸ You’ve been practising taking a pause at the start of each skill.  You know how to breathe deeply, and give yourself a moment.\n😃 Taking a pause before responding can help us stay calm and respond better. \n🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!",
       "section_3_title": "WALK AWAY IF NECESSARY",
       "section_3_text": "😣 Sometimes others respond to us negatively when we’re having a disagreement.\n❗ In these situations, especially if you feel fearful or threatened, it may be best to walk away for a bit until everyone has calmed down.\n\nRemember, if you need help in a crisis, you can refer to the  My Resources for a list of community resources where you may find support.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -416,7 +425,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -425,6 +435,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

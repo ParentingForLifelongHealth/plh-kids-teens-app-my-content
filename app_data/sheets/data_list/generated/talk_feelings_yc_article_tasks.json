@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_4",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "**How does this help your child grow?**\n⭐ Talking about feelings with your child will help them learn how to express themselves. \n👌 They will learn that all feelings are okay - even the negative ones.\n \n**Do you wonder how we can do so?**\n🌷 You can listen to them, think about how it must feel for them, and accept their emotions. \n🤗 This will help them recognise other people’s feelings, too.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -245,7 +248,8 @@
       "quiz_3_feedback_1": "🎈 Correct! \n\n🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves.",
       "quiz_3_option_2_text": "False",
       "quiz_3_feedback_2": "❌ Incorrect. \n\n🌱 Sharing our own feelings with our children in a calm way shows them how to do it themselves.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -271,7 +275,8 @@
       "image_asset": "images/yc_modules/talk_feelings_yc_1.svg",
       "character_1_id": "f2_daughter_8",
       "character_1_text": "Thaatha, why don’t we have a huge screen TV like my friend, Peggie?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -290,7 +295,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -317,7 +323,8 @@
       },
       "character_2_id": "f2_grandfather",
       "character_2_text": "I understand, @data.characters.f2_daughter_8.name. We work hard, but TVs are expensive. We can still have fun and play as a family.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -336,7 +343,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -433,7 +441,8 @@
       "section_4_text": "😒 It is normal to have difficulty talking about and expressing emotions and feelings. \n👋 Remember, it is also normal to experience feelings in different ways.\n💡 Learn to identify your own emotions, to experience them in our body, and to communicate about them",
       "section_5_title": "CARE",
       "section_5_text": "🌷 Use your actions or words to support your child and make them feel accepted and loved. You can hug or praise them!\n💚 Remind your child that you are there for them and that they can always talk to you.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -492,7 +501,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -501,6 +511,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_45",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Managing how money is spent is important to ensure that parents are able to provide for our children. 💛\n\nWhen money is tight, this can create feelings of anxiety, stress and sadness. 😒😔😣\n\nBut even small steps toward budgeting can help you feel more in control and reduce stress. 🌟",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -197,7 +200,8 @@
       "section_2_text": "🎁 Make a list of things that you or others want. These are things that would be nice to have but not essential. \n⭐ For example: the latest version of a smartphone 📱, new toy 🧸, or a new car 🚗.",
       "section_3_title": "TALK",
       "section_3_text": "👀 People often see things in different ways. \n📝 You may find that your family members see one thing as a NEED while you see it as a WANT. \n💰 Talk with your family about why you feel differently. This will help you to understand each other and can make decisions together about what to spend money on.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -256,7 +260,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -265,6 +270,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

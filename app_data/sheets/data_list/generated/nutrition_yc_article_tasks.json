@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_39",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Children are exposed to lots of different food in their lives. 🎂☕\n\nSome are good for children’s development, while others are not. 🍅\n\nDid you know that children can be trained at home to eat balanced and nutritious meals in moderate amounts, especially in the early years? 🍞\n\nWith your support, children can practise healthy eating habits from a young age. 💛",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Could food be linked to behaviour? Let’s have a look!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f1_mother",
       "character_1_text": "I'm HUNGRY! Can I have some ice cream?",
       "character_2_text": "Lunch will be ready in five minutes. Can you hang on until then?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -236,7 +241,8 @@
         }
       },
       "character_2_text": "Okay, come wash your hands and sit down - your veggies are ready, so you can eat those while I prepare the rest of the meal.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -263,7 +269,8 @@
         }
       },
       "character_2_text": "Yay!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -282,7 +289,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -364,7 +372,8 @@
       "section_3_text": "👂 Listen to your child when they say they are hungry or full. \n💡 Depending on your child’s activities for the day, your child may require less or more food. \n💚 If your child always seems hungry or full, a doctor can help to figure out why.\n☕ your child will also observe and learn from the eating habits of people around them. Make healthy food choices as a family to teach your child to do the same.",
       "section_4_title": "KEEP IT CLEAN",
       "section_4_text": "💙 Preparing food with love is important for your child - and so is keeping it clean!\n✨ Wash your hands before handling food or feeding your child. \n💡 Wash fresh food items before cooking them.\n☀️ Hot weather makes food spoil quickly. It is best to store food in airtight containers or the fridge so they stay fresh. \n⭐ Keep the kitchen, fridge, cutlery, and table tops clean from dust, insects, and house lizards.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -423,7 +432,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -432,6 +442,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

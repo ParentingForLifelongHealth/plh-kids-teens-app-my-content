@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_8",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Learning to read begins with understanding language, letters, and sounds. 🎵 \n\nStarting to write letters will also help your child learn to read. 📖⭐",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Some say it’s best to wait until children start formal schooling, while others think otherwise. What do you think?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -257,7 +261,8 @@
       "section_3_text": "🎵 Sing and rhyme with your child to help them learn about the different sounds that make words.\n👋 Break up words into syllables. Clap with your child while saying each syllable - start with just 2!\n🔄 Swap sounds or letters to make new words, like “cat, pat, mat.” Then, repeat the sounds that were changed: “c”, “p”, “m”\n👀 Help your child identify “beginning,” “middle,” and “end” sounds - and letters that make these.\n✅ Once they understand letters and sounds in different places in words, you can help them put the parts of a word together to make the whole word!",
       "section_4_title": "START WRITING",
       "section_4_text": "🧸🌷 Encourage your child to draw. They can start by drawing things they like, such as animals or flowers.\n▶️ Next, show them how to draw shapes that look like letters: 🔵🔶\n😃 Later, help them write simple letters. Start with the first letter of their name! \n🔄 Practise and add letters until they can write their whole name. Then learn letters in other words!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -316,7 +321,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -325,6 +331,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

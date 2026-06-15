@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_27",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "🌷Anger is a normal part of everyday life, no matter where you live. So is misbehaving - especially if you are a child!\n\n💙 Feeling angry with your child has nothing to do with how much you love them or how good a job you are doing at parenting them.\n\n💡 Learning how to manage your anger can help keep everyone safe.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Here’s a question to help you think about managing these feelings with your child.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f1_daughter_6",
       "character_1_text": "Give it to me!",
       "character_2_text": "I had it first!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -247,7 +253,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -266,7 +273,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -333,7 +341,8 @@
       "section_2_text": "🧸 Sometimes anger might come from something else - like being tired, hungry or stressed. \n🌿 Make sure you get enough rest, eat when you are hungry, and find ways to manage stress before it builds up.\n💚 Ask someone for support when you are feeling alone.",
       "section_3_title": "LOOK AFTER YOURSELF",
       "section_3_text": "☕ Stay connected - talk to friends, family, or other support networks everyday. 💙\n❗ Lock away or remove anything dangerous that can be used to hurt others from your home.\n🚗 It’s OK to have your children stay somewhere safe while you recover.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -392,7 +401,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -401,6 +411,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

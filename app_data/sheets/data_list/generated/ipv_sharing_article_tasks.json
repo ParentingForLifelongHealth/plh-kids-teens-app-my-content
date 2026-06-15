@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_42",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Sharing family responsibilities can help make life less stressful and improve your relationship! 💚",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -189,7 +192,8 @@
       "text_1_facilitator": "Taking care of the home is important, and sharing family responsibilities is too. Let’s consider a question on this.",
       "quiz_2_option_1_text": "True",
       "quiz_2_option_2_text": "False",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -223,7 +227,8 @@
       "character_2_id": "f2_grandmother",
       "character_1_text": "Paati, your curry is so tasty today!",
       "character_2_text": "Thank you, my love. I’m glad you liked it.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -250,7 +255,8 @@
         }
       },
       "character_2_text": "Thank you. It’s actually quite tiring to cook and clean everyday, so it’s nice to hear that my effort is worth it!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -285,7 +291,8 @@
       "character_2_text": "That would be very helpful. Thank you, @data.characters.f2_grandfather.name. It feels less stressful when we share the workload.",
       "character_3_id": "f2_daughter_8",
       "character_3_text": "Let me help with the cleaning too!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -352,7 +359,8 @@
       "section_2_text": "😃 Having conversations about how you can share family responsibilities helps both you and your spouse understand each other better. \n💛It also shows that you care!",
       "section_3_title": "ASK FOR HELP",
       "section_3_text": "😒 It can be hard to remember to ask for help. \n🌷 Be kind to yourself if you forget! You can try again another time. \n⭐ Asking for help and sharing responsibilities creates a more supportive home for everyone!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -411,7 +419,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -420,6 +429,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

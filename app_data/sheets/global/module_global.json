@@ -5,18 +5,17 @@
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "module_summary_text",
-      "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name",
+      "name": "module_version",
+      "value": "1",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
-      }
+        "value": {}
+      },
+      "exclude_from_translation": true
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/PLH module_navigation.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1upg0i3Kz-ccJ44ZfbV49SWmehVpvHW3r9kBtc-bDRFI"
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
   }
 }

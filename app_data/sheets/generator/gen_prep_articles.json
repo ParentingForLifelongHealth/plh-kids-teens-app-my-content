@@ -62,12 +62,19 @@
         "completed: FALSE"
       ],
       "output_target": "{@gen.id}_article_tasks"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "version: 1"
+      ],
+      "output_target": "{@gen.id}_article_tasks"
     }
   ],
   "_source": {
-    "name": "kids_teens_global V2",
-    "path": "templates/PLH modules_data_pipes.xlsx",
-    "url": "https://docs.google.com/spreadsheets/d/1K1OfxFaAXgfYF6Q5mw6iFWiGrkn03njjbr2jmOQhA7Q"
+    "name": "kids_teens_my",
+    "path": "data/MY modules.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
   },
   "_output_flows": [
     {

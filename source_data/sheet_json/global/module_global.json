@@ -5,8 +5,10 @@
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "module_summary_text",
-      "value": "You have completed @local.no_completed out of @local.total lessons in @local.course_name"
+      "name": "module_version",
+      "value": "1",
+      "exclude_from_translation": true,
+      "comments": "when this is updated update gen_prep_articles"
     }
   ]
 }
