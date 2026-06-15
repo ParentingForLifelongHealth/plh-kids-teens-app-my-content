@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_5",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "In Malaysia, cultural, religious, and spiritual values have a strong impact on how we raise our families. ✨\n\nYour individual cultural, religious or spiritual values will influence the values you instil in your child. 🌱",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Here’s a question to think about.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f1_mother",
       "character_1_text": "When I was playing with our kids earlier, they raised their voices at me and I was shocked.",
       "character_2_text": "Hmm, maybe they were trying to tell you something with excitement.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -236,7 +241,8 @@
         }
       },
       "character_2_text": "I think that respect for elders is very important and a good tradition to pass down to our kids. We also want our kids to be open with their feelings.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -263,7 +269,8 @@
         }
       },
       "character_2_text": "Exactly!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -345,7 +352,8 @@
       "section_3_text": "🎉 Praise your child when they have learnt this value. You should also congratulate yourself. You’re doing so well!\n💛 Now, repeat the same process to teach other important values in your home.",
       "section_4_title": "SHARE",
       "section_4_text": "💙 Connect and share with other parents!\n👂 You can share your values and strategies with each other. This will let you learn together! \n🚲 Your child may even make new friends in your community through shared cultural, religious, and spiritual activities!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -404,7 +412,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -413,6 +422,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -56,6 +56,13 @@
         "completed: FALSE"
       ],
       "output_target": "child_change_yc_article_tasks"
+    },
+    {
+      "operation": "append_columns",
+      "args_list": [
+        "version: 1"
+      ],
+      "output_target": "child_change_yc_article_tasks"
     }
   ],
   "_output_flows": [

@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_24",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "When your child feels loved and supported at home, they are more likely to happily do chores and to grow into a healthy child and adult! 😃💚",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Let’s see how we can handle everyday situations.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -257,7 +261,8 @@
       "section_3_text": "👀 Your child learns more from what you *do* than what you *say*. They notice more than you might think!\n🌷 Treat your child and others in the way you’d like your child to act: with respect, kindness, patience, and love.\n❌ Shouting at or hitting your child will only teach them to react the same way towards others when upset.\n💚 Instead, talk calmly and set a clear consequence. This teaches your child to manage emotions in a healthy way. You’ll learn more about consequences in the next course.",
       "section_4_title": "NOTICE",
       "section_4_text": "🎨 Notice what your child enjoys doing, and support those interests. \n✨ When your child feels as if their needs and interests are respected, they are more likely to willingly help out at home!\n🎁 Praise them when they complete their responsibilities. This helps them learn what’s expected and makes it more likely for them to do it again.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -316,7 +321,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -325,6 +331,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

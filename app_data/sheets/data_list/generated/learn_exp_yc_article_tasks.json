@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_16",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Learning from our mistakes can help us avoid them in the future. 🌷\n\nIt can also help us be more supportive to ourselves and less harsh when things do not go well. 😃",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "What do you think about this?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "@data.characters.f3_daughter_4.name, watch where you’re going! You’re going to break something.",
       "character_2_text": "No I won’t! Look! I’m so fast!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -227,7 +232,8 @@
         }
       },
       "image_asset": "images/yc_modules/learn_experience_yc_2.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -254,7 +260,8 @@
         }
       },
       "character_2_text": "No, uncle. I’m so, so sorry for breaking the vase… I didn’t see it.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -281,7 +288,8 @@
         }
       },
       "character_2_text": "Yes, I should have listened. I continued running even after you said so.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -363,7 +371,8 @@
       "section_3_text": "🌱 Mistakes are part of learning. It’s okay for your child to make them. It helps them learn and grow! \n❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. \n😃 You can talk to your child about their mistakes and allow them to figure out a way to solve their problems and do better next time.",
       "section_4_title": "SHARE",
       "section_4_text": "📖 Try and share your own failures with your child and discuss how they helped you develop and grow. \n✅ This helps your child learn that you do not have to be perfect all the time.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -422,7 +431,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -431,6 +441,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

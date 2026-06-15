@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_29",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "❗ Learning how to solve problems with your child can help you avoid having to use consequences. \n\n🌱 As children get older, they will be able to work through their problems by themselves more often. \n\n💡 This builds important skills that will benefit them for life! 😃",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -165,7 +168,8 @@
       "character_1_text": "@data.characters.f3_mother.name: Come on, @data.characters.f3_son_7.name, it's time to get ready for bed.",
       "character_2_text": "But I still have so much homework to do!",
       "character_3_text": "Hm, this is the third night in a row that you haven't got to bed on time because of homework.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -208,7 +212,8 @@
       "character_3_text": "How about we make a rule that you start your homework half an hour after you get home from school. That way, you can finish it and have some time to relax before bed, too! I am happy to help you a little bit.",
       "character_4_id": "f3_son_7",
       "character_4_text": "Okay, mummy.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -243,7 +248,8 @@
       },
       "character_2_text": "I'll start now, Mummy! Can I talk to you about this question?",
       "character_3_text": "Of course, boy.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -264,7 +270,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -346,7 +353,8 @@
       "section_3_text": "⭐ Choose one solution together.\n🔑 Try it next time you are in a similar situation.",
       "section_4_title": "TEST IT",
       "section_4_text": "✅ Ask yourself, “Did it work?” \n😃 If yes, great!\n😔 If not, talk to your child about trying another solution next time.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -405,7 +413,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -414,6 +423,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

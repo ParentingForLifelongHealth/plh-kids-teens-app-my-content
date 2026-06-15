@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_32",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "😔 It is normal to feel uncomfortable about talking to children about abuse. \n\n💡 But there are some simple things that can help them understand when it is not OK to be touched, and what they should do if something ever happens. \n\n🔑 It lets them know that they are in control of who can touch their body and in what way. \n\n🌷 This prepares them to keep themselves safe throughout their lives!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -203,7 +206,8 @@
       "text_1_facilitator": "It is important to learn how to respond in these conversations.",
       "quiz_1_option_4_text": "Go and shout at the person who did it",
       "quiz_1_feedback_4": "❌ That’s incorrect. \n\n💚 Praise your child for being brave and for telling you so they feel safe to talk to you if anything ever happens again.\n\n💡 This teaches them that their safety matters most.\n\n❗ Confronting the person who did it often makes it worse, so it is better to help your child stay away from the person and report them to the police or at a clinic.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -221,7 +225,8 @@
         }
       },
       "image_asset": "images/yc_modules/safe_touch_6to9_yc_1.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -248,7 +253,8 @@
         }
       },
       "character_2_text": "Oh dear, @data.characters.f2_daughter_8.name, that is not OK. Thank you for telling me about it, that is not okay.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -275,7 +281,8 @@
         }
       },
       "character_2_text": "(Practising) No, let’s rather shake hands, please.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -302,7 +309,8 @@
         }
       },
       "character_2_text": "Thank you, Paati. I’m glad I can tell you about these things.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -399,7 +407,8 @@
       "section_4_text": "🔴 Tell your child that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust.\n👂 If your child tells you about something that has happened, listen openly and tell them they were right to tell you. Then, take steps to keep them safe.",
       "section_5_title": "GET HELP",
       "section_5_text": "💛 If you need help to be a better support for your child, you can refer to the library for more resources.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -458,7 +467,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -467,6 +477,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

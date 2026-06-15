@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_37",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -124,7 +126,8 @@
         }
       },
       "text_2": "Being online and connected helps children stay positive and learn more! 🔑\n\nBut it also comes with some risks and dangers. 🚩",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -247,7 +250,8 @@
       "quiz_3_feedback_1": "❌ Incorrect. \n\n🔑 Social media platforms have age restrictions for a reason. \n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions.",
       "quiz_3_option_2_text": "False",
       "quiz_3_feedback_2": "⭐ Correct! \n\n🔑 Social media platforms have age restrictions for a reason.\n\n👀 Young children should not have social media accounts without parental guidance and supervision, as they may encounter inappropriate content or interactions.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -282,7 +286,8 @@
       "character_2_id": "f3_mother",
       "character_1_text": "Mummy, my friend played games on her phone yesterday. Can I use the phone to play games too?",
       "character_2_text": "Sure, @data.characters.f3_daughter_4.name! But let’s first learn how to be safe when using gadgets. First, the household rule is that you can only use gadgets for 30 minutes each day. I will set a timer that will go off when you have 5 minutes left.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -302,7 +307,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -330,7 +336,8 @@
         }
       },
       "character_2_text": "Not just yet, @data.characters.f3_daughter_4.name. Social media is for older kids. We'll wait until you're a bit older. But we can post pictures on my account together if you want.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -358,7 +365,8 @@
         }
       },
       "character_2_text": "That’s a lot, Mummy!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -411,7 +419,8 @@
       "section_1_text": "🚩 CONTENT: Your child might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries.\n🚩 CONTACT: Adults might pretend to be children and ask for sexual pictures or to meet with your child through an online platform.\n🚩 CONDUCT: Sometimes, children or strangers can say or do hurtful things online.",
       "section_2_title": "PROTECT and keep your child safe online",
       "section_2_text": "✅ Talk to your child about which apps and websites are safe and which are not. Discuss why!\n✅ Help your child learn how to make strong passwords to protect their devices. \n✅ Tell your child that they should keep personal information private, including photos or videos of themselves. What goes online, stays online!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -471,7 +480,8 @@
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
       "attached_single_doc": "https://docs.google.com/document/d/1J6XOS3mG1P250xQBCFwFFaPFcJdZdglJOr1v7cpJZUM",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -480,6 +490,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

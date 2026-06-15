@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_47",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Balancing the money you earn with the money you need to spend is an important step in making a monthly budget. 📝",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -154,7 +157,8 @@
       },
       "quiz_2_option_1_text": "True",
       "quiz_2_option_2_text": "False",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -172,7 +176,8 @@
         }
       },
       "image_asset": "images/yc_modules/make_a_monthly_budget_yc_1.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -190,7 +195,8 @@
         }
       },
       "image_asset": "images/yc_modules/make_a_monthly_budget_yc_2.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -207,7 +213,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -225,7 +232,8 @@
         }
       },
       "image_asset": "images/yc_modules/make_a_monthly_budget_yc_3.svg",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -242,7 +250,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -309,7 +318,8 @@
       "section_2_text": "📱🚲 Decide which of the expenses are things that you NEED and which are things that you WANT. 📺🍞🚗",
       "section_3_title": "COMPARE WITH YOUR BUDGET",
       "section_3_text": "💡 Is the amount more or less than your monthly budget? \n\n⬆️ If it is less, you can add some things that you WANT. \n\n⬇️ If it is more, then you may want to discuss with your child which things are really NEEDS. \n\n😔 You may need to make difficult choices between different things. 💚",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -368,7 +378,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -377,6 +388,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

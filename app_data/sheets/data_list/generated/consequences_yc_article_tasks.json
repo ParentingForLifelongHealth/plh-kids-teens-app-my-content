@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_28",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "As children grow, they learn about which actions are appropriate in different situations and which aren’t. 👀\n\nConsequences teach our children that their actions affect themselves and others.❗\n\nIt is important for our children to learn this as they grow. 🌱 \n\nTeaching with calm and clear consequences helps children learn responsibility for their actions better than hitting or shouting. 💙",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "But how do you know which consequences will work? Let’s find out.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -201,7 +205,8 @@
       "image_asset": "images/yc_modules/teach_consequences_yc_1.svg",
       "character_1_id": "f1_father",
       "character_1_text": "You are playing so nice and quiet, @data.characters.f1_daughter_2.name. In 5 minutes, it will be time to clean up your toys.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
       },
       "character_2_id": "f1_daughter_2",
       "character_2_text": "No.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -255,7 +261,8 @@
       },
       "character_2_id": "f1_daughter_2",
       "character_2_text": "No Ayah, I don’t want to!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -274,7 +281,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -356,7 +364,8 @@
       "section_3_text": "➡️ Always follow through with consequences for the rules you set.\n⭐ This helps your child to know what to expect, and makes it more likely that they will follow the rule.\n🎈 Discuss consequences when setting household rules so that your child knows them and stick to them.",
       "section_4_title": "BE POSITIVE",
       "section_4_text": "🏆 Praise your child every time they do actions you want to see more of. This makes them more likely to repeat this behaviour!\n🎉 Using consequences can be hard at first, but will get easier with practice!\n✨ Consequences help our children learn that their actions affect others - and to think before they act.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -415,7 +424,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -424,6 +434,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

@@ -1062,6 +1062,15 @@
   },
   {
     "flow_type": "generator",
+    "flow_name": "gen_prep_articles",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY modules.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
+    }
+  },
+  {
+    "flow_type": "generator",
     "flow_name": "gen_prep_categories",
     "_source": {
       "name": "kids_teens_global V2",
@@ -1545,6 +1554,15 @@
       "name": "kids_teens_global V2",
       "path": "templates/PLH module_navigation.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1upg0i3Kz-ccJ44ZfbV49SWmehVpvHW3r9kBtc-bDRFI"
+    }
+  },
+  {
+    "flow_type": "global",
+    "flow_name": "module_version",
+    "_source": {
+      "name": "kids_teens_my",
+      "path": "data/MY modules.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1DM0rOh_m1ImLcgYqHENZoln-UX7Yb4oGiWl3O7nF1Lg"
     }
   },
   {

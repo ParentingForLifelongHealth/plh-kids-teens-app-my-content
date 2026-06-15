@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_33",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Know that parents all over the world say they worry about keeping their children safe. 🔔 You are not alone!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -266,7 +269,8 @@
       "quiz_2_feedback_1": "❌ Incorrect. \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere.",
       "quiz_2_option_2_text": "False",
       "quiz_2_feedback_2": "⭐ You’re correct! \n\n💡 It’s important to teach little ones about safety early on, even if they’re always with you. \n\n🔑 As caregivers, it is our job to help them learn how to stay safe everywhere.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -292,7 +296,8 @@
       "image_asset": "images/yc_modules/com_safety_2to4_yc_1.svg",
       "character_1_id": "f3_daughter_4",
       "character_1_text": "Look Uncle, how far I can kick my ball!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -311,7 +316,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -338,7 +344,8 @@
       },
       "character_2_id": "f3_daughter_4",
       "character_2_text": "We should stay where we are and ask an adult for help.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -357,7 +364,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -439,7 +447,8 @@
       "section_3_text": "❗ Discuss with your child why it is important to ALWAYS have an adult with them when they go outside. \n🧸Make sure your child knows it’s okay to walk or run inside if a stranger tries to talk to them or asks them to go somewhere. \n👀 Discuss with your child safe places they can run if a stranger approaches them – such as your home, or a neighbour’s home. \n🚩 Mark these areas clearly on your map.",
       "section_4_title": "PRACTISE",
       "section_4_text": "🔔Practise! Practise! Practise! \n👑 Using toys or puppets, role-play scenarios where a stranger approaches. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. \n⭐ Praise when your child chooses the correct response, such as running away, shouting for help, or finding a trusted adult.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -498,7 +507,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -507,6 +517,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

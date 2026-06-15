@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_19",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "🌱 Children have different abilities at different stages of their development. \n\n⚽ It is important to know what your child can do at their current stage. \n\n✨ This way, you can help plan activities that match their abilities and help you have realistic courses for them.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -224,7 +227,8 @@
       "quiz_2_feedback_2": "🎉 That’s right! \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home.",
       "quiz_2_option_3_text": "Give in to all of your child’s interests.",
       "quiz_2_feedback_3": "❌ Incorrect. \n\n💚 By warmly asking your child questions about their interests, they will feel comfortable sharing about the influences around them. \n\n🌷 You can gently give your opinions about their interests. \n\n⭐ You can also softly advise them on what changes fit your parenting values at home.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -259,7 +263,8 @@
       },
       "character_2_text": "I want to do it now!!",
       "character_3_text": "No, I want to do it first!!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -294,7 +299,8 @@
       },
       "character_2_text": "Hmm… How about we make a circle, and I kick the ball to @data.characters.f1_son_5.name, then he kicks it to you Ayah, and you kick it back to me!",
       "character_3_text": "But I want to go first, not second!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -321,7 +327,8 @@
         }
       },
       "character_2_text": "Okay… Let’s try.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -356,7 +363,8 @@
       },
       "character_2_text": "Thanks Ayah!",
       "character_3_text": "That was fun! Let’s do it again!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -427,7 +435,8 @@
       "section_2_text": "📖 Your child might have favourite subjects in school. Encourage them to ask questions if something is hard! \n🌱 They may also be interested in religious matters or spirituality. You can support their curiosity!",
       "section_3_title": "TRUST YOUR CHILD",
       "section_3_text": "📝 your child may begin making their own decisions and will want you to trust them. Listen to what they want and set rules that work for the family. \n🏆 Praise your child when they follow the rules!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -486,7 +495,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -495,6 +505,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

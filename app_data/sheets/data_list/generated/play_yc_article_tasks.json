@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_15",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "🎨 Playing with your child is important for their development and learning in and out of school. This is true for ALL children, including those with physical and developmental disabilities. \n\n🚲 Did you know? Playing also helps your child learn social values and social rules!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "Let’s find out more about learning through play with this question.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -201,7 +205,8 @@
       "image_asset": "images/yc_modules/play_yc_1.svg",
       "character_1_id": "f3_mother",
       "character_1_text": "Hi my love, I have 5 minutes of One-on-One Time to spend with you. What would you like to do?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
       },
       "character_2_id": "f3_mother",
       "character_2_text": "Great idea! What do we need to do first?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -255,7 +261,8 @@
       },
       "character_2_id": "f3_mother",
       "character_2_text": "That’s a great idea, @data.characters.f3_daughter_4.name! You are thinking through the steps so carefully!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -290,7 +297,8 @@
       "character_2_text": "Can we read our bedtime story here tonight?",
       "character_3_id": "f3_mother",
       "character_3_text": "Of course, @data.characters.f3_daughter_4.name!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -342,7 +350,8 @@
       "section_1_text": "⚽ Create time and have fun playing games with your child! \n🌱 This has benefits, like improving their physical and mental health, and helping them to learn and remember important facts better! \n⏰ If your child starts to feel overwhelmed, take a pause or play together to help calm them. \n💡 Take note of your child’s interests and use those in your play. This keeps them engaged!",
       "section_2_title": "ALLOW CREATIVITY",
       "section_2_text": "🎨 Allow your child to be creative when playing. For example, encourage your child to draw or go outside.\n✨ If your child is interested in a new topic, talk to them about it and help them explore the topic through play.\n💙 Set a good example: Let your child see you being creative and trying something new, even if you are not good at it yet.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -401,7 +410,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -410,6 +420,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

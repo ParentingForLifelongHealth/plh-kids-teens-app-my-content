@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_10",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Learning about comparing, adding, and subtracting will help your child understand more about maths. This will continue to help them learn number skills. 🔟/🔟 ⭐",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -165,7 +168,8 @@
       "character_1_text": "Thank you for cooking with me! You’re so helpful! What do you have here?",
       "character_2_text": "Potatoes!",
       "character_3_text": "That’s right! Potatoes! How many potatoes do you have?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -192,7 +196,8 @@
         }
       },
       "character_2_text": "That’s right! One, two, three, four… five! Five potatoes!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -211,7 +216,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -238,7 +244,8 @@
         }
       },
       "character_2_text": "Three potatoes left!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -320,7 +327,8 @@
       "section_3_text": "⏰ Once your child has learned some number skills, they can start learning harder skills.\n5️⃣ If you think they are ready, ask them to find 5 stones. Show them that you can make 5 stones with one group of 1 stone and another of 4 stones; then show them with one group of 2 and one group of 3.\n🔟 When they are ready, do the same activity with bigger numbers - up to 10 stones.",
       "section_4_title": "ENCOURAGE AND HAVE FUN",
       "section_4_text": "💚 Go slowly and help your child build confidence by doing things they are ready for and know how to do. \n😃 Always encourage their effort and praise them. Mistakes are okay, too!\n🎉 Keep learning fun. It helps them stay excited and motivated!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -379,7 +387,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -388,6 +397,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

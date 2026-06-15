@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_36",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "When children share something that is very hard or upsetting to them 😔😣, remember to stay calm, listen, and be open, so that they feel supported. 💛",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "When my children are upset, I sometimes feel like I shouldn’t be near them.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -201,7 +205,8 @@
       "image_asset": "images/yc_modules/crises_7to9_yc_1.svg",
       "character_1_id": "f2_grandmother",
       "character_1_text": "My dear, you look really upset, do you want to tell me what happened?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -228,7 +233,8 @@
       },
       "character_2_id": "f2_grandmother",
       "character_2_text": "(Thinking): Take a deep breath... What does my child need? She needs me to be calm and listen. Come and sit down next to me. Take your time, I’m listening.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -255,7 +261,8 @@
       },
       "character_2_id": "f2_grandmother",
       "character_2_text": "You are so brave for sharing this with me. You are not in trouble. This is not your fault. Thank you for telling me.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -282,7 +289,8 @@
       },
       "character_2_id": "f2_grandmother",
       "character_2_text": "It’s okay, I believe you, @data.characters.f2_daughter_8.name. You have done the right thing telling me. What’s happened is not OK, but I am here for you to help you and support you. We will need to talk to someone who will help keep you safe. Would that be okay, @data.characters.f2_daughter_8.name? I will be with you at all times.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_5",
@@ -301,7 +309,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_6",
@@ -320,7 +329,8 @@
           "my_ms": true
         }
       },
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -402,7 +412,8 @@
       "section_3_text": "🔶 You might need to help your child talk about their feelings or redirect their focus.\n➡️ You might need to talk about the actions that you or your child could take to help with what has happened.\n⏸ You can teach your child consequences later if needed. In the moment, your child needs you to be there for them with love.\n✅ Remember, you can refer to the My Resources for a list of community resources where you can receive help.",
       "section_4_title": "COMFORT: Be there for your child",
       "section_4_text": "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them.\n💚 They need you to accept them and comfort them when difficult things are going on.\n🎈 Remind your child again that you love them, and thank them for sharing with you.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -461,7 +472,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -470,6 +482,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

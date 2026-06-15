@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_20",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Managing your stress is really important for your health and mental well-being. ⭐\n\nWhen you feel calmer, it is easier to connect with your child in a positive way. 🔑",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -190,7 +193,8 @@
       "section_2_text": "🚩 What’s causing your stress? Write them down.\n💡 When you know what’s stressing you out, you can starting finding ways to address and manage it.\n🎨 Now think - what do you enjoy doing? \n💚 There are different ways to care for yourself, such as walking, praying, and reading. Activities that help you manage stress are called ‘self-care’.",
       "section_3_title": "ROUTINE",
       "section_3_text": "✨ Reflect on your daily life - how can you reduce your stress?\n☕ Can you add more self-care into your routine - even something small?\n\n⏰ Try to do one self-care activity each day.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -249,7 +253,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -258,6 +263,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }

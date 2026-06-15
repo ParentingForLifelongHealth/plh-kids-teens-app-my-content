@@ -30,7 +30,8 @@
       },
       "category_id": "relax",
       "nested": false,
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "check_in_21",
@@ -99,7 +100,8 @@
       "quiz_1_option_1_text": "Happy",
       "quiz_1_option_2_text": "Okay",
       "quiz_1_option_3_text": "Sad",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_1",
@@ -123,7 +125,8 @@
         }
       },
       "text_2": "Even the best behaved children only follow instructions about 50% of the time. ⏰\n\nBeing more effective about how you give instructions can make things more peaceful and calm at home. 🌱",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "intro_2",
@@ -175,7 +178,8 @@
       "quiz_1_option_1_text": "True",
       "quiz_1_option_2_text": "False",
       "text_1_facilitator": "What do you think about this?",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_1",
@@ -209,7 +213,8 @@
       "character_2_id": "f3_daughter_4",
       "character_1_text": "It is nice to see you playing quietly with the handphone while I clear up after dinner, @data.characters.f3_daughter_4.name. In 3 minutes, it will be bedtime and you will need to give the handphone back to me.",
       "character_2_text": "Okay…",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_2",
@@ -236,7 +241,8 @@
         }
       },
       "character_2_text": "No!! I’m not done!!",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_3",
@@ -263,7 +269,8 @@
         }
       },
       "character_2_text": "Okay…",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "explore_4",
@@ -290,7 +297,8 @@
         }
       },
       "character_2_text": "Yes, mummy.",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "tips_1",
@@ -357,7 +365,8 @@
       "section_2_text": "⭐ Give instructions your child can follow. \n💡 Give one instruction at a time - it is easier to remember.\n⏰ Try giving a heads-up: “In 3 minutes, it will be bedtime and you will need to give the handphone back to me.”",
       "section_3_title": "BE POSITIVE",
       "section_3_text": "⭐ Use positive words when giving instructions. For example, say “Talk in a quiet voice,” instead of “Don’t shout.”\n💡 Speak calmly but firmly, like you expect your child to do what you ask.\n🎁 Praise, praise, praise! Make sure you praise your child immediately when they follow your instruction.\n🌷 And remember—this takes practice. Be kind to yourself as you learn too. 💙",
-      "completed": false
+      "completed": false,
+      "version": 1
     },
     {
       "id": "home_activity_1",
@@ -416,7 +425,8 @@
       "quiz_1_option_1_text": "Yes",
       "quiz_1_option_2_text": "I think so",
       "quiz_1_option_3_text": "No",
-      "completed": false
+      "completed": false,
+      "version": 1
     }
   ],
   "_metadata": {
@@ -425,6 +435,9 @@
     },
     "completed": {
       "type": "boolean"
+    },
+    "version": {
+      "type": "number"
     }
   }
 }
