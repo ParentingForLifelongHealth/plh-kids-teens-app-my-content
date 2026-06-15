@@ -123,7 +123,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3067
+        "count": 3109
       },
       {
         "type": "simple_checkbox",
@@ -139,7 +139,7 @@
       },
       {
         "type": "template",
-        "count": 901
+        "count": 904
       },
       {
         "type": "text",
@@ -195,7 +195,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 632
+        "count": 633
       },
       {
         "type": "emit: force_reload",
@@ -2905,7 +2905,7 @@
       {
         "type": "global",
         "subtype": null,
-        "total": 7
+        "total": 9
       },
       {
         "type": "global",
