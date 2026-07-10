@@ -766,11 +766,9 @@
     {
       "type": "declare_global_constant",
       "name": "certificates_location",
-      "value": "You can find your certificates in @global.library by selecting \"My Certificates\"",
+      "value": "Your certificates are saved in your @global.library",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       }
     }
   ],
