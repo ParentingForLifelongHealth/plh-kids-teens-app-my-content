@@ -108,7 +108,7 @@
       "type": "data_items",
       "value": "@data.module_tasks",
       "action_list": "data_changed | set_local : uncompleted_in_course: @items.length;",
-      "parameter_list": "filter: (@item.id !== @local.module_id) && (@item.tag_course == @local.course_id) && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
+      "parameter_list": "filter: @item.tag_course == @local.course_id && !@item.completed && (!@item.age_list || @item.age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship));",
       "condition": "@local.course_id !== \"test\""
     },
     {
@@ -272,7 +272,7 @@
       "value": "article_@local.template_name",
       "action_list": "completed | set_item | completed: true;\ncompleted | set_item | last_completed_ts: @calc(now());\ncompleted | set_data | _list_id: module_tasks, _id: @local.module_id, completed: true, completed_ts: @calc(now());\ncompleted | set_field : n_modules_completed :  @local.curr_n_mod_or_plus_one;\ncompleted | set_field : last_module_in_progress: @local.last_module_in_progress;\ncompleted | emit: completed;\ncompleted | emit: server_sync;\nuncompleted | set_local: active_index: @item._index  - 1;",
       "exclude_from_translation": true,
-      "condition": "@item._last && (@local.uncompleted_in_course !== 0)",
+      "condition": "@item._last && (@local.uncompleted_in_course !== 1)",
       "comment": "completed | set_item | completed: true;\ncompleted | set_item | last_completed_ts: @calc(now());\ncompleted | task: evaluate | data_list_name: module_tasks, row_id: @local.module_id;\ncompleted | set_data | _list_id: module_tasks, _id: @local.module_id, completed_ts: @calc(now());\ncompleted | emit: completed;\ncompleted | emit: server_sync;\nuncompleted | set_local: active_index: @item._index  - 1;"
     },
     {
@@ -316,7 +316,7 @@
       "value": "article_@local.template_name",
       "action_list": "completed | set_item | completed: true;\ncompleted | set_item | last_completed_ts: @calc(now());\ncompleted | set_data | _list_id: module_tasks, _id: @local.module_id, completed: true, completed_ts: @calc(now());\ncompleted | set_data | _list_id: courses, _id: @local.course_id, completed: true, completed_ts: @calc(now());\ncompleted | set_field : n_modules_completed : @local.curr_n_mod_or_plus_one;\ncompleted | set_field : last_module_in_progress: @local.last_module_in_progress;\ncompleted | emit: completed;\ncompleted | emit: server_sync;\nuncompleted | set_local: active_index: @item._index  - 1;",
       "exclude_from_translation": true,
-      "condition": "@item._last && (@local.uncompleted_in_course == 0)"
+      "condition": "@item._last && (@local.uncompleted_in_course == 1)"
     },
     {
       "type": "begin_nested_properties",

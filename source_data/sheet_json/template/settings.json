@@ -79,7 +79,7 @@
       "name": "button_login",
       "value": "@global.account",
       "parameter_list": "variant: card;\nicon: @local.user_id_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_login | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_login",
       "exclude_from_translation": true
     },
     {
@@ -87,7 +87,7 @@
       "name": "button_profile",
       "value": "@global.profile",
       "parameter_list": "variant: card;\nicon: @local.profile_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_profile | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_profile",
       "exclude_from_translation": true
     },
     {
@@ -95,7 +95,7 @@
       "name": "button_faci_group_id",
       "value": "@global.facilitator_setting",
       "parameter_list": "variant: card;\nicon: @local.faci_group_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_faci_group_id | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_faci_group_id",
       "exclude_from_translation": true
     },
     {
@@ -103,7 +103,7 @@
       "name": "button_language",
       "value": "@global.language",
       "parameter_list": "variant: card;\nicon: @local.language_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_language_select | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_language_select",
       "exclude_from_translation": true
     },
     {
@@ -111,7 +111,7 @@
       "name": "button_user_id",
       "value": "@global.user_id_text",
       "parameter_list": "variant: card;\nicon: @local.user_id_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_user_id | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_user_id",
       "condition": false,
       "exclude_from_translation": true
     },
@@ -137,7 +137,7 @@
       "name": "button_about",
       "value": "@global.about_this_app",
       "parameter_list": "variant: card;\nicon: @local.about_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_about | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_about",
       "exclude_from_translation": true
     },
     {
@@ -145,7 +145,7 @@
       "name": "button_terms",
       "value": "@global.terms_and_conditions",
       "parameter_list": "variant: card;\nicon: @local.terms_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_terms | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_terms",
       "exclude_from_translation": true
     },
     {
@@ -153,7 +153,7 @@
       "name": "button_privacy",
       "value": "@global.privacy_policy",
       "parameter_list": "variant: card;\nicon: @local.privacy_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: settings_privacy_policy | fullscreen: true, showCloseButton: false;",
+      "action_list": "click | go_to: settings_privacy_policy",
       "exclude_from_translation": true
     },
     {
@@ -161,7 +161,7 @@
       "name": "button_feedback",
       "value": "@global.feedback",
       "parameter_list": "variant: card;\nicon: @local.feedback_icon;\nicon_secondary_asset: @local.next_icon_asset;\nstyle: no-background;\ntext_align: left;",
-      "action_list": "click | pop_up: feedback_form | fullscreen: true, showCloseButton: false;"
+      "action_list": "click | go_to: feedback_form"
     },
     {
       "type": "end_display_group",

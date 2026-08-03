@@ -188,8 +188,12 @@
     },
     {
       "type": "display_group",
+      "parameter_list": {
+        "wrap": "true"
+      },
       "style_list": [
-        "justify-content: center"
+        "justify-content: center",
+        "gap: 1em 2em"
       ],
       "rows": [
         {
@@ -463,7 +467,7 @@
   ],
   "_source": {
     "name": "kids_teens_global V2",
-    "path": "templates/certificates.xlsx",
+    "path": "templates/PLH certificates.xlsx",
     "url": "https://docs.google.com/spreadsheets/d/1KKfrEtHpXm0sMNY21dYKMmZBOny_Vnum-zr1zgdPcmM"
   }
 }

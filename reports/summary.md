@@ -9,40 +9,44 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 109 |
+| button | 118 |
 | combo_box | 25 |
-| data_items | 176 |
+| data_items | 186 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 99 |
+| display_group | 113 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 22 |
+| image | 23 |
 | items | 16 |
-| lottie_animation | 4 |
+| lottie_animation | 5 |
 | nested_properties | 251 |
 | number_selector | 1 |
 | plh_bottom_nav | 1 |
 | plh_course_accordion | 1 |
+| plh_course_lesson_accordion | 3 |
 | plh_course_sub_item | 3 |
+| plh_get_up_next | 1 |
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
+| plh_progress_bar | 5 |
 | qr_code | 1 |
-| radio_button_grid | 9 |
-| round_button | 16 |
+| radio_button_grid | 10 |
+| radio_list | 2 |
+| round_button | 20 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3109 |
+| set_variable | 3167 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 904 |
-| text | 264 |
+| template | 909 |
+| text | 285 |
 | text_area | 3 |
 | text_box | 24 |
-| text_bubble | 12 |
-| title | 55 |
+| text_bubble | 15 |
+| title | 64 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -54,29 +58,30 @@
 
 | type | count |
 | --- | --- |
-| add_data | 1 |
+| add_data | 4 |
 | app_update | 1 |
+| asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 633 |
+| emit: completed | 639 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 17 |
 | emit: force_restart | 3 |
 | emit: server_sync | 7 |
 | emit: set_language | 2 |
-| emit: uncompleted | 637 |
+| emit: uncompleted | 641 |
 | feedback | 13 |
-| go_to | 18 |
-| nav_stack | 330 |
+| go_to | 27 |
+| nav_stack | 331 |
 | plh_certificate | 9 |
 | plh_parent_group | 2 |
-| pop_up | 74 |
+| pop_up | 66 |
 | reset_app | 4 |
 | reset_data | 3 |
 | save_to_device | 1 |
-| set_data | 92 |
-| set_field | 132 |
+| set_data | 94 |
+| set_field | 137 |
 | set_item | 30 |
-| set_local | 120 |
+| set_local | 126 |
 | share | 3 |
 | task | 2 |
 | toast | 9 |
@@ -88,8 +93,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 93225 KB | 93.2 MB |
-| unused | 905 KB | 0.9 MB |
+| total | 92551 KB | 92.6 MB |
+| unused | 1580 KB | 1.6 MB |
 </details>
 
 <details open>
@@ -156,6 +161,7 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
+| lottie/gift_box.json | 674.5 |
 </details>
 
 <details open>
@@ -229,6 +235,8 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/girlfriend.svg | 1 |
 | images/character_icons/man_threat.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
+| lottie/ux/bulging_circles.json | 1 |
+| lottie/ux/gift_box.json | 1 |
 | relax_10__.mp3 | 1 |
 | relax_11__.mp3 | 1 |
 | relax_12__.mp3 | 1 |
@@ -572,9 +580,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/yc_modules/young_child_change_yc_2.svg | 51.7 | 2 |
 | images/yc_modules/young_child_change_yc_3.svg | 46.9 | 2 |
 | images/yc_modules/young_child_change_yc_4.svg | 48.9 | 2 |
-| lottie/bulging_circles.json | 11.8 | 2 |
+| lottie/bulging_circles.json | 11.8 | 1 |
 | lottie/checkmark.json | 23.6 | 1 |
-| lottie/gift_box.json | 674.5 | 1 |
 | lottie/relax/blue_dots.json | 14.7 | 13 |
 | lottie/relax/heart.json | 46.7 | 12 |
 | lottie/relax/looping_rings.json | 10.4 | 13 |
@@ -587,7 +594,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 18 |
+| data_list |  | 21 |
 | data_list | activities | 2 |
 | data_list | app_config_language_list | 1 |
 | data_list | campaign_rows | 1 |
@@ -655,7 +662,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 10 |
 | global | legal_terms | 1 |
 | global | onboarding | 10 |
-| template |  | 146 |
+| global | proximal_outcomes | 1 |
+| template |  | 150 |
 | template | generated | 694 |
 | template | legal_terms | 4 |
+| template | proximal_outcomes | 3 |
 </details>

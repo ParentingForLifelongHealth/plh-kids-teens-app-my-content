@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 109
+        "count": 118
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 176
+        "count": 186
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 99
+        "count": 113
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 22
+        "count": 23
       },
       {
         "type": "items",
@@ -67,7 +67,7 @@
       },
       {
         "type": "lottie_animation",
-        "count": 4
+        "count": 5
       },
       {
         "type": "nested_properties",
@@ -86,8 +86,16 @@
         "count": 1
       },
       {
+        "type": "plh_course_lesson_accordion",
+        "count": 3
+      },
+      {
         "type": "plh_course_sub_item",
         "count": 3
+      },
+      {
+        "type": "plh_get_up_next",
+        "count": 1
       },
       {
         "type": "plh_lesson_cta",
@@ -102,16 +110,24 @@
         "count": 2
       },
       {
+        "type": "plh_progress_bar",
+        "count": 5
+      },
+      {
         "type": "qr_code",
         "count": 1
       },
       {
         "type": "radio_button_grid",
-        "count": 9
+        "count": 10
+      },
+      {
+        "type": "radio_list",
+        "count": 2
       },
       {
         "type": "round_button",
-        "count": 16
+        "count": 20
       },
       {
         "type": "select_text",
@@ -123,7 +139,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3109
+        "count": 3167
       },
       {
         "type": "simple_checkbox",
@@ -139,11 +155,11 @@
       },
       {
         "type": "template",
-        "count": 904
+        "count": 909
       },
       {
         "type": "text",
-        "count": 264
+        "count": 285
       },
       {
         "type": "text_area",
@@ -155,11 +171,11 @@
       },
       {
         "type": "text_bubble",
-        "count": 12
+        "count": 15
       },
       {
         "type": "title",
-        "count": 55
+        "count": 64
       },
       {
         "type": "toggle_bar",
@@ -183,11 +199,15 @@
     "data": [
       {
         "type": "add_data",
-        "count": 1
+        "count": 4
       },
       {
         "type": "app_update",
         "count": 1
+      },
+      {
+        "type": "asset_pack",
+        "count": 2
       },
       {
         "type": "auth",
@@ -195,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 633
+        "count": 639
       },
       {
         "type": "emit: force_reload",
@@ -219,7 +239,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 637
+        "count": 641
       },
       {
         "type": "feedback",
@@ -227,11 +247,11 @@
       },
       {
         "type": "go_to",
-        "count": 18
+        "count": 27
       },
       {
         "type": "nav_stack",
-        "count": 330
+        "count": 331
       },
       {
         "type": "plh_certificate",
@@ -243,7 +263,7 @@
       },
       {
         "type": "pop_up",
-        "count": 74
+        "count": 66
       },
       {
         "type": "reset_app",
@@ -259,11 +279,11 @@
       },
       {
         "type": "set_data",
-        "count": 92
+        "count": 94
       },
       {
         "type": "set_field",
-        "count": 132
+        "count": 137
       },
       {
         "type": "set_item",
@@ -271,7 +291,7 @@
       },
       {
         "type": "set_local",
-        "count": 120
+        "count": 126
       },
       {
         "type": "share",
@@ -295,13 +315,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "93225 KB",
-        "MB": "93.2 MB"
+        "KB": "92551 KB",
+        "MB": "92.6 MB"
       },
       {
         "assets": "unused",
-        "KB": "905 KB",
-        "MB": "0.9 MB"
+        "KB": "1580 KB",
+        "MB": "1.6 MB"
       }
     ]
   },
@@ -534,6 +554,10 @@
       {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
+      },
+      {
+        "path": "lottie/gift_box.json",
+        "size_kb": 674.5
       }
     ]
   },
@@ -856,6 +880,16 @@
       },
       {
         "path": "images/logos/plh_logomark.png",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "lottie/ux/bulging_circles.json",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "lottie/ux/gift_box.json",
         "count": 1,
         "missing": true
       },
@@ -2535,18 +2569,13 @@
       },
       {
         "path": "lottie/bulging_circles.json",
-        "count": 2,
+        "count": 1,
         "size_kb": 11.8
       },
       {
         "path": "lottie/checkmark.json",
         "count": 1,
         "size_kb": 23.6
-      },
-      {
-        "path": "lottie/gift_box.json",
-        "count": 1,
-        "size_kb": 674.5
       },
       {
         "path": "lottie/relax/blue_dots.json",
@@ -2580,7 +2609,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 18
+        "total": 21
       },
       {
         "type": "data_list",
@@ -2918,9 +2947,14 @@
         "total": 10
       },
       {
+        "type": "global",
+        "subtype": "proximal_outcomes",
+        "total": 1
+      },
+      {
         "type": "template",
         "subtype": null,
-        "total": 146
+        "total": 150
       },
       {
         "type": "template",
@@ -2931,6 +2965,11 @@
         "type": "template",
         "subtype": "legal_terms",
         "total": 4
+      },
+      {
+        "type": "template",
+        "subtype": "proximal_outcomes",
+        "total": 3
       }
     ]
   }
