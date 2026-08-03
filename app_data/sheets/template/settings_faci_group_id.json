@@ -2,6 +2,13 @@
   "flow_type": "template",
   "flow_name": "settings_faci_group_id",
   "status": "released",
+  "parameter_list": {
+    "app_config": {
+      "APP_FOOTER_DEFAULTS": {
+        "templateName": false
+      }
+    }
+  },
   "rows": [
     {
       "name": "success",
@@ -83,9 +90,9 @@
               "action_id": "set_field",
               "args": [
                 "faci_group_id",
-                "@local.faci_group_id_input"
+                "@local.faci_group_id_input.toUpperCase()"
               ],
-              "_raw": "click | set_field: faci_group_id: @local.faci_group_id_input"
+              "_raw": "click | set_field: faci_group_id: @local.faci_group_id_input.toUpperCase()"
             },
             {
               "trigger": "click",
@@ -108,8 +115,8 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "@local.faci_group_id_input",
-                      "matchedExpression": "@local.faci_group_id_input",
+                      "fullExpression": "@local.faci_group_id_input.toUpperCase()",
+                      "matchedExpression": "@local.faci_group_id_input.toUpperCase",
                       "type": "local",
                       "fieldName": "faci_group_id_input"
                     }
@@ -117,8 +124,8 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field: faci_group_id: @local.faci_group_id_input",
-                    "matchedExpression": "@local.faci_group_id_input",
+                    "fullExpression": "click | set_field: faci_group_id: @local.faci_group_id_input.toUpperCase()",
+                    "matchedExpression": "@local.faci_group_id_input.toUpperCase",
                     "type": "local",
                     "fieldName": "faci_group_id_input"
                   }
@@ -135,7 +142,7 @@
             ]
           },
           "_dynamicDependencies": {
-            "@local.faci_group_id_input": [
+            "@local.faci_group_id_input.toUpperCase": [
               "action_list.0.args.1",
               "action_list.0._raw"
             ],
@@ -416,9 +423,9 @@
           "args": [
             "join_remote"
           ],
-          "_raw": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+          "_raw": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
           "params": {
-            "access_code": "@local.faci_group_id_input",
+            "access_code": "@local.faci_group_id_input.toUpperCase()",
             "app_user_id": "@fields._app_user_id",
             "auth_user_id": "@fields._auth_user_id",
             "result_local_variable_name": "result",
@@ -463,37 +470,37 @@
           "3": {
             "_raw": [
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
-                "matchedExpression": "@local.faci_group_id_input",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "matchedExpression": "@local.faci_group_id_input.toUpperCase",
                 "type": "local",
                 "fieldName": "faci_group_id_input"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields._app_user_id",
                 "type": "fields",
                 "fieldName": "_app_user_id"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields._auth_user_id",
                 "type": "fields",
                 "fieldName": "_auth_user_id"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields.user_name",
                 "type": "fields",
                 "fieldName": "user_name"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@fields.user_gender",
                 "type": "fields",
                 "fieldName": "user_gender"
               },
               {
-                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
+                "fullExpression": "click | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now())",
                 "matchedExpression": "@calc(now())",
                 "type": "calc",
                 "fieldName": "now()"
@@ -502,8 +509,8 @@
             "params": {
               "access_code": [
                 {
-                  "fullExpression": "@local.faci_group_id_input",
-                  "matchedExpression": "@local.faci_group_id_input",
+                  "fullExpression": "@local.faci_group_id_input.toUpperCase()",
+                  "matchedExpression": "@local.faci_group_id_input.toUpperCase",
                   "type": "local",
                   "fieldName": "faci_group_id_input"
                 }
@@ -572,7 +579,7 @@
         "@global.update_group": [
           "value"
         ],
-        "@local.faci_group_id_input": [
+        "@local.faci_group_id_input.toUpperCase": [
           "action_list.3._raw",
           "action_list.3.params.access_code"
         ],

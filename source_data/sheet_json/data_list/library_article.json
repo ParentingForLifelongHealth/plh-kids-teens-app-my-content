@@ -21,7 +21,7 @@
     {
       "id": "support_3",
       "library_section_list": "support",
-      "title::eng": "A health referral  ",
+      "title::eng": "A health referral",
       "introduction::eng": "Malaysia Emergency Response System - MERS - (All in one) hotline: 999"
     },
     {
@@ -46,7 +46,7 @@
       "id": "support_7",
       "library_section_list": "support",
       "title::eng": "A challenge in my family",
-      "introduction::eng": "Family and Marriage Counseling, LPPKN. Call FamilyCare@LPPKN helpline 1-800-82-0300 "
+      "introduction::eng": "Family and Marriage Counseling, LPPKN. Call FamilyCare@LPPKN helpline 1-800-82-0300"
     }
   ]
 }
