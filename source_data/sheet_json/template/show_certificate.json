@@ -36,7 +36,8 @@
     },
     {
       "type": "begin_display_group",
-      "style_list": "justify-content: center;"
+      "parameter_list": "wrap: true;",
+      "style_list": "justify-content: center;\ngap: 1em 2em;"
     },
     {
       "type": "button",

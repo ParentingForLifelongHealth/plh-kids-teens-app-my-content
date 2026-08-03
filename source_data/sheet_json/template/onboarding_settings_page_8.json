@@ -84,7 +84,7 @@
     {
       "type": "button",
       "value": "@global.join_group",
-      "action_list": "click | set_local: load_status: true;\nclick | emit: force_reprocess;\nclick | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input,\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());\nclick | set_local: load_status: false;\nclick | emit: force_reprocess;",
+      "action_list": "click | set_local: load_status: true;\nclick | emit: force_reprocess;\nclick | set_local: result: \"\"\"\";\nclick | plh_parent_group: join_remote |\naccess_code: @local.faci_group_id_input.toUpperCase(),\napp_user_id: @fields._app_user_id,\nauth_user_id: @fields._auth_user_id,\nresult_local_variable_name: result,\nname: @fields.user_name,\ngender: @fields.user_gender,\ntimestamp: @calc(now());\nclick | set_local: load_status: false;\nclick | emit: force_reprocess;",
       "parameter_list": "disabled: !@local.valid_faci_group_id_input || @local.load_status;"
     },
     {
@@ -151,7 +151,7 @@
       "type": "button",
       "name": "button_completed_2",
       "value": "@global.continue",
-      "action_list": "click | set_field: faci_group_id: @local.faci_group_id_input;\nclick | emit: completed;",
+      "action_list": "click | set_field: faci_group_id:  @local.faci_group_id_input.toUpperCase();\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1",
       "exclude_from_translation": true
