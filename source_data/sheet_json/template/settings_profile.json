@@ -22,7 +22,7 @@
     },
     {
       "name": "confirm_exit",
-      "value": false
+      "value": true
     },
     {
       "type": "end_template"

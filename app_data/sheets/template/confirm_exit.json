@@ -116,11 +116,11 @@
             },
             {
               "trigger": "click",
-              "action_id": "nav_stack",
+              "action_id": "nav",
               "args": [
                 "back"
               ],
-              "_raw": "click | nav_stack: back"
+              "_raw": "click | nav: back"
             }
           ],
           "exclude_from_translation": false,

@@ -3214,15 +3214,6 @@
   },
   {
     "flow_type": "template",
-    "flow_name": "settings_profile",
-    "_source": {
-      "name": "kids_teens_my",
-      "path": "templates/MY kids app_launch.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1VxndxlFpGCidupf-b3XMyZ2ltdDHDJ3cSKNtv743zH0"
-    }
-  },
-  {
-    "flow_type": "template",
     "flow_name": "settings_terms",
     "_source": {
       "name": "kids_teens_global V2",
