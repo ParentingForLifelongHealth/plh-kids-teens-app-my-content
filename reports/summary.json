@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 118
+        "count": 117
       },
       {
         "type": "combo_box",
@@ -215,7 +215,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 639
+        "count": 638
       },
       {
         "type": "emit: force_reload",
@@ -231,7 +231,7 @@
       },
       {
         "type": "emit: server_sync",
-        "count": 7
+        "count": 6
       },
       {
         "type": "emit: set_language",
@@ -250,8 +250,12 @@
         "count": 27
       },
       {
+        "type": "nav",
+        "count": 1
+      },
+      {
         "type": "nav_stack",
-        "count": 331
+        "count": 330
       },
       {
         "type": "plh_certificate",
@@ -283,7 +287,7 @@
       },
       {
         "type": "set_field",
-        "count": 137
+        "count": 128
       },
       {
         "type": "set_item",

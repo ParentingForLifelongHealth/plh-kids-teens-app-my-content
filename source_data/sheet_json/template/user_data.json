@@ -172,19 +172,10 @@
     },
     {
       "type": "button",
-      "name": "button_completed_2",
+      "name": "button_completed",
       "value": "@global.save",
       "action_list": "click | set_field: user_name: @local.user_name_input;\nclick | set_field: user_location: @local.user_location_select;\nclick | set_field: user_ethnicity: @local.user_ethnicity_select;\nclick | set_field: household_children: @local.household_children_input;\nclick | set_field: child_name: @local.child_name_input;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: content_package: @local.content_package_select;\nclick | set_field: user_data_completed: true;\nclick | emit: server_sync;\nclick | emit: completed",
-      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
-      "exclude_from_translation": true
-    },
-    {
-      "type": "button",
-      "name": "button_completed_2",
-      "value": "@global.save",
-      "action_list": "click | set_field: user_name: @local.user_name_input;\nclick | set_field: user_location: @local.user_location_select;\nclick | set_field: user_ethnicity: @local.user_ethnicity_select;\nclick | set_field: household_children: @local.household_children_input;\nclick | set_field: child_name: @local.child_name_input;\nclick | set_field: user_type: @local.user_type_select;\nclick | set_field: content_package: @local.content_package_select;\nclick | set_field: countdown_days: 7;\nclick | set_field: user_data_completed: true;\nclick | emit: server_sync;\nclick | emit: completed",
-      "condition": false,
-      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
+      "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled;\nsticky: bottom;",
       "exclude_from_translation": true
     }
   ]

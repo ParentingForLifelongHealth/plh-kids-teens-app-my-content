@@ -32,7 +32,7 @@
       "type": "button",
       "name": "button_delete",
       "value": "@global.confirm_exit_button_leave",
-      "action_list": "click | emit: completed;\nclick | nav_stack: back;",
+      "action_list": "click | emit: completed;\nclick | nav: back;",
       "exclude_from_translation": false,
       "parameter_list": "style: card",
       "style_list": "flex:1",

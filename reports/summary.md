@@ -9,7 +9,7 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 118 |
+| button | 117 |
 | combo_box | 25 |
 | data_items | 186 |
 | debug_toggle | 1 |
@@ -62,16 +62,17 @@
 | app_update | 1 |
 | asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 639 |
+| emit: completed | 638 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 17 |
 | emit: force_restart | 3 |
-| emit: server_sync | 7 |
+| emit: server_sync | 6 |
 | emit: set_language | 2 |
 | emit: uncompleted | 641 |
 | feedback | 13 |
 | go_to | 27 |
-| nav_stack | 331 |
+| nav | 1 |
+| nav_stack | 330 |
 | plh_certificate | 9 |
 | plh_parent_group | 2 |
 | pop_up | 66 |
@@ -79,7 +80,7 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 94 |
-| set_field | 137 |
+| set_field | 128 |
 | set_item | 30 |
 | set_local | 126 |
 | share | 3 |
