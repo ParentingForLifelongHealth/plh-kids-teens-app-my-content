@@ -1,11 +1,11 @@
 {
-    "CoreFiles": "../parenting-app-ui/.idems_app/deployments/plh_kids_teens_my/app_data/sheets",
+    "CoreFiles": "../open-app-builder/.idems_app/deployments/plh_kids_teens_my/app_data/sheets",
     "ComposeResult": "app/1_compose_result",
     "CoreGroups": [["data_list", ["campaign_rows","activities","check_in","hp_review","legal_terms","library", "lifecycle_actions", "modules","onboarding", "relax","generated"]],["global", ["legal_terms", "onboarding"]],["template", ["legal_terms"]],["tour", [""]]],
     "SplitGroups": [["main","parent_app_malaysia"], ["legal_terms","parent_app_malaysia"]],
     "ExtractResult": "app/2_extract_result",
     "ReadyForTranslation": "app/3_ready_for_translators",
-    "PostTranslation": ["../plh-digital-content/translations/parent_app_malaysia"],
+    "PostTranslation": ["../translation_repo/translations/parent_app_malaysia"],
     "PostTranslationJSONs": "app/4_result_from_translators",
     "FinalDictionaries": "app/5_completed_dictionaries"
 }
