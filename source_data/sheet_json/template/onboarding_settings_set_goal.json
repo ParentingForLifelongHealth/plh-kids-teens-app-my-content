@@ -46,20 +46,20 @@
     },
     {
       "type": "text",
-      "name": "question_challenge",
+      "name": "question_goal",
       "value": "@global.set_goal_question"
     },
     {
       "type": "begin_radio_list",
-      "name": "challenge_select",
-      "value": "@fields.selected_challenge",
+      "name": "goal_select",
+      "value": "@fields.selected_goal",
       "parameter_list": "value_as_object: true;\nvariant: card;\noptions_key: id;\noptions_value: title;",
       "exclude_from_translation": true
     },
     {
       "type": "begin_data_items",
-      "value": "challenges",
-      "parameter_list": "filter: (!@item.domain_list || @item.domain_list.includes(@fields.selected_domain)) &&(!@item.child_age_list || @item.child_age_list.includes(@fields.child_age)) && (!@item.child_gender_list || @item.child_gender_list.includes(@fields.child_gender)) && (!@item.caregiver_gender_list || @item.caregiver_gender_list.includes(@fields.user_gender)) && (!@item.caregiver_relationship_list || @item.caregiver_relationship_list.includes(@fields.user_relationship))",
+      "value": "goals",
+      "parameter_list": "filter: (!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge.key)) ",
       "exclude_from_translation": true
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "completed_enabled",
-      "value": "!!@local.challenge_select",
+      "value": "!!@local.goal_select",
       "exclude_from_translation": true
     },
     {
@@ -90,7 +90,7 @@
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
-      "action_list": "click | set_field: selected_challenge: @local.challenge_select;\nclick | emit: completed;",
+      "action_list": "click | set_field: selected_goal: @local.goal_select;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1"
     },

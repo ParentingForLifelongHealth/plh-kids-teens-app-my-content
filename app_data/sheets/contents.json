@@ -14061,6 +14061,13 @@
     "settings_faci_group_id": {
       "flow_type": "template",
       "flow_name": "settings_faci_group_id",
+      "parameter_list": {
+        "app_config": {
+          "APP_FOOTER_DEFAULTS": {
+            "templateName": false
+          }
+        }
+      },
       "_source": {
         "name": "kids_teens_my",
         "path": "templates/MY kids app_launch.xlsx",
