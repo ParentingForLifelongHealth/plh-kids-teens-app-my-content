@@ -28,7 +28,9 @@
       "name": "onboarding_loading_title",
       "value": "Tailoring your experience",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -36,7 +38,9 @@
       "name": "onboarding_error_title",
       "value": "Oops",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -44,7 +48,9 @@
       "name": "onboarding_error_text",
       "value": "Something went wrong. Please check your connection and try again.",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -52,7 +58,9 @@
       "name": "onboarding_error_button_text",
       "value": "Try again",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {

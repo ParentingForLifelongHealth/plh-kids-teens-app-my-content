@@ -34,7 +34,9 @@
           "name": "button_cancel",
           "value": "Cancel",
           "_translations": {
-            "value": {}
+            "value": {
+              "my_ms": true
+            }
           },
           "action_list": [
             {

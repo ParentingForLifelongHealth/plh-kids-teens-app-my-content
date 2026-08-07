@@ -34,6 +34,11 @@
       "type": "declare_global_constant",
       "name": "set_goal_question",
       "value": "Which goal? Pick one."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "skip_proximal",
+      "value": "Skip this question"
     }
   ]
 }

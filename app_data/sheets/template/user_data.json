@@ -945,8 +945,7 @@
       ],
       "parameter_list": {
         "style": "navigation",
-        "disabled": "!@local.completed_enabled",
-        "sticky": "bottom"
+        "disabled": "!@local.completed_enabled"
       },
       "exclude_from_translation": true,
       "_nested_name": "button_completed",

@@ -264,7 +264,7 @@
           "type": "data_items",
           "value": "goals",
           "parameter_list": {
-            "filter": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge.key))"
+            "filter": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge_id))"
           },
           "exclude_from_translation": true,
           "rows": [],
@@ -274,22 +274,22 @@
             "parameter_list": {
               "filter": [
                 {
-                  "fullExpression": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge.key))",
+                  "fullExpression": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge_id))",
                   "matchedExpression": "!@item.challenge_list",
                   "type": "item",
                   "fieldName": "challenge_list"
                 },
                 {
-                  "fullExpression": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge.key))",
+                  "fullExpression": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge_id))",
                   "matchedExpression": "@item.challenge_list.includes",
                   "type": "item",
                   "fieldName": "challenge_list"
                 },
                 {
-                  "fullExpression": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge.key))",
-                  "matchedExpression": "@fields.selected_challenge.key",
+                  "fullExpression": "(!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge_id))",
+                  "matchedExpression": "@fields.selected_challenge_id",
                   "type": "fields",
-                  "fieldName": "selected_challenge"
+                  "fieldName": "selected_challenge_id"
                 }
               ]
             }
@@ -301,7 +301,7 @@
             "@item.challenge_list.includes": [
               "parameter_list.filter"
             ],
-            "@fields.selected_challenge.key": [
+            "@fields.selected_challenge_id": [
               "parameter_list.filter"
             ]
           }
@@ -397,6 +397,15 @@
             },
             {
               "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "selected_goal_id",
+                "@local.goal_select.key"
+              ],
+              "_raw": "click | set_field: selected_goal_id: @local.goal_select.key"
+            },
+            {
+              "trigger": "click",
               "action_id": "emit",
               "args": [
                 "completed"
@@ -441,6 +450,26 @@
                     "fieldName": "goal_select"
                   }
                 ]
+              },
+              "1": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.goal_select.key",
+                      "matchedExpression": "@local.goal_select.key",
+                      "type": "local",
+                      "fieldName": "goal_select"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: selected_goal_id: @local.goal_select.key",
+                    "matchedExpression": "@local.goal_select.key",
+                    "type": "local",
+                    "fieldName": "goal_select"
+                  }
+                ]
               }
             },
             "parameter_list": {
@@ -461,6 +490,10 @@
             "@local.goal_select": [
               "action_list.0.args.1",
               "action_list.0._raw"
+            ],
+            "@local.goal_select.key": [
+              "action_list.1.args.1",
+              "action_list.1._raw"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"
