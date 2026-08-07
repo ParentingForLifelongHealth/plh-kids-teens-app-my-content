@@ -51,6 +51,14 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "skip_proximal",
+      "value": "Skip this question",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_source": {

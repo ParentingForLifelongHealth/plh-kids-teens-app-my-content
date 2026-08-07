@@ -9,9 +9,9 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 117 |
+| button | 119 |
 | combo_box | 25 |
-| data_items | 186 |
+| data_items | 188 |
 | debug_toggle | 1 |
 | display_grid | 4 |
 | display_group | 113 |
@@ -33,19 +33,19 @@
 | plh_progress_bar | 5 |
 | qr_code | 1 |
 | radio_button_grid | 10 |
-| radio_list | 2 |
+| radio_list | 3 |
 | round_button | 20 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3167 |
+| set_variable | 3218 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 909 |
-| text | 285 |
+| template | 912 |
+| text | 286 |
 | text_area | 3 |
 | text_box | 24 |
-| text_bubble | 15 |
+| text_bubble | 16 |
 | title | 64 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -62,7 +62,7 @@
 | app_update | 1 |
 | asset_pack | 2 |
 | auth | 3 |
-| emit: completed | 638 |
+| emit: completed | 643 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 17 |
 | emit: force_restart | 3 |
@@ -80,9 +80,9 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 94 |
-| set_field | 128 |
+| set_field | 134 |
 | set_item | 30 |
-| set_local | 126 |
+| set_local | 128 |
 | share | 3 |
 | task | 2 |
 | toast | 9 |
@@ -667,5 +667,5 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | template |  | 150 |
 | template | generated | 694 |
 | template | legal_terms | 4 |
-| template | proximal_outcomes | 3 |
+| template | proximal_outcomes | 7 |
 </details>

@@ -514,7 +514,9 @@
       "type": "text",
       "value": "up_next value:",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_20",
       "_nested_name": "text_20"
@@ -523,7 +525,9 @@
       "type": "text",
       "value": "@calc(JSON.stringify(@local.up_next || {}))",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       },
       "name": "text_21",
       "_nested_name": "text_21",

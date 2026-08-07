@@ -59,7 +59,7 @@
     {
       "type": "begin_data_items",
       "value": "goals",
-      "parameter_list": "filter: (!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge.key)) ",
+      "parameter_list": "filter: (!@item.challenge_list || @item.challenge_list.includes(@fields.selected_challenge_id)) ",
       "exclude_from_translation": true
     },
     {
@@ -90,7 +90,7 @@
       "type": "button",
       "name": "button_completed",
       "value": "@global.continue",
-      "action_list": "click | set_field: selected_goal: @local.goal_select;\nclick | emit: completed;",
+      "action_list": "click | set_field: selected_goal: @local.goal_select;\nclick | set_field: selected_goal_id: @local.goal_select.key;\nclick | emit: completed;",
       "parameter_list": "style: navigation;\ndisabled: !@local.completed_enabled",
       "style_list": "flex: 1"
     },

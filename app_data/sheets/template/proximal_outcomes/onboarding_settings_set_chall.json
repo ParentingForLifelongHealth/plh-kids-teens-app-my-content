@@ -434,7 +434,7 @@
     },
     {
       "name": "completed_enabled",
-      "value": "!!@local.challenge_select",
+      "value": "!!@local.challenge_select.value",
       "_translations": {
         "value": {}
       },
@@ -444,15 +444,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "!!@local.challenge_select",
-            "matchedExpression": "!@local.challenge_select",
+            "fullExpression": "!!@local.challenge_select.value",
+            "matchedExpression": "!@local.challenge_select.value",
             "type": "local",
             "fieldName": "challenge_select"
           }
         ]
       },
       "_dynamicDependencies": {
-        "!@local.challenge_select": [
+        "!@local.challenge_select.value": [
           "value"
         ]
       }
@@ -498,6 +498,15 @@
               "trigger": "click",
               "action_id": "set_field",
               "args": [
+                "selected_challenge_id",
+                "@local.challenge_select.key"
+              ],
+              "_raw": "click | set_field: selected_challenge_id: @local.challenge_select.key"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
                 "selected_challenge",
                 "@local.challenge_select"
               ],
@@ -534,6 +543,26 @@
                 "args": {
                   "1": [
                     {
+                      "fullExpression": "@local.challenge_select.key",
+                      "matchedExpression": "@local.challenge_select.key",
+                      "type": "local",
+                      "fieldName": "challenge_select"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: selected_challenge_id: @local.challenge_select.key",
+                    "matchedExpression": "@local.challenge_select.key",
+                    "type": "local",
+                    "fieldName": "challenge_select"
+                  }
+                ]
+              },
+              "1": {
+                "args": {
+                  "1": [
+                    {
                       "fullExpression": "@local.challenge_select",
                       "matchedExpression": "@local.challenge_select",
                       "type": "local",
@@ -566,9 +595,13 @@
             "@global.continue": [
               "value"
             ],
-            "@local.challenge_select": [
+            "@local.challenge_select.key": [
               "action_list.0.args.1",
               "action_list.0._raw"
+            ],
+            "@local.challenge_select": [
+              "action_list.1.args.1",
+              "action_list.1._raw"
             ],
             "!@local.completed_enabled": [
               "parameter_list.disabled"
