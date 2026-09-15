@@ -9,15 +9,15 @@
 | animated_slides | 1 |
 | apple_sign_in_button | 2 |
 | audio | 3 |
-| button | 119 |
+| button | 116 |
 | combo_box | 25 |
-| data_items | 188 |
+| data_items | 183 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 113 |
+| display_group | 117 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
-| image | 23 |
+| image | 26 |
 | items | 16 |
 | lottie_animation | 5 |
 | nested_properties | 251 |
@@ -30,23 +30,22 @@
 | plh_lesson_cta | 2 |
 | plh_module_details_header | 1 |
 | plh_module_list_item | 2 |
-| plh_progress_bar | 5 |
+| plh_progress_bar | 4 |
 | qr_code | 1 |
-| radio_button_grid | 10 |
-| radio_list | 3 |
-| round_button | 20 |
+| radio_button_grid | 9 |
+| round_button | 17 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3218 |
+| set_variable | 3095 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
-| template | 912 |
-| text | 286 |
+| template | 909 |
+| text | 291 |
 | text_area | 3 |
 | text_box | 24 |
-| text_bubble | 16 |
-| title | 64 |
+| text_bubble | 12 |
+| title | 66 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
 | video | 3 |
@@ -60,15 +59,15 @@
 | --- | --- |
 | add_data | 4 |
 | app_update | 1 |
-| asset_pack | 2 |
+| asset_pack | 4 |
 | auth | 3 |
-| emit: completed | 643 |
+| emit: completed | 635 |
 | emit: force_reload | 3 |
 | emit: force_reprocess | 17 |
 | emit: force_restart | 3 |
 | emit: server_sync | 6 |
 | emit: set_language | 2 |
-| emit: uncompleted | 641 |
+| emit: uncompleted | 638 |
 | feedback | 13 |
 | go_to | 27 |
 | nav | 1 |
@@ -80,9 +79,9 @@
 | reset_data | 3 |
 | save_to_device | 1 |
 | set_data | 94 |
-| set_field | 134 |
+| set_field | 125 |
 | set_item | 30 |
-| set_local | 128 |
+| set_local | 125 |
 | share | 3 |
 | task | 2 |
 | toast | 9 |
@@ -94,7 +93,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 92551 KB | 92.6 MB |
+| total | 92552 KB | 92.6 MB |
 | unused | 1580 KB | 1.6 MB |
 </details>
 
@@ -349,6 +348,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | images/homescreen/relation.svg | 37.7 | 15 |
 | images/homescreen/safety.svg | 116.5 | 1 |
 | images/homescreen/structure.svg | 47.3 | 15 |
+| images/icons/bug.svg | 1.2 | 2 |
 | images/icons/celebration.svg | 70.7 | 1 |
 | images/icons/chatbubble-ellipses-outline.svg | 0.8 | 1 |
 | images/icons/diamond-outline.svg | 0.6 | 2 |
@@ -663,9 +663,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 10 |
 | global | legal_terms | 1 |
 | global | onboarding | 10 |
-| global | proximal_outcomes | 1 |
 | template |  | 150 |
 | template | generated | 694 |
 | template | legal_terms | 4 |
-| template | proximal_outcomes | 7 |
 </details>

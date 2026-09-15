@@ -10,6 +10,7 @@
       "id": "intro_1",
       "category_id": "intro",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "text_1_facilitator": "Congratulations! You have reached the final step to family budgeting. 💰\n\nRemember, you have already covered:\n1️⃣ Step 1: identifying needs and wants.\n2️⃣ Step 2: talking about monthly expenses.\n3️⃣ Step 3: making a monthly budget.\n\n4️⃣ Today, the final step is: make a saving plan!",
       "_translations": {
         "text_1_facilitator": {
@@ -33,6 +34,7 @@
       "id": "intro_2",
       "category_id": "intro",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "text_1_facilitator": "Let’s consider this.",
       "_translations": {
         "text_1_facilitator": {
@@ -86,6 +88,7 @@
       "image_asset": "images/yc_modules/budget_savings_yc_1.svg",
       "character_1_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "text_1_facilitator": "@data.characters.f3_mother.name has big hopes for her children’s futures and she is making a plan:",
       "_translations": {
         "text_1_facilitator": {
@@ -111,6 +114,7 @@
       "image_asset": "images/yc_modules/budget_savings_yc_2.svg",
       "character_1_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "character_1_text": "My goal is to make sure my children reach their dream of university. How can I save a lot of money with the little money I have?",
       "_translations": {
         "character_1_text": {
@@ -129,6 +133,7 @@
       "image_asset": "images/yc_modules/budget_savings_yc_3.svg",
       "character_1_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "character_1_text": "Hmm, maybe I can start with a plan. First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.",
       "_translations": {
         "character_1_text": {
@@ -147,6 +152,7 @@
       "image_asset": "images/yc_modules/budget_savings_yc_4.svg",
       "character_1_id": "f3_mother",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "character_1_text": "I should also speak with my children to choose things that we can spend just a little bit less on each week. They will help me think of things we want but don’t need.",
       "_translations": {
         "character_1_text": {
@@ -173,6 +179,7 @@
       "section_4_icon_asset": "images/icons/lightbulb_blue.png",
       "section_5_icon_asset": "images/icons/trophy_blue.png",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "text_1_facilitator": "5️⃣ Here are five tips on how to make a savings plan for you and your child:",
       "_translations": {
         "text_1_facilitator": {
@@ -259,6 +266,7 @@
       "id": "home_activity_1",
       "category_id": "home_activity",
       "nested": false,
+      "attached_single_doc": "https://docs.google.com/document/d/11u-ZiADnBOmVwQEaZ_YUyiCsBTLHOGNdZwGyRyakqr0",
       "quiz_1_question": "The final home activity of this course is to create your savings plan. ⭐ Do you have time to do it today?",
       "_translations": {
         "quiz_1_question": {

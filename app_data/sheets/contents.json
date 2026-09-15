@@ -8769,16 +8769,6 @@
         "url": "https://docs.google.com/spreadsheets/d/1u8N9s7F4KQW9ZAkyjHJHOEiJU96SUc9o5sWC08HRUac"
       }
     },
-    "proximal_outcomes_global": {
-      "flow_type": "global",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcomes_global",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
     "user_data_global": {
       "flow_type": "global",
       "flow_name": "user_data_global",
@@ -13913,76 +13903,6 @@
         "name": "kids_teens_global V2",
         "path": "templates/articles.xlsx",
         "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
-      }
-    },
-    "onboarding_settings_set_chall": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "onboarding_settings_set_chall",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "onboarding_settings_set_domain": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "onboarding_settings_set_domain",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "onboarding_settings_set_goal": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "onboarding_settings_set_goal",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_base_question": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_base_question",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_qs_base_1": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_qs_base_1",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_qs_base_2": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_qs_base_2",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
-      }
-    },
-    "proximal_outcome_qs_goal": {
-      "flow_type": "template",
-      "flow_subtype": "proximal_outcomes",
-      "flow_name": "proximal_outcome_qs_goal",
-      "_source": {
-        "name": "kids_teens_global V2",
-        "path": "templates/PLH proximal outcomes.xlsx",
-        "url": "https://docs.google.com/spreadsheets/d/17Ti5gmQDWeKBrprr75UlTLVG7VCdYXQtLG31Ch8O4JE"
       }
     },
     "question": {

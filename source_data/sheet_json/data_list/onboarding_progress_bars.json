@@ -6,25 +6,25 @@
   "rows": [
     {
       "id": "id_1",
-      "text": "Getting everything ready for you",
+      "text::eng": "Getting everything ready for you",
       "colour": "var(--ion-color-primary-700)",
       "timespan": 1000
     },
     {
       "id": "id_2",
-      "text": "Looking at what your child needs",
+      "text::eng": "Looking at what your child needs",
       "colour": "var(--ion-color-red-400)",
       "timespan": 1000
     },
     {
       "id": "id_3",
-      "text": "Getting ideas from experts",
+      "text::eng": "Getting ideas from experts",
       "colour": "var(--ion-color-primary-variant-400)",
       "timespan": 1000
     },
     {
       "id": "id_4",
-      "text": "Making this just for your family",
+      "text::eng": "Making this just for your family",
       "colour": "var(--ion-color-secondary-600)",
       "timespan": 1000
     }
