@@ -1442,15 +1442,6 @@
     "flow_type": "generator",
     "flow_name": "stack_hp_review_gen",
     "_source": {
-      "name": "kids_teens_global V2",
-      "path": "templates/hp_review_dependencies.xlsx",
-      "url": "https://docs.google.com/spreadsheets/d/1dBv9uje5UWm3cXwHfRRBf29cqBoOC34ZYc1A3vGehSE"
-    }
-  },
-  {
-    "flow_type": "generator",
-    "flow_name": "stack_hp_review_gen",
-    "_source": {
       "name": "kids_teens_my",
       "path": "templates/MY hp generator.xlsx",
       "url": "https://docs.google.com/spreadsheets/d/1XG0m1n0KJ1dlE5YDq6k7Ae2BzkFBfCpGKg49wbKMDSQ"
@@ -1596,7 +1587,7 @@
   {
     "flow_type": "global",
     "flow_subtype": "onboarding",
-    "flow_name": "onboarding_global_pa",
+    "flow_name": "onboarding_global_my",
     "_source": {
       "name": "kids_teens_my",
       "path": "data/MY onboarding.xlsx",

@@ -1,7 +1,7 @@
 {
   "flow_type": "global",
   "flow_subtype": "onboarding",
-  "flow_name": "onboarding_global_pa",
+  "flow_name": "onboarding_global_my",
   "status": "released",
   "rows": [
     {
@@ -38,25 +38,42 @@
       "type": "declare_global_constant",
       "name": "onboarding_header_background_colour",
       "value": "var(--ion-color-gray-100)",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
       "name": "onboarding_header_image_asset",
       "value": "images/logos/favicon.svg",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
       "name": "onboarding_footer_image_asset",
       "value": "images/backgrounds/bottom_banner.svg",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true
     },
     {
       "type": "declare_global_constant",
       "name": "onboarding_completed_lottie_asset",
       "value": "lottie/checkmark.json",
+      "_translations": {
+        "value": {}
+      },
       "exclude_from_translation": true
     }
-  ]
+  ],
+  "_source": {
+    "name": "kids_teens_my",
+    "path": "data/MY onboarding.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1u8N9s7F4KQW9ZAkyjHJHOEiJU96SUc9o5sWC08HRUac"
+  }
 }
