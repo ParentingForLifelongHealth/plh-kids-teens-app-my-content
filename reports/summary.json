@@ -27,7 +27,7 @@
       },
       {
         "type": "button",
-        "count": 119
+        "count": 116
       },
       {
         "type": "combo_box",
@@ -35,7 +35,7 @@
       },
       {
         "type": "data_items",
-        "count": 188
+        "count": 183
       },
       {
         "type": "debug_toggle",
@@ -47,7 +47,7 @@
       },
       {
         "type": "display_group",
-        "count": 113
+        "count": 117
       },
       {
         "type": "drawer",
@@ -59,7 +59,7 @@
       },
       {
         "type": "image",
-        "count": 23
+        "count": 26
       },
       {
         "type": "items",
@@ -111,7 +111,7 @@
       },
       {
         "type": "plh_progress_bar",
-        "count": 5
+        "count": 4
       },
       {
         "type": "qr_code",
@@ -119,15 +119,11 @@
       },
       {
         "type": "radio_button_grid",
-        "count": 10
-      },
-      {
-        "type": "radio_list",
-        "count": 3
+        "count": 9
       },
       {
         "type": "round_button",
-        "count": 20
+        "count": 17
       },
       {
         "type": "select_text",
@@ -139,7 +135,7 @@
       },
       {
         "type": "set_variable",
-        "count": 3218
+        "count": 3095
       },
       {
         "type": "simple_checkbox",
@@ -155,11 +151,11 @@
       },
       {
         "type": "template",
-        "count": 912
+        "count": 909
       },
       {
         "type": "text",
-        "count": 286
+        "count": 291
       },
       {
         "type": "text_area",
@@ -171,11 +167,11 @@
       },
       {
         "type": "text_bubble",
-        "count": 16
+        "count": 12
       },
       {
         "type": "title",
-        "count": 64
+        "count": 66
       },
       {
         "type": "toggle_bar",
@@ -207,7 +203,7 @@
       },
       {
         "type": "asset_pack",
-        "count": 2
+        "count": 4
       },
       {
         "type": "auth",
@@ -215,7 +211,7 @@
       },
       {
         "type": "emit: completed",
-        "count": 643
+        "count": 635
       },
       {
         "type": "emit: force_reload",
@@ -239,7 +235,7 @@
       },
       {
         "type": "emit: uncompleted",
-        "count": 641
+        "count": 638
       },
       {
         "type": "feedback",
@@ -287,7 +283,7 @@
       },
       {
         "type": "set_field",
-        "count": 134
+        "count": 125
       },
       {
         "type": "set_item",
@@ -295,7 +291,7 @@
       },
       {
         "type": "set_local",
-        "count": 128
+        "count": 125
       },
       {
         "type": "share",
@@ -319,7 +315,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "92551 KB",
+        "KB": "92552 KB",
         "MB": "92.6 MB"
       },
       {
@@ -1410,6 +1406,11 @@
         "path": "images/homescreen/structure.svg",
         "count": 15,
         "size_kb": 47.3
+      },
+      {
+        "path": "images/icons/bug.svg",
+        "count": 2,
+        "size_kb": 1.2
       },
       {
         "path": "images/icons/celebration.svg",
@@ -2951,11 +2952,6 @@
         "total": 10
       },
       {
-        "type": "global",
-        "subtype": "proximal_outcomes",
-        "total": 1
-      },
-      {
         "type": "template",
         "subtype": null,
         "total": 150
@@ -2969,11 +2965,6 @@
         "type": "template",
         "subtype": "legal_terms",
         "total": 4
-      },
-      {
-        "type": "template",
-        "subtype": "proximal_outcomes",
-        "total": 7
       }
     ]
   }

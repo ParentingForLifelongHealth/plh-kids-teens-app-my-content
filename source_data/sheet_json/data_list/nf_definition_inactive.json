@@ -68,7 +68,7 @@
       "priority": 1,
       "activation_condition_list": "@fields.last_module_in_progress == \"NA\" && !@fields.completed_all ",
       "campaign_list": "nf_inactive_2_days_evening; \nnf_inactive_week;",
-      "title::eng": "Help your family with @global.parent_app",
+      "title::eng": "Help your family with @global.app_name",
       "text::eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
     },
     {

@@ -6,27 +6,59 @@
   "rows": [
     {
       "id": "id_1",
-      "text": "Getting everything ready for you",
       "colour": "var(--ion-color-primary-700)",
-      "timespan": 1000
+      "timespan": 1000,
+      "text": "Getting everything ready for you",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Getting everything ready for you"
+        }
+      }
     },
     {
       "id": "id_2",
-      "text": "Looking at what your child needs",
       "colour": "var(--ion-color-red-400)",
-      "timespan": 1000
+      "timespan": 1000,
+      "text": "Looking at what your child needs",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Looking at what your child needs"
+        }
+      }
     },
     {
       "id": "id_3",
-      "text": "Getting ideas from experts",
       "colour": "var(--ion-color-primary-variant-400)",
-      "timespan": 1000
+      "timespan": 1000,
+      "text": "Getting ideas from experts",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Getting ideas from experts"
+        }
+      }
     },
     {
       "id": "id_4",
-      "text": "Making this just for your family",
       "colour": "var(--ion-color-secondary-600)",
-      "timespan": 1000
+      "timespan": 1000,
+      "text": "Making this just for your family",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Making this just for your family"
+        }
+      }
     }
   ],
   "_source": {

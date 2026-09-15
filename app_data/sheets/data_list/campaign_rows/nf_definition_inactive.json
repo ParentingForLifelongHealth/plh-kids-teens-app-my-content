@@ -319,18 +319,16 @@
         "nf_inactive_2_days_evening",
         "nf_inactive_week"
       ],
-      "title": "Help your family with @global.parent_app",
+      "title": "Help your family with @global.app_name",
       "_translations": {
-        "title": {
-          "my_ms": true
-        },
+        "title": {},
         "text": {
           "my_ms": true
         }
       },
       "_translatedFields": {
         "title": {
-          "eng": "Help your family with @global.parent_app"
+          "eng": "Help your family with @global.app_name"
         },
         "text": {
           "eng": "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
