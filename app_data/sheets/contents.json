@@ -8679,10 +8679,10 @@
         "url": "https://docs.google.com/spreadsheets/d/1LUIu_aqkzYjyUq0ecQEmWJa62CEvQ4E2L4Fkz_94ydw"
       }
     },
-    "onboarding_global_pa": {
+    "onboarding_global_my": {
       "flow_type": "global",
       "flow_subtype": "onboarding",
-      "flow_name": "onboarding_global_pa",
+      "flow_name": "onboarding_global_my",
       "_source": {
         "name": "kids_teens_my",
         "path": "data/MY onboarding.xlsx",
