@@ -315,13 +315,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "92437 KB",
-        "MB": "92.4 MB"
+        "KB": "93112 KB",
+        "MB": "93.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "1051 KB",
-        "MB": "1.1 MB"
+        "KB": "377 KB",
+        "MB": "0.4 MB"
       }
     ]
   },
@@ -542,10 +542,6 @@
       {
         "path": "lottie/bulging_circles.txt",
         "size_kb": 0.2
-      },
-      {
-        "path": "lottie/gift_box.json",
-        "size_kb": 674.5
       }
     ]
   },
@@ -873,11 +869,6 @@
       },
       {
         "path": "lottie/ux/bulging_circles.json",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "lottie/ux/gift_box.json",
         "count": 1,
         "missing": true
       },
@@ -2594,6 +2585,11 @@
         "path": "lottie/relax/square_flow.json",
         "count": 34,
         "size_kb": 5.9
+      },
+      {
+        "path": "lottie/ux/gift_box.json",
+        "count": 1,
+        "size_kb": 674.5
       }
     ]
   },
