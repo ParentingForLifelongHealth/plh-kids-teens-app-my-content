@@ -1977,6 +1977,15 @@
   },
   {
     "flow_type": "template",
+    "flow_name": "feedback_article",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/articles.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+    }
+  },
+  {
+    "flow_type": "template",
     "flow_name": "feedback_debug",
     "_source": {
       "name": "library_app_menu",

@@ -164,6 +164,9 @@
       "_metadata": {
         "value": {
           "type": "number"
+        },
+        "exclude_from_translation": {
+          "type": "boolean"
         }
       }
     },
@@ -8997,6 +9000,15 @@
         "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
       }
     },
+    "feedback_article": {
+      "flow_type": "template",
+      "flow_name": "feedback_article",
+      "_source": {
+        "name": "kids_teens_global V2",
+        "path": "templates/articles.xlsx",
+        "url": "https://docs.google.com/spreadsheets/d/1DugrEldDOorcWLHgU5QDSlBH1hbEYdOfsjVb7ehQFCo"
+      }
+    },
     "feedback_debug": {
       "flow_type": "template",
       "flow_name": "feedback_debug",
@@ -14008,7 +14020,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -14049,7 +14061,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -14065,7 +14077,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -14081,7 +14093,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -14097,7 +14109,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -14113,7 +14125,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },
@@ -14129,7 +14141,7 @@
       "parameter_list": {
         "app_config": {
           "APP_FOOTER_DEFAULTS": {
-            "templateName": false
+            "template": false
           }
         }
       },

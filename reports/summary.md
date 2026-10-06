@@ -14,7 +14,7 @@
 | data_items | 183 |
 | debug_toggle | 1 |
 | display_grid | 4 |
-| display_group | 117 |
+| display_group | 116 |
 | drawer | 1 |
 | google_sign_in_button | 2 |
 | image | 26 |
@@ -36,7 +36,7 @@
 | round_button | 17 |
 | select_text | 1 |
 | set_field | 4 |
-| set_variable | 3095 |
+| set_variable | 3106 |
 | simple_checkbox | 1 |
 | task_card | 4 |
 | task_progress_bar | 4 |
@@ -44,7 +44,7 @@
 | text | 291 |
 | text_area | 3 |
 | text_box | 24 |
-| text_bubble | 12 |
+| text_bubble | 13 |
 | title | 66 |
 | toggle_bar | 5 |
 | update_action_list | 1 |
@@ -663,7 +663,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | global |  | 10 |
 | global | legal_terms | 1 |
 | global | onboarding | 10 |
-| template |  | 150 |
+| template |  | 151 |
 | template | generated | 694 |
 | template | legal_terms | 4 |
 </details>

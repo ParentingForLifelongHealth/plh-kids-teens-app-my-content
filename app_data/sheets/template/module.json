@@ -630,6 +630,7 @@
           "my_ms": true
         }
       },
+      "exclude_from_translation": true,
       "condition": "!@local.last_module_in_progress_or_undefined",
       "type": "set_variable",
       "_nested_name": "last_module_in_progress",
