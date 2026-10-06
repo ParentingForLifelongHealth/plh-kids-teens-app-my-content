@@ -93,8 +93,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 92437 KB | 92.4 MB |
-| unused | 1051 KB | 1.1 MB |
+| total | 93112 KB | 93.1 MB |
+| unused | 377 KB | 0.4 MB |
 </details>
 
 <details open>
@@ -158,7 +158,6 @@ Assets that appear in app-data but do not have references within sheets
 | images/logos/favicon.png | 6.3 |
 | images/logos/plh_white.png | 12.8 |
 | lottie/bulging_circles.txt | 0.2 |
-| lottie/gift_box.json | 674.5 |
 </details>
 
 <details open>
@@ -233,7 +232,6 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/man_threat.svg | 1 |
 | images/logos/plh_logomark.png | 1 |
 | lottie/ux/bulging_circles.json | 1 |
-| lottie/ux/gift_box.json | 1 |
 | relax_10__.mp3 | 1 |
 | relax_11__.mp3 | 1 |
 | relax_12__.mp3 | 1 |
@@ -585,6 +583,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | lottie/relax/looping_rings.json | 10.4 | 13 |
 | lottie/relax/soothing_waves.json | 7.6 | 1 |
 | lottie/relax/square_flow.json | 5.9 | 34 |
+| lottie/ux/gift_box.json | 674.5 | 1 |
 </details>
 
 <details >
