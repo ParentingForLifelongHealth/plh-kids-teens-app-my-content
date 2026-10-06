@@ -5,12 +5,12 @@
   "rows": [
     {
       "name": "article_id",
-      "value": "intro_connect",
+      "value": "intro_conn",
       "exclude_from_translation": true
     },
     {
       "name": "module_id",
-      "value": "connect",
+      "value": "conn",
       "exclude_from_translation": true
     },
     {

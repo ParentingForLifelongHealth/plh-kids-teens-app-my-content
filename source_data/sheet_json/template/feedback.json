@@ -20,12 +20,12 @@
     },
     {
       "name": "article_id",
-      "value": "intro_connect_child",
+      "value": "intro_conn_child",
       "exclude_from_translation": true
     },
     {
       "name": "module_id",
-      "value": "connect",
+      "value": "conn",
       "exclude_from_translation": true
     },
     {

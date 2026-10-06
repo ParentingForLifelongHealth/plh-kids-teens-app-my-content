@@ -126,6 +126,7 @@
     {
       "name": "last_module_in_progress",
       "value": "NA",
+      "exclude_from_translation": true,
       "condition": "!@local.last_module_in_progress_or_undefined"
     },
     {
