@@ -65,6 +65,19 @@
       }
     },
     {
+      "id": "social_media",
+      "name": "social_media",
+      "text": "Social Media",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Social Media"
+        }
+      }
+    },
+    {
       "id": "other",
       "name": "other",
       "text": "None of the above",

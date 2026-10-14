@@ -25,6 +25,11 @@
       "text::eng": "Event or Conference"
     },
     {
+      "id": "social_media",
+      "name": "social_media",
+      "text::eng": "Social Media"
+    },
+    {
       "id": "other",
       "name": "other",
       "text::eng": "None of the above"
