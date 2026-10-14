@@ -12,7 +12,7 @@ on:
           - appetize
           - testflight
       allow_provisioning_changes:
-        description: "Allow Fastlane Match to create/update provisioning profiles and force-regenerate them (e.g. after enabling new App ID capabilities). Leave false for normal releases."
+        description: "Allow Fastlane to create or update provisioning profiles"
         required: true
         default: "false"
         type: choice
