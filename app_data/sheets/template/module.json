@@ -626,9 +626,7 @@
       "name": "last_module_in_progress",
       "value": "NA",
       "_translations": {
-        "value": {
-          "my_ms": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "condition": "!@local.last_module_in_progress_or_undefined",
@@ -849,6 +847,7 @@
           "my_ms": true
         }
       },
+      "exclude_from_translation": true,
       "condition": false,
       "name": "text_31",
       "_nested_name": "text_31",
