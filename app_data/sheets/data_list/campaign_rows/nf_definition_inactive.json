@@ -321,7 +321,9 @@
       ],
       "title": "Help your family with @global.app_name",
       "_translations": {
-        "title": {},
+        "title": {
+          "my_ms": true
+        },
         "text": {
           "my_ms": true
         }

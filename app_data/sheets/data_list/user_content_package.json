@@ -69,7 +69,9 @@
       "name": "social_media",
       "text": "Social Media",
       "_translations": {
-        "text": {}
+        "text": {
+          "my_ms": true
+        }
       },
       "_translatedFields": {
         "text": {
