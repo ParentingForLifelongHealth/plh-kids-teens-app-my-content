@@ -52,9 +52,11 @@
   "You can only move on and access the app if you provide your consent.": "Anda hanya boleh meneruskan dan mengakses aplikasi jika anda memberikan persetujuan anda.",
   "My child's KEMAS teacher": "Guru KEMAS anak saya",
   "NGO/Community Facilitator": "Fasilitator Komuniti/NGO",
+  "LPPKN": "LPPKN",
+  "Social Media": "Media Sosial",
+  "Sarawak Pilot": "Projek Rintis Sarawak",
   "Advertisement": "Iklan",
   "Event or Conference": "Acara atau Persidangan",
-  "Social Media": "Media Sosial",
   "Single (not in a relationship)": "Bujang (tiada sebarang hubungan)",
   "Married": "Berkahwin",
   "Partnered but not married": "Berpasangan tetapi tidak berkahwin",
@@ -1879,6 +1881,5 @@
   "Import user": "Import pengguna",
   "Developer mode": "Mod pembangun",
   "Exit developer mode": "Keluar dari mod pembangun",
-  "@calc(Number(@fields.n_modules_completed) +1)": "@calc(Number(@fields.n_modules_completed) +1)",
-  "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one": "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one"
+  "@calc(Number(@fields.n_modules_completed) +1)": "@calc(Number(@fields.n_modules_completed) +1)"
 }
