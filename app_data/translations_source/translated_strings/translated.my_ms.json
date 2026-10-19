@@ -324,6 +324,24 @@
     "note": ""
   },
   {
+    "SourceText": "LPPKN",
+    "text": "LPPKN",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Social Media",
+    "text": "Media Sosial",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sarawak Pilot",
+    "text": "Projek Rintis Sarawak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Advertisement",
     "text": "Iklan",
     "type": "data_list",
@@ -332,12 +350,6 @@
   {
     "SourceText": "Event or Conference",
     "text": "Acara atau Persidangan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Social Media",
-    "text": "Media Sosial",
     "type": "data_list",
     "note": ""
   },
@@ -11374,11 +11386,5 @@
     "text": "@calc(Number(@fields.n_modules_completed) +1)",
     "type": "template",
     "note": "The following strings should not be translated:\n@fields.n_modules_completed\n@calc(Number(@fields.n_modules_completed) +1)"
-  },
-  {
-    "SourceText": "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one",
-    "text": "-\n-\n-\nlast_module_in_progress: @local.last_module_in_progress\ncurr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\nn_mod: @local.curr_n_mod_or_plus_one",
-    "type": "template",
-    "note": "The following strings should not be translated:\n@local.last_module_in_progress\n@local.curr_module_or_last_in_progress\n@local.curr_n_mod_or_plus_one"
   }
 ]

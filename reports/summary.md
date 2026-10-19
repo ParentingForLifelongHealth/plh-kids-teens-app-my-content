@@ -230,7 +230,7 @@ Assets that have references within sheets but do not appear in app-data
 | images/character_icons/friend_female_2.svg | 1 |
 | images/character_icons/girlfriend.svg | 1 |
 | images/character_icons/man_threat.svg | 1 |
-| images/logos/plh_logomark.png | 1 |
+| images/logos/partners/plh_logomark.png | 1 |
 | lottie/ux/bulging_circles.json | 1 |
 | relax_10__.mp3 | 1 |
 | relax_11__.mp3 | 1 |
