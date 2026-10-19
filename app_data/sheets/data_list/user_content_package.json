@@ -35,6 +35,47 @@
       }
     },
     {
+      "id": "lppkn",
+      "name": "lppkn",
+      "text": "LPPKN",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "LPPKN"
+        }
+      }
+    },
+    {
+      "id": "social_media",
+      "name": "social_media",
+      "text": "Social Media",
+      "_translations": {
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Social Media"
+        }
+      }
+    },
+    {
+      "id": "sarawak_pilot",
+      "name": "sarawak_pilot",
+      "text": "Sarawak Pilot",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Sarawak Pilot"
+        }
+      }
+    },
+    {
       "id": "advert",
       "name": "advert",
       "text": "Advertisement",
@@ -61,21 +102,6 @@
       "_translatedFields": {
         "text": {
           "eng": "Event or Conference"
-        }
-      }
-    },
-    {
-      "id": "social_media",
-      "name": "social_media",
-      "text": "Social Media",
-      "_translations": {
-        "text": {
-          "my_ms": true
-        }
-      },
-      "_translatedFields": {
-        "text": {
-          "eng": "Social Media"
         }
       }
     },

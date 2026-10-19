@@ -15,6 +15,21 @@
       "text::eng": "NGO/Community Facilitator"
     },
     {
+      "id": "lppkn",
+      "name": "lppkn",
+      "text::eng": "LPPKN"
+    },
+    {
+      "id": "social_media",
+      "name": "social_media",
+      "text::eng": "Social Media"
+    },
+    {
+      "id": "sarawak_pilot",
+      "name": "sarawak_pilot",
+      "text::eng": "Sarawak Pilot"
+    },
+    {
       "id": "advert",
       "name": "advert",
       "text::eng": "Advertisement"
@@ -23,11 +38,6 @@
       "id": "event",
       "name": "event",
       "text::eng": "Event or Conference"
-    },
-    {
-      "id": "social_media",
-      "name": "social_media",
-      "text::eng": "Social Media"
     },
     {
       "id": "other",
