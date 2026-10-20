@@ -1,0 +1,76 @@
+{
+  "flow_type": "global",
+  "flow_name": "feedback_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_title",
+      "value": "Feedback Form",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_intro_text",
+      "value": "Your Feedback",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_placeholder",
+      "value": "Tell us what's on your mind...",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_where_intro_text",
+      "value": "Where?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "where_placeholder",
+      "value": "Where?",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_location_placeholder",
+      "value": "Please specify the location",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_toast_message",
+      "value": "Thanks! This helps us improve your experience on the app",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_submit_button",
+      "value": "Submit Feedback",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_source": {
+    "name": "kids_teens_global V2",
+    "path": "templates/feedback_form.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1qz1xzld5k_5WmA9Z_jSJQrRLnZAOLRRXJ6DGTefwTgI"
+  }
+}

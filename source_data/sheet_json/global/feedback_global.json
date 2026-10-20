@@ -1,0 +1,47 @@
+{
+  "flow_type": "global",
+  "flow_name": "feedback_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_title",
+      "value": "Feedback Form"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_intro_text",
+      "value": "Your Feedback"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_placeholder",
+      "value": "Tell us what's on your mind..."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_where_intro_text",
+      "value": "Where?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "where_placeholder",
+      "value": "Where?"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_location_placeholder",
+      "value": "Please specify the location"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_toast_message",
+      "value": "Thanks! This helps us improve your experience on the app"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "feedback_submit_button",
+      "value": "Submit Feedback"
+    }
+  ]
+}

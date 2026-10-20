@@ -1530,6 +1530,15 @@
   },
   {
     "flow_type": "global",
+    "flow_name": "feedback_global",
+    "_source": {
+      "name": "kids_teens_global V2",
+      "path": "templates/feedback_form.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/1qz1xzld5k_5WmA9Z_jSJQrRLnZAOLRRXJ6DGTefwTgI"
+    }
+  },
+  {
+    "flow_type": "global",
     "flow_name": "global_certificator_settings",
     "_source": {
       "name": "kids_teens_my",
