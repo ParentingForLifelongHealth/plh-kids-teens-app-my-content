@@ -6,22 +6,60 @@
     {
       "id": "id_1",
       "name": "home",
-      "text": "Home"
+      "text": "Home",
+      "_translations": {
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Home"
+        }
+      }
     },
     {
       "id": "id_2",
       "name": "library",
-      "text": "Library"
+      "text": "Library",
+      "_translations": {
+        "text": {}
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Library"
+        }
+      }
     },
     {
       "id": "id_3",
       "name": "settings",
-      "text": "Settings"
+      "text": "Settings",
+      "_translations": {
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Settings"
+        }
+      }
     },
     {
       "id": "id_4",
       "name": "other",
-      "text": "Other"
+      "text": "Other",
+      "_translations": {
+        "text": {
+          "my_ms": true
+        }
+      },
+      "_translatedFields": {
+        "text": {
+          "eng": "Other"
+        }
+      }
     }
   ],
   "_source": {
