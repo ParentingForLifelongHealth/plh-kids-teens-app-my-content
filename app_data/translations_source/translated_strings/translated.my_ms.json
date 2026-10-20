@@ -312,6 +312,18 @@
     "note": ""
   },
   {
+    "SourceText": "Library",
+    "text": "Sumber",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Settings",
+    "text": "Tetapan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "My child's KEMAS teacher",
     "text": "Guru KEMAS anak saya",
     "type": "data_list",
@@ -10035,6 +10047,48 @@
     "SourceText": "Content Notice",
     "text": "Makluman Kandungan",
     "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Feedback Form",
+    "text": "Borang Maklum Balas",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Your Feedback",
+    "text": "Maklum Balas Anda",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Tell us what's on your mind...",
+    "text": "Kongsikan apa yang sedang anda fikirkan...",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Where?",
+    "text": "Di mana?",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Please specify the location",
+    "text": "Sila nyatakan lokasi",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Thanks! This helps us improve your experience on the app",
+    "text": "Terima kasih! Maklum balas anda membantu kami menambah baik pengalaman anda dalam aplikasi ini",
+    "type": "global",
+    "note": ""
+  },
+  {
+    "SourceText": "Submit Feedback",
+    "text": "Hantar Maklum Balas",
+    "type": "global",
     "note": ""
   },
   {

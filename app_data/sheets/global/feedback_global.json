@@ -8,7 +8,9 @@
       "name": "feedback_title",
       "value": "Feedback Form",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -16,7 +18,9 @@
       "name": "feedback_intro_text",
       "value": "Your Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -24,7 +28,9 @@
       "name": "feedback_placeholder",
       "value": "Tell us what's on your mind...",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -32,7 +38,9 @@
       "name": "feedback_where_intro_text",
       "value": "Where?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -40,7 +48,9 @@
       "name": "where_placeholder",
       "value": "Where?",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -48,7 +58,9 @@
       "name": "feedback_location_placeholder",
       "value": "Please specify the location",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -56,7 +68,9 @@
       "name": "feedback_toast_message",
       "value": "Thanks! This helps us improve your experience on the app",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     },
     {
@@ -64,7 +78,9 @@
       "name": "feedback_submit_button",
       "value": "Submit Feedback",
       "_translations": {
-        "value": {}
+        "value": {
+          "my_ms": true
+        }
       }
     }
   ],
